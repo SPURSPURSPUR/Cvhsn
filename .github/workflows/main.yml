@@ -22,8 +22,10 @@ jobs:
           # 1. Download file
           curl -sSL "https://raw.githubusercontent.com/t23-02/bongda/main/bongda.m3u" -o "bongda1.m3u" || echo "Gagal BONGDA1"
           
-          # 2. Transformasi: Hapus zona waktu (ET, UK, GMT, dll)
-          sed -i 's/\([0-9]\{1,2\}:[0-9]\{2\}\s*AM\|PM\)\?\s*ET\s*\|MT\s*\|UK\s*\|GMT\s*\|UTC\s*\|CET\s*\|BST\s*\|(\d\{1,2\}:\d\{2}\s*)\?\s*//g' bongda1.m3u
+          # 2. Transformasi: Hapus zona waktu asing yang umum (ET, UK, GMT, dll.)
+          # Menggunakan sintaks sed yang lebih aman
+          sed -i 's/[ ]\(AM\|PM\)\?\s*\(ET\|MT\|UK\|GMT\|UTC\|CET\|BST\|CST\)\(\s*\|)\)//g' bongda1.m3u
+          
           # 3. Transformasi: Tambahkan label WIB setelah format jam (HH:MM)
           sed -i 's/\([0-9]\{1,2\}:[0-9]\{2\}\)/\1 WIB/g' bongda1.m3u
           echo "✅ Waktu BONGDA1 dilabeli WIB."
@@ -33,7 +35,8 @@ jobs:
           curl -sSL "https://raw.githubusercontent.com/t23-02/bongda/main/bongda2.m3u" -o "bongda2.m3u" || echo "Gagal BONGDA2"
           
           # Transformasi: Hapus zona waktu asing
-          sed -i 's/\([0-9]\{1,2\}:[0-9]\{2\}\s*AM\|PM\)\?\s*ET\s*\|MT\s*\|UK\s*\|GMT\s*\|UTC\s*\|CET\s*\|BST\s*\|(\d\{1,2\}:\d\{2}\s*)\?\s*//g' bongda2.m3u
+          sed -i 's/[ ]\(AM\|PM\)\?\s*\(ET\|MT\|UK\|GMT\|UTC\|CET\|BST\|CST\)\(\s*\|)\)//g' bongda2.m3u
+          
           # Transformasi: Tambahkan label WIB
           sed -i 's/\([0-9]\{1,2\}:[0-9]\{2\}\)/\1 WIB/g' bongda2.m3u
           echo "✅ Waktu BONGDA2 dilabeli WIB."
@@ -43,7 +46,8 @@ jobs:
           curl -sSL "https://raw.githubusercontent.com/felixiptv/FelixLive/main/PPVLand.m3u8" -o "ppv.m3u" || echo "Gagal PPV"
           
           # Transformasi: Hapus zona waktu asing
-          sed -i 's/\([0-9]\{1,2\}:[0-9]\{2\}\s*AM\|PM\)\?\s*ET\s*\|MT\s*\|UK\s*\|GMT\s*\|UTC\s*\|CET\s*\|BST\s*\|(\d\{1,2\}:\d\{2}\s*)\?\s*//g' ppv.m3u
+          sed -i 's/[ ]\(AM\|PM\)\?\s*\(ET\|MT\|UK\|GMT\|UTC\|CET\|BST\|CST\)\(\s*\|)\)//g' ppv.m3u
+          
           # Transformasi: Tambahkan label WIB
           sed -i 's/\([0-9]\{1,2\}:[0-9]\{2\}\)/\1 WIB/g' ppv.m3u
           echo "✅ Waktu PPV dilabeli WIB."
@@ -96,3 +100,4 @@ jobs:
           commit_message: 'Auto-Synced: Playlist Updated (WIB Labeled)'
           token: ${{ secrets.GITHUB_TOKEN }}
           push_options: '--force' 
+          
