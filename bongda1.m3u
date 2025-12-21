@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/c59e2495fc5bdd4eea4e9688f000b9c6/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/43b6fec164dc7eb83e6112426df38f2e.png",02h30 ngày 22/12 Casarano vs Team Altamura (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/062148245ca59e29a00be0699df79140/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/51474fb68c7da46b9c20ebddccec7766.png",02h45 ngày 22/12 Genoa vs Atalanta (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -19,6 +15,10 @@ https://live.alilicloud.com/live/0d1cf01e41ad45bc99d4069870c7d9d0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/eb11beacfed523a9f64e69e1d5a8ce9c/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png",04h00 ngày 22/12 Clube de Regatas Vasco da Gama vs Corinthians Paulista (SP) (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/ad23b1ac106045fcbd3e4e8262381aa4/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -48,30 +48,6 @@ https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/tichsd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/eab8f0e847742fd328bb581299bd99ca.png",23h30 ngày 21/12 Stade Rennais FC vs Les Sables dOlonne (Cà Khịa) HD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichhd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichsd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichhd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Cà Khịa) SD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichsd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Cà Khịa) HD  (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/tichhd1.flv
@@ -235,6 +211,14 @@ https://mrkw1025.edgemaxcdn.org/live/nungsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nungshd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/5ed270ceeec797803134660a977a0d06.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs Universidad Catolica (Cà Khịa) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m104nd/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/3410d5c64d25f8c4959dca9ebeba5b23.png",04h30 ngày 22/12 Orense SC vs Libertad FC (Cà Khịa) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m105nd/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/018e260ad68bdad741c61e3171c4c608.png",03h00 ngày 22/12 Real Betis vs Getafe (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -443,30 +427,18 @@ https://mrkw1025.edgemaxcdn.org/live/m103nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m101nd/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/131_164871281668.png",03h00 ngày 22/12 Cadiz vs Castellon (Lương Sơn) BLV PHONG VÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/131_164871281668.png",03h00 ngày 22/12 Cadiz vs Castellon (Lương Sơn) BLV PHONG VÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/866_1jr55e0y6f1r.png",03h30 ngày 22/12 Santa Clara vs FC Arouca (Lương Sơn) BLV TRƯƠNG THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/866_1jr55e0y6f1r.png",03h30 ngày 22/12 Santa Clara vs FC Arouca (Lương Sơn) BLV TRƯƠNG THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/506_164869068648.png",02h45 ngày 22/12 Genoa vs Atalanta (Lương Sơn) BLV THỜI THIÊN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/506_164869068648.png",02h45 ngày 22/12 Genoa vs Atalanta (Lương Sơn) BLV THỜI THIÊN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/506_164869068648.png",02h45 ngày 22/12 Genoa vs Atalanta (Lương Sơn) BLV VĂN VỸ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/506_164869068648.png",02h45 ngày 22/12 Genoa vs Atalanta (Lương Sơn) BLV VĂN VỸ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VANVY.flv?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/506_164869068648.png",02h45 ngày 22/12 Genoa vs Atalanta (Lương Sơn) BLV THỜI THIÊN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/506_164869068648.png",02h45 ngày 22/12 Genoa vs Atalanta (Lương Sơn) BLV THỜI THIÊN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/506_164869068648.png",02h45 ngày 22/12 Genoa vs Atalanta (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -479,12 +451,12 @@ https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a172
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/506_164869068648.png",02h45 ngày 22/12 Genoa vs Atalanta (Lương Sơn) BLV A TỦA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",03h00 ngày 22/12 Real Betis vs Getafe (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/131_164871281668.png",03h00 ngày 22/12 Cadiz vs Castellon (Lương Sơn) BLV QUAN VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",03h00 ngày 22/12 Real Betis vs Getafe (Lương Sơn) BLV LÝ QUỲ flv
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/131_164871281668.png",03h00 ngày 22/12 Cadiz vs Castellon (Lương Sơn) BLV QUAN VŨ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",03h00 ngày 22/12 Real Betis vs Getafe (Lương Sơn) BLV LỮ BỐ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
@@ -503,36 +475,48 @@ https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",03h00 ngày 22/12 Real Betis vs Getafe (Lương Sơn) BLV DƯƠNG QUÁ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/131_164871281668.png",03h00 ngày 22/12 Cadiz vs Castellon (Lương Sơn) BLV QUAN VŨ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",03h00 ngày 22/12 Real Betis vs Getafe (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/131_164871281668.png",03h00 ngày 22/12 Cadiz vs Castellon (Lương Sơn) BLV QUAN VŨ flv
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",03h00 ngày 22/12 Real Betis vs Getafe (Lương Sơn) BLV LÝ QUỲ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/192_164871170063.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges (Lương Sơn) BLV DƯƠNG CHÍ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/192_164871170063.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges (Lương Sơn) BLV DƯƠNG CHÍ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/192_164871170063.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges (Lương Sơn) BLV CHU ĐỒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/192_164871170063.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges (Lương Sơn) BLV CHU ĐỒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/CHUDONG.flv?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/192_164871170063.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges (Lương Sơn) BLV LÝ ỨNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/192_164871170063.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges (Lương Sơn) BLV LÝ ỨNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/192_164871170063.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges (Lương Sơn) BLV CHU ĐỒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/192_164871170063.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges (Lương Sơn) BLV CHU ĐỒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/CHUDONG.flv?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/192_164871170063.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/192_164871170063.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/131_164871281668.png",03h00 ngày 22/12 Cadiz vs Castellon (Lương Sơn) BLV PHONG VÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/131_164871281668.png",03h00 ngày 22/12 Cadiz vs Castellon (Lương Sơn) BLV PHONG VÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/866_1jr55e0y6f1r.png",03h30 ngày 22/12 Santa Clara vs FC Arouca (Lương Sơn) BLV TRƯƠNG THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/866_1jr55e0y6f1r.png",03h30 ngày 22/12 Santa Clara vs FC Arouca (Lương Sơn) BLV TRƯƠNG THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/eab8f0e847742fd328bb581299bd99ca.png",23h30 ngày 21/12 Stade Rennais FC vs Les Sables dOlonne (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -554,30 +538,6 @@ https://ckhot-179939170.cdnfree.pro/live/tichhd2RK/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/tichsd1Rk.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/eab8f0e847742fd328bb581299bd99ca.png",23h30 ngày 21/12 Stade Rennais FC vs Les Sables dOlonne (Ra Khơi) HD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichhd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichsd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Ra Khơi) SD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichsd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/cfbb124fe648b7b871f2df5c1be15d76.png",02h00 ngày 22/12 AEK Athens vs OFI Crete (Ra Khơi) HD  (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/tichhd1Rk.flv
@@ -741,22 +701,14 @@ https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",02:00 WIB ngày 12/22 Morocco và Comoros (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x11y3-0546/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",02:00 WIB ngày 12/22 Morocco và Comoros (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x11y11/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",02:00 WIB ngày 12/22 Morocco và Comoros (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x11y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8563_small.png",02:00 WIB ngày 12/22 AEK Athens và OFI Crete (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x6/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/5ed270ceeec797803134660a977a0d06.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs Universidad Catolica (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m104nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3410d5c64d25f8c4959dca9ebeba5b23.png",04h30 ngày 22/12 Orense SC vs Libertad FC (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m105nd/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",02:45 WIB ngày 12/22 Genoa và Atalanta (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -845,22 +797,6 @@ https://live.alilicloud.com/live/3bb8155abaa4bcbffe341a1fca725511/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/971a6c7f8aeb71faf662b25975f76181/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d908ae191b9b955e5c37ac9c5c1a4778/image/small",22h15 ngày 20/12 Villarreal CF vs FC Barcelona (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4112e390964c586d5c5b9823e09af4e1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d908ae191b9b955e5c37ac9c5c1a4778/image/small",22h15 ngày 20/12 Villarreal CF vs FC Barcelona (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc67274262.stream.hdplaylink.com/live4/6c399469c7054fa882beb7029ff48edc_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d908ae191b9b955e5c37ac9c5c1a4778/image/small",22h15 ngày 20/12 Villarreal CF vs FC Barcelona (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/6c399469c7054fa882beb7029ff48edc_720/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d908ae191b9b955e5c37ac9c5c1a4778/image/small",22h15 ngày 20/12 Villarreal CF vs FC Barcelona (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/6c399469c7054fa882beb7029ff48edc_720/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6a3c77d5e7700ec44c0a74b205e22c54/image/small",04h00 ngày 21/12 Clube de Regatas Vasco da Gama vs Corinthians Paulista (SP) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -953,10 +889,6 @@ https://live.alilicloud.com/live/6e06ee7a2f2413b9af2a925737c52e46/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/dfb2ce02d7f2a6bc895ca2e78912c410/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/40bd31f42bdace0ff0be35a84c1ff8c5/image/small",22h15 ngày 20/12 Real Sociedad B vs AD Ceuta (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d105de2f177365fd6b618c12d8e7b2c1/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b91e3024c65f6d37e5be41ab7bb300cb/image/small",22h30 ngày 20/12 Lugano vs Young Boys (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1013,10 +945,6 @@ https://live.alilicloud.com/live/73e3e562ef97a1bc45b8b438c1857f5e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9363faed8e54ce0ef9435b1b4e3e1167/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cd0ef5458c7d27e13528abd0f982cd9e/image/small",22h15 ngày 20/12 Mirandes vs Cordoba (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/546a2fea5874e99d705a3cb846b9d01e/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7490fe7d3f131396ac67c94344329b42/image/small",00h00 ngày 21/12 Galatasaray vs Kasimpasa (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1069,6 +997,26 @@ https://live.alilicloud.com/live/a2b807eb16076211f035ab1b2b14c81a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/6824b83257864a93d10683ff272951ca/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4be5e9428c37c4dc0a22b554907d41f8/image/small",23h30 ngày 20/12 Debreceni VSC vs Kisvárda Master Good FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/00830ab40ebb4d66f66a53cd9297150c/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ed8f3d0d4f35ef25c6ef5706795f48ae/image/small",02h00 ngày 21/12 AEK Athens vs OFI Crete (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/98d45ae89b7a99817730680a304375ae/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/b057384460a75985ac8f84499723b227/image/small",04h30 ngày 21/12 Panasonic Panthers vs Perugia (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc67274262.stream.hdplaylink.com/live4/20a9498d45c1485ead207dee500219a0_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/b057384460a75985ac8f84499723b227/image/small",04h30 ngày 21/12 Panasonic Panthers vs Perugia (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/20a9498d45c1485ead207dee500219a0_720/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/b057384460a75985ac8f84499723b227/image/small",04h30 ngày 21/12 Panasonic Panthers vs Perugia (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/20a9498d45c1485ead207dee500219a0_720/playlist.m3u8
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/018e260ad68bdad741c61e3171c4c608.png",03h00 ngày 22/12 Real Betis vs Getafe (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1765,42 +1713,18 @@ https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fe6a402c8a825cb79aa27db5fea0bafd/image/small",03h30 ngày 21/12 Santa Clara vs FC Arouca (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5833ee0c5b18d15b883c9a7be9e3a9b3/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cfe81cee4396ea62eab0ccfdadc34b41/image/small",01h15 ngày 21/12 OudvsHeverlee Leuven vs Cercle Brugge (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0520ea54a80cdfb7c8e2624db614a510/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/byRvSVil-hOurGDLS.png",02h00 ngày 21/12 Morocco vs Comoros (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6a3c77d5e7700ec44c0a74b205e22c54/image/small",04h30 ngày 21/12 Clube de Regatas Vasco da Gama vs Corinthians Paulista (SP) (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/fbbef7fee17995b9fb99d9a838e1aca7/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/byRvSVil-hOurGDLS.png",02h00 ngày 21/12 Morocco vs Comoros (Gà Vàng) sd_1
+https://live.alilicloud.com/live/ad23b1ac106045fcbd3e4e8262381aa4/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d82f60654a285db6e85d7169e86b2266/image/small",04h00 ngày 21/12 Liga Dep Universitaria Quito vs CD Universidad Católica (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/58ee03fda642458f819374676160d547_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/byRvSVil-hOurGDLS.png",02h00 ngày 21/12 Morocco vs Comoros (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/58ee03fda642458f819374676160d547_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/byRvSVil-hOurGDLS.png",02h00 ngày 21/12 Morocco vs Comoros (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/58ee03fda642458f819374676160d547_480/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/byRvSVil-hOurGDLS.png",02h00 ngày 21/12 Morocco vs Comoros (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/58ee03fda642458f819374676160d547_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/byRvSVil-hOurGDLS.png",02h00 ngày 21/12 Morocco vs Comoros (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/58ee03fda642458f819374676160d547_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/byRvSVil-hOurGDLS.png",02h00 ngày 21/12 Morocco vs Comoros (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/58ee03fda642458f819374676160d547_720/playlist.m3u8
+https://live.alilicloud.com/live/52ae9a4bae6a30c5b1679b5e673924e3/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/99ec5123159e538b47018b9320afc2a0/image/small",01h00 ngày 21/12 CD Tondela vs Casa Pia AC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1893,6 +1817,14 @@ https://live.alilicloud.com/live/c59e2495fc5bdd4eea4e9688f000b9c6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/91373bdf37ba671aa9577f08e037c8a8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fe6a402c8a825cb79aa27db5fea0bafd/image/small",03h30 ngày 21/12 Santa Clara vs FC Arouca (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5833ee0c5b18d15b883c9a7be9e3a9b3/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c83079d4cc01605bb552d35642763a96/image/small",04h00 ngày 21/12 Independiente del Valle vs Barcelona SC(ECU) (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/bc39d0c105589ec1c721a0b07fbc5414/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4e7f10290f98b0c87849bcdf817b4f23/image/small",02h30 ngày 21/12 Casarano vs Altamura (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1937,18 +1869,14 @@ https://live.alilicloud.com/live/055f4bd6dee587a94a66bf2fe3d8795e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/eb11beacfed523a9f64e69e1d5a8ce9c/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9354bec8262908f4495e6dd544e3ece7/image/small",04h00 ngày 21/12 Orense SC vs Libertad FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f3d6410b0cd61cc2708acb766031164b/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6e5f9126ba4825d3f9eedc5049882ff0/image/small",01h00 ngày 21/12 Hapoel Beit Shean U19 vs Maccabi Achi Nazareth U19 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5a5abd089893c80c77774996dedaac0d/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/1jr55e0y6f1r.png?win007=sell",03h30 ngày 22/12 Santa Clara vs FC Arouca (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MuTchG9qwWD8NCXU8/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/1jr55e0y6f1r.png?win007=sell",03h30 ngày 22/12 Santa Clara vs FC Arouca (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1957,35 +1885,11 @@ https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca5
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/15059/1gqc32ktth26.png?win007=sell",02h30 ngày 22/12 Casarano vs Team Altamura (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MuPtPm5pHMJHbhnQU/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/15059/1gqc32ktth26.png?win007=sell",02h30 ngày 22/12 Casarano vs Team Altamura (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/13229/1k3ffrw2tk5.png?win007=sell",02h30 ngày 22/12 US Siracusa vs Trapani (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MuPtPm5ePgt8P5bNU/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/13229/1k3ffrw2tk5.png?win007=sell",02h30 ngày 22/12 US Siracusa vs Trapani (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/164869068648.png?win007=sell",02h45 ngày 22/12 Genoa vs Atalanta (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://auto.cdnvankhanh.com/live/hd-en-6MuSNj2Yh4eZpbPBeC/playlist.m3u8
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/164869068648.png?win007=sell",02h45 ngày 22/12 Genoa vs Atalanta (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/40720/1gpyvykyag22.png?win007=sell",03h00 ngày 22/12 Mount Pleasant FA vs Spanish Town Police (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MvXMSeWvS52JqzT4g/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/40720/1gpyvykyag22.png?win007=sell",03h00 ngày 22/12 Mount Pleasant FA vs Spanish Town Police (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
@@ -2013,6 +1917,14 @@ https://auto.cdnvankhanh.com/live/sd-6MvXMSeXmAcyZpQzKe/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/40720/1gpyvykyag22.png?win007=sell",03h00 ngày 22/12 Mount Pleasant FA vs Spanish Town Police (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MvXMSeWvS52JqzT4g/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/40720/1gpyvykyag22.png?win007=sell",03h00 ngày 22/12 Mount Pleasant FA vs Spanish Town Police (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/164871281668.png?win007=sell",03h00 ngày 22/12 Cadiz vs Castellon (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -2029,362 +1941,326 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6QEvoBd3pTspiG/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV TÔM] (Socolive) flv
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/1jr55e0y6f1r.png?win007=sell",03h30 ngày 22/12 Santa Clara vs FC Arouca (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-561379_lsd.flv?auth_key=1766354009-0-0-956636cb4a138462d5e3703a8b9d774b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV TÔM] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MuTchG9qwWD8NCXU8/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/1jr55e0y6f1r.png?win007=sell",03h30 ngày 22/12 Santa Clara vs FC Arouca (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-561379_lhd.flv?auth_key=1766354009-0-0-519cffe8a42a5bf01fdcbc9ba3dd52e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV TÔM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1766354009-0-0-281c137a75fa64847f378854a100bb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV TÔM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1766354009-0-0-385d0ce6ec4956348e7fd69c7b5c9490
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [RED BULL] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1766354009-0-0-36ea8567aba234fe39f8933b9177fc00
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [RED BULL] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1766354009-0-0-b5b257f14ecfcc49380b436ec102ae6a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [RED BULL] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1766354009-0-0-df5d97f2b40febc0672485507278079c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [RED BULL] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1766354009-0-0-cf2177aaf5fde433f4206eeb649c497a
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV EDRIC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1766354009-0-0-e47e8ea9a8689008644a64a7d05938cf
+https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1766356169-0-0-4f6cc54891382e332c6d607e236c9b19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV EDRIC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1766354009-0-0-808856d30afda83bc81c8719901694b2
+https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1766356169-0-0-3ebd70cdfe8b3700b6bbab45699c2c62
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV EDRIC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1766354009-0-0-a69a497d08553205b29196c32bb2c28f
+https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1766356169-0-0-57f89c4a2839dd3fd78ca717c9a03185
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV EDRIC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1766354009-0-0-bece6de7633a4b494255a5e97c9a6884
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV VITAMIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1766354009-0-0-1c24d7abf0c4d18b42c31e67ecd84e1f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV VITAMIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1766354009-0-0-56a977938017b82ee6235f2a31994648
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV VITAMIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1766354009-0-0-95f38225eda477ff89ff4cf719072359
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV VITAMIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1766354009-0-0-d6708707379e6e3eccdb2931dd2ed085
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1766354009-0-0-0c68559fc8bf5f79abf0c635cffbb613
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1766354009-0-0-3d8ae5e838c57d1884a8bffff817dcb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1766354009-0-0-9b2fa1b6e83c07b59f859b76dc1d4687
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1766354009-0-0-06a71ef55ce6334bdb4f1307a0f71065
+https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1766356169-0-0-b437f18dd8b07048610ec20b6784f9cf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [XUÂN SON] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=1ac1d3acb48ef9560da2086701e4f61b&txTime=6948b2a9
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=6ffcc3b6f43de8bb0595f360298a7e68&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [XUÂN SON] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=f0cec0ca973a5489aa710d3b5b6c8b26&txTime=6948b2a9
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=df79bde0fa5f50943153ec50a707d861&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [XUÂN SON] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=1ac1d3acb48ef9560da2086701e4f61b&txTime=6948b2a9
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=6ffcc3b6f43de8bb0595f360298a7e68&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [XUÂN SON] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=f0cec0ca973a5489aa710d3b5b6c8b26&txTime=6948b2a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1766354009-0-0-42e65c077993959dc21452e2023c49e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1766354009-0-0-9661294cea5065967fe5138804c7a652
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1766354009-0-0-8e6bce4877d4afdfe8897114b951fe5d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766354009-0-0-af07272fa534e0b03a6da9bcdf4a5197
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV QUAN VŨ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-239275_lsd.flv?auth_key=1766354009-0-0-681accc096a383ea28a5006250b93b6e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV QUAN VŨ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-239275_lhd.flv?auth_key=1766354009-0-0-e52ce757616e3ee49e2dece97fa7f0eb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV QUAN VŨ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1766354009-0-0-1db890b4ba5393f49e47b9a58077df47
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV QUAN VŨ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1766354009-0-0-1996c04dc7ff261397274b52363211cb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=158505f863c2d9ad8c72f31083f5a44a&txTime=6948b2a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=e0e39c8cdb5027dcc0eae78ab131931e&txTime=6948b2a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=158505f863c2d9ad8c72f31083f5a44a&txTime=6948b2a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=e0e39c8cdb5027dcc0eae78ab131931e&txTime=6948b2a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1766354009-0-0-e32a655bd07acb57797acd911064623b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1766354009-0-0-285b4050849be48454a5cbeac37b8602
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1766354009-0-0-2a839009b687617971f2b77ff5de166f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1766354009-0-0-822f64b8ff60b0125a91e917b8a13e5d
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=df79bde0fa5f50943153ec50a707d861&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV CHIVAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=53df08217f2cd34712582e6248ef438d&txTime=6948b2a9
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=f5f450b439b434500eb20968d7b0c7f5&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV CHIVAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=6f04164881191a3f0f1b7e33c490669b&txTime=6948b2a9
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=8cc763df3c25409970731409ed961968&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV CHIVAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=53df08217f2cd34712582e6248ef438d&txTime=6948b2a9
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=f5f450b439b434500eb20968d7b0c7f5&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV CHIVAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6f04164881191a3f0f1b7e33c490669b&txTime=6948b2a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [MR BÍCH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1766354009-0-0-6a77644e83832e4d867a45376bc31617
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [MR BÍCH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1766354009-0-0-85ee4236a7e0b5bf06ced31f7b68df96
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [MR BÍCH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1766354009-0-0-9e3c6a71906171c16a5300a3af165860
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [MR BÍCH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1766354009-0-0-56bc5d0a4e24b99ffdb0f525ddfaa77f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1766354009-0-0-c20c9a9fb01446350e9f215550e6bf3e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1766354009-0-0-e316e0f7c37f1b92f968a6794849052c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1766354009-0-0-2e206f62f3a6242fefbf56a0867d6804
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1766354009-0-0-992b254f7ce97859c5e48e01402186cc
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8cc763df3c25409970731409ed961968&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV LUCAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1766354009-0-0-88ecc26b410ddbea347d64ff2db0e9dc
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1766356169-0-0-65a81c1a6cd44469c2a136de3f39926c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV LUCAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1766354009-0-0-0d1bfab776ef20dc083a5b3f5ef15b6b
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1766356169-0-0-fe1aa0bffb15c4be0cf4d07ce07596fb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV LUCAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1766354009-0-0-1cf1b9e9121aeca09de81d4036a59501
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1766356169-0-0-bd06d1da0656d6a52e7549e24355f770
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV LUCAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1766354009-0-0-9882f25e5e64c75042814121fd89334b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A WIN] (Socolive) flv
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1766356169-0-0-47551655f7dfb48152703f98277d3c34
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV SATIVA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1766354009-0-0-ab76d1976daa060a49f2ad123dccb46c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A WIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1766356169-0-0-f5073c223667d39204917df31eda4512
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV SATIVA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1766354009-0-0-31e4d313a72e9200fba970f0d9b3aefc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A WIN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1766356169-0-0-0c943d582fc9a231dd53cf1a395a9042
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV SATIVA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1766354009-0-0-cd7b11da389bfb4766b4cb75c2c52a14
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1766356169-0-0-454a5784ce67411930707d5a83624d7f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV SATIVA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1766354009-0-0-c00a1cbfd54b4bbd433dc7731ff02e30
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV WUKONG] (Socolive) flv
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1766356169-0-0-d5380769bf6a91dd054c36cdc65fd6f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [MR BÍCH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1766354009-0-0-d80643ab72bb358e9050411d538aca24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV WUKONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1766356169-0-0-8fc0c752f36ae0b47b001276da06e8c2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [MR BÍCH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1766354009-0-0-bda9c111e3a8e537db8e87ed81c05875
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV WUKONG] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1766356169-0-0-70fa3eb2a7d5bd6787ba01a112a794c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [MR BÍCH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1766354009-0-0-329664a5e2ba91a53326b31c2599c671
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1766356169-0-0-28ac351615ee18e463f136245df00993
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [MR BÍCH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1766354009-0-0-87ed48bbea5619bfd03bca05bd1b98c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV TORRES] (Socolive) flv
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1766356169-0-0-081db3ba52e517b1792c5de02dadc8c4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [CÔNG CHẤT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1766354009-0-0-d0eb4dbd6d60c239843a83efcd043be0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV TORRES] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1766356169-0-0-fb796a81c9de81dfccb3b5d588a077ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [CÔNG CHẤT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560224_lhd.flv?auth_key=1766354009-0-0-e065b47874e21dbd08c306353650d552
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV TORRES] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1766356169-0-0-ebfc51902fb0caccc318b67d32c3faea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [CÔNG CHẤT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1766354009-0-0-9f2cc5fbe64a1ab31d04cc88058fc386
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV TORRES] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1766356169-0-0-7499a9c2b73204633e5327ac4a9a4d0d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [CÔNG CHẤT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1766354009-0-0-5d6621b3387b4f5252007a2a3e26308c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A TÚ] (Socolive) flv
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766356169-0-0-b949161ac03d61a0b69abe006ebe78a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1766354009-0-0-544160e5d4a639d29824ec76fdc2fa41
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1766356169-0-0-071dd75deeea250d45a0985a71c7ae7d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1766354009-0-0-39826eec442afb316706a051ca7f74af
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A TÚ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1766356169-0-0-ec07a05015c932866d1a749551bf6264
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1766354009-0-0-e4c6e8618b592383a2e284cfd68caa10
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1766356169-0-0-2d3af928a9c051b6031aa307e8182598
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1766354009-0-0-84fc683110d6406c275fd524a0fbf858
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1766356169-0-0-2ceb6e4f7d5c81dc4fcaa91f1a7878c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV TÔM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1766354009-0-0-36498f920f0f48293c2d11439e50cb1d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-561379_lsd.flv?auth_key=1766356169-0-0-80eaa2c96efb03ed551a3017139ea998
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV TÔM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1766354009-0-0-94f982513d3fa745b6f0ce63e5df3b0e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-561379_lhd.flv?auth_key=1766356169-0-0-8e544341ecf0c42403d3c7217b18995e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV TÔM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1766354009-0-0-84b70f94f36b98e92c0ddfbbb8e48ae8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1766356169-0-0-017f19c9dcfe0142c7e4a23b83f5404d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV TÔM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1766354009-0-0-e112bef6deedb52beb5e688479396e98
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV A BỆU] (Socolive) flv
+https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1766356169-0-0-c54414282e1ab16131af91a6c053f074
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [RED BULL] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1766354729-0-0-52e7d7e1759ed19d7f55f9212fd8d535
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV A BỆU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1766356169-0-0-85b033c8aa765a4bf0cd76f26e499dc0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [RED BULL] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1766354729-0-0-070feac8e25984f7c1e2ea04ad5fbf09
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV A BỆU] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1766356169-0-0-fd8459c55da2b906c559b75eacfa4858
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [RED BULL] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1766354729-0-0-15bac3216ed5695dec05a2fb7cbf06fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1766356169-0-0-46b94f3acaaa4fbd0c83c11540836b1c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [RED BULL] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1766354729-0-0-cde87c55b95dd6e8e5a6915c94356078
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [JACKMAN] (Socolive) flv
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1766356169-0-0-6825b19abb359444ce77b335e859ad18
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ADAM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-542758_lsd.flv?auth_key=1766354729-0-0-05bcc8092397b06040f77ef5eb319c20
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [JACKMAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=dbbebd90ecf057b5310a62cfc415f021&txTime=6948bb19
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ADAM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-542758_lhd.flv?auth_key=1766354729-0-0-e293dbef7946d715ad42ee3ec804eb85
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [JACKMAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=62decfa1291a3183a64c907fe307e521&txTime=6948bb19
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ADAM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1766354729-0-0-163038112da5a31f237b339d347e94bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [JACKMAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=dbbebd90ecf057b5310a62cfc415f021&txTime=6948bb19
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f68b72e9ed74ae90851aded5fcf77b8b.png",02h45 ngày 22/12 Genoa vs Atalanta [BLV ADAM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766354729-0-0-a251e026d1938b0891e27266d87eb0b5
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=62decfa1291a3183a64c907fe307e521&txTime=6948bb19
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1766356169-0-0-fe0dce7d8a062670ee33c17b32d70d71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1766356169-0-0-9ca05a9fdb1a44f4daddaf8507bd684f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1766356169-0-0-a31ba240d94bd7aee8c1c817ff696dbe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/c5f3fb1b3e502ff432809064633ae9e4.png",03h00 ngày 22/12 Real Betis vs Getafe [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1766356169-0-0-912bd8a0597bbea69866b58dc6bb3e6e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1766354729-0-0-5dcc2739186fad70b519d6d912fc4b4e
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1766356169-0-0-573a958cd43afeafe5fa4b5504445f6e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1766354729-0-0-4ec77c7004c074360274866cf8ff2d10
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1766356169-0-0-129723c5b315549a5b3e2410c1ff0f55
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1766354729-0-0-0ac1120fabf360522f753b38599c90a2
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1766356169-0-0-7d2bfca39b39c0bccc27873429845599
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1766354729-0-0-5c012277b7968200bffeeb94b28a9266
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1766356169-0-0-ac0bb13628839240e63cb89c9bff1161
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1766356169-0-0-8901f8c645440b24852f300e76d1d0fe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1766356169-0-0-84219b3dbf46cfe7a5d1e5da5e20143e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1766356169-0-0-38927113cbe1f4a15a95c22849e9251e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1766356169-0-0-14b969b4b5791f6c429f4455e24095c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [JACKMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-542758_lsd.flv?auth_key=1766356169-0-0-9e7664e80108ee7311366b9cfaf73b8b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [JACKMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-542758_lhd.flv?auth_key=1766356169-0-0-3ab98bd259ce72aa44ae9439d86da403
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [JACKMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1766356169-0-0-c542a23f66f322a3216b5c5ab97161cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BRA Cup: Clube de Regatas Vasco da Gama vs Sport Club Corinthians Paulista [JACKMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766356169-0-0-7cddba83ae03686babd61d48f7460668
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV TORRES] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1766356169-0-0-7b90c62a6408e8adffb36aafe0b3a392
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV TORRES] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560224_lhd.flv?auth_key=1766356169-0-0-cc87e67bc88d1c0ed2ba21aa1b85b74f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV TORRES] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1766356169-0-0-45dd17511ef123d5d3d68eb96314a7a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/9213b7640b9a01200ff8823be752ca6f.png",03h00 ngày 22/12 Lyon vs Saint Cyr Collonges [BLV TORRES] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1766356169-0-0-2c69da202fed4e06ec7ee1674e13d9ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV QUAN VŨ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-239275_lsd.flv?auth_key=1766356169-0-0-c7df1530826cf2165bb8d387e512de0e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV QUAN VŨ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-239275_lhd.flv?auth_key=1766356169-0-0-3d3384a8d6eb487125dd8650131be098
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV QUAN VŨ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1766356169-0-0-424ff39727634a0a5c6a31b8c2cb3d09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/7f959f84dfc4889e10a079df561f34b9.png",02h00 ngày 22/12 Morocco vs Comoros [BLV QUAN VŨ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1766356169-0-0-559b782ca9a7f219436bf9f1a15375ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1766356169-0-0-2b275a1f90d7a74dd223c41fce9c95eb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1766356169-0-0-2937d82cf00bd02efb302f09c5942af0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1766356169-0-0-b7f9320fc6d54911469d1708d0be6b29
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1766356169-0-0-0e4ca8c72cba21ae3b23202d47c80cf3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1766356169-0-0-d9397aef1e01f5d087554e84df5c9f92
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1766356169-0-0-1a3ee36199177e94df93fb89640107e9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1766356169-0-0-b87f77df318e5fdd122aef581b620b72
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/76d08961857385c067f18624d1409b20.png",03h30 ngày 22/12 Santa Clara vs FC Arouca [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1766356169-0-0-c8f5cb782388dacb295ba25f0f20dc39
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f14afe31014461da0ab168469ef7c8cc.png",04h30 ngày 22/12 Independiente del Valle vs Barcelona SC(ECU) [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=84bcd3ac801e6921919afcd1a9b0ef17&txTime=6948b579
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=f562f8b922078e17742bfd67d326c913&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f14afe31014461da0ab168469ef7c8cc.png",04h30 ngày 22/12 Independiente del Valle vs Barcelona SC(ECU) [BLV GÔN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=f1027caccd2b77eda21cc6e247f2e67c&txTime=6948b579
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=4e58a9e3f93e335b6e4beb3415da4f27&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f14afe31014461da0ab168469ef7c8cc.png",04h30 ngày 22/12 Independiente del Valle vs Barcelona SC(ECU) [BLV GÔN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=84bcd3ac801e6921919afcd1a9b0ef17&txTime=6948b579
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=f562f8b922078e17742bfd67d326c913&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f14afe31014461da0ab168469ef7c8cc.png",04h30 ngày 22/12 Independiente del Valle vs Barcelona SC(ECU) [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=f1027caccd2b77eda21cc6e247f2e67c&txTime=6948b579
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [BLV SHIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=4601861db2827ca382d5cae63895a6fc&txTime=6948b579
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [BLV SHIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=fe3441395e63036eb495c0efedd574cd&txTime=6948b579
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [BLV SHIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=4601861db2827ca382d5cae63895a6fc&txTime=6948b579
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [BLV SHIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=fe3441395e63036eb495c0efedd574cd&txTime=6948b579
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1766354729-0-0-9acbb8b238d93a28d8c3ecbc92ec0a3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1766354729-0-0-940af5aec9e99c0734d481956a07ebf2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1766354729-0-0-53843840adf3378fe96a5e5331bf2334
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1766354729-0-0-8ad987b5e252e9c4f79ec67ab79d934f
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=4e58a9e3f93e335b6e4beb3415da4f27&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f14afe31014461da0ab168469ef7c8cc.png",04h30 ngày 22/12 Independiente del Valle vs Barcelona SC(ECU) [VỊT BẠC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1766354729-0-0-17d4fc3e2a63f9d31eba2628312fadfa
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1766356169-0-0-11cd526e70ffc19d1101e63e9b31e61e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f14afe31014461da0ab168469ef7c8cc.png",04h30 ngày 22/12 Independiente del Valle vs Barcelona SC(ECU) [VỊT BẠC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1766354729-0-0-f335d48f78785def3a2a406e3e2c3e69
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1766356169-0-0-c30e77306a4d97c81577d0697628378f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f14afe31014461da0ab168469ef7c8cc.png",04h30 ngày 22/12 Independiente del Valle vs Barcelona SC(ECU) [VỊT BẠC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1766354729-0-0-085fcd9f7ddfc224ea2fbd9d50858c7d
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1766356169-0-0-d0eabe3f40c002d12ec0e7a51ef9e904
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/f14afe31014461da0ab168469ef7c8cc.png",04h30 ngày 22/12 Independiente del Valle vs Barcelona SC(ECU) [VỊT BẠC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1766354729-0-0-74dc96e4d04c2a9460993b130a2c142e
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1766356169-0-0-d247ab4da9c19f62249f6a4adeea2b18
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [BLV SHIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=cdb0d5ba4902b88139acff7860b77ecb&txTime=6948bb19
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [BLV SHIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=f03b31e9ab4414ebf15e6f1233b2a0a2&txTime=6948bb19
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [BLV SHIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=cdb0d5ba4902b88139acff7860b77ecb&txTime=6948bb19
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [BLV SHIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=f03b31e9ab4414ebf15e6f1233b2a0a2&txTime=6948bb19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/2e1095343551cfe85c443432c17a4da6.png",04h30 ngày 22/12 Orense SC vs Libertad FC [BLV KAI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1766354729-0-0-c1148f69215702ffa42128bcf3f68ca0
+https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1766356169-0-0-926b1a74807f8980079826c6c522773e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/2e1095343551cfe85c443432c17a4da6.png",04h30 ngày 22/12 Orense SC vs Libertad FC [BLV KAI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1766354729-0-0-92d6b015a5d7b322062b8b21e0f142a4
+https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1766356169-0-0-670d693e79f57a8c8bd3929974b4a3d9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/2e1095343551cfe85c443432c17a4da6.png",04h30 ngày 22/12 Orense SC vs Libertad FC [BLV KAI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1766354729-0-0-3dcb111c7eabf3296fb581100ce3f472
+https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1766356169-0-0-f24408294f9ce50c91aeefd51d4160d6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/2e1095343551cfe85c443432c17a4da6.png",04h30 ngày 22/12 Orense SC vs Libertad FC [BLV KAI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1766354729-0-0-4e4bdda1b8e001ecfc43684ba831301d
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1766356169-0-0-d06c1cf5b7f1b29269ac1b3d4c5b20c1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/2e1095343551cfe85c443432c17a4da6.png",04h30 ngày 22/12 Orense SC vs Libertad FC [RÙA VÀNG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-563268_lsd.flv?auth_key=1766354729-0-0-2eeaeb588fced040bc65c02e17b4fcd8
+https://pull06.scstream.net/live/stream-563268_lsd.flv?auth_key=1766356169-0-0-4dba6be7c96adaaecddd7d4ae1bf976f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/2e1095343551cfe85c443432c17a4da6.png",04h30 ngày 22/12 Orense SC vs Libertad FC [RÙA VÀNG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-563268_lhd.flv?auth_key=1766354729-0-0-f9904e0a5806bf33a817e600ddb92572
+https://pull06.scstream.net/live/stream-563268_lhd.flv?auth_key=1766356169-0-0-e37f1389d30aca8e3dde5624bb2921d7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/2e1095343551cfe85c443432c17a4da6.png",04h30 ngày 22/12 Orense SC vs Libertad FC [RÙA VÀNG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-563268_lsd.m3u8?auth_key=1766354729-0-0-07d3c9e00111f0733eb6929354570613
+https://pull.niues.live/live/stream-563268_lsd.m3u8?auth_key=1766356169-0-0-c8d2b8b4fe012e7fe0bf7628f6a45dc8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/2e1095343551cfe85c443432c17a4da6.png",04h30 ngày 22/12 Orense SC vs Libertad FC [RÙA VÀNG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-563268_lhd.m3u8?auth_key=1766354729-0-0-0f6c15290b03268376671eaff3fee589
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vXZIzSzS-dERAD3h1.png",01:00 WIB ngày 22/12 Carolina Panthers vs Tampa Bay Buccaneers (1) [Người Cây] HD Nhanh
+https://pull.niues.live/live/stream-563268_lhd.m3u8?auth_key=1766356169-0-0-cfcb6b60b8f8f83e83faa29619ec1971
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1766393645&sign=2e30712031bfbfdbf1346456c6ec0e2d
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vXZIzSzS-dERAD3h1.png",01:00 WIB ngày 22/12 Carolina Panthers vs Tampa Bay Buccaneers (1) [Người Cây] HD1
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1766356169-0-0-acfb4a2f7271a6fc025079f2ea05f5ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [A PÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/hBwyX5meUF5eJ7604IYR7Q/Fv2lucGIbhPi2caWYvF5Lg/1766393645184/live/Z2HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vXZIzSzS-dERAD3h1.png",01:00 WIB ngày 22/12 Carolina Panthers vs Tampa Bay Buccaneers (1) [Người Cây] HD2
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1766356169-0-0-5f45f55c78d098b24699c7b1df65902d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [A PÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766393645/5f0940006715bca1fd1c27ac7f1c0cdf/574256317/live/Z2HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vXZIzSzS-dERAD3h1.png",01:00 WIB ngày 22/12 Carolina Panthers vs Tampa Bay Buccaneers (1) [Người Cây] SD
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1766356169-0-0-ad6ee68b46db6057e14021262d98fe3c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251219/ae6d883756286fce51a2bec0017ea2d2.png",04h30 ngày 22/12 Liga Dep Universitaria Quito vs CD Universidad Católica [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/icJTORwe08tUDsXFpULv6Q/Fv2lucGIbhPi2caWYvF5Lg/1766393645184/live/Z2SD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vXZIzSzS-dERAD3h1.png",01:00 WIB ngày 22/12 Carolina Panthers vs Tampa Bay Buccaneers (1) [Người Cây] FullHD
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1766356169-0-0-958e8b1d808dff1ca5910b1a93a8f10e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766393645/1eb9522c09374ea28a7bccb975acea4c/410585728/live/Z2FHD/playlist.m3u8
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1766356169-0-0-d9e9f95e4b152c573683071206ba84c6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1766356169-0-0-c975c277839d945f1e1b62402898baf1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1766356169-0-0-66c392f3450a269bf3bc90a8900a3cc2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251218/6af30934708a502162c0c1568d34d78b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1766356169-0-0-5f3e027e0d1d0a7eab3de6fbe88aaac8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Hawks.png",03:30 WIB ngày 22/12 Hawks vs Bulls (1) [Người Thương] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2408,63 +2284,43 @@ https://9ceg0825.edgemaxcdn.org/1766390416/bec5d8f9c3ed3b00c464842c23697499/2380
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/bs8k9qcM-INS6Eqwe.png",04:05 WIB ngày 22/12 Denver Broncos vs Jacksonville Jaguars (1) [Người Phép] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1766393647&sign=0b1f48786fbe2a8b85c1844f630085a2
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1766395086&sign=201684ae5ac8c459ca8a2fe2cff166bb
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/bs8k9qcM-INS6Eqwe.png",04:05 WIB ngày 22/12 Denver Broncos vs Jacksonville Jaguars (1) [Người Phép] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/yMA-0Q4nRYHWwX1P2EGUBg/Fv2lucGIbhPi2caWYvF5Lg/1766393647573/live/phepHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/uRAkTsdW_RUJXW8XuDBedQ/Fv2lucGIbhPi2caWYvF5Lg/1766395086776/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/bs8k9qcM-INS6Eqwe.png",04:05 WIB ngày 22/12 Denver Broncos vs Jacksonville Jaguars (1) [Người Phép] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766393647/e2189a208adb88e958177c13ea1ab5d0/158603405/live/phepHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766395086/52e142eaa22d8c9d0d539b95ba9debb4/239638862/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/bs8k9qcM-INS6Eqwe.png",04:05 WIB ngày 22/12 Denver Broncos vs Jacksonville Jaguars (1) [Người Phép] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ZQ2U2Ohbn8UeYnVIU_QTmQ/Fv2lucGIbhPi2caWYvF5Lg/1766393647573/live/phepSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/oVHagLr3SZMPJfQJpRd8CQ/Fv2lucGIbhPi2caWYvF5Lg/1766395086776/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/bs8k9qcM-INS6Eqwe.png",04:05 WIB ngày 22/12 Denver Broncos vs Jacksonville Jaguars (1) [Người Phép] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766393647/66b97b8a161fee459b14c8116bd98cd1/933856627/live/phepFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766395086/d41ffa3408ddef8cd4ec6a9a2b2ebcfe/470483951/live/phepFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/zkjAStEa-z5QECN77.png",04:25 WIB ngày 22/12 Detroit Lions vs Pittsburgh Steelers (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1766393649&sign=f282c20589596f4ad0af8374d80b23a7
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1766395087&sign=35bb70fc5f25dcb46e2789c1699fd721
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/zkjAStEa-z5QECN77.png",04:25 WIB ngày 22/12 Detroit Lions vs Pittsburgh Steelers (1) [Người Lửa] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/GZ7wSlHVnPOYMEJ_d7dPvw/Fv2lucGIbhPi2caWYvF5Lg/1766393649022/live/luaHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/ElKIeabgRqOg6vmtRFWvlA/Fv2lucGIbhPi2caWYvF5Lg/1766395087918/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/zkjAStEa-z5QECN77.png",04:25 WIB ngày 22/12 Detroit Lions vs Pittsburgh Steelers (1) [Người Lửa] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766393649/21da7202a20b1090d2bd5905694ada2b/750957441/live/luaHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766395087/1e9af2c5fdfea8f0b211cf4eea86738f/496537814/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/zkjAStEa-z5QECN77.png",04:25 WIB ngày 22/12 Detroit Lions vs Pittsburgh Steelers (1) [Người Lửa] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/DIgE1q3Z6BZVKa4efOKx7Q/Fv2lucGIbhPi2caWYvF5Lg/1766393649022/live/luaSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/FKblaM-d6F71DZ71gvmmpQ/Fv2lucGIbhPi2caWYvF5Lg/1766395087918/live/luaSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/zkjAStEa-z5QECN77.png",04:25 WIB ngày 22/12 Detroit Lions vs Pittsburgh Steelers (1) [Người Lửa] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766393649/f65296a5c425a387e808f6d8e1081e0b/949100103/live/luaFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Morocco.png",02:00 WIB ngày 22/12 Morocco vs Comoros (1) [Mỳ Tôm] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1766363774&sign=544764a6c6c273f93854b6c3bfbd05af
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Morocco.png",02:00 WIB ngày 22/12 Morocco vs Comoros (1) [Mỳ Tôm] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/oTOUNNjFlXKLhEytr59TRA/Fv2lucGIbhPi2caWYvF5Lg/1766363774154/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Morocco.png",02:00 WIB ngày 22/12 Morocco vs Comoros (1) [Mỳ Tôm] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766363774/d6d9e008637d02ac99481e906e785a73/665156465/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Morocco.png",02:00 WIB ngày 22/12 Morocco vs Comoros (1) [Mỳ Tôm] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/igsFkJRqhs4xFbP_-Mx2dQ/Fv2lucGIbhPi2caWYvF5Lg/1766363774154/live/mySD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Morocco.png",02:00 WIB ngày 22/12 Morocco vs Comoros (1) [Mỳ Tôm] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766363774/18a1854076a6d157f60ecc7950f5187b/445994792/live/myFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766395087/a5d74a491a220aeb0fa01144482ee795/277434885/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/51474fb68c7da46b9c20ebddccec7766.png",02:45 WIB ngày 22/12 Genoa vs Atalanta (1) [Người Sói] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2512,47 +2368,47 @@ https://9ceg0825.edgemaxcdn.org/1766367364/e4ba711e9e4739b5594bb0fb392c1045/7213
 #EXTINF:0 group-title="10Cam" tvg-logo="https://i.imgur.com/DrsCtuS.png",03:00 WIB ngày 22/12 Cadiz vs Castellon (1) [Ba Khía] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1766372054&sign=d7468e4bf3581d8c0c66c9ea6439c0f5
+https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1766373491&sign=5b7cc1630f1f420e9946d39389d58272
 #EXTINF:0 group-title="10Cam" tvg-logo="https://i.imgur.com/DrsCtuS.png",03:00 WIB ngày 22/12 Cadiz vs Castellon (1) [Ba Khía] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/XtmHypM99CEan4nAfIhQ9w/Fv2lucGIbhPi2caWYvF5Lg/1766372054707/live/khiaHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/Bw1IMf76TpEXBpaeQ2cMcg/Fv2lucGIbhPi2caWYvF5Lg/1766373491319/live/khiaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://i.imgur.com/DrsCtuS.png",03:00 WIB ngày 22/12 Cadiz vs Castellon (1) [Ba Khía] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766372054/927801f819c5741ef86ddbf354bbb603/865006519/live/khiaHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766373491/8c6e7c16b978d19040de239bc3989d6d/587100603/live/khiaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://i.imgur.com/DrsCtuS.png",03:00 WIB ngày 22/12 Cadiz vs Castellon (1) [Ba Khía] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/1_5Q9T1SWfhdo-WWazIqhg/Fv2lucGIbhPi2caWYvF5Lg/1766372054707/live/khiaSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/1HcAXDr_9w-Ldv0-tsJlUw/Fv2lucGIbhPi2caWYvF5Lg/1766373491320/live/khiaSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://i.imgur.com/DrsCtuS.png",03:00 WIB ngày 22/12 Cadiz vs Castellon (1) [Ba Khía] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766372054/985ac194853be106202429104f0ce6e1/236421515/live/khiaFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766373491/d19786fdd61f85ac3e2b9ee82526ad11/458266182/live/khiaFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://i.imgur.com/DrsCtuS.png",03:00 WIB ngày 22/12 Cadiz vs Castellon (1) [Ba Khía] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/x0pplWRfTATrtg2nLeUDzA/Fv2lucGIbhPi2caWYvF5Lg/1766372054707/live/sd-6MuTcBuhz5N92uHtdR/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Z9s15FZaQUGsKI_muSr2wQ/Fv2lucGIbhPi2caWYvF5Lg/1766373491319/live/sd-6MuTcBuhz5N92uHtdR/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03:00 WIB ngày 22/12 Lyon vs Saint Cyr Collonges (1) [Mèo Ú] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1766368814&sign=8622e096f125095f60cc5822ab071345
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1766373492&sign=db02248e62d31d2c9b5bbf096639aa01
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03:00 WIB ngày 22/12 Lyon vs Saint Cyr Collonges (1) [Mèo Ú] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/zYY8bCmCaKVd9tGxIfnSQQ/Fv2lucGIbhPi2caWYvF5Lg/1766368814382/live/meoHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/v_tQodL3U83vo8K5usQLEw/Fv2lucGIbhPi2caWYvF5Lg/1766373492437/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03:00 WIB ngày 22/12 Lyon vs Saint Cyr Collonges (1) [Mèo Ú] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766368814/3282fba80a6be65fedccea5970e0c5bf/855802056/live/meoHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766373492/ea8f415c5da3e9725d30d6aa456119e7/168293346/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03:00 WIB ngày 22/12 Lyon vs Saint Cyr Collonges (1) [Mèo Ú] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/OLxp9SQ84eisrWGOtyu7fA/Fv2lucGIbhPi2caWYvF5Lg/1766368814382/live/meoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Z0UKzBL5WjAkDUwmX1drJQ/Fv2lucGIbhPi2caWYvF5Lg/1766373492437/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03:00 WIB ngày 22/12 Lyon vs Saint Cyr Collonges (1) [Mèo Ú] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766368814/32b10899304a88aaaf47946495ec6ced/789190783/live/meoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766373492/928109aff54af76567f322190a7ab194/539961952/live/meoFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/098063fcfff42af399417176f5f5be5c.png",03:30 WIB ngày 22/12 Santa Clara vs FC Arouca (1) [Người Cồn] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2580,43 +2436,47 @@ https://apisportzz179528093.nsnd.live/npuV8CLJsoWZuc3wstH0Kg/Fv2lucGIbhPi2caWYvF
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png",04:00 WIB ngày 22/12 Vasco da Gama vs Corinthians (1) [Cá‎ Hề] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1766372058&sign=07f5839d84fb29a3ff843c1c099aaaa4
+https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1766373494&sign=90aad3aa4b03f8f45acfbfd4b5e4b9d5
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png",04:00 WIB ngày 22/12 Vasco da Gama vs Corinthians (1) [Cá‎ Hề] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/AzoiwkBk0yldnOjLCk6Keg/Fv2lucGIbhPi2caWYvF5Lg/1766372058200/live/heHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/vimTKt4bmireukWBcTBYnA/Fv2lucGIbhPi2caWYvF5Lg/1766373494788/live/heHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png",04:00 WIB ngày 22/12 Vasco da Gama vs Corinthians (1) [Cá‎ Hề] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766372058/d2d93b420921e02fdb204dc2ab2dd372/438256046/live/heHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766373494/2ed3ef6d2a3aab753e1b1ce599eebb63/116158145/live/heHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png",04:00 WIB ngày 22/12 Vasco da Gama vs Corinthians (1) [Cá‎ Hề] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/OIQPiytqnyZtLtEg8EDNZA/Fv2lucGIbhPi2caWYvF5Lg/1766372058201/live/heSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/7VatY952CLh7Ekhdi9P2rQ/Fv2lucGIbhPi2caWYvF5Lg/1766373494788/live/heSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png",04:00 WIB ngày 22/12 Vasco da Gama vs Corinthians (1) [Cá‎ Hề] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766372058/edc14a6c553bb82cb1342bb7a183cd4d/790433277/live/heFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766373494/0f2e6c04ec4b79fd4d38aa277ac028ac/953486003/live/heFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png",04:00 WIB ngày 22/12 Vasco da Gama vs Corinthians (1) [Cá‎ Hề] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/1fV5ha9wj7MiFM0JBISwpg/Fv2lucGIbhPi2caWYvF5Lg/1766373494788/live/sd-6MvZ6QEvoBd3pTs9g7/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/a0f073eef6aaf2af4d1cc783e63b33dd.png",04:30 WIB ngày 22/12 Panasonic Panthers vs Perugia (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1766394005&sign=897ecb40ae7cc3ba51faa5ab243ed0f0
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1766395095&sign=5307b08f790c23c654d56108c2979fe1
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/a0f073eef6aaf2af4d1cc783e63b33dd.png",04:30 WIB ngày 22/12 Panasonic Panthers vs Perugia (1) [Người Già] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/6s-qM2sOF_wE2EITBScMEA/Fv2lucGIbhPi2caWYvF5Lg/1766394005726/live/oldHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/2irjVKz9rq4_gCvB6HVc3w/Fv2lucGIbhPi2caWYvF5Lg/1766395095923/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/a0f073eef6aaf2af4d1cc783e63b33dd.png",04:30 WIB ngày 22/12 Panasonic Panthers vs Perugia (1) [Người Già] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766394005/c486f4aa3d4358ff9fe34fb48a084d55/401621591/live/oldHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766395095/d988131c8edec34523757c4bb9c9a241/205178251/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/a0f073eef6aaf2af4d1cc783e63b33dd.png",04:30 WIB ngày 22/12 Panasonic Panthers vs Perugia (1) [Người Già] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/B0rbzp4i1vcwGAF31luH1g/Fv2lucGIbhPi2caWYvF5Lg/1766394005726/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/8KJvv6fwBkKq_6ezy925Qw/Fv2lucGIbhPi2caWYvF5Lg/1766395095923/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/a0f073eef6aaf2af4d1cc783e63b33dd.png",04:30 WIB ngày 22/12 Panasonic Panthers vs Perugia (1) [Người Già] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766394005/3c9c6d9430c474e3fffd45efa1e8ceb1/195204162/live/oldFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766395095/ad2d5ce9c61c1f193a7cb9d87c29e0a3/834591197/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",21h00 ngày 14.12 Nottingham Forest vs Tottenham Hotspur (Hội Quán) BLV PHAN TÔM FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2629,18 +2489,6 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",02h00 ngày 22.12 Morocco vs Comoros (Hội Quán) BLV Phan Chè Full HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",02h00 ngày 22.12 Morocco vs Comoros (Hội Quán) BLV Phan Chè HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanche/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",02h00 ngày 22.12 Morocco vs Comoros (Hội Quán) BLV Phan Chè SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanche/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4e/Genoa_cfc.png",02h45 ngày 22.12 Genoa  vs Atalanta (Hội Quán) BLV PHAN MÃ FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2677,15 +2525,15 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.thesports.com/volleyball/team/a0f073eef6aaf2af4d1cc783e63b33dd.png",04h30 ngày 22.12 Panasonic Panthers vs Perugia (Hội Quán) BLV PHAN HẢI FULL HD
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Osaka_Bluteon.png",04h30 ngày 22.12 Panasonic Panthers vs Perugia (Hội Quán) BLV PHAN HẢI FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.thesports.com/volleyball/team/a0f073eef6aaf2af4d1cc783e63b33dd.png",04h30 ngày 22.12 Panasonic Panthers vs Perugia (Hội Quán) BLV PHAN HẢI HD
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Osaka_Bluteon.png",04h30 ngày 22.12 Panasonic Panthers vs Perugia (Hội Quán) BLV PHAN HẢI HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.thesports.com/volleyball/team/a0f073eef6aaf2af4d1cc783e63b33dd.png",04h30 ngày 22.12 Panasonic Panthers vs Perugia (Hội Quán) BLV PHAN HẢI SD
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Osaka_Bluteon.png",04h30 ngày 22.12 Panasonic Panthers vs Perugia (Hội Quán) BLV PHAN HẢI SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
