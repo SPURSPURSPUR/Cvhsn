@@ -15,6 +15,10 @@ https://live.alilicloud.com/live/cc54185920235305e1e020bf8976324d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/db0c5fd18cccea1f8270789a6245f70f/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/016ddbb61750dda2bf797866b400ef8a.png",06h30 ngày 21/01 Adap-Galo Maringa vs Maringa FC (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/52820f667520436b07ecf02ac7bf3e29/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Cá heo",20h30 ngày 11/01 SC Telstar vs AFC Ajax - SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -528,28 +532,34 @@ https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29276_1gz58yw1np10.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvYM5psCbC7onKUAG/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29276_1gz58yw1np10.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/945_1h8qpdhpf91b.png",05h00 ngày 21/01 Univ Catolica vs Huachipato (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvYqgQtKuCUP2sBEC/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/945_1h8qpdhpf91b.png",05h00 ngày 21/01 Univ Catolica vs Huachipato (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/20053_1hvszap3cv1h.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/20053_1hvszap3cv1h.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/945_1h8qpdhpf91b.png",05h00 ngày 21/01 Univ Catolica vs Huachipato (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvYqgQtKuCUP2sBEC/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/945_1h8qpdhpf91b.png",05h00 ngày 21/01 Univ Catolica vs Huachipato (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29276_1gz58yw1np10.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvYM5psCbC7onKUAG/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29276_1gz58yw1np10.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/46277_1k7drvkkk229.png",06h00 ngày 21/01 Azuriz FC vs Atletico Paranaense (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MvYM5psCYzdwJVZ1N/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/46277_1k7drvkkk229.png",06h00 ngày 21/01 Azuriz FC vs Atletico Paranaense (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/55164_167376764576.png",06h30 ngày 21/01 Galo Maringa vs Maringa FC (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvZ61L429mDVEttfv/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/55164_167376764576.png",06h30 ngày 21/01 Galo Maringa vs Maringa FC (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/251e701387b629039e7d035f2f18e744.png",05h00 ngày 21/01 Huachipato vs Univ Catolica (Ra Khơi) SD 1
@@ -592,6 +602,18 @@ https://stm6dad71710204.stream.hdplaylink.com/sklive/x20y2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4424_small.png",06:00 WIB ngày 01/21 Miramar Misiones vs Santa Fe (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x6y1/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4424_small.png",06:00 WIB ngày 01/21 Miramar Misiones vs Santa Fe (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x6y3-0065/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4424_small.png",06:00 WIB ngày 01/21 Miramar Misiones vs Santa Fe (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x6y2/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3db9141614cc58320e9e5f347619b335/image/small?v=1768601124",02h45 ngày 21/01 Sheffield Wednesday vs Birmingham City (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -660,10 +682,6 @@ https://live.alilicloud.com/live/8f21447abc7abee431e8a65c899e128a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/cc54185920235305e1e020bf8976324d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/54c0a4f2e30c047e561f386e04e0760e/image/small?v=1768601124",00h30 ngày 21/01 Al Fateh SC vs Al Kholood (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c4ba3347a7bdaa56b5517999683e1aa5/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cabc0cbfa85a7012cdcbd883c5e35314/image/small?v=1768601124",03h15 ngày 21/01 Murata vs Cailungo (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -696,6 +714,10 @@ https://live.alilicloud.com/live/ee1a2a3426581713ca20f9f82c8faf66/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ef35d35b9fc7a6c2ae84058b0ca006bb/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/eb12898243e66afcc2a5d69f072f3287/image/small?v=1768601124",06h30 ngày 21/01 Galo Maringa vs Maringa FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/52820f667520436b07ecf02ac7bf3e29/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133805_9ad6742b.png",15h00 ngày 21/01 Newcastle Jets FC W vs Adelaide United W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -984,6 +1006,10 @@ https://stream.chuoichien.tv/chuoi99/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/eb12898243e66afcc2a5d69f072f3287/image/small?v=1768601124",06h30 ngày 21/01 Galo Maringa vs Maringa FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/52820f667520436b07ecf02ac7bf3e29/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3db9141614cc58320e9e5f347619b335/image/small?v=1768601124",02h45 ngày 21/01 Sheffield Wednesday vs Birmingham City (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1124,162 +1150,250 @@ https://stm02bc38017100.stream.hdplaylink.com/live8/e1521dd73f3e4e8f93d65a3d5ffa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ef35d35b9fc7a6c2ae84058b0ca006bb/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1768953212-0-0-dcc670a53325601829f83c89aabe4d63
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1768953212-0-0-0ec26b8015a7367e1689b469abc6f96d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1768953212-0-0-90d40db20e8276d84cc36ac59ff91a69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1768953212-0-0-6d869ba2b3d3edba22cd835fbbfe3df5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [CÔNG LÝ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1768953212-0-0-ccf996611eef2580e04e34d6612434a5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [CÔNG LÝ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1768953212-0-0-caed7888f2ea38e72f1d4b062daf5347
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [CÔNG LÝ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1768953212-0-0-c2736e3387b062f7716ce414321e49c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [CÔNG LÝ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1768953212-0-0-30a723e6bd8bbc709b14ed68983fdc0f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV Hổ Lùn] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=f5137b2ec4e69035f20268be83558b07&txTime=69705bcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV Hổ Lùn] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=9f233592c977a3a1e852e0892cb6b127&txTime=69705bcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV Hổ Lùn] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=f5137b2ec4e69035f20268be83558b07&txTime=69705bcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV Hổ Lùn] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=9f233592c977a3a1e852e0892cb6b127&txTime=69705bcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1768953212-0-0-15c26ecd47fc9a19f2365e3d2662e470
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1768953212-0-0-aee62d8c0f170bf9d18207943f17426f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1768953212-0-0-851b41cb10461134b98dd77424d433e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1768953212-0-0-83d41b9edee78639aff801c24dbe35f1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV Sao Đỏ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-519740_lsd.flv?txSecret=a963867d8bb28ce115a0aef993c571fa&txTime=69705bcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV Sao Đỏ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-519740_lhd.flv?txSecret=9fbe4e5ddf24938b236e45f7451bd736&txTime=69705bcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV Sao Đỏ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=a963867d8bb28ce115a0aef993c571fa&txTime=69705bcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV Sao Đỏ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=9fbe4e5ddf24938b236e45f7451bd736&txTime=69705bcc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV FAKER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564597_lsd.flv?auth_key=1768953932-0-0-a3f7b6bc5767c66bbe671619f1640fc9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV FAKER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564597_lhd.flv?auth_key=1768953932-0-0-9705f4554f50209385580014df6b7cfa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV FAKER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1768953932-0-0-7fac598547dd8a99b2ebb6cfe941ff06
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV FAKER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1768953932-0-0-a5871436f5c0508fe6215ced409a8c09
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1768953932-0-0-0887ad15b9f79b929f9591b80d685df1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1768953932-0-0-8f826c7dff73c34edaef5e9fa241b50d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1768953932-0-0-eef16044736b48b30d4720e6973f3ab5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1768953932-0-0-d3865e8b7512fcad0c178544a95147eb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SÓI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1768953932-0-0-75987b2252a8dc4359d7f9a3a90c5374
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1768955013-0-0-8e88e44c940f70f01455268dd91695c9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SÓI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1768953932-0-0-f337d6accd086d9ce3bf258fe3bf9416
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1768955013-0-0-6de54301994cfd217f17eb591ae95950
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SÓI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1768953932-0-0-8ac207160b02d3a000211a454b2015f4
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1768955013-0-0-e61314415a65b1f1bb23805f306b15a9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SÓI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1768953932-0-0-c54ba56518591bc2cc1a41d593ab16df
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SHIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=8848d2a23aba13204400455c18dd9720&txTime=69705e9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SHIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=839b5ed0e998982bc16dd596aa2b57c5&txTime=69705e9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SHIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=8848d2a23aba13204400455c18dd9720&txTime=69705e9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SHIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=839b5ed0e998982bc16dd596aa2b57c5&txTime=69705e9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV KAI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1768953932-0-0-7704e76b51a36958a9331d31cc0f18f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV KAI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1768953932-0-0-b39bd5ff404a4bcc0997b7ae0deef05d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV KAI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1768953932-0-0-2696fdb2d998b9771d4e410e03a7b406
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV KAI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1768953932-0-0-76c822904487c1801eea5b7d01ed3329
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1768955013-0-0-dd81f9d2526322d776f13d31cda42029
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [XUÂN SON] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=68bdccbacde16d015037152b7bd6f033&txTime=69705e9c
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=535fe42d9dd361586a31fbc7d8c11493&txTime=697062d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [XUÂN SON] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=8bb3ccfb5b735cf842ce68c450ba24c3&txTime=69705e9c
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=9eeebfb51c24ce33b461fa778110ad34&txTime=697062d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [XUÂN SON] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=68bdccbacde16d015037152b7bd6f033&txTime=69705e9c
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=535fe42d9dd361586a31fbc7d8c11493&txTime=697062d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [XUÂN SON] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8bb3ccfb5b735cf842ce68c450ba24c3&txTime=69705e9c
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=9eeebfb51c24ce33b461fa778110ad34&txTime=697062d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV FAKER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564597_lsd.flv?auth_key=1768955013-0-0-498dc996b4578424c61ba18d3c704551
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV FAKER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564597_lhd.flv?auth_key=1768955013-0-0-3868747803337943afa7352b40c8a3bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV FAKER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1768955013-0-0-76f1bc5049e0c28e41488ddd61e54290
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV FAKER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1768955013-0-0-5ce54aa6a7296c6a091fbf9f28c275ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SHIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=2f1effd65d2f85f2073d81e35529ef4c&txTime=697062d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SHIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=34aa00bc2d4af6dd97f29cea3578cc94&txTime=697062d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SHIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=2f1effd65d2f85f2073d81e35529ef4c&txTime=697062d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/690c2b9dfcaae55e2d03554a396adeaf.png",05h00 ngày 21/01 Andraus Brasil vs Londrina PR [BLV SHIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=34aa00bc2d4af6dd97f29cea3578cc94&txTime=697062d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1768955012-0-0-92b4229cf9cf5b85ea9bddf830a3d115
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1768955012-0-0-28f16a4e80769ce374b106cef231f66d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1768955012-0-0-7c7c2d2da67cfa2e6dd15bbba1151176
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1768955012-0-0-d9c3eea6280c421a3260e6b9ebaff3e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV KAI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1768955012-0-0-6b54907a5824b3c81f4e5e8ae2997d2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV KAI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1768955012-0-0-e67aefa44b0e69ccd7b2726f85404ca2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV KAI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1768955012-0-0-1384e5d9c8c603d943794b91e94320ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [BLV KAI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1768955012-0-0-f4dccff3f29e937ea27ae509a37bd6f7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [VỊT BẠC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-474421_lsd.flv?txSecret=55264213d1e594aa9e9633c7929e9edc&txTime=69705e9c
+https://pull.niur.live/live/stream-474421_lsd.flv?txSecret=709cd23def1f5058cd3f8605dc454af9&txTime=697062d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [VỊT BẠC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-474421_lhd.flv?txSecret=12024251eac50865561c09a0f45f2629&txTime=69705e9c
+https://pull.niur.live/live/stream-474421_lhd.flv?txSecret=43b274ea93d178e60d9f9f0da21a1aa3&txTime=697062d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [VỊT BẠC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-474421_lsd.m3u8?txSecret=55264213d1e594aa9e9633c7929e9edc&txTime=69705e9c
+https://pull.niur.live/live/stream-474421_lsd.m3u8?txSecret=709cd23def1f5058cd3f8605dc454af9&txTime=697062d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/bb9ac4245cfd3ec0b5b66a54dd72e7b3.png",05h00 ngày 21/01 Huachipato vs Univ Catolica [VỊT BẠC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-474421_lhd.m3u8?txSecret=12024251eac50865561c09a0f45f2629&txTime=69705e9c
+https://pull.niur.live/live/stream-474421_lhd.m3u8?txSecret=43b274ea93d178e60d9f9f0da21a1aa3&txTime=697062d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ef6650be1c2df601b85064f951a1283d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768953932-0-0-91e091b69a3a252efdb9d17fe7cfe3e0
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768955012-0-0-f36c0305190d02a3374b2620fc7f8342
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ef6650be1c2df601b85064f951a1283d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768953932-0-0-02d713dfafbad73181a439178d4a0a43
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768955012-0-0-6b6427e15f44399474b1b1800300c6ca
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ef6650be1c2df601b85064f951a1283d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768953932-0-0-677318e6f8193bbfb4e3d1f8e4ed4665
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768955012-0-0-81de80df67fa9babbb39469864da4076
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ef6650be1c2df601b85064f951a1283d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768953932-0-0-a0a8a1b7d84cee8516f00a0123337cca
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768955012-0-0-c9e9ce8266f859481e4044ad0442ab1d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [CÔNG LÝ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1768955372-0-0-92e8cd9213513acd0797f89ed7e74084
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [CÔNG LÝ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1768955372-0-0-39ae240007f15b31abf4056d88dbb38e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [CÔNG LÝ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1768955372-0-0-1c016e390525036bcedf6d3d42b3d1f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [CÔNG LÝ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1768955372-0-0-a8e98ebea2eaf2f573eedc0d7c6351fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV Sao Đỏ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lsd.flv?txSecret=ef669742f78af60ff5d80bd899d8ed2e&txTime=6970643d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV Sao Đỏ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lhd.flv?txSecret=c560561d007cbde55c65ecc8cd607490&txTime=6970643d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV Sao Đỏ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=ef669742f78af60ff5d80bd899d8ed2e&txTime=6970643d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV Sao Đỏ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=c560561d007cbde55c65ecc8cd607490&txTime=6970643d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1768955372-0-0-eda4c0dff2b4dde19281176a971297a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1768955372-0-0-7a6aac518dd53cf1a241df91b340002c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1768955372-0-0-4902c5bb40968ee67b0203eee37f9ccd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/16bdff11db5d5778a0dcdb7d42c4fd2b.png",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1768955372-0-0-9164723d32fac4ab03ef5bd878520028
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1768955373-0-0-7bc22e029725638e67d1338231735c40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1768955373-0-0-87a8fd82b876ddec12dad8fd70b25c07
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1768955373-0-0-790f697c0d1ba513cc8c1aa5d33e8462
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1768955373-0-0-c2dd21dc2a9f27ce2deb1f71463c25f5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV Hổ Lùn] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=9ad961306dcd40b5389c73835fe8b79b&txTime=6970643c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV Hổ Lùn] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=ef4658ec989bc10310ca7c0a113c338c&txTime=6970643c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV Hổ Lùn] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=9ad961306dcd40b5389c73835fe8b79b&txTime=6970643c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/de51a8258078a7f900ee9e2b29b926d8.png",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense [BLV Hổ Lùn] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=ef4658ec989bc10310ca7c0a113c338c&txTime=6970643c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/d16245345405ed780b8ff248538daae2.png",06h30 ngày 21/01 Galo Maringa vs Maringa FC [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-480p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/d16245345405ed780b8ff248538daae2.png",06h30 ngày 21/01 Galo Maringa vs Maringa FC [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-720p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/d16245345405ed780b8ff248538daae2.png",06h30 ngày 21/01 Galo Maringa vs Maringa FC [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-480p.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/d16245345405ed780b8ff248538daae2.png",06h30 ngày 21/01 Galo Maringa vs Maringa FC [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-720p.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1768955373-0-0-2e34ef2e006d30d614abc856ab79ecd7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1768955373-0-0-a3e3de55624d8a4d5349478884eb294e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768955373-0-0-1596ae3188c3cd31d60fe2174e4fcf27
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768955373-0-0-978321100983974a679c5ae7e90c0a4e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/d16245345405ed780b8ff248538daae2.png",06h30 ngày 21/01 Galo Maringa vs Maringa FC [BLV LIO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1768955733-0-0-ee0e6d8dfa1cef0dc8c096ab934bba30
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/d16245345405ed780b8ff248538daae2.png",06h30 ngày 21/01 Galo Maringa vs Maringa FC [BLV LIO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1768955733-0-0-56186de455bc810f3f1c5eba11d7a7d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/d16245345405ed780b8ff248538daae2.png",06h30 ngày 21/01 Galo Maringa vs Maringa FC [BLV LIO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1768955733-0-0-65e706216192ee0405e532bd2c2dace9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/d16245345405ed780b8ff248538daae2.png",06h30 ngày 21/01 Galo Maringa vs Maringa FC [BLV LIO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1768955733-0-0-72d99d03ef71595ab64a68d91bdb20c5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1768955733-0-0-47cb073952b255a481aaf4e5ddf28f8a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1768955733-0-0-bb4023da4a1e9d7ef6888a517f0cffd4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768955733-0-0-5d84d3ceceef40637d1ef4ef3f1ffb9f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768955733-0-0-9be8ca2c647cb7624a4172a9f074981f
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/76ers.png",07:00 WIB ngày 21/01 76ers vs Suns (1) [Người Lửa] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1768969446&sign=0e7f5448514f99c872637271ca168145
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/76ers.png",07:00 WIB ngày 21/01 76ers vs Suns (1) [Người Lửa] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768969446/55640177a290edcd4528384e71e642e5/946810028/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/76ers.png",07:00 WIB ngày 21/01 76ers vs Suns (1) [Người Lửa] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/hK4bYpmh6Kb_O7iT-HGVkA/Fv2lucGIbhPi2caWYvF5Lg/1768969446336/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/76ers.png",07:00 WIB ngày 21/01 76ers vs Suns (1) [Người Lửa] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/eVWD7JaFq7RU4GLfDg6syg/Fv2lucGIbhPi2caWYvF5Lg/1768969446336/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/76ers.png",07:00 WIB ngày 21/01 76ers vs Suns (1) [Người Lửa] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768969446/a5023219d557c69af408e3e47816d763/986746736/live/luaFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/1bc3345851a6b5df655bec0e30ee8c75.png",07:00 WIB ngày 21/01 Tommy Paul vs Thiago Agustin Tirante (1) [Lơ Đao] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1768995006&sign=11b83be3d69b507e11adcd5375ebd66c
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/1bc3345851a6b5df655bec0e30ee8c75.png",07:00 WIB ngày 21/01 Tommy Paul vs Thiago Agustin Tirante (1) [Lơ Đao] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768995006/41069285696c78ecd35fc29265afadc3/293824870/live/daoHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/1bc3345851a6b5df655bec0e30ee8c75.png",07:00 WIB ngày 21/01 Tommy Paul vs Thiago Agustin Tirante (1) [Lơ Đao] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/ivJ6-RcKRDy-kEiReonSJg/Fv2lucGIbhPi2caWYvF5Lg/1768995006263/live/daoHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/1bc3345851a6b5df655bec0e30ee8c75.png",07:00 WIB ngày 21/01 Tommy Paul vs Thiago Agustin Tirante (1) [Lơ Đao] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/IusFDT-p4XGoe1saVDUQwA/Fv2lucGIbhPi2caWYvF5Lg/1768995006263/live/daoSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/1bc3345851a6b5df655bec0e30ee8c75.png",07:00 WIB ngày 21/01 Tommy Paul vs Thiago Agustin Tirante (1) [Lơ Đao] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768995006/1ae5da93bb3b8f77484f2532a9d99221/483874747/live/daoFHD/playlist.m3u8
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://img0.aiscore.com/football/team/77a0a0f65ee2a2b6ff224e6d31f64dcb.png!w60",05:00 WIB ngày 21/01 Andraus Brasil vs Londrina EC (Mãn nhãn) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1296,6 +1410,18 @@ https://stm6dad71710204.stream.hdplaylink.com/sklive/x20y2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4424_small.png",06:00 WIB ngày 21/01 Miramar Misiones vs Santa Fe (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x6y1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4424_small.png",06:00 WIB ngày 21/01 Miramar Misiones vs Santa Fe (Mãn nhãn) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x6y3-0065/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4424_small.png",06:00 WIB ngày 21/01 Miramar Misiones vs Santa Fe (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x6y2/playlist.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/77a0a0f65ee2a2b6ff224e6d31f64dcb.png!w80",05h00 21/01 Andraus Brasil vs Londrina
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/71426314.m3u8
