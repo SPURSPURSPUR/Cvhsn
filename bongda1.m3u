@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/47edbc8776467d4a14314c82b25344ab.png",22h30 ngày 21/01 Al-Okhdood vs Al-Riyadh (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/c3d523d683bddd6b855a2bd1c139574a/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/08a3cd23a7a3fedb5064c550cc88f391.png",00h00 ngày 22/01 Ternana W vs Inter Milan (w) (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/3741191ade6b15d22f87ca693b2be7d7/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/381dd852484f06350b771097612cf08e.png",00h30 ngày 22/01 Al-Ettifaq FC vs Neom SC (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -576,12 +568,90 @@ https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766839781.png",00h30 ngày 22/01 Damac FC vs Al-Nassr (Lương Sơn) BLV LƯU BỊ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766839781.png",00h30 ngày 22/01 Damac FC vs Al-Nassr (Lương Sơn) BLV LƯU BỊ flv
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV THỜI THIÊN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV THỜI THIÊN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV PEP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV PEP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV A TỦA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV A TỦA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/807_1k7wzmr8dh1p.png",01h00 ngày 22/01 Uniao Leiria vs Vizela (Lương Sơn) BLV ĐOÀN DỰ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/807_1k7wzmr8dh1p.png",01h00 ngày 22/01 Uniao Leiria vs Vizela (Lương Sơn) BLV ĐOÀN DỰ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/807_1k7wzmr8dh1p.png",01h00 ngày 22/01 Uniao Leiria vs Vizela (Lương Sơn) BLV TRƯƠNG THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/807_1k7wzmr8dh1p.png",01h00 ngày 22/01 Uniao Leiria vs Vizela (Lương Sơn) BLV TRƯƠNG THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV URA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV URA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766839781.png",00h30 ngày 22/01 Damac FC vs Al-Nassr (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
@@ -600,30 +670,12 @@ https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766839781.png",00h30 ngày 22/01 Damac FC vs Al-Nassr (Lương Sơn) BLV TỐNG GIANG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766839781.png",00h30 ngày 22/01 Damac FC vs Al-Nassr (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV DƯƠNG QUÁ flv
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766839781.png",00h30 ngày 22/01 Damac FC vs Al-Nassr (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV LỮ BỐ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV LỮ BỐ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV MÃ SIÊU m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV MÃ SIÊU flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV URA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3695_1gskkd7yqg2w.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Lương Sơn) BLV URA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2847_1gqbqe8n3b7.png",00h30 ngày 22/01 Al-Ettifaq vs Neom SC (Lương Sơn) BLV TÔN LẬP m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
@@ -648,84 +700,12 @@ https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2847_1gqbqe8n3b7.png",00h30 ngày 22/01 Al-Ettifaq vs Neom SC (Lương Sơn) BLV VĂN VỸ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VANVY.flv?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1375_1h746a4j0c18.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou (Lương Sơn) BLV PHONG VÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1375_1h746a4j0c18.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou (Lương Sơn) BLV PHONG VÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1375_1h746a4j0c18.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1375_1h746a4j0c18.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13393_1gzsyaawq22n.png",01h00 ngày 22/01 Smouha SC vs Pharco (Lương Sơn) BLV TẦN CA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13393_1gzsyaawq22n.png",01h00 ngày 22/01 Smouha SC vs Pharco (Lương Sơn) BLV TẦN CA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV VƯƠNG LUÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV VƯƠNG LUÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV NHỊ KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV NHỊ KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV THỜI THIÊN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1h8fzs04zm1m.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Lương Sơn) BLV THỜI THIÊN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV QUAN VŨ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV QUAN VŨ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV A TỦA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV A TỦA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV PEP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/210_165095691021.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Lương Sơn) BLV PEP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/807_1k7wzmr8dh1p.png",01h00 ngày 22/01 Uniao Leiria vs Vizela (Lương Sơn) BLV TRƯƠNG THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/807_1k7wzmr8dh1p.png",01h00 ngày 22/01 Uniao Leiria vs Vizela (Lương Sơn) BLV TRƯƠNG THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/807_1k7wzmr8dh1p.png",01h00 ngày 22/01 Uniao Leiria vs Vizela (Lương Sơn) BLV ĐOÀN DỰ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/807_1k7wzmr8dh1p.png",01h00 ngày 22/01 Uniao Leiria vs Vizela (Lương Sơn) BLV ĐOÀN DỰ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/e52b745126bbb6bdddc90b91b44413ae.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -738,6 +718,18 @@ https://mrkw1025.edgemaxcdn.org/live/m105nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m104nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/e792a6ab6a2fc12bc3f69783970d9298.png",02h00 ngày 22/01 Sunderland U21 vs Borussia Dortmund II (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b61190e348449a746ef3f802e7ebc701.png",02h00 ngày 22/01 Arsenal (w) vs Manchester United (w) (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",02h00 ngày 22/01 Manchester City (w) vs Chelsea FC (w) (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/5687dc26a16e15395ad9dfd0eab34009.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -794,6 +786,14 @@ https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m103nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/19c91735f4cea5725e4db0f4b79196a3.png",02h00 ngày 22/01 Chelsea U21 vs Real Sociedad B (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m205nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/31f7d5503f385d972d51ec447809a8a4.png",02h45 ngày 22/01 Watford vs Portsmouth (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m204nd/playlist.m3u8
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/5f0fa2c7f5502f43700281d32ee636d2.png",00h30 ngày 22/01 Damac vs Al Nassr FC (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -866,30 +866,6 @@ https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://static.flashscore.com/res/image/data/4WjJwnzB-IF2PlxQk.png",23:00 WIB ngày 01/21 FC Diarra vs Foot Elite (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x6y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://static.flashscore.com/res/image/data/4WjJwnzB-IF2PlxQk.png",23:00 WIB ngày 01/21 FC Diarra vs Foot Elite (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x6y3-0067/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://static.flashscore.com/res/image/data/4WjJwnzB-IF2PlxQk.png",23:00 WIB ngày 01/21 FC Diarra vs Foot Elite (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x6y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1426272_small.png",23:00 WIB ngày 01/21 AS Real Bamako vs ASKO Kara (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x0y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1426272_small.png",23:00 WIB ngày 01/21 AS Real Bamako vs ASKO Kara (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x0y3-3635/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1426272_small.png",23:00 WIB ngày 01/21 AS Real Bamako vs ASKO Kara (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582823_small.png",00:30 WIB ngày 01/22 Damac FC và Al Nassr FC (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -982,18 +958,6 @@ https://wtyi0525.edgemaxcdn.org/live/saoke3x4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x5/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0c13a3d71e30c32ae3c6bbc7de279b1a/image/small?v=1768601124",19h35 ngày 21/01 Al Zulfi vs AlvsJandal (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ce5cbc08d311920d036fc7a083414143/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e4c33b2b174af4cd4c3915f58f45d382/image/small?v=1768601124",20h00 ngày 21/01 Radomlje vs Grazer AK (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/66b82c82708df7f8468a9c6ac64d0e1d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d3c7aad552e7538e268f6c94243e2b86/image/small?v=1768601124",19h35 ngày 21/01 AlvsAnwar Club vs AlvsArabi SC(KSA) (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f54db350f890e9972ae4d8a203c414aa/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2da2c98704ab4975289b7785dcd0f174/image/small?v=1768601124",01h00 ngày 22/01 Uniao Leiria vs Vizela (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1014,6 +978,10 @@ https://live4.fastestcdn-global.com/live4/1eebde88dfe0463bb4e8d7ddf8318ef6_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://stm02bc48435558.stream.hdplaylink.com/live3/1eebde88dfe0463bb4e8d7ddf8318ef6_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cecfb0124f67b3b954783c52b786778f/image/small?v=1768601124",01h00 ngày 22/01 Smouha SC vs Pharco (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4278a6d88baf44c7992247e634af21e6/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3420fa81b4baf66a0babc67111c6cd3e/image/small?v=1768601124",00h00 ngày 22/01 Ternana W vs Inter Milan Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1038,10 +1006,6 @@ https://stm02bc48435558.stream.hdplaylink.com/live3/591386b44fd747aa9cb02d2b7a86
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/56b5ccc8e7a56b2d38c1aba7f9e041f7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/001fe8b4a0da44327d4b9a90172f75a1/image/small?v=1768601124",19h45 ngày 21/01 AlvsJabalain vs AlvsBatin (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/66556aae30336a8ea1f17323f96a6f97/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/2cc460ade43cb670c6f8f23826a94a8b/image/small",21h00 ngày 21/01 Halkbank vs Roeselare (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1050,18 +1014,6 @@ https://live.alilicloud.com/live/5b275ef7dd20a41d58f24f694dd04630/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/66d1d8e29f32e92a272110b33d6b1c11/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/9dd9073114d6cd98c379b32c77733edb/image/small",00h00 ngày 22/01 Ziraat Bankasi vs Trentino (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/e9ead09262484e1b912bb518dc124b73_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/9dd9073114d6cd98c379b32c77733edb/image/small",00h00 ngày 22/01 Ziraat Bankasi vs Trentino (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/e9ead09262484e1b912bb518dc124b73_720/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/9dd9073114d6cd98c379b32c77733edb/image/small",00h00 ngày 22/01 Ziraat Bankasi vs Trentino (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/e9ead09262484e1b912bb518dc124b73_720/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cafea9f8023d1d0283af1253b24a9ac1/image/small?v=1768601124",22h45 ngày 21/01 Jeddah Sports Club vs Jubail (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1086,10 +1038,6 @@ https://live4.fastestcdn-global.com/live4/9eae9e4bf9374658bd7ae365b4fefbeb_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://stm02bc48435558.stream.hdplaylink.com/live3/9eae9e4bf9374658bd7ae365b4fefbeb_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/babba4ff89c6f4d005db07383011a463/image/small?v=1768601124",20h00 ngày 21/01 SK Kladno vs FK Pribram (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b9f85bb8bbf47c5a9449807082628010/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ee208cee59e889dfe901121149f32626/image/small?v=1768601124",20h30 ngày 21/01 Al Khor SC vs Al Rayyan (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1110,18 +1058,6 @@ https://live.alilicloud.com/live/af6b691cad61409e4fd83a5cc9617cfa/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d22d46504b3b991b2d7220c311fba952/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/64eed976edc93d9cab5807d0ee4bb1cf/image/small?v=1768601124",19h30 ngày 21/01 ZED FC vs Al Masry (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/36bfecd6b0a5c6315098f9b0fbe16619/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a415e6de6c0ae8b16646db75b9b1f3f5/image/small?v=1768601124",19h35 ngày 21/01 AlvsFaisaly Harmah vs Abha (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0a4acd2622c20877d886edc931405922/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cecfb0124f67b3b954783c52b786778f/image/small?v=1768601124",01h00 ngày 22/01 Smouha SC vs Pharco (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4278a6d88baf44c7992247e634af21e6/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1d06397f85b53f5f37ff1af4728593a3/image/small?v=1768601124",01h00 ngày 22/01 Barcelona Women vs Athletic Club Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1194,6 +1130,10 @@ https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125652_ed875292.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125646_66b2a84c.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1378,6 +1318,10 @@ https://stm02bc38017100.stream.hdplaylink.com/live8/2cca91d23d6f40b2a763bcbda107
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc38017100.stream.hdplaylink.com/live8/2cca91d23d6f40b2a763bcbda1073322_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cecfb0124f67b3b954783c52b786778f/image/small?v=1768601124",01h00 ngày 22/01 Smouha SC vs Pharco (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4278a6d88baf44c7992247e634af21e6/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3420fa81b4baf66a0babc67111c6cd3e/image/small?v=1768601124",00h00 ngày 22/01 Ternana W vs Inter Milan Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1458,10 +1402,6 @@ https://live.alilicloud.com/live/a6bba3b8852535ecec5788e8a416ba27/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/d22d46504b3b991b2d7220c311fba952/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cecfb0124f67b3b954783c52b786778f/image/small?v=1768601124",01h00 ngày 22/01 Smouha SC vs Pharco (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4278a6d88baf44c7992247e634af21e6/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1d06397f85b53f5f37ff1af4728593a3/image/small?v=1768601124",01h00 ngày 22/01 Barcelona Women vs Athletic Club Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1472,76 +1412,28 @@ https://live.alilicloud.com/live/606ec8b8864e53477e3fe5eea82d7aa2/playlist.m3u8
 https://live.alilicloud.com/live/5ca857cb593f3daa392a75616eb3bbde/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV SINGER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1769022332-0-0-85c105b3dc092efa84da80bb821e7106
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1769025932-0-0-6d74ef80c23245779193d149f7a8e87a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV SINGER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1769022332-0-0-0102012dccf2974d3a52c6924e5511bd
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1769025932-0-0-982d7f678120660136b5be4700a6d741
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV SINGER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1769022332-0-0-bb24e9c10ccd893e6138ce576b5c15a1
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1769025932-0-0-bf85fc180c70fc87fd2a7546e74ede55
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV SINGER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1769022332-0-0-2d6409ff506844c002dbbbcc95bc362d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [SAO LA] (Socolive) flv
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1769025932-0-0-23f76a75bd8701bdf770228c96b9baa7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV COZY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=dcae04017f854b85943e291e5816e696&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=181ea8bf7925e6ff272f198520e2b43e&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV COZY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=79a2b65b2c4326b6837283ced6e5b951&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=2cb4103af8cebb2f4403630ef015a778&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV COZY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=dcae04017f854b85943e291e5816e696&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=181ea8bf7925e6ff272f198520e2b43e&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV COZY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=79a2b65b2c4326b6837283ced6e5b951&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1769022333-0-0-3bd49bfac1233d7331bea1342d269172
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1769022333-0-0-31df69aae5c914c4114fc41b912d8c94
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1769022333-0-0-f289119753ee5f0f90212327a631c936
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1769022333-0-0-7a47979fd2249f56abc7964dd905693d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=e75f7e1d481b36428fce2b48a9bdafe7&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=6b002519fad8be1d2831c0033e8697ac&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=e75f7e1d481b36428fce2b48a9bdafe7&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=6b002519fad8be1d2831c0033e8697ac&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1769022332-0-0-0c9aa82dec7a5a89db26ccccc7890b86
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1769022332-0-0-126e1b32faed2bf455a8fc3af53a527c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1769022332-0-0-7525ef554583c342998cbb8b0d16299c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1769022332-0-0-476020417e713340b7fcf1011110dbb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1769022332-0-0-2767a5a5ebf9f9c8434276e0d4cb59b2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1769022332-0-0-aebd96ad7fe2d3d8db155a7bdb94e627
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1769022332-0-0-c8909c83751c6ec9e38997b609655739
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769022332-0-0-1737a34b32a1c047f9dca25d96cd6b22
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=2cb4103af8cebb2f4403630ef015a778&txTime=697177dd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912008-480p.flv
@@ -1554,422 +1446,454 @@ https://stream-flv.dfsfe.top/lives/9912008-480p.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912008-720p.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV LONG] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912050_lsd.flv?auth_key=1769022332-0-0-81337b160eb465a0e35eadeafe8b3810
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV LONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1769025932-0-0-3c7bb3e7be397abc9d8e62df5924d76e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV DECO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912050_lhd.flv?auth_key=1769022332-0-0-69ac5bcb6309cd71c31f21da0301914f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV LONG] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1769025932-0-0-dbb6bca7e9c5303edcee38dc35038580
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV DECO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1769022332-0-0-53f8897b5de52a48f591c34f9be3dbee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV LONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1769025932-0-0-92955e2562446a15e07bd03474d4e4cf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV DECO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1769022332-0-0-d3e1f9d2af9d2d54afe3b5fde23d279b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1769022333-0-0-900acbc0c812b29090c54ac55080b137
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1769022333-0-0-5e3466bd11c844c721e1faadcf6e751b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1769022333-0-0-9aee401752bcfe54031f01837378b473
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1769022333-0-0-ef2b7f5ee49e74c35f542ad45026174d
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769025932-0-0-283cd7cdb7085f1578997c3b39b2168a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1769022333-0-0-beb9eda54366cfada00140361af7ccd0
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1769025933-0-0-6186d035706ef332b3040c873b08bb61
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1769022333-0-0-9f32a92cbef5a8caf6144824a150ab09
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1769025933-0-0-f640ab0de26a5511d07f5a428b3bf122
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1769022333-0-0-9ee826056d8451e8883f403d652ea7a9
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1769025933-0-0-dd70f976b8593d13c70c838d9f8aa94a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1769022333-0-0-b9a99c70566b1266dd4bbab3a7cb28a3
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1769025933-0-0-2956bb1c0849aedff23ef493d57771e6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1769022333-0-0-02161935f3e76eb96ec3962662a0ca34
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1769025933-0-0-aa258235e79e9150546de54d2a0719af
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1769022333-0-0-b073f357cf1a7dc95f6eb492c43befe4
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1769025933-0-0-8a3206e2c81a801a30a1f15a0c997892
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1769022333-0-0-f5b609a33df6adad5bbf717091d0bdc2
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1769025933-0-0-9798385be7159bd4262b6cd339630fe5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1769022333-0-0-742cb6bf3d36e7cf5d7b90930f9b333f
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1769025933-0-0-1cb68756a80b3be494647432e159471d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1769025933-0-0-0d3315633ad00ba0d9c9f4406b12ce69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1769025933-0-0-b029004383ede083b972ab5267b5f95a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1769025933-0-0-e18191a5624abad58dd24a0a724aa0d8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [BLV A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1769025933-0-0-badde8ec64c22e845672ff2e3ea087ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1769025933-0-0-e29a24eeee373bffb851b5a0d8638752
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1769025933-0-0-8a374197b25e49fc80db6d19f3e38922
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1769025933-0-0-12001f934a928341820c41b94c2d9caf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1769025933-0-0-8a58388e2db278433abe63b404e4cf8f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=12ce63c9426a415cb5119378a3426f18&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=b83fbd763f8726a877acdfa53107f9c7&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=12ce63c9426a415cb5119378a3426f18&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=b83fbd763f8726a877acdfa53107f9c7&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912050_lsd.flv?auth_key=1769025932-0-0-de1cb4813b37edbeb645b76c6716bcc5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912050_lhd.flv?auth_key=1769025932-0-0-d5b14367400a1dd7d06570aabcc93eb0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1769025932-0-0-f3d39cf8725b6d13fd11f8c83c1ec043
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1769025932-0-0-cdddce1f1aace73821f019f1bff42a98
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=aca37308a7839f3935fb3c66db14201a&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=a5ff9fe16ea47037f7b31183d27cbb7e&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=aca37308a7839f3935fb3c66db14201a&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c0883ab6a91d28efe1a26c2c715329c5.png",00h45 ngày 22/01 Galatasaray vs Atletico Madrid [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=a5ff9fe16ea47037f7b31183d27cbb7e&txTime=697177dd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1769022333-0-0-004acf3cdc9bc0495085d116205961f1
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1769025933-0-0-d94e5db941faa857bf5665647c3cbcce
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1769022333-0-0-3fcf5f8145f86279885031a1d73f011a
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1769025933-0-0-9599f51c0f79c6af9740f556437a7fd8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1769022333-0-0-902059bd6f5e2ad87e116bbc54b24740
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1769025933-0-0-9fc27cdac49688032c1bee84169a1db9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1769022333-0-0-8d5975fdc3ebff7207c01d97736c4fc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV COZY] (Socolive) flv
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1769025933-0-0-a528f2352f85dcaa37aa4064c805dca5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=f385508c62518cd983b2a3af95a6cc8e&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV COZY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1769025932-0-0-65a929e22b372c6e9bc3b677f844e75a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=589fe05126df98b4dcbfe638a0e284ff&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV COZY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1769025932-0-0-7de02612bb2bea589d380b8732168d50
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=f385508c62518cd983b2a3af95a6cc8e&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d03915c72c1561df3ea8c7f66ee9f2ce.png",00h30 ngày 22/01 Damac vs Al Nassr FC [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1769025932-0-0-4f0893fbc07933353ef50089060ee159
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=589fe05126df98b4dcbfe638a0e284ff&txTime=697169cd
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1769025932-0-0-03380f745f5954aff72c49d9d6cea41e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [RED BULL] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1769022333-0-0-17000b3c576918dc5124b519731b8578
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1769025933-0-0-aa6086a4b969bdcab50e3908a791d4af
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [RED BULL] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1769022333-0-0-dfe449d4757a3aa4140bd63f7c41f0cd
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1769025933-0-0-7453f8f348c2b5093e7c1a8bdfb5b078
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [RED BULL] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1769022333-0-0-830cbedce4dbe687d469f989be112813
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1769025933-0-0-2634c1cf7eb26299d40df2bed569098b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [RED BULL] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1769022333-0-0-fa4873bfb0f216c089bb98053e589dea
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1769022333-0-0-99331ff8cd071739265827fb7423b320
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1769022333-0-0-8648269f41d47ba6ecb24b38df3d7195
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1769022333-0-0-c02e1edfcec7282084a3c2ade9f72fd3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1769022333-0-0-ed9b21b1a0aacf1ea039eeef7a77559a
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1769025933-0-0-b150fb123c83db2b2f53fb9f83b9cd58
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV ALEX] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1769022333-0-0-e512073f688c863ee865c17ae9a35693
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1769025933-0-0-f0ed976ac8d2c5b740b40df46b3b7504
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV ALEX] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1769022333-0-0-3c8d4016a305b8ad7d9a017349b129f1
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1769025933-0-0-5119fc0aa4c876a83aa922de5f2b2fd6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV ALEX] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1769022333-0-0-c03f4b602f8520167ac8921cb9457c85
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1769025933-0-0-53c86ea54a2dfc5da2a33dbadb04abb4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV ALEX] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1769022333-0-0-b0be45cacb1c8d88e6a1d7675225e876
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1769025933-0-0-ff448593722e2b6e93a739e7c6c326a9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [SÙNG A MÚP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1769022332-0-0-f70aab8249b1df6499a01959a3087e97
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1769025932-0-0-96e9d806bf92658406614c78bea58464
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [SÙNG A MÚP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1769022332-0-0-d77507f0920ee6946ec5cd12811b855d
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1769025932-0-0-dc4332d583941b33a30fd91dbf106242
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [SÙNG A MÚP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1769022332-0-0-652ffd86df3b2145115dafe20adea394
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1769025932-0-0-9580faefc993a4a1eaffc5f9d4d06ae1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [SÙNG A MÚP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1769022332-0-0-543ff588241c9b3907759288c3c3765b
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1769025932-0-0-f800c2f9b5f775efd4fa2cb9e7a2d1aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1769025933-0-0-1f6ae390bea28040037db18661fdbba6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1769025933-0-0-a1dfe3fe9c5d7b73889c88d6ca7b4a48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1769025933-0-0-422891b77c49dc2b983496a6334381b0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1769025933-0-0-c099bf4b26efcbc77915877f14001e14
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [VƯƠNG ANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=34c531ee0c2c00648f93e9cb845b3c94&txTime=697169cd
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=e6054efdf0b15cda9b9d1d2af415799c&txTime=697177dd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [VƯƠNG ANH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=955778a6ac4c718547413c10a0513ccc&txTime=697169cd
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=bd0f9aa15886ec7afc73add4fc838ba9&txTime=697177dd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [VƯƠNG ANH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=34c531ee0c2c00648f93e9cb845b3c94&txTime=697169cd
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=e6054efdf0b15cda9b9d1d2af415799c&txTime=697177dd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e5bd7be85dbee68fc620c2e56d4d3e61.png",00h45 ngày 22/01 Qarabag vs Eintracht Frankfurt [VƯƠNG ANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=955778a6ac4c718547413c10a0513ccc&txTime=697169cd
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=bd0f9aa15886ec7afc73add4fc838ba9&txTime=697177dd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d2af37d96364ad05308941c18d042a7b.png",00h30 ngày 22/01 Al Ettifaq FC vs NEOM Sports Club [NGƯỜI THÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1769022333-0-0-b18b276d5200eb554f5c8d49d6d1a71f
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1769025933-0-0-e7f5806d62d0a13e6c7a18858b826656
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d2af37d96364ad05308941c18d042a7b.png",00h30 ngày 22/01 Al Ettifaq FC vs NEOM Sports Club [NGƯỜI THÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1769022333-0-0-91a849f4f8cf3bb00baef050df6be3bc
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1769025933-0-0-9b9a56136c24470883cbcc4a5a683797
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d2af37d96364ad05308941c18d042a7b.png",00h30 ngày 22/01 Al Ettifaq FC vs NEOM Sports Club [NGƯỜI THÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1769022333-0-0-e0a71efba6bd6a915b45184feac0a76d
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1769025933-0-0-e74b86ba2e2dbfa916b9058d750bdabc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d2af37d96364ad05308941c18d042a7b.png",00h30 ngày 22/01 Al Ettifaq FC vs NEOM Sports Club [NGƯỜI THÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1769022333-0-0-398c7d06eaf23a81875961900de8dc77
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1769025933-0-0-f74582ea1fb014cb0979aab5d681cfb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d2af37d96364ad05308941c18d042a7b.png",00h30 ngày 22/01 Al Ettifaq FC vs NEOM Sports Club [Lửng Mật] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1769022333-0-0-58fd1686f57d3975bca3c8bf21debb2b
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1769025933-0-0-452ed1a71ffec95992ec73cbea2ebd89
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d2af37d96364ad05308941c18d042a7b.png",00h30 ngày 22/01 Al Ettifaq FC vs NEOM Sports Club [Lửng Mật] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1769022333-0-0-44a1210eff6064aa2968d077c67f0dd3
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1769025933-0-0-df310f53905f1a593efa4dea065f273f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d2af37d96364ad05308941c18d042a7b.png",00h30 ngày 22/01 Al Ettifaq FC vs NEOM Sports Club [Lửng Mật] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1769022333-0-0-5388cb226e56721caa4bb50a13626189
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1769025933-0-0-ac5437b1797ce2606f11c1384a39a668
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/d2af37d96364ad05308941c18d042a7b.png",00h30 ngày 22/01 Al Ettifaq FC vs NEOM Sports Club [Lửng Mật] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1769022333-0-0-0f84279014cf3483df5e0ad17eb4e5dc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV TORRES] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1769022333-0-0-1a1b2f40bd6dd0772d4cb35139e155bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV TORRES] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560224_lhd.flv?auth_key=1769022333-0-0-869ea7221aaf2d8a16cba0711c5a1436
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV TORRES] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1769022333-0-0-5262881fc33ae01343f48dc4eedf15a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV TORRES] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1769022333-0-0-e91bdd91b4e3147eb5bf110e20605ea4
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1769025933-0-0-6b43803a06c59056a327c6ec4dbcac34
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV WUKONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1769022333-0-0-9b8a07c4d5bb869d6c6720c383a5e6e4
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1769025933-0-0-4cfae2ff0503ffa6a02ee8ea9f798318
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV WUKONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1769022333-0-0-734e995a2506b2382d07282f33cc463a
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1769025933-0-0-804b67578f0ae48134b9a057231181bd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV WUKONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1769022333-0-0-a67666a9c0a698a746df789418981109
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1769025933-0-0-379f2b2d5b7ec428601e3b182bc27c17
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1769022333-0-0-545ecddc2faa539fdd0f61bfefbeef70
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV VIP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=b48d70a20b94c39213595406a51d4937&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV VIP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=b1b064c9323e7036d44e66e20f9db17b&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV VIP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=b48d70a20b94c39213595406a51d4937&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV VIP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=b1b064c9323e7036d44e66e20f9db17b&txTime=697169cd
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1769025933-0-0-464781ef491860f5f9abb6d4e8a846ef
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1769022333-0-0-a94cb5da11fd9c84d67b5d7670cd2bc9
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1769025933-0-0-07b2e9349eaafbf5cb4860d8c4ae23e2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1769022333-0-0-461ef8231303402f617dfcfef2eb82f7
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1769025933-0-0-1a6c63f75e6a7160f104560299daafc8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1769022333-0-0-2c6608ef67e6ead883f6b268b40554bd
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1769025933-0-0-7efbb21193511f27a59a5924e2ab53b3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1769022333-0-0-29b299719aad0f5fda95eaeda6fbcb57
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/95221dabc015730b1aa3b300b900049d.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou [XUÂN SON] (Socolive) flv
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1769025933-0-0-5f5ddaceb51cc8fefcc2bd1dac1f9587
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV TORRES] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=6a89f5744cd96e461a8c57e4583f8f70&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/95221dabc015730b1aa3b300b900049d.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou [XUÂN SON] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1769025933-0-0-2b683701c9e8f665e542647cc71e4d76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV TORRES] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=1ed515958822d4206183be6a233e895d&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/95221dabc015730b1aa3b300b900049d.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou [XUÂN SON] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-560224_lhd.flv?auth_key=1769025933-0-0-c5a3647913d34c0d35b0baf81ed301a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV TORRES] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=6a89f5744cd96e461a8c57e4583f8f70&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/95221dabc015730b1aa3b300b900049d.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou [XUÂN SON] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1769025933-0-0-7d5de04558da34481c4c79a99053f11e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV TORRES] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=1ed515958822d4206183be6a233e895d&txTime=697169cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/95221dabc015730b1aa3b300b900049d.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou [BLV VITAMIN] (Socolive) flv
+https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1769025933-0-0-94d3e810d2f86f24f4a4d906bfa4e73b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV VIP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1769022333-0-0-252724eaffba1c215805afcf64ce5054
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/95221dabc015730b1aa3b300b900049d.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou [BLV VITAMIN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=b7f3191e38e7ae5b5103e650e4035c42&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV VIP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1769022333-0-0-f880de58b7986980b8ff4695eae39f3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/95221dabc015730b1aa3b300b900049d.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou [BLV VITAMIN] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=56654aba4869d8565a7c35f5d0b6d486&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV VIP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1769022333-0-0-ef905f5ae56a595acf8d05cc776b6429
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/95221dabc015730b1aa3b300b900049d.png",23h00 ngày 21/01 Nea Salamis vs Digenis Morphou [BLV VITAMIN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=b7f3191e38e7ae5b5103e650e4035c42&txTime=697177dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/62ce815446435a6da2a4e5e4cc1676a6.png",00h45 ngày 22/01 AZ Alkmaar vs Excelsior SBV [BLV VIP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1769022333-0-0-710b2e2158faf54d5721dc1d6db80e4c
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=56654aba4869d8565a7c35f5d0b6d486&txTime=697177dd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/a28d3a4b8dfc54f63254b09aa1a8745b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769022332-0-0-0960ab52bc25eb03f0cf664b0768b4a2
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769025932-0-0-10236cc9139c39329dc95cf39d4cda5b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/a28d3a4b8dfc54f63254b09aa1a8745b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769022332-0-0-f91aaed28c255bb2b441d1ff6df1511e
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769025932-0-0-6b2d159964d32489a81be85885bd5d24
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/a28d3a4b8dfc54f63254b09aa1a8745b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769022332-0-0-5e19b1a765256ab3e683c20d942502ee
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769025932-0-0-e2345e95428c38ab9b978877b1de02de
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/a28d3a4b8dfc54f63254b09aa1a8745b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769022332-0-0-b2fb1d28c4bef5889ab3758a036613ee
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769025932-0-0-ba031bc010bd447c4dc0a6a9e52c479c
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 WIB ngày 21/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/_VqHKjTsCUaJLSlo23Knrw/Fv2lucGIbhPi2caWYvF5Lg/1769063045193/live/may21/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/AmKYKW0Q2xrmt3XsYHJuSA/Fv2lucGIbhPi2caWYvF5Lg/1769065567258/live/may21/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 WIB ngày 21/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/Yf-2m-dfK9wxdr9cpVjRwA/Fv2lucGIbhPi2caWYvF5Lg/1769063045193/live/may211/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/oEaClCSSosei_X_Mvigk_A/Fv2lucGIbhPi2caWYvF5Lg/1769065567258/live/may211/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 WIB ngày 21/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/a24L4g1l0WDJm09W_-oaQw/Fv2lucGIbhPi2caWYvF5Lg/1769063045193/live/may212/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/509aa9190a2b64dac9ffa248906a94d9.png",00:00 WIB ngày 22/01 Ziraat Bankasi vs Trentino (1) [Người Băng] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1769037846&sign=9ec4719ad44ea59a8f7a97ddae4a3eb2
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/509aa9190a2b64dac9ffa248906a94d9.png",00:00 WIB ngày 22/01 Ziraat Bankasi vs Trentino (1) [Người Băng] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037846/51576d91b0638ea8c9d8add184337e2b/374083780/live/bangHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/509aa9190a2b64dac9ffa248906a94d9.png",00:00 WIB ngày 22/01 Ziraat Bankasi vs Trentino (1) [Người Băng] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/uHPcTROA7n0k_PLk-XrTTA/Fv2lucGIbhPi2caWYvF5Lg/1769037846262/live/bangHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/509aa9190a2b64dac9ffa248906a94d9.png",00:00 WIB ngày 22/01 Ziraat Bankasi vs Trentino (1) [Người Băng] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Lx-sLZPbxKPy6RBq5Eaimg/Fv2lucGIbhPi2caWYvF5Lg/1769037846262/live/bangSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/509aa9190a2b64dac9ffa248906a94d9.png",00:00 WIB ngày 22/01 Ziraat Bankasi vs Trentino (1) [Người Băng] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037846/b8b09a38e8f86b4c008f6ab301b1118f/422379786/live/bangFHD/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/SF2-NJ1EbRTiKm46OZsF3w/Fv2lucGIbhPi2caWYvF5Lg/1769065567258/live/may212/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9d1d9466902be6c4a1195550de23af2f.png",00:30 WIB ngày 22/01 Al Ettifaq vs Neom (1) [Người Cồn] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1769037847&sign=9eae3f2cff5d2ac903197e07032fc31b
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1769040368&sign=b9604504cd0f871c953ac4486c8f5b6a
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9d1d9466902be6c4a1195550de23af2f.png",00:30 WIB ngày 22/01 Al Ettifaq vs Neom (1) [Người Cồn] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037847/f1a7a1201e9194f71f0cc2cba142e247/211632078/live/conHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769040368/9d12bb4b81600182409eadea4e90780e/804757247/live/conHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9d1d9466902be6c4a1195550de23af2f.png",00:30 WIB ngày 22/01 Al Ettifaq vs Neom (1) [Người Cồn] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/pVV3vQs6VvhwLdIvFRBm5w/Fv2lucGIbhPi2caWYvF5Lg/1769037847369/live/conHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/fsyv4_HCYybUmaJJ2QTcRQ/Fv2lucGIbhPi2caWYvF5Lg/1769040368346/live/conHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9d1d9466902be6c4a1195550de23af2f.png",00:30 WIB ngày 22/01 Al Ettifaq vs Neom (1) [Người Cồn] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/GsX5noeSlJXc3_f6WshPwA/Fv2lucGIbhPi2caWYvF5Lg/1769037847369/live/conSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/-QIyhkaKUB1WOGzaaoWwuA/Fv2lucGIbhPi2caWYvF5Lg/1769040368346/live/conSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9d1d9466902be6c4a1195550de23af2f.png",00:30 WIB ngày 22/01 Al Ettifaq vs Neom (1) [Người Cồn] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037847/85ebd70d87de25f0ce13915f2e4502b8/151061665/live/conFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769040368/9d19fd1b34e4c0b3b5d697bcdb34aa3a/182270371/live/conFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/9d1d9466902be6c4a1195550de23af2f.png",00:30 WIB ngày 22/01 Al Ettifaq vs Neom (1) [Người Cồn] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/r4hORngYrZjoUnWbzdWJiQ/Fv2lucGIbhPi2caWYvF5Lg/1769037847369/live/sd-6MvXc75RJYFxXWrNQj/playlist.m3u8
+https://apisportzz179528093.nsnd.live/LzoKE4ag7bhLJU3_u5XCHg/Fv2lucGIbhPi2caWYvF5Lg/1769040368345/live/sd-6MvXc75RJYFxXWrNQj/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/f1Df7KeM-29Hb7UEa.png",00:30 WIB ngày 22/01 Damac vs Al Nassr (1) [Mỳ Tôm] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769037848&sign=4e046c3a1aef8994952b52cdb643d0c3
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769038928&sign=e09b0b4a2fe1f5cc7ca158f5727947a1
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/f1Df7KeM-29Hb7UEa.png",00:30 WIB ngày 22/01 Damac vs Al Nassr (1) [Mỳ Tôm] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037848/016cd1b5589d8b034610732673425642/756959568/live/myHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769038928/bcc0ef29876405680a3c1ed0d5edccb7/296797128/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/f1Df7KeM-29Hb7UEa.png",00:30 WIB ngày 22/01 Damac vs Al Nassr (1) [Mỳ Tôm] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/ZD_y-gSUX22XKwWntKNBHg/Fv2lucGIbhPi2caWYvF5Lg/1769037848710/live/myHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/IzrCDs0c855lW5zo9aOJ5A/Fv2lucGIbhPi2caWYvF5Lg/1769038928001/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/f1Df7KeM-29Hb7UEa.png",00:30 WIB ngày 22/01 Damac vs Al Nassr (1) [Mỳ Tôm] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/PPpwiqjIAhLM8EK2bPlnNQ/Fv2lucGIbhPi2caWYvF5Lg/1769037848710/live/mySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Dm6X2GKjVmwxaU4_UTndzw/Fv2lucGIbhPi2caWYvF5Lg/1769038928001/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/f1Df7KeM-29Hb7UEa.png",00:30 WIB ngày 22/01 Damac vs Al Nassr (1) [Mỳ Tôm] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037848/fdf0dc456269b3f7d58b07da2ed44d84/130814075/live/myFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769038928/ffddb52353c47b84ef648fefc6e38b56/775088403/live/myFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/f1Df7KeM-29Hb7UEa.png",00:30 WIB ngày 22/01 Damac vs Al Nassr (1) [Mỳ Tôm] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/DE_t7oWfPQ9plSo-0MXrWw/Fv2lucGIbhPi2caWYvF5Lg/1769037848710/live/sd-6MvXc75Ro9hkdjbHDd/playlist.m3u8
+https://apisportzz179528093.nsnd.live/FrtCjf2Epmatd0gTDWC6MA/Fv2lucGIbhPi2caWYvF5Lg/1769038928000/live/sd-6MvXc75Ro9hkdjbHDd/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/8ITBcOkl-4vob7cTR.png",00:45 WIB ngày 22/01 AZ Alkmaar vs Excelsior (1) [Mèo Ú] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1769037849&sign=b58f76541c8f218363d377955b1cccdb
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1769040370&sign=28e5e986a15262dda86118fe22cff22f
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/8ITBcOkl-4vob7cTR.png",00:45 WIB ngày 22/01 AZ Alkmaar vs Excelsior (1) [Mèo Ú] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037849/fc21f873b1c99bb552e056c8e7c4a60f/559030086/live/meoHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769040370/6e8594d79ecdad95a6843344966251f3/748561463/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/8ITBcOkl-4vob7cTR.png",00:45 WIB ngày 22/01 AZ Alkmaar vs Excelsior (1) [Mèo Ú] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/kelx8d_VIQ4QUKzNXvdiCg/Fv2lucGIbhPi2caWYvF5Lg/1769037849872/live/meoHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/mwtcSs6PHulW5DBf2Y1lEA/Fv2lucGIbhPi2caWYvF5Lg/1769040370655/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/8ITBcOkl-4vob7cTR.png",00:45 WIB ngày 22/01 AZ Alkmaar vs Excelsior (1) [Mèo Ú] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/cOuTqGmUUnxq9HvxPqdwVQ/Fv2lucGIbhPi2caWYvF5Lg/1769037849872/live/meoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/glhgeIeXkpJQoSUOUtVrUg/Fv2lucGIbhPi2caWYvF5Lg/1769040370655/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/8ITBcOkl-4vob7cTR.png",00:45 WIB ngày 22/01 AZ Alkmaar vs Excelsior (1) [Mèo Ú] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037849/23ab569cd8a40674811ac7457937c2c9/471839506/live/meoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769040370/5d9bc0f088942cf09999b3399b3a2a62/520573114/live/meoFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/8ITBcOkl-4vob7cTR.png",00:45 WIB ngày 22/01 AZ Alkmaar vs Excelsior (1) [Mèo Ú] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/fv7n8W1ZMWLS7ws85knINw/Fv2lucGIbhPi2caWYvF5Lg/1769037849872/live/sd-6MuT7hpCYixJ7CTmbh/playlist.m3u8
+https://apisportzz179528093.nsnd.live/q9Zm7OQvxzezeIxV4N5Ijg/Fv2lucGIbhPi2caWYvF5Lg/1769040370654/live/sd-6MuT7hpCYixJ7CTmbh/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5687dc26a16e15395ad9dfd0eab34009.png",00:45 WIB ngày 22/01 Galatasaray vs Atletico Madrid (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1769035328&sign=782cf3b3f893fcf6f851a2c54d32180d
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1769038930&sign=ecb0323e3cd47f07af039243e973add2
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5687dc26a16e15395ad9dfd0eab34009.png",00:45 WIB ngày 22/01 Galatasaray vs Atletico Madrid (1) [Người Già] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769035328/99f1a696be4d80990c84b637e3e5ee42/819851997/live/oldHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769038930/89b5096a8857ab64e27f367efd93384f/154886161/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5687dc26a16e15395ad9dfd0eab34009.png",00:45 WIB ngày 22/01 Galatasaray vs Atletico Madrid (1) [Người Già] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/nLddluXbitMB_-cHAWcbCg/Fv2lucGIbhPi2caWYvF5Lg/1769035328832/live/oldHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/pbU7Va2xMKLMTRb4mrB0-A/Fv2lucGIbhPi2caWYvF5Lg/1769038930148/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5687dc26a16e15395ad9dfd0eab34009.png",00:45 WIB ngày 22/01 Galatasaray vs Atletico Madrid (1) [Người Già] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/EhmvX7g7_Qk-mtCjsQIh4w/Fv2lucGIbhPi2caWYvF5Lg/1769035328832/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6DXr2aqbb1jXB664wfr8yg/Fv2lucGIbhPi2caWYvF5Lg/1769038930148/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5687dc26a16e15395ad9dfd0eab34009.png",00:45 WIB ngày 22/01 Galatasaray vs Atletico Madrid (1) [Người Già] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769035328/3e8c6d94e07e7031246b447431b091f5/513441968/live/oldFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769038930/6a6327efccd3dee094f7cfaa5774268c/580443411/live/oldFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5687dc26a16e15395ad9dfd0eab34009.png",00:45 WIB ngày 22/01 Galatasaray vs Atletico Madrid (1) [Người Già] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/RLKIr5RzGOjkxLDgyVMJbg/Fv2lucGIbhPi2caWYvF5Lg/1769038930147/live/sd-6MvXMfc4pyLTF2YKEj/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/5687dc26a16e15395ad9dfd0eab34009.png",00:45 WIB ngày 22/01 Galatasaray vs Atletico Madrid (1) [Người Già] Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/iMp6sm3KROR0LwCYkIqXqg/Fv2lucGIbhPi2caWYvF5Lg/1769038930148/live/hd-en-6MvXMfc4pyLTF2YKEj/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7f7d00906d511bcf48f9a600580ff953.png",00:45 WIB ngày 22/01 Qarabag vs Eintracht Frankfurt (1) [Ba Khía] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1769037851&sign=7d3949ed6e9004401f6b3b8f17a947c3
+https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1769040372&sign=09069260b81554223bc7be43f88dfdde
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7f7d00906d511bcf48f9a600580ff953.png",00:45 WIB ngày 22/01 Qarabag vs Eintracht Frankfurt (1) [Ba Khía] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037851/f9969254d1564504f1b2f61da28449fb/715654755/live/khiaHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769040372/5269af43a386bf152b6ae62e9833bebc/414660759/live/khiaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7f7d00906d511bcf48f9a600580ff953.png",00:45 WIB ngày 22/01 Qarabag vs Eintracht Frankfurt (1) [Ba Khía] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/rEmZSxFdYWp2XnvV0bSTLg/Fv2lucGIbhPi2caWYvF5Lg/1769037851986/live/khiaHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/O5gi9fEOC4E7XwZiFZ57aQ/Fv2lucGIbhPi2caWYvF5Lg/1769040372801/live/khiaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7f7d00906d511bcf48f9a600580ff953.png",00:45 WIB ngày 22/01 Qarabag vs Eintracht Frankfurt (1) [Ba Khía] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Ii6Fovkk1zACLYLyw_mvmg/Fv2lucGIbhPi2caWYvF5Lg/1769037851986/live/khiaSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/0VrQ-HYX9bvAzq0DGp2lKQ/Fv2lucGIbhPi2caWYvF5Lg/1769040372802/live/khiaSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7f7d00906d511bcf48f9a600580ff953.png",00:45 WIB ngày 22/01 Qarabag vs Eintracht Frankfurt (1) [Ba Khía] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037851/4ad0068acc85318d2c75c200b18f56bb/206947942/live/khiaFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769040372/790bff8b89ef94e14288b8d1fe506e8d/832808069/live/khiaFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7f7d00906d511bcf48f9a600580ff953.png",00:45 WIB ngày 22/01 Qarabag vs Eintracht Frankfurt (1) [Ba Khía] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/usgFU0hxcn-NGeZvtp2obw/Fv2lucGIbhPi2caWYvF5Lg/1769037851986/live/sd-6MvXMfcpKBddWVJfLX/playlist.m3u8
+https://apisportzz179528093.nsnd.live/_oTnGHOeCCctDs_QvJwblg/Fv2lucGIbhPi2caWYvF5Lg/1769040372801/live/sd-6MvXMfcpKBddWVJfLX/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/7f7d00906d511bcf48f9a600580ff953.png",00:45 WIB ngày 22/01 Qarabag vs Eintracht Frankfurt (1) [Ba Khía] Backup 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/6m16X5RRMnZlCKfBios_Gw/Fv2lucGIbhPi2caWYvF5Lg/1769037851986/live/hd-en-6MvXMfcpKBddWVJfLX/playlist.m3u8
+https://apisportzz179528093.nsnd.live/cJ1TSbzlJHdGEdipUWWGug/Fv2lucGIbhPi2caWYvF5Lg/1769040372801/live/hd-en-6MvXMfcpKBddWVJfLX/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png",01:00 WIB ngày 22/01 Barcelona (w) vs Athletic Club Bibao (w) (1) [Cá‎ Hề] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1769037853&sign=862e4f742ac61448194ea2a1dc4054ee
+https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1769040373&sign=65dda5ef31a38f1dc2e7424e2ffd863a
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png",01:00 WIB ngày 22/01 Barcelona (w) vs Athletic Club Bibao (w) (1) [Cá‎ Hề] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037853/cb8274d2c1cc132afffe1c520a77c88f/487539320/live/heHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769040373/4d6e7c18bd07763ca70f601e75283dd4/314997184/live/heHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png",01:00 WIB ngày 22/01 Barcelona (w) vs Athletic Club Bibao (w) (1) [Cá‎ Hề] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/DU1qE57tqLA_NbytFtuwMw/Fv2lucGIbhPi2caWYvF5Lg/1769037853035/live/heHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/r1ug2VUvOvTVvahM1JnvEg/Fv2lucGIbhPi2caWYvF5Lg/1769040373892/live/heHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png",01:00 WIB ngày 22/01 Barcelona (w) vs Athletic Club Bibao (w) (1) [Cá‎ Hề] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/1VYEGwpPew6VmNk6mlavlw/Fv2lucGIbhPi2caWYvF5Lg/1769037853035/live/heSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/3ZhsUFHKo2uWdK98e260kA/Fv2lucGIbhPi2caWYvF5Lg/1769040373892/live/heSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png",01:00 WIB ngày 22/01 Barcelona (w) vs Athletic Club Bibao (w) (1) [Cá‎ Hề] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769037853/ffc1dfc3edcbac47ede8d75f2afd7d8b/654695980/live/heFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769040373/36e26c8db269aafd161d64e4b6673de2/572582249/live/heFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/b65ee16a9cfe056825b1e0c15c05cf54.png",01:00 WIB ngày 22/01 Barcelona (w) vs Athletic Club Bibao (w) (1) [Cá‎ Hề] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/ZmUcn0L63ULbTPVtIe2eHg/Fv2lucGIbhPi2caWYvF5Lg/1769037853035/live/sd-6MvVcpWC9Le9AQWLRR/playlist.m3u8
+https://apisportzz179528093.nsnd.live/hGGjlc6w2aMLBG9A1wqf-Q/Fv2lucGIbhPi2caWYvF5Lg/1769040373892/live/sd-6MvVcpWC9Le9AQWLRR/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/e504e773cc6ef777381de0c47e5c8b45.png",02:30 WIB ngày 22/01 Perugia vs BR Volleys (1) [Người Băng] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1769040375&sign=2caa7aed43f348a5b22b8eca1fa2bd5b
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/e504e773cc6ef777381de0c47e5c8b45.png",02:30 WIB ngày 22/01 Perugia vs BR Volleys (1) [Người Băng] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769040375/8e97b0930d83527fda9972a8ecba35ae/902573673/live/bangHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/e504e773cc6ef777381de0c47e5c8b45.png",02:30 WIB ngày 22/01 Perugia vs BR Volleys (1) [Người Băng] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/t0BVXfyH64sXMXY90-LZEQ/Fv2lucGIbhPi2caWYvF5Lg/1769040375004/live/bangHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/e504e773cc6ef777381de0c47e5c8b45.png",02:30 WIB ngày 22/01 Perugia vs BR Volleys (1) [Người Băng] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/y3L4MOBF4Zm7Pz7Q4QP1Ew/Fv2lucGIbhPi2caWYvF5Lg/1769040375004/live/bangSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/e504e773cc6ef777381de0c47e5c8b45.png",02:30 WIB ngày 22/01 Perugia vs BR Volleys (1) [Người Băng] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769040375/9851b54d2342b7a49245adf97a22b8c7/591190598/live/bangFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2934.png",00h30 22/01 Al-Ettifaq vs NEOM (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2018,30 +1942,6 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://static.flashscore.com/res/image/data/4WjJwnzB-IF2PlxQk.png",23:00 WIB ngày 21/01 FC Diarra vs Foot Elite (Mãn nhãn) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x6y1/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://static.flashscore.com/res/image/data/4WjJwnzB-IF2PlxQk.png",23:00 WIB ngày 21/01 FC Diarra vs Foot Elite (Mãn nhãn) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x6y3-0067/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://static.flashscore.com/res/image/data/4WjJwnzB-IF2PlxQk.png",23:00 WIB ngày 21/01 FC Diarra vs Foot Elite (Mãn nhãn) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x6y2/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1426272_small.png",23:00 WIB ngày 21/01 AS Real Bamako vs ASKO Kara (Mãn nhãn) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x0y1/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1426272_small.png",23:00 WIB ngày 21/01 AS Real Bamako vs ASKO Kara (Mãn nhãn) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x0y3-3635/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1426272_small.png",23:00 WIB ngày 21/01 AS Real Bamako vs ASKO Kara (Mãn nhãn) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/582823_small.png",00:30 WIB ngày 22/01 Damac FC vs Al Nassr FC (Mãn nhãn) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
