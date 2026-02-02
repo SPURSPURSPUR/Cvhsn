@@ -1,13 +1,5 @@
 #EXTM3U
 # --- Bongda 1 Playlist Start ---
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/f4eced72fc863a0ac313bf3a04e046d8.png",15h00 ngày 02/02 Persikutim United vs Persebata Lembata (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/134b9323ebf622a7e012715582a7c089/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/cb045077b1cf7fa3c7a1aec74546bb15.png",15h00 ngày 02/02 Xorazm Urganch vs Zimbru Chisinau (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/21e0a1a8505c734a9a63f4ec6012b5ac/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/b7c2a3b753818949f1820c96d3c32609.png",15h10 ngày 02/02 Triples Kediri vs Persid Jember (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -24,6 +16,10 @@ https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/41c159698a6387d3218413e754c3d31b/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/78ef562243f0d600efee82d714805030.png",16h30 ngày 02/02 Dream Team vs United Bharat FC (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/3ccc8c4509880be882f974740b4ac010/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/db6f9b35497e7692dd2843dbada37c1a.png",17h00 ngày 01/02 Hoang Anh Gia Lai vs SHB Da Nang (Lấy kinh) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -162,6 +158,18 @@ https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3401_164941022544.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Lương Sơn) BLV URA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769967404.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769967404.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769967404.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769967404.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3401_164941022544.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
@@ -198,30 +206,12 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010803.jpg",12h42 ngày 02/02 Barcelona vs Real Oviedo (Lương Sơn) BLV LƯU BỊ REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD 1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png",12h00 ngày 02/02 Manchester City vs Wolves (Lương Sơn) BLV VƯƠNG LUÂN REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD 1
+https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png",12h00 ngày 02/02 Manchester City vs Wolves (Lương Sơn) BLV VƯƠNG LUÂN REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
+https://flv.cdnok9.com/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png",03h00 ngày 03/02 Millonarios vs Dep.Independiente Medellin (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -246,30 +236,46 @@ https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/19f2a5bdd54f10921cd0320022009952/image/small?v=1768601124",15h00 ngày 02/02 Persikutim United vs Persebata Lembata (Khán Đài A) source
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small",17h00 ngày 02/02 IBK Women vs GS Caltex Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/134b9323ebf622a7e012715582a7c089/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5cdceb57f8d6d8e627a62fbbc4ca37c2/image/small?v=1768601124",15h30 ngày 02/02 Little Friends Club vs Chattogram City FC (Khán Đài A) source
+https://live.alilicloud.com/live/a78c29b32ebf0dbfa321ec8d24d0f779/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small",17h00 ngày 02/02 IBK Women vs GS Caltex Women (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8dcbbdcbcb28c6664433d79a9d8df0ab/image/small?v=1768601124",13h15 ngày 02/02 Bangladesh Women U19 vs India Women U17 (Khán Đài A) source
+https://stm02bc48435558.stream.hdplaylink.com/live3/b070a45b6bcc43dbb5b9d19d079d6073_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small",17h00 ngày 02/02 IBK Women vs GS Caltex Women (Khán Đài A) hd_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/83ca0893595d748499ce9177d7864c3e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/14df0fdda0e50d3aacb39b39feb07b14/image/small?v=1768601124",15h00 ngày 02/02 Triples Kediri vs Persid Jember (Khán Đài A) source
+https://stm02bc67274262.stream.hdplaylink.com/live4/b070a45b6bcc43dbb5b9d19d079d6073_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small",17h00 ngày 02/02 IBK Women vs GS Caltex Women (Khán Đài A) hd_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c63763ec124caee1b7af37fe44a22245/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/33918226aa0d24d33b77ea48a330c74e/image/small?v=1768601124",13h30 ngày 02/02  vs Warriors Delhi (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6c092aeb07c95ff98b527f02cca9caa7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/edae738319dd0d8402a9ac0ba7ac700c/image/small?v=1768601124",12h00 ngày 02/02  vs  (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c4c6ba4fda4d75ee49b908b2d68bc710/playlist.m3u8
+https://live3.fastestcdn-global.com/live3/b070a45b6bcc43dbb5b9d19d079d6073_720/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/070e2da186edc0d2e7f6025568d28ab4/image/small?v=1768601124",16h15 ngày 02/02 Nepal U19 Women vs Bhutan Women U19 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -278,10 +284,6 @@ https://live.alilicloud.com/live/41c159698a6387d3218413e754c3d31b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9bb8d496160cd2f129ec7e92350c8a2b/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3b9cf3399f7b0e3ae3412ee8b7276fb9/image/small?v=1768601124",11h00 ngày 02/02 DYES vs Jawahar Union (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b1c9c073ad60fe3976e2ec748bad6e4f/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/10ba339405741f6d70096719e64c0f61/image/small?v=1768601124",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -298,6 +300,10 @@ https://stm02bc67274262.stream.hdplaylink.com/live4/7186ee6e354b43dbbf6220bae2bc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/7186ee6e354b43dbbf6220bae2bcc623_720/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8250822f750d6d9397489a2cb70e01ab/image/small?v=1768601124",16h30 ngày 02/02 Dream Team vs United Bharat FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3ccc8c4509880be882f974740b4ac010/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a7126fde0ecefbc024d9348e3938ecc9/image/small?v=1768601124",15h00 ngày 02/02 Xorazm Urganch vs Zimbru Chisinau (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -306,6 +312,34 @@ https://live.alilicloud.com/live/21e0a1a8505c734a9a63f4ec6012b5ac/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f1d3d6ba25123d63f9a1d0a1cb73cd9d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/19f2a5bdd54f10921cd0320022009952/image/small?v=1768601124",15h00 ngày 02/02 Persikutim United vs Persebata Lembata (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/134b9323ebf622a7e012715582a7c089/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5cdceb57f8d6d8e627a62fbbc4ca37c2/image/small?v=1768601124",15h30 ngày 02/02 Little Friends Club vs Chattogram City FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8dcbbdcbcb28c6664433d79a9d8df0ab/image/small?v=1768601124",13h15 ngày 02/02 Bangladesh Women U19 vs India Women U17 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/83ca0893595d748499ce9177d7864c3e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/6b034c71f7207bc9be30bdfdf55f79bd/image/small",17h00 ngày 02/02 CSKA Sofia Women vs Spartak Varna Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a25bf0b3610804299d893e82b8142f01/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/14df0fdda0e50d3aacb39b39feb07b14/image/small?v=1768601124",15h00 ngày 02/02 Triples Kediri vs Persid Jember (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c63763ec124caee1b7af37fe44a22245/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/33918226aa0d24d33b77ea48a330c74e/image/small?v=1768601124",13h30 ngày 02/02  vs Warriors Delhi (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6c092aeb07c95ff98b527f02cca9caa7/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/edae738319dd0d8402a9ac0ba7ac700c/image/small?v=1768601124",12h00 ngày 02/02  vs  (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c4c6ba4fda4d75ee49b908b2d68bc710/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134615_6b83f5fd.png",15h30 ngày 02/02 Arema FC vs Persijap (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -626,10 +660,6 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5cdceb57f8d6d8e627a62fbbc4ca37c2/image/small?v=1768601124",15h30 ngày 02/02 Little Friends Club vs Chattogram City FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/070e2da186edc0d2e7f6025568d28ab4/image/small?v=1768601124",16h15 ngày 02/02 Nepal U19 Women vs Bhutan Women U19 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -638,6 +668,10 @@ https://live.alilicloud.com/live/41c159698a6387d3218413e754c3d31b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/9bb8d496160cd2f129ec7e92350c8a2b/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8250822f750d6d9397489a2cb70e01ab/image/small?v=1768601124",16h30 ngày 02/02 Dream Team vs United Bharat FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3ccc8c4509880be882f974740b4ac010/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/19f2a5bdd54f10921cd0320022009952/image/small?v=1768601124",15h00 ngày 02/02 Persikutim United vs Persebata Lembata (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -646,14 +680,6 @@ https://live.alilicloud.com/live/134b9323ebf622a7e012715582a7c089/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/21e0a1a8505c734a9a63f4ec6012b5ac/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8dcbbdcbcb28c6664433d79a9d8df0ab/image/small?v=1768601124",13h15 ngày 02/02 Bangladesh Women U19 vs India Women U17 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/83ca0893595d748499ce9177d7864c3e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/81d33c77bc9c463d7f43cc1a5541def8/image/small?v=1768601124",13h00 ngày 02/02 Persenga Nganjuk vs Persepam Pamekasan (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f1d3d6ba25123d63f9a1d0a1cb73cd9d/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/14df0fdda0e50d3aacb39b39feb07b14/image/small?v=1768601124",15h00 ngày 02/02 Triples Kediri vs Persid Jember (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -690,102 +716,150 @@ https://live8.fastestcdn-global.com/live8/97a985c5cf2e410c8c6f3b72251b05ee_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live8.fastestcdn-global.com/live8/97a985c5cf2e410c8c6f3b72251b05ee_720/index.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770027454-0-0-8ec5c2b93835fc6dce2187f291cb7a35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770027454-0-0-e107019d17289f5c901730ec2164b3a5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770027454-0-0-6dd506e1afd6e3cc21c52de10813bb8d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770027454-0-0-e50d35c2e494dedf6c5863b8a09a49c7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1770027454-0-0-95ea6e5e0c50adba7820ebf61bc92e67
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1770027454-0-0-f89888057848a9dcebf82f29b310c493
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1770027454-0-0-26c0733c3125209ab04b2c435857e7ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1770027454-0-0-2fc3d40e7b9f15e0f24ff01df21da05a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1770027814-0-0-739679183bdeec4d997c32dec75fc6ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1770027814-0-0-deb630355cbc66a9f8d20598c8ada376
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770027814-0-0-5a87e541168863c0878d725d593eb0b3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770027814-0-0-37de2abf0b6c51622d72f20ceb676d82
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1770027814-0-0-9771e04c35a7888bcb1f3899f47f8674
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1770027814-0-0-997e5af4c6854e971cfbb365b653cad4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770027814-0-0-321e422754dd0c76250d973bbada1a5f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770027814-0-0-f38065f40d48398531c837b28e07e143
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small",17h00 ngày 02/02 IBK Women vs GS Caltex Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a78c29b32ebf0dbfa321ec8d24d0f779/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5cdceb57f8d6d8e627a62fbbc4ca37c2/image/small?v=1768601124",15h30 ngày 02/02 Little Friends Club vs Chattogram City FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/6b034c71f7207bc9be30bdfdf55f79bd/image/small",17h00 ngày 02/02 CSKA Sofia Women vs Spartak Varna Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a25bf0b3610804299d893e82b8142f01/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770027814-0-0-ec2bb0336d13dbc60043da9b8fe67518
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770031054-0-0-367307f16b4bc1d5b13c0f4670e38c8d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1770027814-0-0-1fbb56cfc93b1fc65f5e618b4bd3a937
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1770031054-0-0-d4898d417460e7b587b3dd73e090dae0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770027814-0-0-8a0e744759f5fb7f72040986d37611d1
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770031054-0-0-a40e36643393091ed214ba8a68e8e6c8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1770027814-0-0-20a7087136156ff7c196b292ade3b3c4
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1770031054-0-0-76582313543ff927ff0ce1afd0c93a40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1770031054-0-0-8ea264cfc8729d19a01c21149867f4df
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1770031054-0-0-4e19417b9f6e5d7d36c3494872110801
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1770031054-0-0-a9764de05bd7609afa9a4e6a5e0d8fa4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1770031054-0-0-8d4a0118f5401792f172a69e582a50cf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1770031054-0-0-7818f5981862dc975e99aebf8a5e102a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1770031054-0-0-285284eaac368992694996a50d925405
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770031054-0-0-19b8fd2cb072da87af974c2546108502
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770031054-0-0-807d11f7ff9cb9dd0033d68687f27b2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1770031054-0-0-29f4cc8ab234cc18e35444d549caf846
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1770031054-0-0-7cf2a4ddbf21abb58adb1de919153808
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770031054-0-0-528551885d613315119cac559e91abed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770031054-0-0-87eeb4a4f58b9dc0dbd114694901ca83
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1770031414-0-0-5062d2066d7d15071b01f0118f12d4d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1770031414-0-0-3a06806a70aa38c5f661571c8c7f24d0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1770031414-0-0-d78c8952aba4e8c45f2622a837e788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1770031414-0-0-59c804dbb365ac283cdad45501caccde
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=3cc18ef1abe8396bb6f7e81433f2f085&txTime=6980c2de
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=bef89fe417535b40ea6dc145d2a4d7f1&txTime=6980cf86
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=07c781393edb880baa8e9ca621fc6c30&txTime=6980c2de
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=d489edd0df63abc92668ec2b6b061132&txTime=6980cf86
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=3cc18ef1abe8396bb6f7e81433f2f085&txTime=6980c2de
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=bef89fe417535b40ea6dc145d2a4d7f1&txTime=6980cf86
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=07c781393edb880baa8e9ca621fc6c30&txTime=6980c2de
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=d489edd0df63abc92668ec2b6b061132&txTime=6980cf86
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1770028174-0-0-2d54bde88a962d0d289aa1362cf57269
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1770031414-0-0-5c99eac91bf2f08a2421b2c5054dd34a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1770028174-0-0-74d6b1cf524b860868d55503161fa1cc
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1770031414-0-0-4e01556999d9f5e712dbfb526d77c216
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770028174-0-0-dd84fa026dedea4894ea1dd808a55ce1
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770031414-0-0-58812a940dff33fe1be214d947224b0d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770028174-0-0-0864fc7af64d62b8ec12e4d1ab9fcd26
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770031414-0-0-a40840fa5f174600e87036f9723ad978
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770028174-0-0-ea1d1f0fb8cc22ef7f01f004a04177df
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770031414-0-0-0f977606ed1e33c6c78009649508fdda
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770028174-0-0-9023c1e002b49f5ba742b248263b3316
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770031414-0-0-63b53815a741e48bbae54e2fbf4b74b6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770028174-0-0-4dd9fa66e58bf6b5fc1d90a1cdb20a49
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770031414-0-0-53293f398d52ea4aa5747e3a3134f4ab
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770028174-0-0-9e5772ae3200e4ca8a9b86e3ada43832
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770031414-0-0-ae195511b29d5cc9fe84039f702d66f3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770031774-0-0-659b65637d88f562917356737f589aa2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770031774-0-0-0ffec795af89c6b79ef29c70bd8490d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770031774-0-0-32e9caebb74449bff4472d837e252851
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770031774-0-0-248c1e7515297c1053d403b5a9da8d5d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1770031774-0-0-5f7680fead35fd72ff6161fea036cab8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1770031774-0-0-777b6700731056ae14a27e387a9dbf9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1770031774-0-0-9c89a576867f1a69aa0378c56117d583
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1770031774-0-0-7ec4c6ddcfacb5b5f1f3229b2201b173
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17h00 ngày 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1770031774-0-0-bf190d715245f9e73e46a4d93598cede
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17h00 ngày 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1770031774-0-0-aef0c3edff4e69e016d2db2ed09e66e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17h00 ngày 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1770031774-0-0-6f7b96c70e6a76af0f6210d27d56437c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17h00 ngày 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1770031774-0-0-3d2530c18cf450d72fe69b9f6165d5a5
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/OMG_esports_logo.png",16h00 02/02 OMG vs LGD (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -813,15 +887,10 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80",15h30 02/02 Arema Malang vs Persijap Jepara
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/14830711.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80",17h00 02/02 Seoul Knights vs KCC Egis
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/82054853.m3u8
 # --- Bongda 2 Playlist Start ---
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/f4eced72fc863a0ac313bf3a04e046d8.png",15h00 ngày 02/02 Persikutim United vs Persebata Lembata (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/134b9323ebf622a7e012715582a7c089/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/cb045077b1cf7fa3c7a1aec74546bb15.png",15h00 ngày 02/02 Xorazm Urganch vs Zimbru Chisinau (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/21e0a1a8505c734a9a63f4ec6012b5ac/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/b7c2a3b753818949f1820c96d3c32609.png",15h10 ngày 02/02 Triples Kediri vs Persid Jember (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -838,6 +907,10 @@ https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/41c159698a6387d3218413e754c3d31b/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/78ef562243f0d600efee82d714805030.png",16h30 ngày 02/02 Dream Team vs United Bharat FC (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/3ccc8c4509880be882f974740b4ac010/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/db6f9b35497e7692dd2843dbada37c1a.png",17h00 ngày 01/02 Hoang Anh Gia Lai vs SHB Da Nang (Lấy kinh) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -976,6 +1049,18 @@ https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3401_164941022544.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Lương Sơn) BLV URA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769967404.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769967404.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769967404.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769967404.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3401_164941022544.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
@@ -1012,30 +1097,12 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010803.jpg",12h42 ngày 02/02 Barcelona vs Real Oviedo (Lương Sơn) BLV LƯU BỊ REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD 1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png",12h00 ngày 02/02 Manchester City vs Wolves (Lương Sơn) BLV VƯƠNG LUÂN REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD 1
+https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770010274.png",12h00 ngày 02/02 Manchester City vs Wolves (Lương Sơn) BLV VƯƠNG LUÂN REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
+https://flv.cdnok9.com/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png",03h00 ngày 03/02 Millonarios vs Dep.Independiente Medellin (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1060,30 +1127,46 @@ https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/19f2a5bdd54f10921cd0320022009952/image/small?v=1768601124",15h00 ngày 02/02 Persikutim United vs Persebata Lembata (Khán Đài A) source
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phusd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phusd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phuhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phusd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png",15h30 ngày 02/02 Arema FC vs Persijap Jepara (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phuhd1Rk.flv
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small",17h00 ngày 02/02 IBK Women vs GS Caltex Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/134b9323ebf622a7e012715582a7c089/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5cdceb57f8d6d8e627a62fbbc4ca37c2/image/small?v=1768601124",15h30 ngày 02/02 Little Friends Club vs Chattogram City FC (Khán Đài A) source
+https://live.alilicloud.com/live/a78c29b32ebf0dbfa321ec8d24d0f779/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small",17h00 ngày 02/02 IBK Women vs GS Caltex Women (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8dcbbdcbcb28c6664433d79a9d8df0ab/image/small?v=1768601124",13h15 ngày 02/02 Bangladesh Women U19 vs India Women U17 (Khán Đài A) source
+https://stm02bc48435558.stream.hdplaylink.com/live3/b070a45b6bcc43dbb5b9d19d079d6073_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small",17h00 ngày 02/02 IBK Women vs GS Caltex Women (Khán Đài A) hd_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/83ca0893595d748499ce9177d7864c3e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/14df0fdda0e50d3aacb39b39feb07b14/image/small?v=1768601124",15h00 ngày 02/02 Triples Kediri vs Persid Jember (Khán Đài A) source
+https://stm02bc67274262.stream.hdplaylink.com/live4/b070a45b6bcc43dbb5b9d19d079d6073_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small",17h00 ngày 02/02 IBK Women vs GS Caltex Women (Khán Đài A) hd_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c63763ec124caee1b7af37fe44a22245/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/33918226aa0d24d33b77ea48a330c74e/image/small?v=1768601124",13h30 ngày 02/02  vs Warriors Delhi (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6c092aeb07c95ff98b527f02cca9caa7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/edae738319dd0d8402a9ac0ba7ac700c/image/small?v=1768601124",12h00 ngày 02/02  vs  (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c4c6ba4fda4d75ee49b908b2d68bc710/playlist.m3u8
+https://live3.fastestcdn-global.com/live3/b070a45b6bcc43dbb5b9d19d079d6073_720/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/070e2da186edc0d2e7f6025568d28ab4/image/small?v=1768601124",16h15 ngày 02/02 Nepal U19 Women vs Bhutan Women U19 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1092,10 +1175,6 @@ https://live.alilicloud.com/live/41c159698a6387d3218413e754c3d31b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9bb8d496160cd2f129ec7e92350c8a2b/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3b9cf3399f7b0e3ae3412ee8b7276fb9/image/small?v=1768601124",11h00 ngày 02/02 DYES vs Jawahar Union (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b1c9c073ad60fe3976e2ec748bad6e4f/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/10ba339405741f6d70096719e64c0f61/image/small?v=1768601124",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1112,6 +1191,10 @@ https://stm02bc67274262.stream.hdplaylink.com/live4/7186ee6e354b43dbbf6220bae2bc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/7186ee6e354b43dbbf6220bae2bcc623_720/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8250822f750d6d9397489a2cb70e01ab/image/small?v=1768601124",16h30 ngày 02/02 Dream Team vs United Bharat FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3ccc8c4509880be882f974740b4ac010/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a7126fde0ecefbc024d9348e3938ecc9/image/small?v=1768601124",15h00 ngày 02/02 Xorazm Urganch vs Zimbru Chisinau (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1120,6 +1203,34 @@ https://live.alilicloud.com/live/21e0a1a8505c734a9a63f4ec6012b5ac/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f1d3d6ba25123d63f9a1d0a1cb73cd9d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/19f2a5bdd54f10921cd0320022009952/image/small?v=1768601124",15h00 ngày 02/02 Persikutim United vs Persebata Lembata (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/134b9323ebf622a7e012715582a7c089/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5cdceb57f8d6d8e627a62fbbc4ca37c2/image/small?v=1768601124",15h30 ngày 02/02 Little Friends Club vs Chattogram City FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8dcbbdcbcb28c6664433d79a9d8df0ab/image/small?v=1768601124",13h15 ngày 02/02 Bangladesh Women U19 vs India Women U17 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/83ca0893595d748499ce9177d7864c3e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/6b034c71f7207bc9be30bdfdf55f79bd/image/small",17h00 ngày 02/02 CSKA Sofia Women vs Spartak Varna Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a25bf0b3610804299d893e82b8142f01/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/14df0fdda0e50d3aacb39b39feb07b14/image/small?v=1768601124",15h00 ngày 02/02 Triples Kediri vs Persid Jember (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c63763ec124caee1b7af37fe44a22245/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/33918226aa0d24d33b77ea48a330c74e/image/small?v=1768601124",13h30 ngày 02/02  vs Warriors Delhi (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6c092aeb07c95ff98b527f02cca9caa7/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/edae738319dd0d8402a9ac0ba7ac700c/image/small?v=1768601124",12h00 ngày 02/02  vs  (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c4c6ba4fda4d75ee49b908b2d68bc710/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134615_6b83f5fd.png",15h30 ngày 02/02 Arema FC vs Persijap (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1440,10 +1551,6 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5cdceb57f8d6d8e627a62fbbc4ca37c2/image/small?v=1768601124",15h30 ngày 02/02 Little Friends Club vs Chattogram City FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/070e2da186edc0d2e7f6025568d28ab4/image/small?v=1768601124",16h15 ngày 02/02 Nepal U19 Women vs Bhutan Women U19 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1452,6 +1559,10 @@ https://live.alilicloud.com/live/41c159698a6387d3218413e754c3d31b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/9bb8d496160cd2f129ec7e92350c8a2b/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8250822f750d6d9397489a2cb70e01ab/image/small?v=1768601124",16h30 ngày 02/02 Dream Team vs United Bharat FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3ccc8c4509880be882f974740b4ac010/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/19f2a5bdd54f10921cd0320022009952/image/small?v=1768601124",15h00 ngày 02/02 Persikutim United vs Persebata Lembata (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1460,14 +1571,6 @@ https://live.alilicloud.com/live/134b9323ebf622a7e012715582a7c089/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/21e0a1a8505c734a9a63f4ec6012b5ac/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8dcbbdcbcb28c6664433d79a9d8df0ab/image/small?v=1768601124",13h15 ngày 02/02 Bangladesh Women U19 vs India Women U17 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/83ca0893595d748499ce9177d7864c3e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/81d33c77bc9c463d7f43cc1a5541def8/image/small?v=1768601124",13h00 ngày 02/02 Persenga Nganjuk vs Persepam Pamekasan (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f1d3d6ba25123d63f9a1d0a1cb73cd9d/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/14df0fdda0e50d3aacb39b39feb07b14/image/small?v=1768601124",15h00 ngày 02/02 Triples Kediri vs Persid Jember (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1504,102 +1607,150 @@ https://live8.fastestcdn-global.com/live8/97a985c5cf2e410c8c6f3b72251b05ee_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live8.fastestcdn-global.com/live8/97a985c5cf2e410c8c6f3b72251b05ee_720/index.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770027454-0-0-8ec5c2b93835fc6dce2187f291cb7a35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770027454-0-0-e107019d17289f5c901730ec2164b3a5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770027454-0-0-6dd506e1afd6e3cc21c52de10813bb8d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770027454-0-0-e50d35c2e494dedf6c5863b8a09a49c7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1770027454-0-0-95ea6e5e0c50adba7820ebf61bc92e67
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1770027454-0-0-f89888057848a9dcebf82f29b310c493
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1770027454-0-0-26c0733c3125209ab04b2c435857e7ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1770027454-0-0-2fc3d40e7b9f15e0f24ff01df21da05a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1770027814-0-0-739679183bdeec4d997c32dec75fc6ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1770027814-0-0-deb630355cbc66a9f8d20598c8ada376
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770027814-0-0-5a87e541168863c0878d725d593eb0b3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770027814-0-0-37de2abf0b6c51622d72f20ceb676d82
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1770027814-0-0-9771e04c35a7888bcb1f3899f47f8674
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1770027814-0-0-997e5af4c6854e971cfbb365b653cad4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770027814-0-0-321e422754dd0c76250d973bbada1a5f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770027814-0-0-f38065f40d48398531c837b28e07e143
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/478067eb9a0a1d42bb22901fcf66f7fd/image/small",17h00 ngày 02/02 IBK Women vs GS Caltex Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a78c29b32ebf0dbfa321ec8d24d0f779/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5cdceb57f8d6d8e627a62fbbc4ca37c2/image/small?v=1768601124",15h30 ngày 02/02 Little Friends Club vs Chattogram City FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ea7adb9c576bcd32b0f1f89e6cd08dcd/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/6b034c71f7207bc9be30bdfdf55f79bd/image/small",17h00 ngày 02/02 CSKA Sofia Women vs Spartak Varna Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a25bf0b3610804299d893e82b8142f01/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770027814-0-0-ec2bb0336d13dbc60043da9b8fe67518
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770031054-0-0-367307f16b4bc1d5b13c0f4670e38c8d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1770027814-0-0-1fbb56cfc93b1fc65f5e618b4bd3a937
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1770031054-0-0-d4898d417460e7b587b3dd73e090dae0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770027814-0-0-8a0e744759f5fb7f72040986d37611d1
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770031054-0-0-a40e36643393091ed214ba8a68e8e6c8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1770027814-0-0-20a7087136156ff7c196b292ade3b3c4
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1770031054-0-0-76582313543ff927ff0ce1afd0c93a40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1770031054-0-0-8ea264cfc8729d19a01c21149867f4df
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1770031054-0-0-4e19417b9f6e5d7d36c3494872110801
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1770031054-0-0-a9764de05bd7609afa9a4e6a5e0d8fa4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1770031054-0-0-8d4a0118f5401792f172a69e582a50cf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1770031054-0-0-7818f5981862dc975e99aebf8a5e102a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1770031054-0-0-285284eaac368992694996a50d925405
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1770031054-0-0-19b8fd2cb072da87af974c2546108502
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1770031054-0-0-807d11f7ff9cb9dd0033d68687f27b2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1770031054-0-0-29f4cc8ab234cc18e35444d549caf846
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1770031054-0-0-7cf2a4ddbf21abb58adb1de919153808
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1770031054-0-0-528551885d613315119cac559e91abed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1770031054-0-0-87eeb4a4f58b9dc0dbd114694901ca83
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1770031414-0-0-5062d2066d7d15071b01f0118f12d4d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1770031414-0-0-3a06806a70aa38c5f661571c8c7f24d0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1770031414-0-0-d78c8952aba4e8c45f2622a837e788f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1770031414-0-0-59c804dbb365ac283cdad45501caccde
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=3cc18ef1abe8396bb6f7e81433f2f085&txTime=6980c2de
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=bef89fe417535b40ea6dc145d2a4d7f1&txTime=6980cf86
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=07c781393edb880baa8e9ca621fc6c30&txTime=6980c2de
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=d489edd0df63abc92668ec2b6b061132&txTime=6980cf86
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=3cc18ef1abe8396bb6f7e81433f2f085&txTime=6980c2de
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=bef89fe417535b40ea6dc145d2a4d7f1&txTime=6980cf86
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=07c781393edb880baa8e9ca621fc6c30&txTime=6980c2de
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=d489edd0df63abc92668ec2b6b061132&txTime=6980cf86
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1770028174-0-0-2d54bde88a962d0d289aa1362cf57269
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1770031414-0-0-5c99eac91bf2f08a2421b2c5054dd34a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1770028174-0-0-74d6b1cf524b860868d55503161fa1cc
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1770031414-0-0-4e01556999d9f5e712dbfb526d77c216
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770028174-0-0-dd84fa026dedea4894ea1dd808a55ce1
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770031414-0-0-58812a940dff33fe1be214d947224b0d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/ac4729151143462f22b4c73223924bf4.png",17h00 ngày 02/02 Seoul Knights vs KCC Egis [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770028174-0-0-0864fc7af64d62b8ec12e4d1ab9fcd26
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770031414-0-0-a40840fa5f174600e87036f9723ad978
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770028174-0-0-ea1d1f0fb8cc22ef7f01f004a04177df
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770031414-0-0-0f977606ed1e33c6c78009649508fdda
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770028174-0-0-9023c1e002b49f5ba742b248263b3316
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770031414-0-0-63b53815a741e48bbae54e2fbf4b74b6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770028174-0-0-4dd9fa66e58bf6b5fc1d90a1cdb20a49
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770031414-0-0-53293f398d52ea4aa5747e3a3134f4ab
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/1829b712e5920573cf8cc69e6dcf50b8.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770028174-0-0-9e5772ae3200e4ca8a9b86e3ada43832
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770031414-0-0-ae195511b29d5cc9fe84039f702d66f3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770031774-0-0-659b65637d88f562917356737f589aa2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770031774-0-0-0ffec795af89c6b79ef29c70bd8490d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770031774-0-0-32e9caebb74449bff4472d837e252851
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770031774-0-0-248c1e7515297c1053d403b5a9da8d5d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1770031774-0-0-5f7680fead35fd72ff6161fea036cab8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1770031774-0-0-777b6700731056ae14a27e387a9dbf9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1770031774-0-0-9c89a576867f1a69aa0378c56117d583
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/1a1c1c149f069c8e82dc9af8be9dbbff.png",15h30 ngày 02/02 Arema FC vs Persatuan Sepakbola Indonesia Jepara [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1770031774-0-0-7ec4c6ddcfacb5b5f1f3229b2201b173
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17h00 ngày 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1770031774-0-0-bf190d715245f9e73e46a4d93598cede
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17h00 ngày 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1770031774-0-0-aef0c3edff4e69e016d2db2ed09e66e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17h00 ngày 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1770031774-0-0-6f7b96c70e6a76af0f6210d27d56437c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260131/6c6ef357138b95a4c3375a3b88c6b52a.png",17h00 ngày 02/02 KB Stars W vs Busan BNK Sum W [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1770031774-0-0-3d2530c18cf450d72fe69b9f6165d5a5
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/OMG_esports_logo.png",16h00 02/02 OMG vs LGD (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1627,6 +1778,9 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80",15h30 02/02 Arema Malang vs Persijap Jepara
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/14830711.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80",17h00 02/02 Seoul Knights vs KCC Egis
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/82054853.m3u8
 # --- Sony Playlist Start ---
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
@@ -1684,12 +1838,12 @@ https://live5.msrktz.app/live/14830711.m3u8
       </div><!-- /.section -->
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9c78b5a12f52303f</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9c790b21ee84dadb</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">68.220.61.193</span>
+        <span class="hidden" id="cf-footer-ip">64.236.137.130</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
