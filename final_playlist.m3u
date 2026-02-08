@@ -1,14 +1,20 @@
 #EXTM3U
 # --- Bongda 1 Playlist Start ---
 #EXTM3U
-#EXTINF:-1 group-title="Bún chả",[NBA] Indiana Pacers vs Toronto Raptors lúc 04:44 WIB ngày 09/02/2026 [FLV]
+#EXTINF:-1 group-title="Bún chả",[NBA] Indiana Pacers vs Toronto Raptors lúc 05:12 WIB ngày 09/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893950149.global.cdnfastest.com/live/6988ebbf26631_4733.flv?expire=1771185727&sign=229d4296cc4e230187ec9f9c661deb06
-#EXTINF:-1 group-title="Bún chả",[NBA] Indiana Pacers vs Toronto Raptors lúc 04:44 WIB ngày 09/02/2026 [HLS]
+#EXTINF:-1 group-title="Bún chả",[NBA] Indiana Pacers vs Toronto Raptors lúc 05:12 WIB ngày 09/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://2893254555.global.cdnfastest.com/live/6988ebbf26631_4733/index.m3u8?expire=1771185727&sign=229d4296cc4e230187ec9f9c661deb06
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770572657.png",03h00 ngày 09/02 Minnesota Timberwolves vs Los Angeles Clippers (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770572657.png",03h00 ngày 09/02 Minnesota Timberwolves vs Los Angeles Clippers (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/422_165095593478.png",03h30 ngày 09/02 Benfica vs Alverca (Lương Sơn) BLV MÃ SIÊU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
@@ -21,60 +27,6 @@ https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d7
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/422_165095593478.png",03h30 ngày 09/02 Benfica vs Alverca (Lương Sơn) BLV TÔN LẬP flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/10887_164940946445.png",03h00 ngày 09/02 Sarmiento Junin vs Atletico Tucuman (Lương Sơn) BLV CHUNN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/10887_164940946445.png",03h00 ngày 09/02 Sarmiento Junin vs Atletico Tucuman (Lương Sơn) BLV CHUNN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/CHUN1.flv?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4340_164940937293.png",03h00 ngày 09/02 CA Platense vs Independiente (Lương Sơn) BLV TRƯƠNG THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4340_164940937293.png",03h00 ngày 09/02 CA Platense vs Independiente (Lương Sơn) BLV TRƯƠNG THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/83_164871269140.png",03h00 ngày 09/02 Valencia vs Real Madrid (Lương Sơn) BLV A TỦA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/83_164871269140.png",03h00 ngày 09/02 Valencia vs Real Madrid (Lương Sơn) BLV A TỦA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/83_164871269140.png",03h00 ngày 09/02 Valencia vs Real Madrid (Lương Sơn) BLV LEO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/83_164871269140.png",03h00 ngày 09/02 Valencia vs Real Madrid (Lương Sơn) BLV LEO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/83_164871269140.png",03h00 ngày 09/02 Valencia vs Real Madrid (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/83_164871269140.png",03h00 ngày 09/02 Valencia vs Real Madrid (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/83_164871269140.png",03h00 ngày 09/02 Valencia vs Real Madrid (Lương Sơn) BLV NHỊ KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/83_164871269140.png",03h00 ngày 09/02 Valencia vs Real Madrid (Lương Sơn) BLV NHỊ KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/153_1grmmxq1wa2k.png",02h45 ngày 09/02 Juventus vs Lazio (Lương Sơn) BLV LÝ ỨNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/153_1grmmxq1wa2k.png",02h45 ngày 09/02 Juventus vs Lazio (Lương Sơn) BLV LÝ ỨNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/153_1grmmxq1wa2k.png",02h45 ngày 09/02 Juventus vs Lazio (Lương Sơn) BLV TẦN CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/153_1grmmxq1wa2k.png",02h45 ngày 09/02 Juventus vs Lazio (Lương Sơn) BLV TẦN CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/153_1grmmxq1wa2k.png",02h45 ngày 09/02 Juventus vs Lazio (Lương Sơn) BLV THỜI THIÊN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/153_1grmmxq1wa2k.png",02h45 ngày 09/02 Juventus vs Lazio (Lương Sơn) BLV THỜI THIÊN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/941d154df4d52cab518d2deae12dc83b.png",06h20 ngày 03/02 La Equidad vs Deportes Tolima (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -99,6 +51,62 @@ https://mrkw1025.edgemaxcdn.org/live/saysd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c2055cde3895e848bef2d8942ecc524c/image/small?v=1768601124",23h30 ngày 08/02 GKS Katowice vs Widzew lodz (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0d1ab7404267ff598b6a9f34a856088b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5636e5dd47bddbf8643af14b75119e7e/image/small?v=1768601124",23h45 ngày 08/02 Rijeka vs Dinamo Zagreb (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/57170183c50cbc659d1096343ebb1f4c/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7fb6a397cc91742809e7a94f0a77774f/image/small?v=1768601124",03h30 ngày 09/02 SV Robinhood vs FC Inter Wanica (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1d76ef74bf1746ac9ae39599aa85d494/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/22f97bd4182244c57804dbea5131c4ce/image/small?v=1768601124",01h00 ngày 09/02 Tlaxcala FC vs Leones Negros de la U. de G. (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/aea82925722a769902a18ba1bc71d291/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3c2dc1e8ed45418344df4e8d565ebe79/image/small?v=1768601124",04h00 ngày 09/02 Deportivo Saprissa vs AD San Carlos (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c884db758eab3559bdac7576c520c563/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5d194c4b3308f12962b7a8a239725bcb/image/small?v=1768601124",23h30 ngày 08/02 Asd Pineto Calcio vs Ascoli (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/76cd92f622cc2b26ef2d287a354a7cc1/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ccac2a8a090ca3ac64005cbbbe12af83/image/small?v=1768601124",04h00 ngày 09/02 Nublense vs Deportes Limache (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7bb6a2b41c64f558e335cc004492d5f4/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0cf4045a106a6ecf6c15c43ca468a489/image/small?v=1768601124",00h00 ngày 09/02 Cayman Islands U17 vs Jamaica U17 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7b70a3a15ff42e88af0f496f3f423089/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6fb4e9562a0916e035cb8c665e445914/image/small?v=1768601124",00h00 ngày 09/02 DUX Logrono Women vs Barcelona Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ad1077cdaa2b22649f383483227d3584/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ad90d0eae5233b06e2704a08636d0fb7/image/small?v=1768601124",04h00 ngày 09/02 Cruzeiro Esporte Clube vs America MG (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0ea605df376e42a6ad349ea1d91219b9/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0a7afd5e56d9327b064de6189f77aa8a/image/small?v=1768601124",04h00 ngày 09/02 Internacional RS vs São Luiz (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/81f02c0fd5eb3ef470dd5a90d3ee12c1/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d70fdeaff29824614655b9e36e7072da/image/small?v=1768601124",03h00 ngày 09/02 CA Platense vs CA Independiente (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a4907f13bcf1107c67a12486146c9aba/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8957312c09c9a56e2df781ce5e885540/image/small?v=1768601124",04h00 ngày 09/02 Club Libertad Asunción vs Club Guaraní (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/aad2e6ed842419086db6b4e590df2447/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e1c36b1fbf3a971f685a4579aa3b9a79/image/small?v=1768601124",04h00 ngày 09/02 Rancho Santana FC vs Walter Ferretti (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9a6f16b7d4957adbae1b4c17267541d9/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/11343fb88d34748781eacfff29f338ad/image/small?v=1768601124",04h30 ngày 09/02 Azuriz FC vs Operario Ferroviario PR (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -107,14 +115,22 @@ https://live.alilicloud.com/live/0c113b5fe2f955a26d09614b1dcf6505/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/7a9bb9c57d11a50132c85b398bb80ae0/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/84c07e2675d9346f3ea4836ad5c6937f/image/small?v=1768601124",05h00 ngày 09/02 Cobreloa vs CSD Antofagasta (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/296dc938468c98215280882cf2938cd8/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2cf08b06e0f01830d1d6eecc81840c37/image/small?v=1768601124",23h15 ngày 08/02 AJ Auxerre vs Paris FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/aae9778bff198310846c48f5a43f2068/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8639e72db0642abd44c0a15a3895de8a/image/small?v=1768601124",23h10 ngày 08/02 Glasgow City Women vs Celtic Women (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a564c35d374dd885dec9094469d98743/image/small?v=1768601124",05h00 ngày 09/02 ELCO LTD St Peters vs RAMS Village Superstars (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a4a80f15fd6aac048b4cc19944864c1a/playlist.m3u8
+https://live.alilicloud.com/live/2be2412c3733ec53afd8499d3c2da223/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/57805a00ad6c32da73774a818e9963d6/image/small?v=1768601124",03h30 ngày 09/02 Cienciano vs Juan Pablo II (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b4030918717980711dbc147c86fff0a4/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3eadd50eb0aeaf4cf8ee8008672c9db1/image/small?v=1768601124",00h30 ngày 09/02 Club Brugge vs Standard Liege (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -255,22 +271,6 @@ https://live4.fastestcdn-global.com/live4/ccbb3535b7fd432e89cce582f006352a_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/ccbb3535b7fd432e89cce582f006352a_720/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e920c56ae5ec3de93095b288a7cf2f21/image/small?v=1768601124",02h45 ngày 09/02 Juventus vs Lazio (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d1b1ebf92be392676cc929d0aade63ec/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e920c56ae5ec3de93095b288a7cf2f21/image/small?v=1768601124",02h45 ngày 09/02 Juventus vs Lazio (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/70651396973942e5a8f40fc76a4ffbac_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e920c56ae5ec3de93095b288a7cf2f21/image/small?v=1768601124",02h45 ngày 09/02 Juventus vs Lazio (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/70651396973942e5a8f40fc76a4ffbac_720/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e920c56ae5ec3de93095b288a7cf2f21/image/small?v=1768601124",02h45 ngày 09/02 Juventus vs Lazio (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/70651396973942e5a8f40fc76a4ffbac_720/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d57580c35953ff4f80d5c8eb9e5ca7e7/image/small?v=1768601124",00h30 ngày 09/02 FC Viktoria Plzen vs Slovan Liberec (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -283,94 +283,10 @@ https://live.alilicloud.com/live/59459723de612c6322d2567db09bd71a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/c7d75a77d7aae9e0dd65b3b311158287/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c2055cde3895e848bef2d8942ecc524c/image/small?v=1768601124",23h30 ngày 08/02 GKS Katowice vs Widzew lodz (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1c8fd267a1b1726f1917543c48c26a72/image/small?v=1768601124",23h30 ngày 08/02 Livorno vs A.S.D. Bra (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0d1ab7404267ff598b6a9f34a856088b/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5636e5dd47bddbf8643af14b75119e7e/image/small?v=1768601124",23h45 ngày 08/02 Rijeka vs Dinamo Zagreb (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/57170183c50cbc659d1096343ebb1f4c/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7fb6a397cc91742809e7a94f0a77774f/image/small?v=1768601124",03h30 ngày 09/02 SV Robinhood vs FC Inter Wanica (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1d76ef74bf1746ac9ae39599aa85d494/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/22f97bd4182244c57804dbea5131c4ce/image/small?v=1768601124",01h00 ngày 09/02 Tlaxcala FC vs Leones Negros de la U. de G. (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/aea82925722a769902a18ba1bc71d291/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3c2dc1e8ed45418344df4e8d565ebe79/image/small?v=1768601124",04h00 ngày 09/02 Deportivo Saprissa vs AD San Carlos (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c884db758eab3559bdac7576c520c563/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5d194c4b3308f12962b7a8a239725bcb/image/small?v=1768601124",23h30 ngày 08/02 Asd Pineto Calcio vs Ascoli (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/76cd92f622cc2b26ef2d287a354a7cc1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ccac2a8a090ca3ac64005cbbbe12af83/image/small?v=1768601124",04h00 ngày 09/02 Nublense vs Deportes Limache (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7bb6a2b41c64f558e335cc004492d5f4/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0cf4045a106a6ecf6c15c43ca468a489/image/small?v=1768601124",00h00 ngày 09/02 Cayman Islands U17 vs Jamaica U17 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7b70a3a15ff42e88af0f496f3f423089/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6fb4e9562a0916e035cb8c665e445914/image/small?v=1768601124",00h00 ngày 09/02 DUX Logrono Women vs Barcelona Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ad1077cdaa2b22649f383483227d3584/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ad90d0eae5233b06e2704a08636d0fb7/image/small?v=1768601124",04h00 ngày 09/02 Cruzeiro Esporte Clube vs America MG (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0ea605df376e42a6ad349ea1d91219b9/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0a7afd5e56d9327b064de6189f77aa8a/image/small?v=1768601124",04h00 ngày 09/02 Internacional RS vs São Luiz (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/81f02c0fd5eb3ef470dd5a90d3ee12c1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3f449d2d5ec61be1ce664b8647339444/image/small?v=1768601124",23h00 ngày 08/02 Sturm Graz vs SV Ried (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0a2a8a41e765b3809d4a6188b706748a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d70fdeaff29824614655b9e36e7072da/image/small?v=1768601124",03h00 ngày 09/02 CA Platense vs CA Independiente (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a4907f13bcf1107c67a12486146c9aba/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8957312c09c9a56e2df781ce5e885540/image/small?v=1768601124",04h00 ngày 09/02 Club Libertad Asunción vs Club Guaraní (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/aad2e6ed842419086db6b4e590df2447/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/607e88e0f27f74056b9e4d2d416253ea/image/small?v=1768601124",23h00 ngày 08/02 Fortune FC vs Brikama United (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/dfa28a1d1326f271f7a17b4950a70493/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e1c36b1fbf3a971f685a4579aa3b9a79/image/small?v=1768601124",04h00 ngày 09/02 Rancho Santana FC vs Walter Ferretti (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9a6f16b7d4957adbae1b4c17267541d9/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_ea0cc895.png",02h45 ngày 09/02 Juventus vs Lazio (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_ea0cc895.png",02h45 ngày 09/02 Juventus vs Lazio (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_ea0cc895.png",02h45 ngày 09/02 Juventus vs Lazio (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_ea0cc895.png",02h45 ngày 09/02 Juventus vs Lazio (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_ea0cc895.png",02h45 ngày 09/02 Juventus vs Lazio (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_ea0cc895.png",02h45 ngày 09/02 Juventus vs Lazio (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung.flv
+https://live.alilicloud.com/live/295cf64fb0b734c7cf20bd9d6b1f8446/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125622_0b0e0e74.png",03h00 ngày 09/02 Valencia vs Real Madrid (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -451,158 +367,6 @@ https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1935d93e49d9789d5180dc99dd72b736/image/small?v=1768601124",03h00 ngày 09/02 Aruba U17 vs Canada U17 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/93dbe4fb99411bf4066531964d5558e4/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/63be36b121af614351334a09b74d4b24/image/small?v=1768601124",03h00 ngày 09/02 Malaga vs Cultural Leonesa (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/65e45c2cd86bb67b08a8e9cc81cc555a/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/14854a21184c58542572eac8e68a438f/image/small?v=1768601124",03h00 ngày 09/02 Sarmiento Junin vs Atletico Tucuman (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3add8dadf1502231ec4eb42b7b3771d9/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/962322ac1988042cab02573be139a03f/image/small?v=1768601124",02h00 ngày 09/02 Olympiacos Piraeus vs Panathinaikos (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9403c74c834a00e1add0053f520343ef/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/11343fb88d34748781eacfff29f338ad/image/small?v=1768601124",04h30 ngày 09/02 Azuriz FC vs Operario Ferroviario PR (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0c113b5fe2f955a26d09614b1dcf6505/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/655a329157c9993835631352227e8ff9/image/small?v=1768601124",03h00 ngày 09/02 Racing Club Montevideo vs Deportivo Maldonado (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3ee59edf3923972de54e9697c64250af/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/811e4935f18adab8c4676b2b977b5fd6/image/small?v=1768601124",04h30 ngày 09/02 Coritiba PR vs Cianorte PR (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7a9bb9c57d11a50132c85b398bb80ae0/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9b30c9520da4b944872ff7bba7c949c8/image/small?v=1768601124",03h00 ngày 09/02 Racing United vs Montego Bay Utd (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a00ef34fffbdaed6692a214820151166/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7870f4d338bfbb45da1cecb9b97a8234/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/af16bdce716f4298b379def9dc9673d8_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/af16bdce716f4298b379def9dc9673d8_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/af16bdce716f4298b379def9dc9673d8_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/af16bdce716f4298b379def9dc9673d8_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/af16bdce716f4298b379def9dc9673d8_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/af16bdce716f4298b379def9dc9673d8_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d70fdeaff29824614655b9e36e7072da/image/small?v=1768601124",03h00 ngày 09/02 CA Platense vs CA Independiente (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a4907f13bcf1107c67a12486146c9aba/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6b110a6dbe944375601c6e5fc695c397/image/small?v=1768601124",04h10 ngày 09/02 Alianza Fútbol Club vs Deportiva Once Caldas (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8dbc5e9980393e80a6e866269a711c2c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c64bcb15151648019a1988079bd152e8/image/small?v=1768601124",04h30 ngày 09/02 AE Velo Clube SP vs Red Bull Bragantino (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/73a1b76377979470c4b6011499720c99/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3bd563849e94730c7e5f59de08ad408b/image/small?v=1768601124",02h30 ngày 09/02 Atletico Pantoja vs Cibao FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/2921b3bb84c4cd27249ed22def07f7fb/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bc6a56c23448fbc6d6f91befc7f88633/image/small?v=1768601124",04h30 ngày 09/02 Capivariano vs Mirassol (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/04e2ad4fcf6926394749d80c81905dae/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/98ac4ed1b2aa672d5d126051266e71dc/image/small?v=1768601124",03h30 ngày 09/02 Benfica vs Alverca (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0464134262fdaf4ffa4f5600821bd2b8/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/d0387adaa83b4e9e803dd151b59901b5_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/d0387adaa83b4e9e803dd151b59901b5_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/d0387adaa83b4e9e803dd151b59901b5_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/d0387adaa83b4e9e803dd151b59901b5_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/d0387adaa83b4e9e803dd151b59901b5_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/d0387adaa83b4e9e803dd151b59901b5_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f959e6c71380069f2615066fc9fb73ac/image/small?v=1768601124",01h15 ngày 09/02 Los Chankas vs Alianza Atletico Sullana (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c9fd46c0b626ccc18eb737c06c2fba5f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4a6dbb46e14ab02d50cfc56dea6608cf/image/small?v=1768601124",02h30 ngày 09/02 Trujillanos vs Carabobo (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4fcc8bc0a1f45d049b6d775cca4ad9c9/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e920c56ae5ec3de93095b288a7cf2f21/image/small?v=1768601124",02h45 ngày 09/02 Juventus vs Lazio (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d1b1ebf92be392676cc929d0aade63ec/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e920c56ae5ec3de93095b288a7cf2f21/image/small?v=1768601124",02h45 ngày 09/02 Juventus vs Lazio (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/405b350edcad4e06acc9ba6d571422e5_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e920c56ae5ec3de93095b288a7cf2f21/image/small?v=1768601124",02h45 ngày 09/02 Juventus vs Lazio (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/405b350edcad4e06acc9ba6d571422e5_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e920c56ae5ec3de93095b288a7cf2f21/image/small?v=1768601124",02h45 ngày 09/02 Juventus vs Lazio (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/405b350edcad4e06acc9ba6d571422e5_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e920c56ae5ec3de93095b288a7cf2f21/image/small?v=1768601124",02h45 ngày 09/02 Juventus vs Lazio (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/405b350edcad4e06acc9ba6d571422e5_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e920c56ae5ec3de93095b288a7cf2f21/image/small?v=1768601124",02h45 ngày 09/02 Juventus vs Lazio (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/405b350edcad4e06acc9ba6d571422e5_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e920c56ae5ec3de93095b288a7cf2f21/image/small?v=1768601124",02h45 ngày 09/02 Juventus vs Lazio (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/405b350edcad4e06acc9ba6d571422e5_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/dee87d8e5cc382d41d4adae46084961b/image/small?v=1768601124",01h15 ngày 09/02 KV Mechelen vs Royal Antwerp (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/59459723de612c6322d2567db09bd71a/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/92d913dd3ccb8046cebbc18788de4052/image/small?v=1768601124",02h30 ngày 09/02 Vis Pesaro vs Forli (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/69e64c5ec3ec14ac18ee820c78d6c66b/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/7fb6a397cc91742809e7a94f0a77774f/image/small?v=1768601124",03h30 ngày 09/02 SV Robinhood vs FC Inter Wanica (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -619,10 +383,6 @@ https://live.alilicloud.com/live/7bb6a2b41c64f558e335cc004492d5f4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0ea605df376e42a6ad349ea1d91219b9/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b32b429dab8070299bd2eba7ee375919/image/small?v=1768601124",02h45 ngày 09/02 Paris Saint Germain vs Marseille (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5e9e275dd6388d91fb51185af4670381/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0a7afd5e56d9327b064de6189f77aa8a/image/small?v=1768601124",04h00 ngày 09/02 Internacional RS vs São Luiz (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -643,354 +403,222 @@ https://live.alilicloud.com/live/b4030918717980711dbc147c86fff0a4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/00b48ca53458145f2cef6b60717bb92a/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=cc648b6f1915dddfc09a8ae4c3789e31&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=37ca0d9d70030e90afedb556ff322154&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=cc648b6f1915dddfc09a8ae4c3789e31&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=37ca0d9d70030e90afedb556ff322154&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1770589774-0-0-12731d84cc8f3b829009004944fd5485
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1770589774-0-0-cd60b8d7ef89b8fce869c4a0ab1dd71e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1770589774-0-0-62e217bfce09ea75862961926d52dca6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1770589774-0-0-0904bff0df87921cdfd5dce6fe9e6ce4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=609f8158ff850b61ba5eb684625eb16e&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=0828212bc7449c8991b423b8c26d7962&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=609f8158ff850b61ba5eb684625eb16e&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=0828212bc7449c8991b423b8c26d7962&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1770589774-0-0-ea87fb841798cba1333dae336da97cff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1770589774-0-0-b7d068a65d4bdfa465791825973784ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1770589774-0-0-1e51fd3e398a0471d8fa7325ee2be901
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1770589774-0-0-06bcc4c53895f22cba4ed91ed0036765
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=b01830b7250d7d2c673eab98bd5f842b&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=afaba3b967c6a810cc5c2b4a25f8176d&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=b01830b7250d7d2c673eab98bd5f842b&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=afaba3b967c6a810cc5c2b4a25f8176d&txTime=6989549e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1770589774-0-0-75755f24cd23477f85e2b27c20f78740
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1770589774-0-0-409221a645b915637bc83313f558568e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1770589774-0-0-14aa15c8b8bb3e81a05182f1e4f75ab8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1770589774-0-0-d22a2462ed0488a2b073a9648c443244
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV TÔM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-561379_lsd.flv?auth_key=1770589774-0-0-c3244d5e2fe801b8e4ed6fbce4bf6af0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV TÔM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-561379_lhd.flv?auth_key=1770589774-0-0-548d8ebbf304603ddf4fb371cbd0995c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV TÔM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1770589774-0-0-1b4e010da8abfce4dc8ff035b12f2ed6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV TÔM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1770589774-0-0-c65c9fbe5ffdc1bf1ad008bce2d5afbc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1770589774-0-0-9bd9195be37cb8257f95abb91ca5283d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1770589774-0-0-d9ca028cef0720cb5688b223f69bc51a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1770589774-0-0-b74602d55999c450a18cb32126361402
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1770589774-0-0-14de596dd62b9ed02d5face2bd685f28
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/b625a8bce20df348e328edeb98b6ab63.png",03h00 ngày 09/02 Toronto Raptors vs Indiana Pacers [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1770589774-0-0-8d19f793f421b5b087d05c51f4761639
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/b625a8bce20df348e328edeb98b6ab63.png",03h00 ngày 09/02 Toronto Raptors vs Indiana Pacers [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1770589774-0-0-f3077d6ecf13e82646402268e095d78c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/b625a8bce20df348e328edeb98b6ab63.png",03h00 ngày 09/02 Toronto Raptors vs Indiana Pacers [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1770589774-0-0-b38c501adaaab330ffe583b928006a77
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/b625a8bce20df348e328edeb98b6ab63.png",03h00 ngày 09/02 Toronto Raptors vs Indiana Pacers [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1770589774-0-0-f710489de48712786237bbddad9461ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1770589774-0-0-d75db1a01cc948517ab88e746adde483
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1770589774-0-0-5f243ab706895447517c5daefadc65e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1770589774-0-0-97df8f1a432877eb9674fe9d4124e8a1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1770589774-0-0-bd60c9cfa855f9b165da3db09b8cbaee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [RED BULL] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1770590134-0-0-9e0119faccf1e28e7db27bf76b2f8eba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [RED BULL] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1770590134-0-0-c4cae7b27d264dcc4e24803c40f40091
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [RED BULL] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1770590134-0-0-f2bac736a738dafef766cbe7d519b15e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [RED BULL] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1770590134-0-0-356f71d6719e34e9824380a4b20a15af
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1770590134-0-0-4e656dc8e311b6e51df546173919644b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1770590134-0-0-d945f3940fca6f664702f8cfc3557920
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1770590134-0-0-9b7f9b31e17650e2619666f47edf4b6a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/220170a2427e89f4bf830ef53c5057e5.png",02h45 ngày 09/02 Paris Saint Germain vs Marseille [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1770590134-0-0-fbaa53a148ccaf226bcb65ff4bad4eb5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1770590134-0-0-4847c185615baf6ad0e6e8f8ed194462
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1770590134-0-0-f94ef482da2ae199351e415ec9bf1ef7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1770590134-0-0-d0267ffcf5b6018adad17e5980bb36ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1770590134-0-0-7eb703e68139d170a2d9f9a6b21ee9e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [Lửng Mật] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1770590134-0-0-3d4742392e37e4a80a43ea2b6af09ce8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [Lửng Mật] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1770590134-0-0-21ebaffea828af21367f5d6fe2c2dd2d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [Lửng Mật] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1770590134-0-0-58e0a1cc0c164c5649917a30ab4325a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [Lửng Mật] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1770590134-0-0-93858fb2d7a8c56e9308ff92972a0e52
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [QUANG VINH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1770590134-0-0-de654ac6a864ed71611381425febd1d0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [QUANG VINH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1770590134-0-0-c112309110535e3f5f834e284f37c18d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [QUANG VINH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1770590134-0-0-ec4c92cfdd9ff35ac12c755ba56776b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [QUANG VINH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1770590134-0-0-0303047a5cbe2a04d6ec20f143bacf21
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [LOKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1770590134-0-0-0a95da9ff3505c906c12dc4d5c222e1a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [LOKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1770590134-0-0-02db09291cbff3d2d514b03fbecc6654
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [LOKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1770590134-0-0-81a0f99e9dc6c510c57fbcea3d574326
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [LOKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1770590134-0-0-061569fbfe124a6f6cb9be9c65e54544
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/716033e94d5d6a7bdff69ebbddd0a7ef.png",04h10 ngày 09/02 Alianza vs Deportiva Once Caldas [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=ae6635e88b827940585aa8d512fee042&txTime=69895606
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/716033e94d5d6a7bdff69ebbddd0a7ef.png",04h10 ngày 09/02 Alianza vs Deportiva Once Caldas [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=eb1d0379014d090acb5964b34a3e12e8&txTime=69895606
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/716033e94d5d6a7bdff69ebbddd0a7ef.png",04h10 ngày 09/02 Alianza vs Deportiva Once Caldas [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=ae6635e88b827940585aa8d512fee042&txTime=69895606
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/716033e94d5d6a7bdff69ebbddd0a7ef.png",04h10 ngày 09/02 Alianza vs Deportiva Once Caldas [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=eb1d0379014d090acb5964b34a3e12e8&txTime=69895606
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV SÓI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1770590134-0-0-480ce68db46e032effd926f102110623
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV SÓI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1770590134-0-0-21bca38efb403c579eb043b6b26267fc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV SÓI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1770590134-0-0-d2ffeba6187fd5afefa41b54928198d3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV SÓI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1770590134-0-0-bb6f2022b23721d19a8b235be5459ecc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [THE KOP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1770590134-0-0-81b2995f6e3db589add73c7540bdd3f3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [THE KOP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1770590134-0-0-51f6b35bb6c5d1c379c30e8f8e1e5065
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [THE KOP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1770590134-0-0-1cfd384b31300e54d57114520fb0f723
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [THE KOP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1770590134-0-0-64bd7758598d8c9c14f17a5a3da14b46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1770590494-0-0-b6bfcca0bfd86168516baecc47e4534a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1770590494-0-0-17ac865297f397b852f5514bb648e914
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1770590494-0-0-f7ab544ffc38121681b72271a81beeae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e365dc0662bcdce54481c565aa883610.png",03h00 ngày 09/02 Valencia CF vs Real Madrid [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1770590494-0-0-1ead2b12ce8bf8442ff5f4ac3d07e8ca
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1770590494-0-0-e4d1d1128b220eeb3c03b58cbe3f005b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1770590494-0-0-968a3972fe179b32c08474fd444822be
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1770590494-0-0-e3d7536b1ddf215226092d5eaf1f06c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1770590494-0-0-2416d0986985d7fd66135b13ed1d88bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1770590494-0-0-3422f5a884a86188874b6b6a2ed1d99e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1770590494-0-0-d87e6f154795c23a74b11f7a8e50e26b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1770590494-0-0-ec8496b196794a2a82146eaad3e76e10
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1770590494-0-0-0d9ed6af34dd4b8eebc8c538d7d04baa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1770590494-0-0-19ff644d42a60f93864526d25bc196e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1770590494-0-0-ac966556be01a6612709b1cb6aa15119
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1770590494-0-0-959f51cc4b99704b7e7162872afe32fd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/e2ece6c25cb3be7bfcde4a40b5643864.png",02h45 ngày 09/02 Juventus vs Lazio [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1770590494-0-0-1f818550942ed1d09feffe5867621d96
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1935d93e49d9789d5180dc99dd72b736/image/small?v=1768601124",03h00 ngày 09/02 Aruba U17 vs Canada U17 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/93dbe4fb99411bf4066531964d5558e4/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/63be36b121af614351334a09b74d4b24/image/small?v=1768601124",03h00 ngày 09/02 Malaga vs Cultural Leonesa (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/65e45c2cd86bb67b08a8e9cc81cc555a/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/14854a21184c58542572eac8e68a438f/image/small?v=1768601124",03h00 ngày 09/02 Sarmiento Junin vs Atletico Tucuman (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3add8dadf1502231ec4eb42b7b3771d9/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/11343fb88d34748781eacfff29f338ad/image/small?v=1768601124",04h30 ngày 09/02 Azuriz FC vs Operario Ferroviario PR (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0c113b5fe2f955a26d09614b1dcf6505/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/655a329157c9993835631352227e8ff9/image/small?v=1768601124",03h00 ngày 09/02 Racing Club Montevideo vs Deportivo Maldonado (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3ee59edf3923972de54e9697c64250af/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/811e4935f18adab8c4676b2b977b5fd6/image/small?v=1768601124",04h30 ngày 09/02 Coritiba PR vs Cianorte PR (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7a9bb9c57d11a50132c85b398bb80ae0/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/84c07e2675d9346f3ea4836ad5c6937f/image/small?v=1768601124",05h00 ngày 09/02 Cobreloa vs CSD Antofagasta (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/296dc938468c98215280882cf2938cd8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/060fba2982a467dadbc1ccc7d07da8ca/image/small?v=1768601124",03h00 ngày 09/02 Valencia CF vs Real Madrid (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7870f4d338bfbb45da1cecb9b97a8234/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d70fdeaff29824614655b9e36e7072da/image/small?v=1768601124",03h00 ngày 09/02 CA Platense vs CA Independiente (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a4907f13bcf1107c67a12486146c9aba/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6b110a6dbe944375601c6e5fc695c397/image/small?v=1768601124",04h10 ngày 09/02 Alianza Fútbol Club vs Deportiva Once Caldas (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8dbc5e9980393e80a6e866269a711c2c/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c64bcb15151648019a1988079bd152e8/image/small?v=1768601124",04h30 ngày 09/02 AE Velo Clube SP vs Red Bull Bragantino (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/73a1b76377979470c4b6011499720c99/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bc6a56c23448fbc6d6f91befc7f88633/image/small?v=1768601124",04h30 ngày 09/02 Capivariano vs Mirassol (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/04e2ad4fcf6926394749d80c81905dae/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/98ac4ed1b2aa672d5d126051266e71dc/image/small?v=1768601124",03h30 ngày 09/02 Benfica vs Alverca (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0464134262fdaf4ffa4f5600821bd2b8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a564c35d374dd885dec9094469d98743/image/small?v=1768601124",05h00 ngày 09/02 ELCO LTD St Peters vs RAMS Village Superstars (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/2be2412c3733ec53afd8499d3c2da223/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",05h15 ngày 09/02 CA Huracan vs San Lorenzo (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/39ef3de64d08eb898a5605bbfe92cc63/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV Hổ Lùn] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-308080_lsd.flv?auth_key=1770590494-0-0-ef02d95dcfbc1bab69b655e22edc3c76
+https://pull06.scstream.net/live/stream-308080_lsd.flv?auth_key=1770591574-0-0-b42c69235d46499790b0b9aed36fb90c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV Hổ Lùn] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-308080_lhd.flv?auth_key=1770590494-0-0-f4188fe963f6d87c991acd13a42dfec3
+https://pull06.scstream.net/live/stream-308080_lhd.flv?auth_key=1770591574-0-0-7b7bf24a1601d90f2128a8fbf89d7e35
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV Hổ Lùn] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1770590494-0-0-0c6d4daec5df827153f2c4f5048c2e78
+https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1770591574-0-0-cb09ab6dcc29917a050a7e7cfc2fa4ec
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV Hổ Lùn] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1770590494-0-0-e7b2c65c5e99400be5197e0dd70aa1b9
+https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1770591574-0-0-f1a68c3feeda357c250aa595e1af418c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260205/bc34edce479b0309d3eb7ec6a00fc88d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770590494-0-0-41723908e2a6025050781999d123008d
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770591574-0-0-bd26b1e78047af498ffba33046d6e728
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260205/bc34edce479b0309d3eb7ec6a00fc88d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770590494-0-0-7539d6c1e52a9b9f59cececd429c2507
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770591574-0-0-cb932a9efaf35fe38197decba4410888
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260205/bc34edce479b0309d3eb7ec6a00fc88d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770590494-0-0-c38aaddf8b08cbc0c67c559645715e2d
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770591574-0-0-36315c07f816a8e74f47dbb821b1d598
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260205/bc34edce479b0309d3eb7ec6a00fc88d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770590494-0-0-5d68c89e88cf25935edfda86d220adc6
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",00h30 09/02 Atletico Madrid        -        Real Betis (Hội Quán) FULL HD 
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770591574-0-0-628138f6954a5eaaa61f2422dfbc3d77
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/b625a8bce20df348e328edeb98b6ab63.png",03h00 ngày 09/02 Toronto Raptors vs Indiana Pacers [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",00h30 09/02 Atletico Madrid        -        Real Betis (Hội Quán) HD 
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1770591934-0-0-6a8872e222da8219d6148edfcb0dddd4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/b625a8bce20df348e328edeb98b6ab63.png",03h00 ngày 09/02 Toronto Raptors vs Indiana Pacers [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg",00h30 09/02 Atletico Madrid        -        Real Betis (Hội Quán) SD 
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1770591934-0-0-53afcdd1608bcc9d4abc277d670ba68f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/b625a8bce20df348e328edeb98b6ab63.png",03h00 ngày 09/02 Toronto Raptors vs Indiana Pacers [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png",02h45 09/02 Juventus vs Lazio (Hội Quán) FHD 
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1770591934-0-0-fefaee83e81cba19bf58516495b35fc0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/b625a8bce20df348e328edeb98b6ab63.png",03h00 ngày 09/02 Toronto Raptors vs Indiana Pacers [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png",02h45 09/02 Juventus vs Lazio (Hội Quán) HD 
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1770591934-0-0-54138e3e9c39b7afac4c7fb5a459e335
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png",02h45 09/02 Juventus vs Lazio (Hội Quán) SD 
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1770591934-0-0-6f31008aba1864561d0982bda5b7ec23
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",02h45 09/02 Paris Saint Germain vs Marseille (Hội Quán) FULL HD 
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1770591934-0-0-fec7918c8d9b5b7a7d64705d5aab7b7c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",02h45 09/02 Paris Saint Germain vs Marseille (Hội Quán) HD 
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1770591934-0-0-6e8f0b42e18e4ecdfb7b982430622638
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",02h45 09/02 Paris Saint Germain vs Marseille (Hội Quán) SD 
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1770591934-0-0-dada26a3f8203634e516c2f7ba4a4fa8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV LUCAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",03h00 09/02 Valencia vs Real Madrid (Hội Quán) FULL HD 
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1770591934-0-0-a75c4318e1a05711fe8e098d7f2da206
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV LUCAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",03h00 09/02 Valencia vs Real Madrid (Hội Quán) HD 
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1770591934-0-0-41a138ec014953c93daff1dd881330dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV LUCAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png",03h00 09/02 Valencia vs Real Madrid (Hội Quán) SD 
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1770591934-0-0-df458be1e5199a34390c6abd48061aea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV LUCAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1770591934-0-0-b04f852f917aae72d8094e061358dfd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [BLV SHIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=2658dbbc4be84ad5a8726f62d3cae292&txTime=69895e76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [BLV SHIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=e59172fbd74d9aa6c397717078fc7591&txTime=69895e76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [BLV SHIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=2658dbbc4be84ad5a8726f62d3cae292&txTime=69895e76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [BLV SHIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=e59172fbd74d9aa6c397717078fc7591&txTime=69895e76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [BLV NIBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1770592294-0-0-5649134e0a61ec92f377fd374b9ef005
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [BLV NIBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1770592294-0-0-62c03122a1a19b02694a7a0b1405269f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [BLV NIBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1770592294-0-0-b60d0d698df71e6be0f126b3840b67de
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [BLV NIBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1770592294-0-0-83011cdca5ae5c27e2449e1646d74b90
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV SÓI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1770592294-0-0-09d878c0e8dfb87865ecf0572cf027a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV SÓI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1770592294-0-0-64002d46e24cb15d4f6ad262514eab5c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV SÓI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1770592294-0-0-f6278efeaae637558c8f30ed035d2cad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/96d09934a2329a2209bf9daac6142b63.png",04h00 ngày 09/02 Nublense vs Deportes Limache [BLV SÓI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1770592294-0-0-2eecaedc017b4d17190704cb2a47e88e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1770592294-0-0-688ff4421c7fc368f4b9f24b6ceb11ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1770592294-0-0-7bacf9dfcede30ac8a345831eeb39a42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1770592294-0-0-3eee90cbe865d0e7b696120b89d62d06
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1770592294-0-0-fb977658152692550ed1c9f8927253e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [QUANG VINH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1770592294-0-0-40d58acc1afda3c8caf4cd4e15599032
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [QUANG VINH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1770592294-0-0-0c705ae1c5abf94db4ed761aadeb1090
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [QUANG VINH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1770592294-0-0-374522cec48c692cd2835f672aa1f3ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/a4cb35f84855dd9878fe51a515a6ead9.png",03h30 ngày 09/02 Benfica vs Alverca [QUANG VINH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1770592294-0-0-1a45e410b21421af26cb65433334996e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [THE KOP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1770592294-0-0-0a29b378dc7b910c887a88c431f2d19d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [THE KOP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1770592294-0-0-74cc472c7519e6d57cdef172bffe6df1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [THE KOP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1770592294-0-0-435cdb53fa37537885a4c95fa11ab5d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [THE KOP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1770592294-0-0-490a33af34ef9619ade7aa81d4a8195e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [VỊT BẠC] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1770592294-0-0-eebee9749889a21ca4d789ab0ee31594
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [VỊT BẠC] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1770592294-0-0-3f63eb2e1090a4a49942117dfcd6fa04
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [VỊT BẠC] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1770592294-0-0-036b88c798d02496930c23281221c8be
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/661261c5a4b910035d3746bbfa524d19.png",05h15 ngày 09/02 CA Huracan vs San Lorenzo [VỊT BẠC] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1770592294-0-0-de60c757fdf2e755eef784918ab3469a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/716033e94d5d6a7bdff69ebbddd0a7ef.png",04h10 ngày 09/02 Alianza vs Deportiva Once Caldas [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=30cf9d975cf1b7b02079f5353d25c1f4&txTime=69895e76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/716033e94d5d6a7bdff69ebbddd0a7ef.png",04h10 ngày 09/02 Alianza vs Deportiva Once Caldas [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=7423af421f4e67ddd24b0b1a09bdf49a&txTime=69895e76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/716033e94d5d6a7bdff69ebbddd0a7ef.png",04h10 ngày 09/02 Alianza vs Deportiva Once Caldas [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=30cf9d975cf1b7b02079f5353d25c1f4&txTime=69895e76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260206/716033e94d5d6a7bdff69ebbddd0a7ef.png",04h10 ngày 09/02 Alianza vs Deportiva Once Caldas [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=7423af421f4e67ddd24b0b1a09bdf49a&txTime=69895e76
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[La Liga] 03h00 09/02 Valencia vs Real Madrid [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1004,18 +632,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Ligue 1] 03h00 09/02 Paris Saint Germain vs Marseille [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Ligue 1] 03h00 09/02 Paris Saint Germain vs Marseille [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Ligue 1] 03h00 09/02 Paris Saint Germain vs Marseille [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_sd.m3u8
 # --- Bongda 2 Playlist Start ---
 #EXTM3U
 #EXTINF:-1 group-title="Bún chả",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB ngày 06/02/2026 [MAIN]
@@ -1664,12 +1280,12 @@ https://live5.msrktz.app/live/14830711.m3u8
       </div><!-- /.section -->
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9cae532cdb39ce7c</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9cae7e33f8cd15d0</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">68.220.61.176</span>
+        <span class="hidden" id="cf-footer-ip">172.184.209.114</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
