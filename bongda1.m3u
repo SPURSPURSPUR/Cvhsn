@@ -1,19 +1,25 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 group-title="Bún chả",[NBA] San Antonio Spurs vs Golden State Warriors lúc 12:40 WIB ngày 12/02/2026 [FLV]
+#EXTINF:-1 group-title="Bún chả",[NBL] Cairns Taipans vs Melbourne United lúc 15:32 WIB ngày 12/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893950149.global.cdnfastest.com/live/698d41b2fe256_4733.flv?expire=1771469874&sign=16a9a8e1d218a9a43bc1e3de8f58bf58
-#EXTINF:-1 group-title="Bún chả",[NBA] San Antonio Spurs vs Golden State Warriors lúc 12:40 WIB ngày 12/02/2026 [HLS]
+https://2893950149.global.cdnfastest.com/live/698d86d926632_4439.flv?expire=1771487577&sign=721d9cb62f4abc614fd6a98604abfcff
+#EXTINF:-1 group-title="Bún chả",[NBL] Cairns Taipans vs Melbourne United lúc 15:32 WIB ngày 12/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/698d41b2fe256_4733/index.m3u8?expire=1771469874&sign=16a9a8e1d218a9a43bc1e3de8f58bf58
+https://2893254555.global.cdnfastest.com/live/698d86d926632_4439/index.m3u8?expire=1771487577&sign=721d9cb62f4abc614fd6a98604abfcff
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770875441.png",13h00 ngày 12/02 Manchester city vs Liverpool (Lương Sơn) BLV LEO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770875441.png",13h00 ngày 12/02 Manchester city vs Liverpool (Lương Sơn) BLV LEO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TEST.flv?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770831535.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770831535.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/96b43133726866187701bd80e8f34dd8/image/small?v=1768601124",10h00 ngày 12/02 Monterrey vs Xelaju MC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -382,88 +388,124 @@ https://stream.chuoichien.tv/manze.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/4bfbe9c9674a3b12c3881cceea3fb661/playlist.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1770887855-0-0-84cab2b5164863759279b62b56c8e032
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1770887855-0-0-65c39844807469a09337554596977a2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1770887855-0-0-9c404a2a2908ed6b04b1a1a90bb82a74
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1770887855-0-0-2cf188639443786aa89e441f9f9ad9a0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1770888215-0-0-a1da0ab1255675ec913f9eea1ab00e6b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1770888215-0-0-18d0a60bdbf592d11b0a0a67f3885548
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1770888215-0-0-8a719b756ec06ab5912eae5952ecb118
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1770888215-0-0-dca1585fe98ffdc43cdb1b792e93cce1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770884975-0-0-ae3d6582eed1bcc18b8db72d0e0c9bed
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770888215-0-0-777fbd74b16b26c60bcfcf2d35629707
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770884975-0-0-5f0c42f3a165b7dc5d40d9787864e3a0
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770888215-0-0-db6357aa5a72c32b4e52281656bdf77f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770884975-0-0-14733542e40ece1fd9f3fe0f16159bec
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770888215-0-0-a34d061d7350eb458de5bed85723fb72
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770884975-0-0-9c6f41b96988e98b0a138726a5432900
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Sunderland vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1770884975-0-0-549b21991fdc16a0dba6a4a539bb9209
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Sunderland vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1770884975-0-0-001005ab96800b80ff10a0cf40862c90
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Sunderland vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1770884975-0-0-e390ab214ab01422a515e5906fb348d0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Sunderland vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1770884975-0-0-6e6002bd6bb7013c09cbdc01f867072d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Manchester City vs Fulham [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1770884975-0-0-438d21d09cc38e6b1d9a9afb19304ca8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Manchester City vs Fulham [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1770884975-0-0-4f06509ce5c11674229fecae2cc1ba31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Manchester City vs Fulham [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1770884975-0-0-cc9721c2e5ef38d74b8342d2ef26f02d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Manchester City vs Fulham [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1770884975-0-0-ff9420480e0916ce322ca5c8ed777a26
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770888215-0-0-4b1302daad6e612bd789b9d956ef4a9c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Aston Villa vs Brighton Hove Albion [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1770884975-0-0-4967e43cf153d701307102218c319e04
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1770888215-0-0-242034213c86427dbd00fbb7bce980bd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Aston Villa vs Brighton Hove Albion [Sóc trèo cây ngô đồng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1770884975-0-0-36f259024aae06cf90da71f8104ec244
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1770888215-0-0-95bf0da0a14f4282993f55dc87fe5f37
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Aston Villa vs Brighton Hove Albion [Sóc trèo cây ngô đồng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1770884975-0-0-5fd0354dbccd44d18bc6403bf59166bc
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1770888215-0-0-9abf7abbb73406aeec8e8b26d5e49c12
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Aston Villa vs Brighton Hove Albion [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1770884975-0-0-056a0c48dcf17f0cd4fd36049322e09b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL Elite - Ulsan HD FC vs Melbourne City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1770888215-0-0-cc00c181029263821806b8bfc5171112
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Manchester City vs Fulham [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1770885335-0-0-629c5f744c2ecd2cf661fc738431e772
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL Elite - Ulsan HD FC vs Melbourne City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1770888215-0-0-d1415bd0afadc0cf720d9fb32a728a86
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Manchester City vs Fulham [Sóc đau cổ vai gáy] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1770885335-0-0-82214ac79032c366344cf109b6148a02
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL Elite - Ulsan HD FC vs Melbourne City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1770888215-0-0-44134bfc701d2274323d8f2075a099bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Manchester City vs Fulham [Sóc đau cổ vai gáy] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1770885335-0-0-30fbd5765112c002a55fa26ed094d45b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL Elite - Ulsan HD FC vs Melbourne City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1770888215-0-0-59ed8b0367f884685ac3e29b794f1ead
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Manchester City vs Fulham [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1770885335-0-0-6b6e43f85247fb20c14a53c8b5911681
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: GERC - FC Bayern Munich vs RB Leipzig [Sóc mèo méo meo] (Socolive) flv
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1770888215-0-0-50077ffa8c541b5038140b7b9b288111
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Sunderland vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1770885335-0-0-105ce8cfa06ad4f34c39b5a22175f8a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: GERC - FC Bayern Munich vs RB Leipzig [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1770888215-0-0-b9290047fcb2a0009ca01f88f421ea83
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Sunderland vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1770885335-0-0-c5efcbcd115b68006185559ccaa88831
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: GERC - FC Bayern Munich vs RB Leipzig [Sóc mèo méo meo] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1770888215-0-0-6f0bb2fab3dfa2d354de7cb1b3b96851
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Sunderland vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1770885335-0-0-f5fa488bf4b09e0eeddb1a97d3e95127
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: GERC - FC Bayern Munich vs RB Leipzig [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1770888215-0-0-02239f2cbc175571812190dafd7e1bbf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ENG PR - Sunderland vs Liverpool [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1770885335-0-0-05c44d04bd7bc5f02eb09bc6c5af7c0d
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1770888215-0-0-83b7b799e5b2fec871fca04ba7d4b175
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1770888575-0-0-bdfba8a0f864c2e8266a47fe344bd146
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1770888575-0-0-5963c85187d5d4e7ab6423209b350b94
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1770888575-0-0-89aebaf47aacd655297706415202f284
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/9cb42ec44f20b141910bf303451997a8.png",15h30 ngày 12/02 Cairns Taipans vs Melbourne United [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1770888575-0-0-5b08945b9825d424e5d6e13958177c36
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL2 - Cong An Ha Noi FC vs Tampines Rovers FC [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1770885335-0-0-e8a8bf0141c135c6be7bba0acf8b247a
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1770888575-0-0-6d9310ed3bcb47a991e88d7e9ca2cf67
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL2 - Cong An Ha Noi FC vs Tampines Rovers FC [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1770885335-0-0-bbeb00f756417106bbe8c65e33e8f3ab
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1770888575-0-0-6b9cf0c8d0e56fb9a51996358eb9b565
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL2 - Cong An Ha Noi FC vs Tampines Rovers FC [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1770885335-0-0-4569dc782924e312426f50816f7dea57
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1770888575-0-0-77bba20fd9a427750836d9b04a56654e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL2 - Cong An Ha Noi FC vs Tampines Rovers FC [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1770885335-0-0-639a64f53c2f4e363588710be04a0afe
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1770888575-0-0-78f3ea7e45ce73b461fd9d15bd064597
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL Elite - Ulsan HD FC vs Melbourne City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1770888575-0-0-0902170d9084aeab3c50d9881c0e8097
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL Elite - Ulsan HD FC vs Melbourne City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1770888575-0-0-09068e30f445d787b7feeff1cbd2554f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL Elite - Ulsan HD FC vs Melbourne City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1770888575-0-0-d2bf710452032d5c5844bed36bc13e5e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: ACL Elite - Ulsan HD FC vs Melbourne City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1770888575-0-0-746514a6f118fba5d7f8eff9b432e187
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: GERC - FC Bayern Munich vs RB Leipzig [Sóc mèo méo meo] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1770888575-0-0-b24d60ea5556d67b7dfc4d6942d3244b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: GERC - FC Bayern Munich vs RB Leipzig [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1770888575-0-0-3102ebcae507509f4e2b272defc601f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: GERC - FC Bayern Munich vs RB Leipzig [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1770888575-0-0-cec69450f8060b0f413f4b854eba0a2e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260207/5ddde20649c007bfd1e45fde2fdf8a86.png",Tường thuật: GERC - FC Bayern Munich vs RB Leipzig [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1770888575-0-0-4c20e4e49f5fbaf061540de2ba158709
 #EXTM3U
