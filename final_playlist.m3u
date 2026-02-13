@@ -1,52 +1,30 @@
 #EXTM3U
 # --- Bongda 1 Playlist Start ---
 #EXTM3U
-#EXTINF:-1 group-title="Bún chả",[NBA] Utah Jazz vs Portland Trail Blazers lúc 12:16 WIB ngày 13/02/2026 [FLV]
+#EXTINF:-1 group-title="Bún chả",[Australia W-League] WS Wanderers (w) vs Newcastle Jets Women lúc 13:28 WIB ngày 13/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893950149.global.cdnfastest.com/live/698e7efc26632_4733.flv?expire=1771551100&sign=271c2c92c7edb3cd6d2811b191f97bcb
-#EXTINF:-1 group-title="Bún chả",[NBA] Utah Jazz vs Portland Trail Blazers lúc 12:16 WIB ngày 13/02/2026 [HLS]
+https://live.alilicloud.com/live/24c117c53ff03179d43d3aa98f8e6ed2/playlist.m3u8
+#EXTINF:-1 group-title="Bún chả",[Australia W-League] WS Wanderers (w) vs Newcastle Jets Women lúc 13:28 WIB ngày 13/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/698e7efc26632_4733/index.m3u8?expire=1771551100&sign=271c2c92c7edb3cd6d2811b191f97bcb
-#EXTINF:-1 group-title="Bún chả",[NBA] Los Angeles Lakers vs Dallas Mavericks lúc 12:16 WIB ngày 13/02/2026 [FLV]
+https://2893950149.global.cdnfastest.com/live/698eb7a626632_72787.flv?expire=1771565606&sign=1a182ad4d8edbcaee4684a64c4472b96
+#EXTINF:-1 group-title="Bún chả",[Australia W-League] WS Wanderers (w) vs Newcastle Jets Women lúc 13:28 WIB ngày 13/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893950149.global.cdnfastest.com/live/698e919426632_42127.flv?expire=1771555860&sign=3c0bbd699e2ff5884befbc1ad14be6df
-#EXTINF:-1 group-title="Bún chả",[NBA] Los Angeles Lakers vs Dallas Mavericks lúc 12:16 WIB ngày 13/02/2026 [HLS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/698e919426632_42127/index.m3u8?expire=1771555860&sign=3c0bbd699e2ff5884befbc1ad14be6df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770919066.png",10h00 ngày 13/02 Los Angeles Lakers vs Dallas Mavericks (Lương Sơn) BLV YẾN THANH m3u
+https://2893254555.global.cdnfastest.com/live/698eb7a626632_72787/index.m3u8?expire=1771565606&sign=1a182ad4d8edbcaee4684a64c4472b96
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18334_1gq1dkhtct1p.png",12h50 ngày 13/02 WS Wanderers (W) vs Newcastle Jets (W) (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770919066.png",10h00 ngày 13/02 Los Angeles Lakers vs Dallas Mavericks (Lương Sơn) BLV YẾN THANH flv
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18334_1gq1dkhtct1p.png",12h50 ngày 13/02 WS Wanderers (W) vs Newcastle Jets (W) (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0661492b8c128e58e74ed28a9ecb2d3e/image/small?v=1768601124",07h00 ngày 13/02 Anapolis FC vs Vila Nova (Khán Đài A) source
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18334_1gq1dkhtct1p.png",12h50 ngày 13/02 WS Wanderers (W) vs Newcastle Jets (W) (Lương Sơn) BLV KEVILL m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ebea140ba15507dba9e12099f35dbf91/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3161957a851f2147810b4c2aab592c2a/image/small?v=1768601124",07h00 ngày 13/02 Amazonas FC vs Joao Carlos(JC) AM (Khán Đài A) source
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18334_1gq1dkhtct1p.png",12h50 ngày 13/02 WS Wanderers (W) vs Newcastle Jets (W) (Lương Sơn) BLV KEVILL flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/824b89d6c561b1f9f1c7a1aaf0eb490d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/701c608424766b422a3baeb26cc37823/image/small?v=1768601124",07h15 ngày 13/02 Argentinos Juniors vs River Plate (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/911bbc4cc661a8d3641626e9afdcae12/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9adb240c5f6b1dd94e59aff1f708d4be/image/small?v=1768601124",08h30 ngày 13/02 Atletico Nacional Medellin vs Fortaleza F.C (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/405c800e4a51313e1e0a6bd1e7f9b222/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1451c8cae9ea1ffadf77e1129883f443/image/small?v=1768601124",06h20 ngày 13/02 Deportiva Once Caldas vs Atletico Junior Barranquilla (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/31749ce438578e3be1a124f411c99c77/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b9bc8dba4d8fafcfb76fb7567298af62/image/small?v=1768601124",08h00 ngày 13/02 Walter Ferretti vs Managua FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/48f32cd9647268c81e75c3d2eecd7f7f/playlist.m3u8
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/be0f452652a842b0f5680bd8d7297705/image/small?v=1768601124",08h00 ngày 13/02 Cruz Azul vs Vancouver FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -55,14 +33,22 @@ https://live.alilicloud.com/live/cacfa90c119cba4fa140c59d0da5d7c6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f53a6d920327be28ae8bf3d7f82b4f25/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a7f7479011bf657f958f9583f6c48ff3/image/small?v=1768601124",07h00 ngày 13/02 Pitbulls vs AD Cariari Pococi (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/34a769efecebc4a2197f4dd8d66a94e6/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0a7afd5e56d9327b064de6189f77aa8a/image/small?v=1768601124",07h30 ngày 13/02 Internacional RS vs Palmeiras (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/bfab329c8ed1cb2779ba8ac754d640c2/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9adb240c5f6b1dd94e59aff1f708d4be/image/small?v=1768601124",08h30 ngày 13/02 Atletico Nacional Medellin vs Fortaleza F.C (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/405c800e4a51313e1e0a6bd1e7f9b222/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c8201dfa17bd1f754778c185d2f389d1/image/small?v=1768601124",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/24c117c53ff03179d43d3aa98f8e6ed2/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b9bc8dba4d8fafcfb76fb7567298af62/image/small?v=1768601124",08h00 ngày 13/02 Walter Ferretti vs Managua FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/48f32cd9647268c81e75c3d2eecd7f7f/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133804_42cc55f1.png",12h50 ngày 13/02 Western Sydney Wanderers W vs Newcastle Jets FC W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -543,97 +529,97 @@ https://stream.chuoichien.tv/manze/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9adb240c5f6b1dd94e59aff1f708d4be/image/small?v=1768601124",08h30 ngày 13/02 Atletico Nacional Medellin vs Fortaleza F.C (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8201dfa17bd1f754778c185d2f389d1/image/small?v=1768601124",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/405c800e4a51313e1e0a6bd1e7f9b222/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/db0b8202d3d7bd940f77f2531e6a23b9.png",10h00 ngày 13/02 Los Angeles Lakers vs Dallas Mavericks [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1770962735-0-0-150ef99d356fb442db6d737720ad0c97
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/db0b8202d3d7bd940f77f2531e6a23b9.png",10h00 ngày 13/02 Los Angeles Lakers vs Dallas Mavericks [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1770962735-0-0-ea2c0812bf831a0577ca20d7c99e6883
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/db0b8202d3d7bd940f77f2531e6a23b9.png",10h00 ngày 13/02 Los Angeles Lakers vs Dallas Mavericks [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1770962735-0-0-6238d7e6fa05d5a8e66ac3849a12be8a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/db0b8202d3d7bd940f77f2531e6a23b9.png",10h00 ngày 13/02 Los Angeles Lakers vs Dallas Mavericks [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1770962735-0-0-c89b43ff47abe9da70bbf26f37a80f6c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770962735-0-0-7b101caedaa5583e68ec14bc803c64c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770962735-0-0-262028871c2c1cdb485eeb5d0c532c4c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770962735-0-0-f383d55146afc3d4d01dbb8e52db602f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770962735-0-0-4c370759595f23121cc29ce31d966bdd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1770963095-0-0-e8e365528e3dea6962b1545241bb3ca3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1770963095-0-0-0e92e42d1cc6a378fb37f7a10513d78b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1770963095-0-0-743d316ae4a22a17541a3f73d2fadff6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1770963095-0-0-2478fcf569485ddaf318922f9548d8c6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=355e59189fd241ff25e39167c168e0ab&txTime=698f06e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=fae6aa76d7b91a64dff9079b6d3a541d&txTime=698f06e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=355e59189fd241ff25e39167c168e0ab&txTime=698f06e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=fae6aa76d7b91a64dff9079b6d3a541d&txTime=698f06e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/db0b8202d3d7bd940f77f2531e6a23b9.png",10h00 ngày 13/02 Los Angeles Lakers vs Dallas Mavericks [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1770963455-0-0-070cef5c1f21e3bbacfb3b969f6058f6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/db0b8202d3d7bd940f77f2531e6a23b9.png",10h00 ngày 13/02 Los Angeles Lakers vs Dallas Mavericks [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1770963455-0-0-be6e3982e98cf85636dc2aad2f804e38
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/db0b8202d3d7bd940f77f2531e6a23b9.png",10h00 ngày 13/02 Los Angeles Lakers vs Dallas Mavericks [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1770963455-0-0-964d31edfcfbeab934b3932ef1f5ff73
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260212/db0b8202d3d7bd940f77f2531e6a23b9.png",10h00 ngày 13/02 Los Angeles Lakers vs Dallas Mavericks [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1770963455-0-0-6c8a35cd2d2725d5d1e88b789a798373
+https://live.alilicloud.com/live/24c117c53ff03179d43d3aa98f8e6ed2/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV SINGER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1770963455-0-0-1b4ca5f447fa02a890d5f1274bf741f9
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1770966695-0-0-84fb0c1411192ff3e67ee6554f1ff17e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV SINGER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1770963455-0-0-69b76485a211ba538f3e0a113bb94b56
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1770966695-0-0-9de19a03c43623b4948090e596139462
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV SINGER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1770963455-0-0-ca3c2bb6ac9df75e255ae571beef6176
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1770966695-0-0-10d093c0cb00afad52039c006382b119
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV SINGER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1770963455-0-0-366287031051819433c9ef243c9e2305
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1770966695-0-0-98df6867de729e8c37d9132cdc6f397d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1770966695-0-0-e2a13427855026613a79ea37fa198a89
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1770966695-0-0-e5558a15eeb46918a2dc41eaf5f70c4e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1770966695-0-0-e1d72cab5be9a95de3425ec582e90240
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1770966695-0-0-cc0010af46932cc0a0798dd2fa0893c1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770963455-0-0-de015110510d1490a04bf2c217d708fe
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1770966695-0-0-ca815bb55ef0c2b71cb35e7312189b16
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770963455-0-0-6d565cb0903001ee944cd3aa30175c65
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1770966695-0-0-c6432466349a72d44e52310f0e5d5d5e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770963455-0-0-3f3a456211ffc2467333c503478ec901
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1770966695-0-0-7affb5919e98be2e53402307e3706b44
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770963455-0-0-3762f021d7174e7fbd673661f0429ef6
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",10h00 13/02 Los Angeles Lakers vs Dallas Mavericks
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1770966695-0-0-6963445733835e553b9d0fc08b5c8a71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/87379114.m3u8
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=39bbacfbd54688e2887c3d4f3597633a&txTime=698f165f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=021ac1a15d7c88538d7e213e5313b7d4&txTime=698f165f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=39bbacfbd54688e2887c3d4f3597633a&txTime=698f165f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=021ac1a15d7c88538d7e213e5313b7d4&txTime=698f165f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1770967055-0-0-25dfdf336f2e629046d65eb72dbab6a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1770967055-0-0-57e33967c7b0844a718aad1c103505b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1770967055-0-0-a71d947e917437e33f355b3eb8cade33
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/e4518845d7ddf37eab55c83e8f073757.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1770967055-0-0-73eacd7c2087af93cd61d788074306db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=557d6c036b5bc09d1cb90255de1e1fae&txTime=698f17c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=a873689fb2a6e08b9ad921e2682f0206&txTime=698f17c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=557d6c036b5bc09d1cb90255de1e1fae&txTime=698f17c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=a873689fb2a6e08b9ad921e2682f0206&txTime=698f17c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1770967415-0-0-c4cd38707592e927f630d3580d26e5c4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1770967415-0-0-b12bb140c994570d2fa91b60c122a567
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1770967415-0-0-b7fa1875c75ea25b0428541c2c456aa5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260210/47e51f6206ac6553fe2f48c92c32a1ca.png",12h50 ngày 13/02 WS Wanderers Women vs Newcastle Jets Women [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1770967415-0-0-61846a859261fa13f68f7b73350135c7
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/1f0d56832a72a49d8e9e3506658ad67b.png!w80",12h50 13/02 WS Wanderers Nữ vs Newcastle Nữ
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/97885009.m3u8
 #EXTM3U
 # --- Bongda 2 Playlist Start ---
 #EXTM3U
@@ -1283,12 +1269,12 @@ https://live5.msrktz.app/live/14830711.m3u8
       </div><!-- /.section -->
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9cd1e06dffff17e5</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9cd24badfdf64aad</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">48.214.55.33</span>
+        <span class="hidden" id="cf-footer-ip">52.225.25.58</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
