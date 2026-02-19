@@ -1,47 +1,67 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 group-title="Bún chả",[CNCF CHL] Cartagines Deportiva SA vs Vancouver Whitecaps lúc 11:56 WIB ngày 19/02/2026 [MAIN]
+#EXTINF:-1 group-title="Bún chả",[NBL] New Zealand Breakers vs Cairns Taipans lúc 14:36 WIB ngày 19/02/2026 [FLV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/478c76e369dcac36528a2a089934d351/playlist.m3u8
-#EXTINF:-1 group-title="Bún chả",[CNCF CHL] Cartagines Deportiva SA vs Vancouver Whitecaps lúc 11:56 WIB ngày 19/02/2026 [FLV]
+https://2893950149.global.cdnfastest.com/live/6996aa8326633_4439.flv?expire=1772086531&sign=82e7ee0e0023f94ad6838800015d9a8f
+#EXTINF:-1 group-title="Bún chả",[NBL] New Zealand Breakers vs Cairns Taipans lúc 14:36 WIB ngày 19/02/2026 [HLS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893950149.global.cdnfastest.com/live/69961ced26633_85514.flv?expire=1772050285&sign=46c3d41a13c2f144aeebd0c76cb04a63
-#EXTINF:-1 group-title="Bún chả",[CNCF CHL] Cartagines Deportiva SA vs Vancouver Whitecaps lúc 11:56 WIB ngày 19/02/2026 [HLS]
+https://2893254555.global.cdnfastest.com/live/6996aa8326633_4439/index.m3u8?expire=1772086531&sign=82e7ee0e0023f94ad6838800015d9a8f
+#EXTINF:-1 group-title="Bún chả",[Australia Northern New South Wales Reserves League] Kahibah FC Reserves vs Lambton Jaffas Reserves lúc 14:36 WIB ngày 19/02/2026 [MAIN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://2893254555.global.cdnfastest.com/live/69961ced26633_85514/index.m3u8?expire=1772050285&sign=46c3d41a13c2f144aeebd0c76cb04a63
+https://live.alilicloud.com/live/f4cafa57868d954dd38cea3392325bdf/playlist.m3u8
+#EXTINF:-1 group-title="Bún chả",[UEFA Development tournaments] Minsk U19 vs Kazakhstan U17 lúc 14:36 WIB ngày 19/02/2026 [MAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://live.alilicloud.com/live/5f8d8d340725238bd8cf93a3b0189c0f/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/45769_1j2j8x7gyv10.png",14h00 ngày 19/02 Kahibah FC Reserves vs Lambton Jaffas Reserves (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvVNq9jEp6nG9BTLY/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/45769_1j2j8x7gyv10.png",14h00 ngày 19/02 Kahibah FC Reserves vs Lambton Jaffas Reserves (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1771434554.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1771434554.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a1de4f3b2c2d903f49d275d7b22090b5/image/small?v=1768601124",07h30 ngày 19/02 Barcelona SC(ECU) vs Argentinos Juniors (Khán Đài A) source
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",14h30 ngày 19/02 FC Minsk U19 vs Kazakhstan U17 (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvVNqBy3HfRdQYeB6/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",14h30 ngày 19/02 FC Minsk U19 vs Kazakhstan U17 (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cd9146c5b3d2a676270f1c54238692d5/image/small?v=1768601124",14h00 ngày 19/02 Kahibah FC Reserves vs Lambton Jaffas Reserves (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/df6f4988af52d5eb94b36b1000184e18/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f844398e010d0f417e14a6d4c37e90f0/image/small?v=1768601124",07h30 ngày 19/02 Nacional Potosi vs Botafogo RJ (Khán Đài A) source
+https://live.alilicloud.com/live/f4cafa57868d954dd38cea3392325bdf/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8e9a62b0a454bc128dcd279a3259fb38/image/small?v=1768601124",14h30 ngày 19/02 Minsk U19 vs Kazakhstan U17 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5ca8fed2e76a7c57053d62f08d1947b1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c8770b11953cafd29f5e458bfa1a1260/image/small?v=1768601124",07h30 ngày 19/02 Atletico Junior Barranquilla vs America de Cali (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/39326f2da00673a60fb98838727408f4/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a5d566fd3e0c487cd3353081d061960b/image/small?v=1768601124",08h00 ngày 19/02 Universidad O&M vs FC Cincinnati (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2b1ab62c67080a65edde21d22a8d527d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/208030ccc091a696d5a2d2d0b20dcfc0/image/small?v=1768601124",08h00 ngày 19/02 Real Esteli vs HYH Export Sebaco FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/124c2e9e8ab6b304a8c9d4043bbccd57/playlist.m3u8
+https://live.alilicloud.com/live/5f8d8d340725238bd8cf93a3b0189c0f/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9103b95f900287a1504eb50bc5a59a4a/image/small?v=1768601124",10h00 ngày 19/02 CS Cartagines vs Vancouver Whitecaps (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/478c76e369dcac36528a2a089934d351/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/207023b80dd9bb003d3e12395f63e096/image/small?v=1768601124",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4705ce2a367e03292dfe8de3eb187747/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/207023b80dd9bb003d3e12395f63e096/image/small?v=1768601124",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc67274262.stream.hdplaylink.com/live4/8206a30f91c344f4a866e7f753bc3e05_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/207023b80dd9bb003d3e12395f63e096/image/small?v=1768601124",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/8206a30f91c344f4a866e7f753bc3e05_720/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/207023b80dd9bb003d3e12395f63e096/image/small?v=1768601124",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/8206a30f91c344f4a866e7f753bc3e05_720/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/62aa39ff07f824d40d46a025a4c9c8e2/image/small",12h00 ngày 19/02 Karaganda Women vs Almaty Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -286,144 +306,235 @@ https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9103b95f900287a1504eb50bc5a59a4a/image/small?v=1768601124",10h00 ngày 19/02 CS Cartagines vs Vancouver Whitecaps (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cd9146c5b3d2a676270f1c54238692d5/image/small?v=1768601124",14h00 ngày 19/02 Kahibah FC Reserves vs Lambton Jaffas Reserves (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/478c76e369dcac36528a2a089934d351/playlist.m3u8
+https://live.alilicloud.com/live/f4cafa57868d954dd38cea3392325bdf/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8e9a62b0a454bc128dcd279a3259fb38/image/small?v=1768601124",14h30 ngày 19/02 Minsk U19 vs Kazakhstan U17 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5f8d8d340725238bd8cf93a3b0189c0f/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/62aa39ff07f824d40d46a025a4c9c8e2/image/small",12h00 ngày 19/02 Karaganda Women vs Almaty Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/35584c422094eade6f7f096019339e97/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [CHAN SENA] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1771485095-0-0-10a88007bf72ef3856a54a51a3000adf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771489415-0-0-e30ff0490e6bf153dbc000036d06b8ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1771485095-0-0-be924604d492426a9b9eaa7525d55c54
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [CHAN SENA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1771489415-0-0-997383e14193a80ff7789352221907de
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1771485095-0-0-fd8b3f9eda829d9890eca3255e8c3420
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1771489415-0-0-ca661f4e805c5cc3539a2aa25d533a80
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1771485095-0-0-8d405e7dde4e3dcfc0aa33aa7b66c021
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1771489415-0-0-1ae1baee547e35100869f08fdd260804
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1771489415-0-0-e7b2874a41ead558c76c5023b65dc5c6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1771489415-0-0-fc7557b4e8ae592acc1210fd447df8f3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1771489415-0-0-97596bd8f18d5eadb2ae93a0b8c9cc86
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1771489415-0-0-20be5ea2f13c0809bb42ee2ae1936613
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1771489415-0-0-5389c42715c8a77e169a2f11d96a0135
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1771489415-0-0-a514d2878d2c0a21c79ea4c1ab0f1945
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1771489415-0-0-6afcc30747b1d19ce1638a168b8a6b06
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1771489415-0-0-469e20e3275763cfc2c476f4647eb33a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1771489415-0-0-a9f1307ccd2915a4e718d09fc3cb82ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1771489415-0-0-3ffbb5a55b77d7626616601f48bf84e9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1771489415-0-0-11aa65a0d8c14928d432f780af7edd2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1771489415-0-0-545e33d877bedcf9bc6b5e590bd2d8f4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1771485095-0-0-1d2421b5f845d8009b6de4eea2327b77
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1771489415-0-0-f87235896544117e8c6cd89f7ef3ebef
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1771485095-0-0-c363680fcb6ea0510447413c1510b2ff
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1771489415-0-0-2c6e8650f7c60897a740c9f7c02ee94a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771485095-0-0-3946a3cb60dc83fff9f69d880071bda3
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1771489415-0-0-ba2b2a79499b000e5a86864ed24c4fc0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771485095-0-0-582db058801839a98529894f978e3297
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1771489415-0-0-5bd0908ccdeb057e050a9217df546717
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771485455-0-0-fb9ec3493aa5d1133ccf6489a61bfd66
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1771489415-0-0-a8a9a152fc95699f86ea47d5929e7c79
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771485455-0-0-05635b30440d927c765881ca53d50bd1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1771489415-0-0-4b76840a3415c5c35bbd0cf764c52249
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771485455-0-0-467d6076c96254b78319d45f26bc3f0f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1771489415-0-0-8693d9410408754db0291b85f4a4a9a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771485455-0-0-768e4b252252bcdddccc4ba4ed0cc879
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Olympiacos Piraeus vs Bayer 04 Leverkusen [Sóc mèo méo meo] (Socolive) flv
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1771489415-0-0-a694b00a4d66ddcb115c2c999b85a989
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1771485455-0-0-8718e6c693ba71702800d2d7df607d89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Olympiacos Piraeus vs Bayer 04 Leverkusen [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5d5ed435daf2b0cbf169b0ebe324fb5c&txTime=69970ed7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1771485455-0-0-b7cb2dcc653de1be6328cefcde30f2fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Olympiacos Piraeus vs Bayer 04 Leverkusen [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=780426d46ed7739d4c67f048fb32b895&txTime=69970ed7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1771485455-0-0-6ba6cf5d90d6aa0d74555f0a003d3ba8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Olympiacos Piraeus vs Bayer 04 Leverkusen [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5d5ed435daf2b0cbf169b0ebe324fb5c&txTime=69970ed7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1771485455-0-0-81d01d50bbcffb904a1ca45873e77968
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: SPA D1 - Levante vs Villarreal CF [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1771485455-0-0-da4d3ccbe912405356d6128d46c4925a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: SPA D1 - Levante vs Villarreal CF [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1771485455-0-0-3dc0b1f3c6f9a00e209f08bdfaa82738
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: SPA D1 - Levante vs Villarreal CF [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1771485455-0-0-2ee6538a85aac7c349cfca3b5ff39809
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: SPA D1 - Levante vs Villarreal CF [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1771485455-0-0-56140c4cc7fe91c91570f378856ef1de
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Club Brugge vs Atletico Madrid [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1771485455-0-0-41a23ae17cf31e3a8ae73ed7d39acb57
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Club Brugge vs Atletico Madrid [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1771485455-0-0-2ab1877531a69de76175098852ba6e56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Club Brugge vs Atletico Madrid [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1771485455-0-0-7f417d047e8ce766d440bc7b5751544c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Club Brugge vs Atletico Madrid [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1771485455-0-0-547320ee3012ca2c7b95269258ba1ad4
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=780426d46ed7739d4c67f048fb32b895&txTime=69970ed7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Bodo Glimt vs Inter Milan [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1771485455-0-0-adaf7b03063290328468fc7b0b121729
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1771489415-0-0-cb3a3c12d86198fe4d5b1d254760929a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Bodo Glimt vs Inter Milan [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1771485455-0-0-7b401256cdf93abfab7ddcb1c0dcba83
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1771489415-0-0-6778ec36bf463ebd46d297776961d6dc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Bodo Glimt vs Inter Milan [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1771485455-0-0-22307348a2b21208140201da694ff98c
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1771489415-0-0-2be5c69c520c759c7c84935d471957b7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Bodo Glimt vs Inter Milan [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1771485455-0-0-0de1e81fd0e5bf2599755cf057bbe250
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1771489415-0-0-cbf9f4e9ad5d3c27771dfbd52bb86ed9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=6329dbb2fcac6518f170eb69d723a406&txTime=6997103f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=1a9a38f5224eda9dd51b42c938efdafc&txTime=6997103f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=6329dbb2fcac6518f170eb69d723a406&txTime=6997103f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/e84fe4d380c59f4b2477ec10b3374c90.png",14h45 ngày 19/02 Macarthur FC vs Bangkok United FC [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=1a9a38f5224eda9dd51b42c938efdafc&txTime=6997103f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1771489775-0-0-7f9ea3e125da43bb218e91856dca7260
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1771489775-0-0-88975ae691cc3b8be1760101005fa1fb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1771489775-0-0-aac5abfb4320f21b36f325be08c60835
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1771489775-0-0-b1811fe96e603c2d555192722a271eb4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Qarabag vs Newcastle United [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1771485455-0-0-794227ad3bb4a6fd73a0c5d786125ccb
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1771489775-0-0-a227da33ac45d13b3835b91fc0c50f06
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Qarabag vs Newcastle United [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1771485455-0-0-eb514aee726f4afc786cf4e7d0c8e619
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1771489775-0-0-dfe2132326bf57426100f9d1bf6f247e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Qarabag vs Newcastle United [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1771485455-0-0-5cd6b8b8c8fadd3150763c607d1a7662
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1771489775-0-0-98948b17698f6e07a802549ef8a18670
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Qarabag vs Newcastle United [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1771485455-0-0-0c323ed3e4a61f0c58ba0679ef69f7d4
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1771489775-0-0-8302f930921590b4aecaf703c72b9823
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: SPA D1 - Levante vs Villarreal CF [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1771489775-0-0-982fbd2cacf73475c20164a1cac1e32d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: SPA D1 - Levante vs Villarreal CF [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1771489775-0-0-2a04ceee8adc9ba577a255968f79273f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: SPA D1 - Levante vs Villarreal CF [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1771489775-0-0-935115122187f37186064de71f19943b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: SPA D1 - Levante vs Villarreal CF [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1771489775-0-0-57feec9b1d7de76b82e4a960d53b4bdf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Club Brugge vs Atletico Madrid [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1771489775-0-0-4f4217eab34d5e909219eb26429d56f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Club Brugge vs Atletico Madrid [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1771489775-0-0-7a0bab85905e1d5f471f767baeb501e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Club Brugge vs Atletico Madrid [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1771489775-0-0-7306863690fbf5982e005ff12e6586ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Club Brugge vs Atletico Madrid [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1771489775-0-0-84cd8925810d773e30927e2e7781a988
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Olympiacos Piraeus vs Bayer 04 Leverkusen [Sóc mèo méo meo] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1771489775-0-0-a4c497d85497aff3360f35ccdcf04de0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Olympiacos Piraeus vs Bayer 04 Leverkusen [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1771489775-0-0-f85885475937bb1cab46c2db4a87c958
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Olympiacos Piraeus vs Bayer 04 Leverkusen [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1771489775-0-0-8fd03f71aa1801923047a49623db7a7f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: UEFA CL - Olympiacos Piraeus vs Bayer 04 Leverkusen [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1771489775-0-0-2068dd7515825b4cb91eadc9dc686406
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1771485815-0-0-c7377fcc0821517ded4996719a4f355c
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1771490135-0-0-5408c27967c2f15c47a2ac16a2ac9c18
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1771485815-0-0-53403ceb3827fad9a33193cfb725eae5
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1771490135-0-0-e26c74e7331bcdddf65ea1ad0f594c44
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1771485815-0-0-c4d91d4e314a2dee79c4383f4e4cac33
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1771490135-0-0-5b92ab229b4f89d52bce33dc5d606e8e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260217/84c1bdbf4df9d5ce67c6a1e7547751db.png",13h30 ngày 19/02 New Zealand Breakers vs Cairns Taipans [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1771485815-0-0-b6b90c65d167b18dd0532de6953908a3
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1771490135-0-0-89c9923e2c1fa55bad07867f34c08105
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: ENG PR - Wolverhampton Wanderers vs Arsenal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1771485815-0-0-1ef004c2b7f6c4a69ba9dc5f9497e50b
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1771490135-0-0-e48e0e465bd0896e4005f7b16d352a1c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: ENG PR - Wolverhampton Wanderers vs Arsenal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1771485815-0-0-9f9f56722e5b554ee03af61dd56983d6
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1771490135-0-0-9d74eee82a49d46ef190423ce972ceee
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: ENG PR - Wolverhampton Wanderers vs Arsenal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1771485815-0-0-a6771c891d4e3c30ac705bbc7b513217
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1771490135-0-0-18690456fe24c39e246dc95c951ed935
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260216/db89ef689a374de638ce1c05357bfc37.png",Tường thuật: ENG PR - Wolverhampton Wanderers vs Arsenal [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1771485815-0-0-4e0752667f0845fc77c97833e04561dd
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1771490135-0-0-4de29eb76e186b107ce6cf4799be6b2c
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/15550.png",14h45 19/02 Macarthur vs Bangkok United (Hội Quán) FULL HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/15550.png",14h45 19/02 Macarthur vs Bangkok United (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/15550.png",14h45 19/02 Macarthur vs Bangkok United (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80",13h30 19/02 New Zealand Breakers vs Cairns Taipans
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/82054853.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Quê Choa",[CONCACAF Champions League] 10h00 19/02 CS Cartagines vs Vancouver Whitecaps [FHD]
+#EXTINF:-1 group-title="Quê Choa",[AFC Cup] 14h45 19/02 Macarthur vs Bangkok United [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.m3u8
-#EXTINF:-1 group-title="Quê Choa",[CONCACAF Champions League] 10h00 19/02 CS Cartagines vs Vancouver Whitecaps [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
+#EXTINF:-1 group-title="Quê Choa",[AFC Cup] 14h45 19/02 Macarthur vs Bangkok United [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[CONCACAF Champions League] 10h00 19/02 CS Cartagines vs Vancouver Whitecaps [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[AFC Cup] 14h45 19/02 Macarthur vs Bangkok United [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_sd.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_sd.m3u8
