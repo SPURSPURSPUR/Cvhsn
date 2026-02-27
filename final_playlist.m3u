@@ -1,60 +1,29 @@
 #EXTM3U
 # --- Bongda 1 Playlist Start ---
 #EXTM3U
-#EXTINF:-1 group-title="Bún chả",[Paraguayan Primera Division] Deportivo Recoleta vs FC Nacional Asuncion lúc 07:32 WIB ngày 27/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/ef0722ebec1f07e2615d76e48e206c15/playlist.m3u8
-#EXTINF:-1 group-title="Bún chả",[CONCACAF U20 Championship] Curacao U20 vs st Vincent the Grenadine U20 lúc 07:32 WIB ngày 27/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/3c6489e1085d74bb92a9aa8113258d23/playlist.m3u8
-#EXTINF:-1 group-title="Bún chả",[WC Qualifying] Papua New Guinea (w) vs Vanuatu (w) lúc 07:32 WIB ngày 27/02/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv.net/
-https://live.alilicloud.com/live/d7f9f6b3393732090aff34cf632fce8c/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772116197.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772116197.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772116172.png",09h00 ngày 27/02 Phoenix Suns vs Los Angeles Lakers (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16098_1h1gc9xg0k4.png",11h00 ngày 27/02 Fiji (W) vs New Caledonia (W) (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772116172.png",09h00 ngày 27/02 Phoenix Suns vs Los Angeles Lakers (Lương Sơn) BLV LÝ QUỲ flv
+https://auto.cdnok9.com/live/sd-6Mwd5hZh53PmbxnKv4/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16098_1h1gc9xg0k4.png",11h00 ngày 27/02 Fiji (W) vs New Caledonia (W) (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/22758_1gr7yy0vjb2p.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua (Lương Sơn) BLV GIÁO SƯ XOAY m3u
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/51bf2c28ae2c0c4847ca95b94b82fd8e/image/small?v=1768601124",11h00 ngày 27/02 Fiji Women vs New Caledonia Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/22758_1gr7yy0vjb2p.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua (Lương Sơn) BLV GIÁO SƯ XOAY flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/GIAOSUXOAY.flv?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0e29874c803c7a9fcd34d99c149b8562/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/58112918cd7aacfee8432e1080d52314/image/small?v=1768601124",07h00 ngày 27/02 Philadelphia Union vs National Defense Forces (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f779b12a1c7ec6444156a94b373fe305/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/208030ccc091a696d5a2d2d0b20dcfc0/image/small?v=1768601124",07h00 ngày 27/02 Real Esteli vs Real Madriz FC (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3f931fff78493c07e8af8fae29823b34/image/small?v=1768601124",07h00 ngày 27/02 Papua New Guinea Women vs Vanuatu Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/23f60268e5e0e9787f479846abdf67b5/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/780f2a04ed8bbd6aeb147b28b1c2a3fc/image/small?v=1768601124",06h30 ngày 27/02 Deportivo Recoleta vs FC Nacional Asuncion (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ef0722ebec1f07e2615d76e48e206c15/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c4b3c0ca31b427301b4ddf91c7c1d856/image/small?v=1768601124",07h30 ngày 27/02 Portuguesa Desportos vs AE Altos (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9ea531006bb07a8249ab279017c238f5/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9289dfcb5bc1975e5acf59781887ae98/image/small?v=1768601124",07h00 ngày 27/02 Curacao U20 vs st Vincent the Grenadine U20 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3c6489e1085d74bb92a9aa8113258d23/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a5b4b79be70fd8fe74995309aaa0f2ae/image/small?v=1768601124",05h00 ngày 27/02 Santos vs Clube de Regatas Vasco da Gama (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/50c7d9c8c8774b7ffccd2054ba677e55/playlist.m3u8
+https://live.alilicloud.com/live/d7f9f6b3393732090aff34cf632fce8c/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/58644f296e43e80299f8eda893b77a56/image/small?v=1768601124",08h00 ngày 27/02 Nicaragua U20 vs Martinique U20 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -67,55 +36,43 @@ https://live.alilicloud.com/live/3c98ebea0881f0ae17926e01bb0d6997/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/0082171783ee76ddba44d90ff4b95eae/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2584c0adf0dd04294e90270d2e8c4db1/image/small?v=1768601124",05h00 ngày 27/02 US Virgin Islands U20 vs Canada U20 (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/208030ccc091a696d5a2d2d0b20dcfc0/image/small?v=1768601124",07h00 ngày 27/02 Real Esteli vs Real Madriz FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/04b78314a2f6d2060a89b94d0c94a04d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/30e631bacb3328fdf7892c6a80e0786f/image/small?v=1768601124",05h00 ngày 27/02 Boca Juniors De Cali vs Barranquilla FC (Khán Đài A) source
+https://live.alilicloud.com/live/23f60268e5e0e9787f479846abdf67b5/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/780f2a04ed8bbd6aeb147b28b1c2a3fc/image/small?v=1768601124",06h30 ngày 27/02 Deportivo Recoleta vs FC Nacional Asuncion (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/cefd754b0b79220162635d4c63188801/playlist.m3u8
+https://live.alilicloud.com/live/ef0722ebec1f07e2615d76e48e206c15/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b9bc8dba4d8fafcfb76fb7567298af62/image/small?v=1768601124",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/c046157e945a12863a1b5d218d51f721/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3adea599f59f9913866a2c857b18d15b/image/small?v=1768601124",05h00 ngày 27/02 Club Guaraní vs CA Juventud (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c4b3c0ca31b427301b4ddf91c7c1d856/image/small?v=1768601124",07h30 ngày 27/02 Portuguesa Desportos vs AE Altos (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/121cd050362e43cf2d27e17bbc2aa34e/playlist.m3u8
+https://live.alilicloud.com/live/9ea531006bb07a8249ab279017c238f5/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d5acc438a6b3151468ce69fbef3ce1d3/image/small?v=1768601124",07h30 ngày 27/02 Deportes Tolima vs Deportivo Tachira (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b3de67e47024deecf0e8a98d180afdec/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9289dfcb5bc1975e5acf59781887ae98/image/small?v=1768601124",07h00 ngày 27/02 Curacao U20 vs st Vincent the Grenadine U20 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3c6489e1085d74bb92a9aa8113258d23/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/11687c18097f7743c43fd55ee90af610/image/small?v=1768601124",12h00 ngày 27/02 Auckland FC Reserves vs Tahiti United FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/27c3893833daeb430eaa8802ff76d956/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1ac57f21e5de86a8530e3f3e0a44e825/image/small?v=1768601124",09h00 ngày 27/02 New Zealand Women vs Samoa (w) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/0b485c6d8eec2b6445871e16f6a71c3e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a45feaa75bfbdf47ab9a68056391b342/image/small?v=1768601124",06h00 ngày 27/02 Serra vs Real Noroeste (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7c71a3272e24e85ed4dbdab60d3b76dd/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3f931fff78493c07e8af8fae29823b34/image/small?v=1768601124",07h00 ngày 27/02 Papua New Guinea Women vs Vanuatu Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d7f9f6b3393732090aff34cf632fce8c/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8528d25672c9a84cb695dceb179ccb98/image/small?v=1768601124",06h00 ngày 27/02 Ceara vs Primavera (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d454525252e0f71b2dc4947ac78975d2/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",05h30 ngày 27/02 Estudiantes Rio Cuarto vs CA Huracan (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/af84b083f7f98403caac46cc3fda8072/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8a959338f7907e145915b3a4c7a5a423/image/small?v=1768601124",05h30 ngày 27/02 River Plate vs Banfield (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/264c651a2c32be0d4551cd099fdf1f76/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133016_a6d5a291.png",09h00 ngày 27/02 New Zealand W vs Samoa W (Chuối Chiên) HD1
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/19418.png",11h00 ngày 27/02 Fiji W vs New Caledonia W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133016_a6d5a291.png",09h00 ngày 27/02 New Zealand W vs Samoa W (Chuối Chiên) HD2
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/19418.png",11h00 ngày 27/02 Fiji W vs New Caledonia W (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/m4x2.flv
@@ -407,212 +364,110 @@ https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/208030ccc091a696d5a2d2d0b20dcfc0/image/small?v=1768601124",07h00 ngày 27/02 Real Esteli vs Real Madriz FC (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/51bf2c28ae2c0c4847ca95b94b82fd8e/image/small?v=1768601124",11h00 ngày 27/02 Fiji Women vs New Caledonia Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/23f60268e5e0e9787f479846abdf67b5/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c4b3c0ca31b427301b4ddf91c7c1d856/image/small?v=1768601124",07h30 ngày 27/02 Portuguesa Desportos vs AE Altos (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9ea531006bb07a8249ab279017c238f5/playlist.m3u8
+https://live.alilicloud.com/live/0e29874c803c7a9fcd34d99c149b8562/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/58644f296e43e80299f8eda893b77a56/image/small?v=1768601124",08h00 ngày 27/02 Nicaragua U20 vs Martinique U20 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5b061dfc1ac1e660e0e5e76c6a7844b2/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1ba71d72ec79ce350fb10ca91df5cd99/image/small?v=1768601124",07h30 ngày 27/02 CR Flamengo vs Club Atlético Lanús (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3c98ebea0881f0ae17926e01bb0d6997/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ed2c3c63bb473c8c0dd589b06d395fc7/image/small?v=1768601124",07h30 ngày 27/02 Millonarios vs Deportivo Pereira (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0082171783ee76ddba44d90ff4b95eae/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b9bc8dba4d8fafcfb76fb7567298af62/image/small?v=1768601124",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c046157e945a12863a1b5d218d51f721/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d5acc438a6b3151468ce69fbef3ce1d3/image/small?v=1768601124",07h30 ngày 27/02 Deportes Tolima vs Deportivo Tachira (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/11687c18097f7743c43fd55ee90af610/image/small?v=1768601124",12h00 ngày 27/02 Auckland FC Reserves vs Tahiti United FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b3de67e47024deecf0e8a98d180afdec/playlist.m3u8
+https://live.alilicloud.com/live/27c3893833daeb430eaa8802ff76d956/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1ac57f21e5de86a8530e3f3e0a44e825/image/small?v=1768601124",09h00 ngày 27/02 New Zealand Women vs Samoa (w) (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0b485c6d8eec2b6445871e16f6a71c3e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/58112918cd7aacfee8432e1080d52314/image/small?v=1768601124",07h00 ngày 27/02 Philadelphia Union vs National Defense Forces (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f779b12a1c7ec6444156a94b373fe305/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3f931fff78493c07e8af8fae29823b34/image/small?v=1768601124",07h00 ngày 27/02 Papua New Guinea Women vs Vanuatu Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d7f9f6b3393732090aff34cf632fce8c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9289dfcb5bc1975e5acf59781887ae98/image/small?v=1768601124",07h00 ngày 27/02 Curacao U20 vs st Vincent the Grenadine U20 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3c6489e1085d74bb92a9aa8113258d23/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1772166216-0-0-01f808f8ab463446091e338b83be2ca3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1772166216-0-0-ee3bdb812a8464957a22a9724fd6eb5a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1772166216-0-0-4ab19be37d790de45c538ab9364bf66c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1772166216-0-0-35bc2a9e86c33bd1b368edfa1d4aea04
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1772166216-0-0-a1c2d36b0897cea9ee907c58af09e369
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1772171616-0-0-e845720551fa8a46a1875c4dee05af60
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1772166216-0-0-e4120ec11bbad59023c1421c18346924
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1772171616-0-0-55ff07bcbc417142135024781bbed372
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1772166216-0-0-379e03f2d57a5a7beae3ac2309dc0f34
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1772171616-0-0-db86531d6bbc17bec9a353191dfc4b68
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1772166216-0-0-0c85a13d956b1162e316c9caf789b92a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [CR Bưởi] (Socolive) flv
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1772171616-0-0-f35b77a0594c620a85a054b86e05776b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=edfa6450c7cd93e26063198f0ed1404b&txTime=69a16400
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [CR Bưởi] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1772171616-0-0-1dfaa6c0d31542ac37de50725b1479cf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=e604140a1640674966e426450a840c46&txTime=69a16400
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [CR Bưởi] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1772171616-0-0-b9ce21cf9916b54a1144ef8054ed532b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=edfa6450c7cd93e26063198f0ed1404b&txTime=69a16400
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [CR Bưởi] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1772171616-0-0-853aa76969afa4a0b3ed898723e39755
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e604140a1640674966e426450a840c46&txTime=69a16400
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1772166576-0-0-76566914f5642da2454047485b3d42a4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1772166576-0-0-97b902038fe4faf181ca2bc90e4b765f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1772166576-0-0-f9ef0a84593035bf47ecc25f7dbcf5c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1772166576-0-0-21a95c84006d6f0d5b53638f2381a356
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1772171616-0-0-15708492fd922028dfea38f851843dc3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1772166576-0-0-1ccbe434cd0970115a0529dd54a66d52
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1772172336-0-0-f056276e1fa6d20be44ed67263d789d3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1772166576-0-0-ef1fa61ddcce00b2c6ab93d2f23aee57
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1772172336-0-0-14aa972589c276cd72c63e029433a4c8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1772166576-0-0-5811c17dbc7af8c3e0cdd08032fc395b
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1772172336-0-0-072f4d648e01b44108499daeb30c7214
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1772166576-0-0-1ee1e35db63c39b986bb34cdfa350c32
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [BLV COCA] (Socolive) flv
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1772172336-0-0-5af40c4f0bbe0a8cf0e5f7b285c24850
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1772166576-0-0-5c6125fdfb86aa41117538f260bb747d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1772172336-0-0-e74eb18514a88200af52071a91aeecaa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1772166576-0-0-21ec1a1e6f3e8b87cfee319fd683fba4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [BLV COCA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1772172336-0-0-2f52cb79fa3811a46cc85699b08fed1c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1772166576-0-0-aa903cf476e9b6e385f9865c130fcaa4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1772172336-0-0-811d72d3f6dd6eb1c2fa943c29e47436
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1772166576-0-0-e20fec0a37759f14423f30c9b1270861
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=d0dbd850663cd39d19703d1a60a0c5fa&txTime=69a16400
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=ad07721e6e1e501f3320001fc629e0bf&txTime=69a16400
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=d0dbd850663cd39d19703d1a60a0c5fa&txTime=69a16400
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=ad07721e6e1e501f3320001fc629e0bf&txTime=69a16400
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [BLV NIBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1772166576-0-0-783b4ca896c91da14e3212b4bcdef860
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [BLV NIBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1772166576-0-0-f53e368c5098fa2ddee0af70da47fba2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [BLV NIBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1772166576-0-0-f7676cbbbecd92d1803b0a7a403bf7f3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [BLV NIBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1772166576-0-0-7ab4ffc1df0265ae3b1baa01db3cdbfb
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1772172336-0-0-174bf00c20843cf88d2c9637275144d1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1772166576-0-0-bd1e996454b573a2e58bdb8c7f3d9577
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1772172336-0-0-c8a0d5d67bebef59f38be89fb5465208
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1772166576-0-0-0c9c65176a7a59ba9aac431e678288f7
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1772172336-0-0-ace544a41ee7ae77fadfb6e496b58961
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1772166576-0-0-b6fffdafdc2b3eefd9ed6d6e996e4922
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1772172336-0-0-b933790f7cec21aad654fa62cdfd2e0a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1772166576-0-0-66ae1e56f82fedc3c6556e0448fc01b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1772166576-0-0-d387cbd612e3a93754404ecc9c7881f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1772166576-0-0-adaaf62cdd86df739d46821f4bf2bd6e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1772166576-0-0-63884dfe21ef8103cdd1b9b0f55a90b2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1772166576-0-0-eb7210c851c5b181ddfba83e3cb8ec95
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1772172336-0-0-bce61df54215cf64260ac249decc2353
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1772166576-0-0-f1127f9c95811d371483aebabec8955d
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1772172336-0-0-d3d550e0e6be9aaeeb4e3fe84ae18d45
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1772166576-0-0-64c671ae0c6460dac92aa6b779c0b9bc
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1772172336-0-0-2bf905e6512085dc486a839dc97d028b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1772166576-0-0-983751d83ee8c5ed942e7620635c9280
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1772172336-0-0-0a7542951736c2967c95ce420d251270
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260225/9f0833e194639451274a447ca214df2b.png",10h00 ngày 27/02 Los Angeles Clippers vs Minnesota Timberwolves [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1772166576-0-0-57bd8ea071f7c1420f92af9891a354a7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [VỊT BẠC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1772166936-0-0-f21ec6092beb3be421deb153a41e807f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [VỊT BẠC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1772166936-0-0-d8ea4a2b1959e57319fb2caa697bc6ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [VỊT BẠC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1772166936-0-0-87e0250cf8dd8bf2c218dd2219b2c6c7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260224/79f61444f67d3badf0fae47b92a073b2.png",09h00 ngày 27/02 Walter Ferretti vs UNAN Managua [VỊT BẠC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1772166936-0-0-3bbe30087985f0464f032e7821c25438
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1772172336-0-0-702c5e8c41dbb3a681a342146149d8ec
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772166936-0-0-fd2e4159b13f34bc680f0da42d118649
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772172336-0-0-22cd8ee17e29412e74fe907abe8cac91
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772166936-0-0-f88389e0cbd193340754277349f469d6
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772172336-0-0-b8e8947654532fc056865c675d2dad1f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772166936-0-0-d50c92fe48ff17d3fe2a807ad7252b9d
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772172336-0-0-b58d1581b24c9af8c72498b2f7796548
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260222/00808f10a680c1f9d744c81fc399d30c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772166936-0-0-4516bc24a0170483dbaba7f9fe198580
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80",09h00 27/02 Phoenix suns vs Los Angeles Lakers
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80",10h00 27/02 Los Angeles Clippers vs Minnesota Timberwolves
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/82054853.m3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772172336-0-0-504b39ef001b38aa8ba8132b9b647e8e
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[PREDATOR WPA TEAMS WORLD CHAMPIONSHIP] 08h30 27/02 Team Việt Nam vs Team Úc [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -626,18 +481,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_sd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[NBA] 08h30 27/02 Phoenix Suns vs Los Angeles Lakers [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[NBA] 08h30 27/02 Phoenix Suns vs Los Angeles Lakers [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[NBA] 08h30 27/02 Phoenix Suns vs Los Angeles Lakers [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
 #EXTINF:-1 group-title="Quê Choa",[NBA] 08h30 27/02 Los Angeles Clippers vs Minnesota Timberwolves [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
@@ -1298,12 +1141,12 @@ https://live5.msrktz.app/live/14830711.m3u8
       </div><!-- /.section -->
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d44aa40fc44327e</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d452c8d0f1ef789</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.225.29.96</span>
+        <span class="hidden" id="cf-footer-ip">52.161.82.113</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
