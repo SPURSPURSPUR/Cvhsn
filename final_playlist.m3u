@@ -9,12 +9,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773033181.png",00h00 ngày 09/03 Arsenal vs Sunderland (Lương Sơn) NHÀ ĐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773033181.png",00h00 ngày 09/03 Arsenal vs Sunderland (Lương Sơn) NHÀ ĐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TEST.flv?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTINF:0 group-title="Lương sơn" tvg-logo="",13h00 ngày 09/03 Melbourne City Youth(W) vs FC Bulleen Lions (W) (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MvVNVZZeQFRK87Lm2/playlist.m3u8
@@ -25,30 +19,28 @@ https://auto.cdnok9.com/live/sd-6MvVNVZZeQFRK87Lm2/playlist.m3u8
 https://auto.cdnok9.com/live/sd-6MwcqRrbBj3S3LETXS/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/67708_1jcsjb086bt.png",13h00 ngày 09/03 Sululta Ketema vs Soloda Adwa (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7c48bf69655bc73bf432ca08dfaa7e9e/image/small?v=1768601124",09h00 ngày 09/03 San Jose Earthquakes Reserve vs Los Angeles FC II (Khán Đài A) source
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773033181.png",00h00 ngày 09/03 Arsenal vs Sunderland (Lương Sơn) NHÀ ĐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3f6f28ab8d7f505d09cdf071ca77b266/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1eecd0a1322d1748c5c4e2b0cb477804/image/small?v=1768601124",07h30 ngày 09/03 Austin FC II vs Ventura County FC (Khán Đài A) source
+https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773033181.png",00h00 ngày 09/03 Arsenal vs Sunderland (Lương Sơn) NHÀ ĐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/06213ae9a05a58c742ff24104cb103a5/playlist.m3u8
+https://flv.cdnok9.com/live/TEST.flv?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/14d30d79e8e44a76ec6f35d9651287c7/image/small?v=1768601124",13h00 ngày 09/03 Sululta Ketema vs Soloda Adwa (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/18d17b5156fb1a92bfc83c08944d70ab/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08h00 ngày 09/03 Toluca vs FC Juarez (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7286bb6b05f231ec2c7a6718a0991175/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/665c67908b9d96422f9e48377a41949f/image/small?v=1768601124",10h06 ngày 09/03 Club Tijuana vs Santos Laguna (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/32956000c892a698e2925bcc1a89c84a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e1c36b1fbf3a971f685a4579aa3b9a79/image/small?v=1768601124",08h00 ngày 09/03 Rancho Santana FC vs Real Esteli (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/71aa3bad0c31166a0f6ba6558f73dbf9/image/small?v=1768601124",13h00 ngày 09/03 Melbourne City Youth(W) vs FC Bulleen Lions Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e2dd24b206059b7c0c4fa5bc0fc64cae/playlist.m3u8
+https://live.alilicloud.com/live/0f15f919d4b2b75a2f42469ecf1cc268/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7c48bf69655bc73bf432ca08dfaa7e9e/image/small?v=1768601124",09h00 ngày 09/03 San Jose Earthquakes Reserve vs Los Angeles FC II (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3f6f28ab8d7f505d09cdf071ca77b266/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142849_49a46639.png",16h00 ngày 09/03 Bangladesh W vs Uzbekistan W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -313,98 +305,98 @@ https://stream.chuoichien.tv/chuoivang/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoivang.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/7c48bf69655bc73bf432ca08dfaa7e9e/image/small?v=1768601124",09h00 ngày 09/03 San Jose Earthquakes Reserve vs Los Angeles FC II (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3f6f28ab8d7f505d09cdf071ca77b266/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/14d30d79e8e44a76ec6f35d9651287c7/image/small?v=1768601124",13h00 ngày 09/03 Sululta Ketema vs Soloda Adwa (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/18d17b5156fb1a92bfc83c08944d70ab/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/71aa3bad0c31166a0f6ba6558f73dbf9/image/small?v=1768601124",13h00 ngày 09/03 Melbourne City Youth(W) vs FC Bulleen Lions Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0f15f919d4b2b75a2f42469ecf1cc268/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: GER D1 - 1. FC Union Berlin vs SV Werder Bremen [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1773039577-0-0-62294488a488ece3690f64f9134abfe4
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1773043897-0-0-87ff01d80f34c1cb292608505baeeacc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: GER D1 - 1. FC Union Berlin vs SV Werder Bremen [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1773039577-0-0-5e40c439a8380db277a2f7f3e2c72092
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1773043897-0-0-631d8692d9b97f2f49c7300937a6a682
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: GER D1 - 1. FC Union Berlin vs SV Werder Bremen [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1773039577-0-0-3153926dca8f8823799593063b81a077
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1773043897-0-0-c40cddce26f3fc83ba6f3ff6357a9b47
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: GER D1 - 1. FC Union Berlin vs SV Werder Bremen [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1773039577-0-0-40085597b0660cc14adf2a1a75bea994
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Fulham vs Southamptont [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1773039577-0-0-21540b8b7c41baae1ae313624cb70558
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Fulham vs Southamptont [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1773039577-0-0-cf46fd8ef8788dd0252af5ec782707e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Fulham vs Southamptont [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1773039577-0-0-42765df75a33a8cf98250788f4d2ff49
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Fulham vs Southamptont [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1773039577-0-0-01ca1dc31efbefeac25f848d89ffa0b7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - AC Milan vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1773039577-0-0-b3d21779ccd51b664c8168c042666276
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - AC Milan vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1773039577-0-0-383c4156baab37b2e9545749a17f2338
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - AC Milan vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1773039577-0-0-4789e4ed8a64fce64f5d2f8c055043a5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - AC Milan vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1773039577-0-0-17e03c9520d302ec2bc8b0f2bc57738b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Genoa vs AS Roma [Sóc nhàm nhang nhồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1773039577-0-0-21f37d4896c67b499cdf22edfb743c72
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Genoa vs AS Roma [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1773039577-0-0-24eacf094734363321d7b79f3c77cc5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Genoa vs AS Roma [Sóc nhàm nhang nhồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1773039577-0-0-cb257995ff43ea2fd226e8c39e24f611
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Genoa vs AS Roma [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1773039577-0-0-9236a20b2442f487a53e9b0239d085b2
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1773043897-0-0-04c934f6182900648d6a1a797bea9a50
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Bologna vs Hellas Verona [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1773039577-0-0-0e0f7d1d35a674347906c1ee47679ec5
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1773043897-0-0-0aa07eea081d1816dbd4de67a9f00c22
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Bologna vs Hellas Verona [Sóc đau cổ vai gáy] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1773039577-0-0-b2bfeeaa6e9aa56f957519d09935aca7
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1773043897-0-0-b746b1665972a0ab9cb9581257907c6c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Bologna vs Hellas Verona [Sóc đau cổ vai gáy] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1773039577-0-0-eb1f7cd5312feb0cb74b464ad674b348
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1773043897-0-0-ac84ef27abc7ae2b8b07d23d3b809f7b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Bologna vs Hellas Verona [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1773039577-0-0-30da3b2338915834adc67ac72f47c42e
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1773043897-0-0-090b74c7cbeb00604af42493a0109942
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Genoa vs AS Roma [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1773043897-0-0-56826762ce9f609a069388d411231709
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Genoa vs AS Roma [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1773043897-0-0-fdb29f3332703b670fd8f6ac592ca5c6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Genoa vs AS Roma [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1773043897-0-0-89a45659dde0afa7243d22b503255b48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - Genoa vs AS Roma [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1773043897-0-0-2b33d81a735efce24357795233874c46
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Fulham vs Southamptont [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1773043897-0-0-8dc33d1d51f19163f897e9c5f1969f29
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Fulham vs Southamptont [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1773043897-0-0-23432b55e9f3f6b3c570a9275f897202
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Fulham vs Southamptont [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1773043897-0-0-6f7a557a2c12c0689dcb76c260228213
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Fulham vs Southamptont [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1773043897-0-0-7849709595ace5f6f1b8195b4ff4c75e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - AC Milan vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1773043897-0-0-de57a64916c0c811d013639c0bff117f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - AC Milan vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1773043897-0-0-75dd5df97499cfbf7a0e965841c0f547
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - AC Milan vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1773043897-0-0-b67832ad643355d714973bd4af20db37
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ITA D1 - AC Milan vs Inter Milan [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1773043897-0-0-5ffa2b9c8395844e8db638fffa84c4e5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773039937-0-0-5ea256cf10afbb76498e453c9b89ac6b
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773044257-0-0-5652b0895b72666b34259ba80d555c16
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773039937-0-0-a47eaabf4a24ecda18ebf97921c5ddb9
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773044257-0-0-0c7cb7c60302d5aca92fed18dedad61b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773039937-0-0-0d2d668ed7f1627b5360b2884a46de23
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773044257-0-0-becc0e5ff8feb73678e213166627d395
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773039937-0-0-9e014646a6b94ab3653bb4e8382dc66d
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773044257-0-0-dfacd4cc8804093dac95367bdda6968e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Leeds United vs Norwich City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1773039937-0-0-0bcd22a4fd5dd6a277f5a4fabd040192
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1773044257-0-0-b180d4d13f52ef07127cbd808e0daf06
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Leeds United vs Norwich City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1773039937-0-0-e90ee2bfe386dbf7b72d3788ea1bceca
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1773044257-0-0-503104c079054906e42ac5e8e715fe25
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Leeds United vs Norwich City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1773039937-0-0-718392dec33d19835037828024b55dfa
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1773044257-0-0-5033e177603aa5f64abacc88ba49a754
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260305/fa2525e7b4743241275265a9e83aa6d9.png",Tường thuật: ENG FAC - Leeds United vs Norwich City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1773039937-0-0-5c2cfb5fffa1fe4205f429e8927e02fe
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1773044257-0-0-0bcd1d3f3a316cc3b2afdbf984e9ff4e
 #EXTM3U
 #EXTINF:-1 group-title="Quê Choa",[Liga MX] 10h06 09/03 Club Tijuana vs Santos Laguna [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -1066,12 +1058,12 @@ https://live5.msrktz.app/live/14830711.m3u8
       </div><!-- /.section -->
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d97f0136f8293d5</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d98626ebf770610</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">132.196.32.56</span>
+        <span class="hidden" id="cf-footer-ip">172.200.183.241</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
