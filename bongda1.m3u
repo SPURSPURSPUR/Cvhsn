@@ -8,24 +8,12 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/161_164869002671.png",03h00 ngày 20/03 AS Roma vs Bologna (Lương Sơn) BLV NHỊ KA m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/322_1j9d3cawp41r.png",06h00 ngày 20/03 Flamengo vs Remo Belem (PA) (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/161_164869002671.png",03h00 ngày 20/03 AS Roma vs Bologna (Lương Sơn) BLV NHỊ KA flv
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/322_1j9d3cawp41r.png",06h00 ngày 20/03 Flamengo vs Remo Belem (PA) (Lương Sơn) BLV LÝ QUỲ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/161_164869002671.png",03h00 ngày 20/03 AS Roma vs Bologna (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/161_164869002671.png",03h00 ngày 20/03 AS Roma vs Bologna (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/161_164869002671.png",03h00 ngày 20/03 AS Roma vs Bologna (Lương Sơn) BLV DƯƠNG CHÍ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/161_164869002671.png",03h00 ngày 20/03 AS Roma vs Bologna (Lương Sơn) BLV DƯƠNG CHÍ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f86cbae7177f47347f38e22c4a7998d9/image/small?v=1768601124",03h00 ngày 20/03 Rayo Vallecano vs Samsunspor (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -42,22 +30,6 @@ https://live.alilicloud.com/live/dfbb3bb795990f7ba5cac9215e059c19/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/79ebd7238dbfc08aa2b0ddf3ff849b69/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",03h00 ngày 20/03 AS Roma vs Bologna (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3a4b2a0f6feacc6ad297d8b77ceb3dc1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",03h00 ngày 20/03 AS Roma vs Bologna (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/503b9eeb9b2840ffa9753c47c837e7ab/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",03h00 ngày 20/03 AS Roma vs Bologna (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/503b9eeb9b2840ffa9753c47c837e7ab/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",03h00 ngày 20/03 AS Roma vs Bologna (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/503b9eeb9b2840ffa9753c47c837e7ab/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/59e285dcfb279d1a57bc8c86bcf7d5a5/image/small?v=1768601124",04h00 ngày 20/03 Aurora F.C. vs Guastatoya (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -102,10 +74,6 @@ https://live.alilicloud.com/live/e865030815c5fcdc479ce4fa96a2d94f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/73187d680f62f45bd8864d53af8c876a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fcacf2834cda01285b1fc8c59e9fa672/image/small?v=1768601124",23h30 ngày 19/03 SLIFA vs Ports Authority FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d9fef7d4c7b433e32f01c21e52427b3a/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/682bf012599cc69b90c541559f6e60ed/image/small?v=1768601124",00h45 ngày 20/03 Lyon vs RC Celta (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -114,10 +82,6 @@ https://live.alilicloud.com/live/208d7ad21e09902b050ddf2aead35e10/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/63cd298a0905141515ce8763129db833/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fbccb75f0d409cd443fa2e053f1fdc5f/image/small?v=1768601124",23h15 ngày 19/03 Abacha City vs Star Sport Academy (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c9b384041fbdb717441b89f70c0d3081/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3be1d138a5e7b51c2a352be3f27876e4/image/small?v=1768601124",01h30 ngày 20/03 FC Dinamo 1948 vs CS Universitatea Craiova (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -158,6 +122,10 @@ https://live.alilicloud.com/live/f2ed9d16d6c35784361d1a383930bb4c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/333a33182576def17d0d6520f0707068/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1376a578b006a8a877ed2bc03bc65eeb/image/small?v=1768601124",05h30 ngày 20/03 Charlotte Independence vs Ristozi FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/efc886ada7e20fb049b4986064da7378/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5c858003d3fc3fcb6ca569ca3aefabaa/image/small?v=1768601124",03h00 ngày 20/03 RC Strasbourg Alsace vs Rijeka (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -166,22 +134,6 @@ https://live.alilicloud.com/live/c8deb656a60b0ab0e05b9783a9c79e18/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4a4a7351e5f413585cec183ffa4b339a/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",03h00 ngày 20/03 AS Roma vs Bologna (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",03h00 ngày 20/03 AS Roma vs Bologna (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",03h00 ngày 20/03 AS Roma vs Bologna (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125602_12e06f1d.png",03h00 ngày 20/03 AS Roma vs Bologna (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125537_d4d52169.png",05h00 ngày 20/03 Gremio vs Vitoria (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -190,6 +142,70 @@ https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/m5x6.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130547_2a027757.png",06h00 ngày 20/03 Mount Pleasant Academy vs Los Angeles Galaxy (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130547_2a027757.png",06h00 ngày 20/03 Mount Pleasant Academy vs Los Angeles Galaxy (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130547_2a027757.png",06h00 ngày 20/03 Mount Pleasant Academy vs Los Angeles Galaxy (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130547_2a027757.png",06h00 ngày 20/03 Mount Pleasant Academy vs Los Angeles Galaxy (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133406_3bc30a80.png",08h00 ngày 20/03 Tigres UANL vs FC Cincinnati (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133406_3bc30a80.png",08h00 ngày 20/03 Tigres UANL vs FC Cincinnati (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133406_3bc30a80.png",08h00 ngày 20/03 Tigres UANL vs FC Cincinnati (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihothd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133406_3bc30a80.png",08h00 ngày 20/03 Tigres UANL vs FC Cincinnati (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihothd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133801_53d90f93.png",15h00 ngày 20/03 Sydney FC W vs Wellington Phoenix W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133801_53d90f93.png",15h00 ngày 20/03 Sydney FC W vs Wellington Phoenix W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133801_53d90f93.png",15h00 ngày 20/03 Sydney FC W vs Wellington Phoenix W (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuonghd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133801_53d90f93.png",15h00 ngày 20/03 Sydney FC W vs Wellington Phoenix W (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuonghd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130438_eb01dea2.png",15h35 ngày 20/03 Western Sydney Wanderers vs Adelaide United (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130438_eb01dea2.png",15h35 ngày 20/03 Western Sydney Wanderers vs Adelaide United (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130438_eb01dea2.png",15h35 ngày 20/03 Western Sydney Wanderers vs Adelaide United (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130438_eb01dea2.png",15h35 ngày 20/03 Western Sydney Wanderers vs Adelaide United (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f86cbae7177f47347f38e22c4a7998d9/image/small?v=1768601124",03h00 ngày 20/03 Rayo Vallecano vs Samsunspor (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -254,10 +270,30 @@ https://live.alilicloud.com/live/f91d3d60908f8ab489280f90669a0efe/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b039888157bfe41725a681a0716276c8/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3be1d138a5e7b51c2a352be3f27876e4/image/small?v=1768601124",01h30 ngày 20/03 FC Dinamo 1948 vs CS Universitatea Craiova (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2512f96d1f97f9174ae7763763a3f8c5/image/small?v=1768601124",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy (Gà Vàng) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/06405e4994161b1923fd688fc59893a5/playlist.m3u8
+https://pull-live7.fastestcdn-global.com/live/95d4c52207e941d095d94674c42471dc/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2512f96d1f97f9174ae7763763a3f8c5/image/small?v=1768601124",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/95d4c52207e941d095d94674c42471dc/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2512f96d1f97f9174ae7763763a3f8c5/image/small?v=1768601124",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/95d4c52207e941d095d94674c42471dc/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2512f96d1f97f9174ae7763763a3f8c5/image/small?v=1768601124",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/95d4c52207e941d095d94674c42471dc/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2512f96d1f97f9174ae7763763a3f8c5/image/small?v=1768601124",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/95d4c52207e941d095d94674c42471dc/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2512f96d1f97f9174ae7763763a3f8c5/image/small?v=1768601124",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/95d4c52207e941d095d94674c42471dc/index.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/07aa4671dcd9d74d0976c397e2bc9a6c/image/small?v=1768601124",03h00 ngày 20/03 Sparta Praha vs AZ Alkmaar (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -270,156 +306,264 @@ https://live.alilicloud.com/live/8eea7f1118485eb1c6a04390fb2f90f2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/333a33182576def17d0d6520f0707068/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",03h00 ngày 20/03 AS Roma vs Bologna (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1376a578b006a8a877ed2bc03bc65eeb/image/small?v=1768601124",05h30 ngày 20/03 Charlotte Independence vs Ristozi FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3a4b2a0f6feacc6ad297d8b77ceb3dc1/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",03h00 ngày 20/03 AS Roma vs Bologna (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/cc1bbaeb36e546dfb08b043f3b9bc312/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",03h00 ngày 20/03 AS Roma vs Bologna (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/cc1bbaeb36e546dfb08b043f3b9bc312/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",03h00 ngày 20/03 AS Roma vs Bologna (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/cc1bbaeb36e546dfb08b043f3b9bc312/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",03h00 ngày 20/03 AS Roma vs Bologna (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/cc1bbaeb36e546dfb08b043f3b9bc312/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",03h00 ngày 20/03 AS Roma vs Bologna (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/cc1bbaeb36e546dfb08b043f3b9bc312/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",03h00 ngày 20/03 AS Roma vs Bologna (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/cc1bbaeb36e546dfb08b043f3b9bc312/index.m3u8
+https://live.alilicloud.com/live/efc886ada7e20fb049b4986064da7378/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5c858003d3fc3fcb6ca569ca3aefabaa/image/small?v=1768601124",03h00 ngày 20/03 RC Strasbourg Alsace vs Rijeka (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c8deb656a60b0ab0e05b9783a9c79e18/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV LIO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1773961178-0-0-0e2b3d6919c4661c9fb54aaeb13fd318
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV LIO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1773961178-0-0-db2cc72893887e7696232a02abd6381a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV LIO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1773961178-0-0-ba6f878c445cbec127241477e635e4bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV LIO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1773961178-0-0-886445bde6772d93e9bb6cabf253687f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [VỊT BẠC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1773961178-0-0-46416c459fecb979c1503dfb574cacc4
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1773963338-0-0-7a5b640e9d642d389c51e0ca835299f2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [VỊT BẠC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1773961178-0-0-c71db45174e2ec67203654602fe77efd
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1773963338-0-0-4d019f8b35bd9cb42ade2150f418503a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [VỊT BẠC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1773961178-0-0-200ba35891e1136af1494db5bdb78dbe
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1773963338-0-0-7a5f7a790bc0cda3f6e40edb24f12cc3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [VỊT BẠC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1773961178-0-0-f620bb6701cd99fd6b317a07ef36f1ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [MR BÍCH] (Socolive) flv
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1773963338-0-0-38ca4f0eda73646a95cffc5b59abbd48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1773961178-0-0-77d97b25293ff68a2cb3594461039b14
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [MR BÍCH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=d067d54320eb9cf5f13bdcdcd144b4f5&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1773961178-0-0-c35470311e4abac2d0eed99b13a639e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [MR BÍCH] (Socolive) m3u8
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=29fb43a0df45f948d13b53bc8a21633f&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1773961178-0-0-1e3c0a580f0a167523848ba72de89e5a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [MR BÍCH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=d067d54320eb9cf5f13bdcdcd144b4f5&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1773961178-0-0-667cb7e3f040e69f6d0ae908d99683d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [BLV VOI] (Socolive) flv
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=29fb43a0df45f948d13b53bc8a21633f&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1773961538-0-0-dba47ec63e27073e44ce9c85063a1750
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [BLV VOI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=9ebee8291a87ffc2bbe4f9cc9f531db0&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1773961538-0-0-ed112950df663f27da1e6288ddf0be9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [BLV VOI] (Socolive) m3u8
+https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=e9874e864d4011ccfb2f436202cba70b&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1773961538-0-0-343cb3d329163a47dca18a8b500a0b06
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [BLV VOI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=9ebee8291a87ffc2bbe4f9cc9f531db0&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1773961538-0-0-b7c242e5b34a39adbb5115f80e880f41
+https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=e9874e864d4011ccfb2f436202cba70b&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV LIO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1773963338-0-0-99ae7271095f92fd0966b909324cfad8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV LIO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1773963338-0-0-aa84eb847178a1275d04bad33e6670dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV LIO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1773963338-0-0-2ddb8ed6e98a2f1e6e1fdafcc51e0414
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV LIO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1773963338-0-0-11685ec3c1e009aae7e9718843fd1b6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=2958a1c69cff00aaac41b1bac0852cf6&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=5d05596c1f2d7f5d0a4cbea03a20833f&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=2958a1c69cff00aaac41b1bac0852cf6&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=5d05596c1f2d7f5d0a4cbea03a20833f&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV NIBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1773963338-0-0-64481e0c8e4838269b913b506a584b72
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV NIBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1773963338-0-0-0ab8fb1afb7684e6cf9f22bba7e102d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV NIBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1773963338-0-0-5b4addf622c9a9ceaffdaf20315ce055
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV NIBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1773963338-0-0-1869ff7e97a853271091ca2da172429e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=6e57737bf4a6c1af73839e464cf2aeb7&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=b21c6da4050c6640e570583a218adaf0&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=6e57737bf4a6c1af73839e464cf2aeb7&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b21c6da4050c6640e570583a218adaf0&txTime=69bcce9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1773963338-0-0-b9b0105775fc4c87c14c999f7607f2bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1773963338-0-0-fae4ebf56b1d6c5a4ae68192b6b642fc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1773963338-0-0-ddb63a52820f83a2f0ee4fd0626b4f1b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1773963338-0-0-61dd4748461414e11d12dbee78a8f5a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1773963698-0-0-b1bd5369ed2f9432da8999cc47791ad0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1773963698-0-0-5e9d60469b0e4fc3633c5f1b7ea1c1f7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1773963698-0-0-ffcf0d5546107dd318f5708565702882
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1773963698-0-0-1008068e78aa1fb81972f23a587cb979
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1773961538-0-0-5bf8f605302e0988a4c6259cde77d6bb
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1773963698-0-0-85a21f1cf41b9f1f4dcb08e99414ae0a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1773961538-0-0-2701bfe4a7678fa232677258eb22e17c
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1773963698-0-0-aded4bdd49c77443ac2f1067de803c6e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1773961538-0-0-dd981f15ad573cfdfc1e263ff1ed6693
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1773963698-0-0-3b2146bd962f1c0da78423ce3f99f51e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1773961538-0-0-06514ebbc69ddb99bfed786c38a57598
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [NGƯỜI CÁ] (Socolive) flv
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1773963698-0-0-94066311330c07621cd6c70afeb2ecdb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/91c6fe617db90210a5830b454d3b48c9.png",06h00 ngày 20/03 Washington Wizards vs Detroit Pistons [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1773961538-0-0-5da6ec08aed24a25ff4c31b9717264c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [NGƯỜI CÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773963698-0-0-b202aa7738f2d06ae404140ce6383f32
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/91c6fe617db90210a5830b454d3b48c9.png",06h00 ngày 20/03 Washington Wizards vs Detroit Pistons [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1773961538-0-0-1c0b508f0658aeae594edcf3e15fc010
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [NGƯỜI CÁ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773963698-0-0-4c95ae5d59fb9953820e6199ce444f8c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/91c6fe617db90210a5830b454d3b48c9.png",06h00 ngày 20/03 Washington Wizards vs Detroit Pistons [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1773961538-0-0-6e61579170f621e82df19d9b5be82467
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773963698-0-0-96b4b9d0732ebf9c3fc4a24131dd4051
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/91c6fe617db90210a5830b454d3b48c9.png",06h00 ngày 20/03 Washington Wizards vs Detroit Pistons [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1773961538-0-0-56d503d2ff7ee829a0ae8a7eb3cdb30c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912050_lsd.flv?auth_key=1773961538-0-0-2e671b30e5f81fb0385a6908ac7db329
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912050_lhd.flv?auth_key=1773961538-0-0-afacdd5dc1300c2088737e7ca1afcf91
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1773961538-0-0-e23273d40d02b3acc91f2a82fad6eac6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/4ffc0e273284bee81f3b7bff19f5ed0b.png",03h00 ngày 20/03 AS Roma vs Bologna [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1773961538-0-0-4655a807ce754ef35589e05b9554cdf5
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773963698-0-0-eaf199ffdccca903c9c768dda50f7b72
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773961538-0-0-e3fac7f4e50587f286d28478f27c5eaa
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773963698-0-0-461bdc10585026cdb12581ef5eca2b72
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773961538-0-0-f9259896a9b9b520f01b6a745b147a28
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773963698-0-0-7621921f2f74b63e4d85517df1599eb7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773961538-0-0-7dc15cdfcb39abf04e5c03c4ef7e25de
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773963698-0-0-2171b37141298ffca2e945540ec4d998
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773961538-0-0-c078d5adc99de98b01ee855fe1cfd880
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773963698-0-0-cabf982c6f25b329b0b860b582509fb2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1773964058-0-0-84667134c7a90d7455514186c37ae223
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1773964058-0-0-542c6c43a3142ba8fc4d1f30139d9645
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1773964058-0-0-fcdde067c3f1de22b217016886245da1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1773964058-0-0-a929ceb8335cc994cf07730a80794c0a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1773961898-0-0-bad6a62e515ed24554dec54952ff872e
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1773964058-0-0-a186e0304472181be5919b579f16fa53
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1773961898-0-0-f4ec941214ddec55cbc272641c632cab
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1773964058-0-0-e90a7aed973cd2bc183b496caecd41d0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1773961898-0-0-1725e4db62e8511e4c000916af199c09
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1773964058-0-0-2708989a5deafc786a12a03dafb723ca
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/de0c3bf0458f2ad30b2a82c0816a5777.png",05h00 ngày 20/03 Gremio vs Vitoria BA [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1773961898-0-0-bd2c19397b177b4d10383f0325b303d6
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png",03h00 20/03 AS Roma vs Bologna (Hội Quán) FHD 
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1773964058-0-0-ffc1ba6b833fc336992d67967b64f143
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [VENDETTA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1773964058-0-0-ee01dfed432fedeb9e0d483510a72655
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [VENDETTA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1773964058-0-0-091603968aa98a7d09991bb9f898cd54
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [VENDETTA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1773964058-0-0-7914e2f6e41c858dc58890a270b83610
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/5a86717edc58c3b51fb7bf20a8d83058.png",06h00 ngày 20/03 Mount Pleasant FA vs Los Angeles Galaxy [VENDETTA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1773964058-0-0-ef4ee26fbb26f2a6c131aecde6e01bef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [CHANH MUỐI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1773964058-0-0-02c44931fbbbc886ab08c84c152e70cb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [CHANH MUỐI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1773964058-0-0-5f4774231b28b1e2f144eb9d1fd744c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [CHANH MUỐI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1773964058-0-0-6094faa19739438b3f80b3c91143b601
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/b893b57a5195d961cfe9f9967d763432.png",06h00 ngày 20/03 CR Flamengo vs Remo Belem (PA) [CHANH MUỐI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1773964058-0-0-8a167a60c62439ad686ad06c1869499a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/99cc45d92c94eb46f4aa2ffef97637d9.png",06h00 ngày 20/03 Charlotte Hornets vs Orlando Magic [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1773964058-0-0-fd59f1e9a933fa07c6f0cb93aea85280
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/99cc45d92c94eb46f4aa2ffef97637d9.png",06h00 ngày 20/03 Charlotte Hornets vs Orlando Magic [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1773964058-0-0-453be698490863bd1bbc37d63a1af211
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/99cc45d92c94eb46f4aa2ffef97637d9.png",06h00 ngày 20/03 Charlotte Hornets vs Orlando Magic [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1773964058-0-0-81520adfa19c92a353a4223e3b64af04
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/99cc45d92c94eb46f4aa2ffef97637d9.png",06h00 ngày 20/03 Charlotte Hornets vs Orlando Magic [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1773964058-0-0-99fa79634c66693793b784c2591acee1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/99cc45d92c94eb46f4aa2ffef97637d9.png",06h00 ngày 20/03 Charlotte Hornets vs Orlando Magic [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1773964070-0-0-324bd7daf5684447258a1be659f98a5f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/99cc45d92c94eb46f4aa2ffef97637d9.png",06h00 ngày 20/03 Charlotte Hornets vs Orlando Magic [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1773964070-0-0-9d5cdeb9c90dfe12ce7950af2aeb647b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/99cc45d92c94eb46f4aa2ffef97637d9.png",06h00 ngày 20/03 Charlotte Hornets vs Orlando Magic [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1773964070-0-0-d3212478631e59aaa79b084571367319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/99cc45d92c94eb46f4aa2ffef97637d9.png",06h00 ngày 20/03 Charlotte Hornets vs Orlando Magic [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1773964070-0-0-fb5fa67f6700681162f77d395ecfac04
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",06h00 20/03 Flamengo vs remo (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png",03h00 20/03 AS Roma vs Bologna (Hội Quán) HD 
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",06h00 20/03 Flamengo vs remo (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png",03h00 20/03 AS Roma vs Bologna (Hội Quán) SD 
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",06h00 20/03 Flamengo vs remo (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",06h00 20/03 Charlotte Hornets vs Orlando Magic (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",06h00 20/03 Charlotte Hornets vs Orlando Magic (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",06h00 20/03 Charlotte Hornets vs Orlando Magic (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg",07h00 20/03 Miami Heat vs Los Angeles Lakers (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg",07h00 20/03 Miami Heat vs Los Angeles Lakers (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg",07h00 20/03 Miami Heat vs Los Angeles Lakers (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
 #EXTM3U
