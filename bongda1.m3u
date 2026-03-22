@@ -8,24 +8,30 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/187_1h53w5e0f9p.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo (Lương Sơn) BLV TÔN LẬP m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8792_1gxsf6qkdd19.png",14h30 ngày 22/03 Gangwon FC vs Jeju SK FC (Lương Sơn) BLV PHONG VÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/187_1h53w5e0f9p.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo (Lương Sơn) BLV TÔN LẬP flv
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8792_1gxsf6qkdd19.png",14h30 ngày 22/03 Gangwon FC vs Jeju SK FC (Lương Sơn) BLV PHONG VÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2640_1hwerqcfbv2k.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus (Lương Sơn) BLV MÃ SIÊU m3u
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/180_1gtzcts26h14.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2640_1hwerqcfbv2k.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus (Lương Sơn) BLV MÃ SIÊU flv
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/180_1gtzcts26h14.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe (Lương Sơn) BLV LÝ QUỲ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/177_1gtzcts261m.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba (Lương Sơn) BLV CHUNN m3u
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/437_1h1jgrf3gp0.png",14h30 ngày 22/03 Pohang Steelers vs Bucheon FC 1995 (Lương Sơn) BLV QUAN VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/177_1gtzcts261m.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba (Lương Sơn) BLV CHUNN flv
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/437_1h1jgrf3gp0.png",14h30 ngày 22/03 Pohang Steelers vs Bucheon FC 1995 (Lương Sơn) BLV QUAN VŨ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/CHUN1.flv?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+ https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18805_1ht6evpqx922.png",14h30 ngày 22/03 FC Anyang vs Incheon United (Lương Sơn) BLV KENCHU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18805_1ht6evpqx922.png",14h30 ngày 22/03 FC Anyang vs Incheon United (Lương Sơn) BLV KENCHU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1661_1gtzcts26x2r.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama Marinos (Lương Sơn) BLV TỐNG GIANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
@@ -38,12 +44,12 @@ https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1661_1gtzcts26x2r.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama Marinos (Lương Sơn) BLV KHỔNG MINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/180_1gtzcts26h14.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/177_1gtzcts261m.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba (Lương Sơn) BLV CHUNN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/180_1gtzcts26h14.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe (Lương Sơn) BLV LÝ QUỲ flv
+https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/177_1gtzcts261m.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba (Lương Sơn) BLV CHUNN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+https://flv.cdnok9.com/live/CHUN1.flv?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/175_1gtzcts2pj1a.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -56,70 +62,24 @@ https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/175_1gtzcts2pj1a.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/196_1gtzcts3612j.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock (Lương Sơn) BLV ĐOÀN DỰ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/196_1gtzcts3612j.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock (Lương Sơn) BLV ĐOÀN DỰ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/196_1gtzcts3612j.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/196_1gtzcts3612j.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock (Lương Sơn) BLV URA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9adb240c5f6b1dd94e59aff1f708d4be/image/small?v=1768601124",08h30 ngày 22/03 Atletico Nacional Medellin vs Internacional de Bogota (Khán Đài A) source
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/196_1gtzcts3612j.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock (Lương Sơn) BLV ĐOÀN DỰ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e5e115d2e7d9e07bb6b026fa2b7e9713/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c1c4c07bf16d90a1299fc9a11666685f/image/small?v=1768601124",11h00 ngày 22/03 Minebea Mitsumi FC vs Honda FC (Khán Đài A) source
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/196_1gtzcts3612j.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock (Lương Sơn) BLV ĐOÀN DỰ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1f171661bdca48d9cc7555f5515edf35/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/397983639eb87dc6f0ff3b41b645e159/image/small",13h00 ngày 22/03 Berel VKO Women vs Astana Women (Khán Đài A) source
+https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1774116244.png",14h30 ngày 22/03 Wonju DB vs KoGas (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d56882d3a9c8377b3f04f9bd85bbe93a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/69ca0eb3844f68d556661ac5d04a987e/image/small?v=1768601124",09h00 ngày 22/03 Phoenix Rising FC vs Oakland Roots (Khán Đài A) source
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1774116244.png",14h30 ngày 22/03 Wonju DB vs KoGas (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/34a7faec660d2392b3a1b82edcd77eef/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0f4397c3c4a632a6c7fbb3cb78f7d5e1/image/small?v=1768601124",13h00 ngày 22/03 Souths United SC Women vs Gold Coast Knights Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/510bf79e2b497b8b0439be96c3affe4f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0154e4761cb6fdebb589cf3a2dc1b6d8/image/small?v=1768601124",09h00 ngày 22/03 Orange County SC vs Colorado Springs (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4b4a307979cecd34a77c25a6cc837d80/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/250px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",14h00 ngày 22/03 TPHCM vs Thể Công Tân Cảng (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/d09f6063e64e44b9a098e4de0af3ffd4/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/250px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",14h00 ngày 22/03 TPHCM vs Thể Công Tân Cảng (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/d09f6063e64e44b9a098e4de0af3ffd4/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/250px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",14h00 ngày 22/03 TPHCM vs Thể Công Tân Cảng (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/d09f6063e64e44b9a098e4de0af3ffd4/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f924f93a8b2b09590399e0ac75c63455/image/small?v=1768601124",13h00 ngày 22/03 Mt Druitt Town Rangers FC (W) vs Gladesville Ravens Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/25a1aa88eedee0d79252c602ff04795d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ec8b586efed47ce8d6c476fff36854c7/image/small?v=1768601124",09h00 ngày 22/03 CS Herediano vs LD Alajuelense (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2773c15b7b1a31d95310de1aa476f907/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ba7f26411c9f53da2f85500e5de52f35/image/small?v=1768601124",13h00 ngày 22/03 St Albans Saints vs Heidelberg United (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/25efcf5180d2fb8f9654985884921d1c/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9818c84f489375296d1d022e65beaf4b/image/small?v=1768601124",09h00 ngày 22/03 Sacramento Republic FC vs Monterey Bay FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3c497dc394d17299045aae4c6b69fcbd/playlist.m3u8
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/25899b1365031a8829f2aa842fe74a46/image/small?v=1768601124",12h50 ngày 22/03 Apia L Tigers Women vs Maca Searle Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -140,10 +100,6 @@ https://live.alilicloud.com/live/b9d2e82d1ae9ff9c867a67eafb236a4b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/45a80120f4103584a1a7e9a21536e686/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fd22710db6cf847ef6890861da1ff225/image/small?v=1768601124",08h15 ngày 22/03 Belgrano vs Racing Club de Avellaneda (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/648112533424c5e62bf5966dc3680f4c/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fab3b689150c705deaa734539acdc517/image/small?v=1768601124",11h00 ngày 22/03 Charleston City Blues vs Kahibah FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -268,30 +224,82 @@ https://live.alilicloud.com/live/806d6f609e34d644ad213797e6490acc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/99bca3b4a6668e3aa8695648bdac85a6/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6fd0df3a9aef8e5b3fa3614199dd5485/image/small?v=1768601124",12h00 ngày 22/03 Hwaseong FC vs Yongin FC (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c1c4c07bf16d90a1299fc9a11666685f/image/small?v=1768601124",11h00 ngày 22/03 Minebea Mitsumi FC vs Honda FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9408996cacf57b13f144c33bb788cdba/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e62e7c826ac278dbffe2c5c85088a56e/image/small?v=1768601124",12h00 ngày 22/03 Tochigi SC vs Tochigi City (Khán Đài A) source
+https://live.alilicloud.com/live/1f171661bdca48d9cc7555f5515edf35/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",15h00 ngày 22/03 Perth Glory vs Melbourne City (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/85d8ac78150fbfa14a3161a81bfad1f6/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132415_d79fbc72.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m3x2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132415_d79fbc72.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m3x2.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132417_cf541a21.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m3x3/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132417_cf541a21.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m3x3.flv
+https://live.alilicloud.com/live/ea725fbc1f2b14371230c619ff710c38/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",15h00 ngày 22/03 Perth Glory vs Melbourne City (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/5428c265b27249b18dcff4e67825908d/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",15h00 ngày 22/03 Perth Glory vs Melbourne City (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/5428c265b27249b18dcff4e67825908d/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",15h00 ngày 22/03 Perth Glory vs Melbourne City (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/5428c265b27249b18dcff4e67825908d/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/397983639eb87dc6f0ff3b41b645e159/image/small",13h00 ngày 22/03 Berel VKO Women vs Astana Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d56882d3a9c8377b3f04f9bd85bbe93a/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/69ca0eb3844f68d556661ac5d04a987e/image/small?v=1768601124",09h00 ngày 22/03 Phoenix Rising FC vs Oakland Roots (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/34a7faec660d2392b3a1b82edcd77eef/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0f4397c3c4a632a6c7fbb3cb78f7d5e1/image/small?v=1768601124",13h00 ngày 22/03 Souths United SC Women vs Gold Coast Knights Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/510bf79e2b497b8b0439be96c3affe4f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f727fc6838bdbf3d493cf02390e3a7ad/image/small?v=1768601124",14h30 ngày 22/03 Qingdao Red Lions vs Changchun Xidu (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/571f9e01de916bf82f178a0de463365b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0154e4761cb6fdebb589cf3a2dc1b6d8/image/small?v=1768601124",09h00 ngày 22/03 Orange County SC vs Colorado Springs (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4b4a307979cecd34a77c25a6cc837d80/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/07de446edc3738724af46793210a1b11/image/small?v=1768601124",14h30 ngày 22/03 Wenzhou Professional Football Club vs Chengdu Rongcheng B (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/2631335ee6be86cc03b48bfdf8334399/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/250px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",14h00 ngày 22/03 TPHCM vs Thể Công Tân Cảng (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/d09f6063e64e44b9a098e4de0af3ffd4/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/250px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",14h00 ngày 22/03 TPHCM vs Thể Công Tân Cảng (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/d09f6063e64e44b9a098e4de0af3ffd4/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/250px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png",14h00 ngày 22/03 TPHCM vs Thể Công Tân Cảng (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/d09f6063e64e44b9a098e4de0af3ffd4/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f924f93a8b2b09590399e0ac75c63455/image/small?v=1768601124",13h00 ngày 22/03 Mt Druitt Town Rangers FC (W) vs Gladesville Ravens Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/25a1aa88eedee0d79252c602ff04795d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/eb583bb9c4239edd93aa1e96d1975e6a/image/small?v=1768601124",14h30 ngày 22/03 Gyeongnam FC vs Gimpo FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/619a71b353a16d65812329729abdfe0f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ab52af280d9de1702c517deb070b7728/image/small?v=1768601124",14h30 ngày 22/03 Jiangxi Lushan vs Hangzhou Linping Wuyue (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/529267a24b34ff75590ba9493429356a/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ec8b586efed47ce8d6c476fff36854c7/image/small?v=1768601124",09h00 ngày 22/03 CS Herediano vs LD Alajuelense (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/2773c15b7b1a31d95310de1aa476f907/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ba7f26411c9f53da2f85500e5de52f35/image/small?v=1768601124",13h00 ngày 22/03 St Albans Saints vs Heidelberg United (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/25efcf5180d2fb8f9654985884921d1c/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251107_144450_2fc776cf.png",12h05 ngày 22/03 Hisamitsu Springs W vs Gunma Bank Green Wings W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -668,38 +676,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoinuonghd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoinuonghd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/397983639eb87dc6f0ff3b41b645e159/image/small",13h00 ngày 22/03 Berel VKO Women vs Astana Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d56882d3a9c8377b3f04f9bd85bbe93a/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0f4397c3c4a632a6c7fbb3cb78f7d5e1/image/small?v=1768601124",13h00 ngày 22/03 Souths United SC Women vs Gold Coast Knights Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/510bf79e2b497b8b0439be96c3affe4f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f924f93a8b2b09590399e0ac75c63455/image/small?v=1768601124",13h00 ngày 22/03 Mt Druitt Town Rangers FC (W) vs Gladesville Ravens Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/25a1aa88eedee0d79252c602ff04795d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ba7f26411c9f53da2f85500e5de52f35/image/small?v=1768601124",13h00 ngày 22/03 St Albans Saints vs Heidelberg United (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/25efcf5180d2fb8f9654985884921d1c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/02ffe3cf2a77857a4b9ac10fab334fe4/image/small?v=1768601124",13h00 ngày 22/03 Sydney United 58 FC vs Blacktown City Demons (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/62ff8e6ba2638552c953e295f631fbfb/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8039d180b865d91376a30377d72a69b7/image/small?v=1768601124",13h40 ngày 22/03 Sydney Olympic FC Women vs University of Sydney Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/20a435650127cf99a61bc530fbe04c57/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d8f0466c084fd74fc43fe3d026305423/image/small?v=1768601124",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/e6ed281e7759a43dd3a78ac75d90983d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8201dfa17bd1f754778c185d2f389d1/image/small?v=1768601124",12h00 ngày 22/03 WS Wanderers Women vs Melbourne City Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6d82d9561d718fa36d5b55b4e29bf248/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/25899b1365031a8829f2aa842fe74a46/image/small?v=1768601124",12h50 ngày 22/03 Apia L Tigers Women vs Maca Searle Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -748,30 +724,6 @@ https://live.alilicloud.com/live/60293b8f40b9df4294bd9d5e74d7bd2f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c8f466c279e5fea2b57d6b4b21e9c968/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/632f55f5ccf88842097ad1d2498a3464/image/small",12h05 ngày 22/03 Hisamitsu Springs Women vs Gunma Bank Green Wings Women (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/a7ee95fe9850452398df8b1778143443/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/632f55f5ccf88842097ad1d2498a3464/image/small",12h05 ngày 22/03 Hisamitsu Springs Women vs Gunma Bank Green Wings Women (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/a7ee95fe9850452398df8b1778143443/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/632f55f5ccf88842097ad1d2498a3464/image/small",12h05 ngày 22/03 Hisamitsu Springs Women vs Gunma Bank Green Wings Women (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/a7ee95fe9850452398df8b1778143443/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/632f55f5ccf88842097ad1d2498a3464/image/small",12h05 ngày 22/03 Hisamitsu Springs Women vs Gunma Bank Green Wings Women (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/a7ee95fe9850452398df8b1778143443/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/632f55f5ccf88842097ad1d2498a3464/image/small",12h05 ngày 22/03 Hisamitsu Springs Women vs Gunma Bank Green Wings Women (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/a7ee95fe9850452398df8b1778143443/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/632f55f5ccf88842097ad1d2498a3464/image/small",12h05 ngày 22/03 Hisamitsu Springs Women vs Gunma Bank Green Wings Women (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/a7ee95fe9850452398df8b1778143443/index.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9faf9588fb2367f3c2d132a8c0bf2c60/image/small?v=1768601124",14h00 ngày 22/03 Capalaba Bulldogs vs Broadbeach United (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -780,18 +732,38 @@ https://live.alilicloud.com/live/c624c0a7fcfbb1cffc799085522dcbd9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ae1c544cd0723ebd61f085b9c6b8ebfe/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cb48a1c3f577dd99ab87528c34b19e98/image/small?v=1768601124",13h00 ngày 22/03 Ching Fung vs Chessman Chiba FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5153ee74d12630553d62e089d00b4fcb/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/140b2cd092616ac1ce42e4c728b41dcc/image/small?v=1768601124",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f30b7fe4f4cf14529502676669d2bc1b/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/68f7b7d094e68be713ca75c28d3164b3/image/small?v=1768601124",14h00 ngày 22/03 Fremantle City FC Women vs Perth RedStar Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/aa236ae3b00921ed47e8681bc4695d27/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",15h00 ngày 22/03 Perth Glory vs Melbourne City (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ea725fbc1f2b14371230c619ff710c38/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",15h00 ngày 22/03 Perth Glory vs Melbourne City (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/a6e45e1f32ad4156ac8ba55d8ee9df4c/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",15h00 ngày 22/03 Perth Glory vs Melbourne City (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/a6e45e1f32ad4156ac8ba55d8ee9df4c/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",15h00 ngày 22/03 Perth Glory vs Melbourne City (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/a6e45e1f32ad4156ac8ba55d8ee9df4c/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",15h00 ngày 22/03 Perth Glory vs Melbourne City (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/a6e45e1f32ad4156ac8ba55d8ee9df4c/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",15h00 ngày 22/03 Perth Glory vs Melbourne City (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/a6e45e1f32ad4156ac8ba55d8ee9df4c/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1114e542e64987732302fcc070143d57/image/small?v=1768601124",15h00 ngày 22/03 Perth Glory vs Melbourne City (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/a6e45e1f32ad4156ac8ba55d8ee9df4c/index.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fb40a71489bc63de6066a0fdcc62560c/image/small?v=1768601124",13h00 ngày 22/03 Charlestown Azzuri Women vs Lake Macquarie (W) (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -872,430 +844,470 @@ https://live.alilicloud.com/live/5d2674802306a4e732e83a9eb7d0449d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/90fca9dfcb40c07d1be3d6e96db8f9fd/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/68aa8b49a3ec4b85d8b883a0646a7a2e/image/small?v=1768601124",12h00 ngày 22/03 Montedio Yamagata vs Vegalta Sendai (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/397983639eb87dc6f0ff3b41b645e159/image/small",13h00 ngày 22/03 Berel VKO Women vs Astana Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4040cc31a5e92ede5cbc7f5a0274283e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a60cc135f2fbcca9caaca15a5eef966f/image/small?v=1768601124",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe (Gà Vàng) source
+https://live.alilicloud.com/live/d56882d3a9c8377b3f04f9bd85bbe93a/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0f4397c3c4a632a6c7fbb3cb78f7d5e1/image/small?v=1768601124",13h00 ngày 22/03 Souths United SC Women vs Gold Coast Knights Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/83c84830490e61afc10bf197bce5c51f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a60cc135f2fbcca9caaca15a5eef966f/image/small?v=1768601124",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe (Gà Vàng) sd_1
+https://live.alilicloud.com/live/510bf79e2b497b8b0439be96c3affe4f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f727fc6838bdbf3d493cf02390e3a7ad/image/small?v=1768601124",14h30 ngày 22/03 Qingdao Red Lions vs Changchun Xidu (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/bb179582af3c4ef597df085f21541011/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a60cc135f2fbcca9caaca15a5eef966f/image/small?v=1768601124",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe (Gà Vàng) hd_1
+https://live.alilicloud.com/live/571f9e01de916bf82f178a0de463365b/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/07de446edc3738724af46793210a1b11/image/small?v=1768601124",14h30 ngày 22/03 Wenzhou Professional Football Club vs Chengdu Rongcheng B (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/bb179582af3c4ef597df085f21541011/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a60cc135f2fbcca9caaca15a5eef966f/image/small?v=1768601124",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe (Gà Vàng) sd_2
+https://live.alilicloud.com/live/2631335ee6be86cc03b48bfdf8334399/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f924f93a8b2b09590399e0ac75c63455/image/small?v=1768601124",13h00 ngày 22/03 Mt Druitt Town Rangers FC (W) vs Gladesville Ravens Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bb179582af3c4ef597df085f21541011/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a60cc135f2fbcca9caaca15a5eef966f/image/small?v=1768601124",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe (Gà Vàng) hd_2
+https://live.alilicloud.com/live/25a1aa88eedee0d79252c602ff04795d/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/d6bb539a7dca667e6444f1bb821bcb85/image/small",14h30 ngày 22/03 Beijing BAIC vs Guangdong Glorious (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bb179582af3c4ef597df085f21541011/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a60cc135f2fbcca9caaca15a5eef966f/image/small?v=1768601124",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe (Gà Vàng) sd_3
+https://live.alilicloud.com/live/bca7f03b9700de74bfb7e71893385f7e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/eb583bb9c4239edd93aa1e96d1975e6a/image/small?v=1768601124",14h30 ngày 22/03 Gyeongnam FC vs Gimpo FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bb179582af3c4ef597df085f21541011/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a60cc135f2fbcca9caaca15a5eef966f/image/small?v=1768601124",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe (Gà Vàng) hd_3
+https://live.alilicloud.com/live/619a71b353a16d65812329729abdfe0f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ab52af280d9de1702c517deb070b7728/image/small?v=1768601124",14h30 ngày 22/03 Jiangxi Lushan vs Hangzhou Linping Wuyue (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bb179582af3c4ef597df085f21541011/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/388b2b951593a287af6c445c5d6f7541/image/small?v=1768601124",12h00 ngày 22/03 Zweigen Kanazawa FC vs FC Osaka (Gà Vàng) source
+https://live.alilicloud.com/live/529267a24b34ff75590ba9493429356a/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ba7f26411c9f53da2f85500e5de52f35/image/small?v=1768601124",13h00 ngày 22/03 St Albans Saints vs Heidelberg United (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f24c63fe3762213cb4ae1eb0e567e315/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124",12h00 ngày 22/03 Football Club Seoul vs Gwangju Football Club (Gà Vàng) source
+https://live.alilicloud.com/live/25efcf5180d2fb8f9654985884921d1c/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8861961abfa06744128845e8021819de/image/small?v=1768601124",14h30 ngày 22/03 Pohang Steelers vs Bucheon FC 1995 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/02f6b00e67aed6a47283ee3d01a0d7f3/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [CÚ ĐÊM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1774166019-0-0-52e557f31264f10eee419bf673127173
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [CÚ ĐÊM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1774166019-0-0-f293d6de37d7e8536322cb1e1a71976f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [CÚ ĐÊM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1774166019-0-0-f399c03d478ddf4f9a33950ab3525a64
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [CÚ ĐÊM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1774166019-0-0-eb36d963117e442ede309e6d138d51e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1774166019-0-0-4a8f480ce007cff932fc1510130c4477
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1774166019-0-0-be387913b0711a302114206a4f42fd2d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1774166019-0-0-b4f65ba3e3594409fcc3c80fd8271bcf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1774166019-0-0-b9431d408f197d2e1c7d53442b616d85
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1774166019-0-0-cb0771590864409e85d0449e27188bb0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1774166019-0-0-568b1566a21d2b37fc00ffd4394b9fc8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1774166019-0-0-b1b134dfd96d6a7e2f4c41f4fabc8543
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1774166019-0-0-55c8245265959b936ce18fd130a525b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=4c77e01d119c048dbb35a64c565e8240&txTime=69bfe653
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=357764786a42ac591f99791ed15249c1&txTime=69bfe653
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=4c77e01d119c048dbb35a64c565e8240&txTime=69bfe653
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=357764786a42ac591f99791ed15249c1&txTime=69bfe653
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/eec98e0a9ea7be98d3362c9b3a4b64e3.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1774166019-0-0-60a86431923149cda70cb859b66e9a6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/eec98e0a9ea7be98d3362c9b3a4b64e3.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1774166019-0-0-099383b7d578ed5aa58943ea15250807
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/eec98e0a9ea7be98d3362c9b3a4b64e3.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1774166019-0-0-33ec02e25a42f8d9ce1634127fc2c37f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/eec98e0a9ea7be98d3362c9b3a4b64e3.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1774166019-0-0-25609ae7806268909cdf79da6edac33d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1774166019-0-0-d44732f8501ef06c4b12af24dadfc1e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1774166019-0-0-1e98af44829881f975953f7b0942f154
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1774166019-0-0-fd55ac2e05aa3ff646395953673b6876
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1774166019-0-0-9b93ee3a9abfa59b641e36a931240379
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [Đình Bắc] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1774166019-0-0-ee5da9860ad534bab2de3d2f27de9b15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [Đình Bắc] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1774166019-0-0-dc15082b54f94eee5bf2f9759ab0dc21
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [Đình Bắc] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1774166019-0-0-fa2d567307917e4a14e400b67c4a19f3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [Đình Bắc] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1774166019-0-0-86adf84b0191222f21e1cf47c821b691
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1774166379-0-0-07b9ed1211d233d5281ccecfb46e0ae0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1774166379-0-0-8076eee8787983fae95675d8263c4920
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1774166379-0-0-6d747c1b3fb1e8201a5c1a66195a0482
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1774166379-0-0-520df499f4138518b97cbe25cff82990
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1774166379-0-0-e633db91b4eec589eddbe007a425c8a0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1774166379-0-0-acc8c80fce8e7be57bda4c8aef05ec3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1774166379-0-0-18dfedd251c69772c03130c20413f31e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1774166379-0-0-894f7dc70bf02afb096d502357ae208b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [BLV COZY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1774166379-0-0-1c8a0400d6fca2b06c2a349d4caaf4a1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [BLV COZY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1774166379-0-0-b59321ae9622a9dd0da4365d8a374832
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [BLV COZY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1774166379-0-0-41ca8c48b0956a6aedea5c146fad7ef8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [BLV COZY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1774166379-0-0-e0424246adc188a5eb2fb14224dd07cb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/eec98e0a9ea7be98d3362c9b3a4b64e3.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus [MR BÍCH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1774166379-0-0-779ecadd19fb64e1131b1bc99900ef50
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/eec98e0a9ea7be98d3362c9b3a4b64e3.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus [MR BÍCH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1774166379-0-0-069c84343f735461deb2b29d74576424
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/eec98e0a9ea7be98d3362c9b3a4b64e3.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus [MR BÍCH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1774166379-0-0-dbfad34434fe099635139c2af2886249
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/eec98e0a9ea7be98d3362c9b3a4b64e3.png",12h00 ngày 22/03 Kyoto Sanga vs Nagoya Grampus [MR BÍCH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1774166379-0-0-e9661edd48e2d1f71d1229b90d8b93ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1774166379-0-0-1bc66de5fa1c10681a896a83bb75d399
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1774166379-0-0-d1a3feb15df81ed68215782a94b9ade6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1774166379-0-0-233bcdcc5bb21db63d600633e0ff4fd6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1774166379-0-0-5b42075115dd6213ba2f38176e278446
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/b326e4091617afeedb9b63ceab0697da.png",12h00 ngày 22/03 Anyang JungKwanJang vs Suwon KT [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1774166379-0-0-ea74f3dfb8d3001add9778b973353c6b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/b326e4091617afeedb9b63ceab0697da.png",12h00 ngày 22/03 Anyang JungKwanJang vs Suwon KT [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1774166379-0-0-1249932f12c027a876285cac24df1c74
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/b326e4091617afeedb9b63ceab0697da.png",12h00 ngày 22/03 Anyang JungKwanJang vs Suwon KT [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1774166379-0-0-d0bc755c695676cebef872e8e25cd9a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/b326e4091617afeedb9b63ceab0697da.png",12h00 ngày 22/03 Anyang JungKwanJang vs Suwon KT [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1774166379-0-0-8587a498f3b0884349e714019f7b5f73
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1774166379-0-0-a09f3036c11e37751c48a292a4bc7cc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1774166379-0-0-a7ff0fd241f2330b339bfebefa87fd56
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1774166379-0-0-8e83a15dee9c44bc57de809b0cb52bfd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1774166379-0-0-c19f1130a55a1e5a64563b6bf1d0f408
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/b326e4091617afeedb9b63ceab0697da.png",12h00 ngày 22/03 Anyang JungKwanJang vs Suwon KT [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1774166379-0-0-131f9ababe92ad232ab82cfef985b087
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/b326e4091617afeedb9b63ceab0697da.png",12h00 ngày 22/03 Anyang JungKwanJang vs Suwon KT [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1774166379-0-0-1170bda0c4a38861028e541ce570e78e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/b326e4091617afeedb9b63ceab0697da.png",12h00 ngày 22/03 Anyang JungKwanJang vs Suwon KT [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1774166379-0-0-e4b5db3e504a82a2c6cb9ce4074426d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/b326e4091617afeedb9b63ceab0697da.png",12h00 ngày 22/03 Anyang JungKwanJang vs Suwon KT [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1774166379-0-0-58de6b44b6c23115284105e8f04d0c3b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/1408d10ac30e568f5d32dff59d6ddb94.png",12h00 ngày 22/03 Chunghua Telecom W vs Taipower W [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1774166379-0-0-0e3b808e0f94993e0109b5f36e626948
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/1408d10ac30e568f5d32dff59d6ddb94.png",12h00 ngày 22/03 Chunghua Telecom W vs Taipower W [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1774166379-0-0-640a75f3b536bd5f665aa15b23970421
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/1408d10ac30e568f5d32dff59d6ddb94.png",12h00 ngày 22/03 Chunghua Telecom W vs Taipower W [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774166379-0-0-4aaa371e1936041766d9f1f0ef0c25a6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/1408d10ac30e568f5d32dff59d6ddb94.png",12h00 ngày 22/03 Chunghua Telecom W vs Taipower W [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774166379-0-0-a47ac19e6d6e076abf81876a82884d80
+https://live.alilicloud.com/live/a0d2e03b6756b4391b097aeef7e70be0/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9dfe3281f53a95378fa208b129c894d4/image/small?v=1768601124",14h30 ngày 22/03 Shanghai Second vs Shanghai Port B (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6687f8c13d4424631e011bc3141fe8e8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/02ffe3cf2a77857a4b9ac10fab334fe4/image/small?v=1768601124",13h00 ngày 22/03 Sydney United 58 FC vs Blacktown City Demons (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/62ff8e6ba2638552c953e295f631fbfb/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c2d33d8e8c82543293adb56a6297c2c9/image/small?v=1768601124",14h30 ngày 22/03 Gangwon Football Club vs Jeju SK FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5f3008865ccebb8f8a0f38f18dc7149b/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8039d180b865d91376a30377d72a69b7/image/small?v=1768601124",13h40 ngày 22/03 Sydney Olympic FC Women vs University of Sydney Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/20a435650127cf99a61bc530fbe04c57/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/296f70a4cb107e5b84418335c2fa326c.png",14h30 ngày 22/03 Gangwon FC vs Jeju SK FC [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1774166379-0-0-0e0a5e62bb254788f08504bb4152f5d0
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1774168539-0-0-aab5837656a3cef26fc1ebe471274b50
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/296f70a4cb107e5b84418335c2fa326c.png",14h30 ngày 22/03 Gangwon FC vs Jeju SK FC [A PÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1774166379-0-0-2b231c02514f7f5cde5235d40267bf58
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1774168539-0-0-4dd0fdb1f4cc349048f8f47cd968efdb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/296f70a4cb107e5b84418335c2fa326c.png",14h30 ngày 22/03 Gangwon FC vs Jeju SK FC [A PÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1774166379-0-0-0f701d18318e68dfc9d1ee4c3420ef3a
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1774168539-0-0-996583537d926c903928a5cc16c11bf1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/296f70a4cb107e5b84418335c2fa326c.png",14h30 ngày 22/03 Gangwon FC vs Jeju SK FC [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1774166379-0-0-a20f46238a21bb8d7e6b818154e69dba
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1774168539-0-0-508a7a742404852e40b2b8d18f0c01e4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV SATIVA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1774168539-0-0-089fb359eb0a526b82f4a3daabef8c16
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV SATIVA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1774168539-0-0-14e657bd958e2619cd28a5e713329829
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV SATIVA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1774168539-0-0-e83943d8330fa2e93465443966e4284d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV SATIVA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1774168539-0-0-efbbe2f6d8536c5cad3407cd77900b71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1774168539-0-0-398c2bc0e2703fdfb5d8c34d176cdc29
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1774168539-0-0-1c6757796dfca53a8b4814ae78908bdc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1774168539-0-0-8d04004d71a593473dfc09ef8cfda29e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1774168539-0-0-cbc59af1702a9f9cae787d2c5689e323
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=2c57aee0e42e4b808588298d75d16f38&txTime=69bff02b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=62cd3e77cd63565e24fe7fcb3c087219&txTime=69bff02b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=2c57aee0e42e4b808588298d75d16f38&txTime=69bff02b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=62cd3e77cd63565e24fe7fcb3c087219&txTime=69bff02b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1774168539-0-0-79f32f3d97f00cbb850aea3de61152ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1774168539-0-0-d8dbf8ea457dfe880db3935297394fef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1774168539-0-0-4fa11237caef99c8b9f9ec74759157a8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1774168539-0-0-7a0e1c37778021156e76f7b6f20e6f15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=c09d4cd5b77cb947bfd0db527bc19b2f&txTime=69bff02b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=d7db9adf27559ea08fce386d959903af&txTime=69bff02b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=c09d4cd5b77cb947bfd0db527bc19b2f&txTime=69bff02b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=d7db9adf27559ea08fce386d959903af&txTime=69bff02b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1774168556-0-0-c8040142157129d784778e7547d49727
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1774168556-0-0-829e55059487166d86a03f60d7785998
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1774168556-0-0-3e60d0c974df49278f81934f5451ad33
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1774168556-0-0-baacc6c8a887298842fcc03c051412f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1774168539-0-0-285784baefa4e771d488fa1acb94c531
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1774168539-0-0-5e9b4d5c19ebffae5c7ef7800e7d1afc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1774168539-0-0-d0b2a72d55ff4f21a3a9f8aa2eb59e39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1774168539-0-0-ad57c1e422da173f81b79620abe023cb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1774168539-0-0-722f559bed102b7cd7b1ef59f5b470d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1774168539-0-0-f116fde6df927e0ebbfb7b82b109f65e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1774168539-0-0-79a488966d7ae37fb7a84d5ed2c2f645
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1774168539-0-0-90d0dafb43b78cb757083cc8bac35a2b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/782fb8ccf431a35258425dda2b342f29.png",14h30 ngày 22/03 Pohang Steelers vs Bucheon FC 1995 [BLV CÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1774166379-0-0-f4c2d1acd4e99dd1b760573f08c701bd
+https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1774168539-0-0-c52aaa6cdbc4ebe5e6e221692798ade6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/782fb8ccf431a35258425dda2b342f29.png",14h30 ngày 22/03 Pohang Steelers vs Bucheon FC 1995 [BLV CÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1774166379-0-0-9f8b1c124124ac1f6e73af1c7f60b660
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1774168539-0-0-b802c28fea9e61f3502dcafd37e445a3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/782fb8ccf431a35258425dda2b342f29.png",14h30 ngày 22/03 Pohang Steelers vs Bucheon FC 1995 [BLV CÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1774166379-0-0-545c79f8706c2658175ea5907d7fea25
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1774168539-0-0-6d98b3097ed6eb85032cc3ebcebbd070
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/782fb8ccf431a35258425dda2b342f29.png",14h30 ngày 22/03 Pohang Steelers vs Bucheon FC 1995 [BLV CÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1774166379-0-0-d91784911b536246c3d741f98379b590
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1774168539-0-0-bf673303f3f901ebee042beb2e3772c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/1408d10ac30e568f5d32dff59d6ddb94.png",12h00 ngày 22/03 Chunghua Telecom W vs Taipower W [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1774168539-0-0-0051b7c367a81e37497330c92a6cb2c4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/1408d10ac30e568f5d32dff59d6ddb94.png",12h00 ngày 22/03 Chunghua Telecom W vs Taipower W [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1774168539-0-0-b3e49321beb5acf685215ebfd78963e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/1408d10ac30e568f5d32dff59d6ddb94.png",12h00 ngày 22/03 Chunghua Telecom W vs Taipower W [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774168539-0-0-1b878eb30d79108315c0b6942c1a09ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/1408d10ac30e568f5d32dff59d6ddb94.png",12h00 ngày 22/03 Chunghua Telecom W vs Taipower W [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774168539-0-0-87cd16cc3730fd64e4b0eb1047b619c8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/415e4bf15d326a94eba479f6bab9cf67.png",14h30 ngày 22/03 FC Anyang vs Incheon United Club [VỊT BẠC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1774166379-0-0-851d249990378704d68235a23c8788e5
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1774168539-0-0-ab5570f8c8b1e048f7938fd679d2e9e3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/415e4bf15d326a94eba479f6bab9cf67.png",14h30 ngày 22/03 FC Anyang vs Incheon United Club [VỊT BẠC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1774166379-0-0-f44b7102f895ff6361fea6523f2346fd
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1774168539-0-0-0b969c61b05033534b204db7a820acfa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/415e4bf15d326a94eba479f6bab9cf67.png",14h30 ngày 22/03 FC Anyang vs Incheon United Club [VỊT BẠC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1774166379-0-0-b47cea0bfef4abe1dad22c913b64a7f3
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1774168539-0-0-83741503bc1b072b9c7639cf63484ebe
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/415e4bf15d326a94eba479f6bab9cf67.png",14h30 ngày 22/03 FC Anyang vs Incheon United Club [VỊT BẠC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1774166379-0-0-0dec9955cdaf2006a9ae9f85031a65f0
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1774168539-0-0-fac646d91d046df6cf1393dae5ad2638
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/296f70a4cb107e5b84418335c2fa326c.png",14h30 ngày 22/03 Gangwon FC vs Jeju SK FC [BLV VIP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=90204efb4fa623e85684ca7abd4de436&txTime=69bfe7bb
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=58f77e9440847664f8a1b41a707124e5&txTime=69bff02b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/296f70a4cb107e5b84418335c2fa326c.png",14h30 ngày 22/03 Gangwon FC vs Jeju SK FC [BLV VIP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=43b40c4f6db063f9acde5b61126f04c3&txTime=69bfe7bb
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=18b7656f427bb11df96fcbe9572f1351&txTime=69bff02b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/296f70a4cb107e5b84418335c2fa326c.png",14h30 ngày 22/03 Gangwon FC vs Jeju SK FC [BLV VIP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=90204efb4fa623e85684ca7abd4de436&txTime=69bfe7bb
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=58f77e9440847664f8a1b41a707124e5&txTime=69bff02b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/296f70a4cb107e5b84418335c2fa326c.png",14h30 ngày 22/03 Gangwon FC vs Jeju SK FC [BLV VIP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=43b40c4f6db063f9acde5b61126f04c3&txTime=69bfe7bb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV BÉO] (Socolive) flv
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=18b7656f427bb11df96fcbe9572f1351&txTime=69bff02b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=1e175d47c427d4efe4d4bacb6cdcd15a&txTime=69bfe923
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV BÉO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1774168899-0-0-1e589be10839fe56512a499cf1d7a479
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=2fd7fe49c4c6f51781280d456061cf61&txTime=69bfe923
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV BÉO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1774168899-0-0-fded711e07474f58c77e3b273d95d6bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=1e175d47c427d4efe4d4bacb6cdcd15a&txTime=69bfe923
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV BÉO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1774168899-0-0-9ce12dd84ce5bd65653e163180395e9e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2fd7fe49c4c6f51781280d456061cf61&txTime=69bfe923
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1774168899-0-0-30c9903319fde8b1adeee4f1f15bb26c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1774166739-0-0-9124968c3471b3cd8d8da47a0a06dc4f
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1774168899-0-0-e0af379277f6741edfd470020656312f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV TOMIA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1774166739-0-0-76497c28425ee7ad8775ec214999e9ee
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1774168899-0-0-b78717a33401e5a6176ddae756969429
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV TOMIA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1774166739-0-0-67b757d276b542bdab8ea1f25eb8ce06
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1774168899-0-0-449252952cb3bcbb75057d1edf40fe47
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1774166739-0-0-fa1739033107b3340bca6314cdb7d31f
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1774168899-0-0-2346f8a32aa341cf3e61d9df96838c3d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1774168899-0-0-76e0fc17fc2ec13d40c3dea9ec7a569b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1774168899-0-0-72ace14c82f16d4a630c784846db3b73
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1774168899-0-0-d6dba5d616fd56214ce1e70a7b5a019a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1774168899-0-0-56f79553cb4809781d2ee5108606a7da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=b3e607fb7fb3384c8ae42cc350286399&txTime=69bff193
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=5e0f8c050abc443055ba295c3cd6754c&txTime=69bff193
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=b3e607fb7fb3384c8ae42cc350286399&txTime=69bff193
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/aeda32dbf75b784bea67e2ba106c7222.png",14h00 ngày 22/03 Kashiwa Reysol vs Mito Hollyhock [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=5e0f8c050abc443055ba295c3cd6754c&txTime=69bff193
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1774166739-0-0-cf02bc93be47d55d6ff4b17264a32bff
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1774168899-0-0-def664c3fadb8120b62cd7fae49d22f6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1774166739-0-0-deba9d4c7feda34a3a4c492b58194a09
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1774168899-0-0-3a4a2735aae089c96b40ee4f103024f7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1774166739-0-0-a05e22efbe95156ae7911bb5faa7af50
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1774168899-0-0-a8ad4218f9e8dba9ea87485ca09378aa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1774166739-0-0-228854325985c7f5af0669f1cfee4a82
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2284a46a65b0c19e5937f19b9e75ea28.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1774166739-0-0-1bb749f8bf50aad6e80f88acd7ed0acb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2284a46a65b0c19e5937f19b9e75ea28.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1774166739-0-0-427da9a58e64c95dac336504edd53a4b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2284a46a65b0c19e5937f19b9e75ea28.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1774166739-0-0-401bf00b5781e221a4d06c3dce1b9453
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2284a46a65b0c19e5937f19b9e75ea28.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1774166739-0-0-b88c9bb875072854f73276259aedfb47
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2284a46a65b0c19e5937f19b9e75ea28.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo [HẢI THANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1774166739-0-0-93c9e7d4c7e7c7cb8304e446ee77d5f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2284a46a65b0c19e5937f19b9e75ea28.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo [HẢI THANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1774166739-0-0-fd3345adfc7b267d6f6a52b9486364a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2284a46a65b0c19e5937f19b9e75ea28.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo [HẢI THANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1774166739-0-0-bc89ea748f9f832d9b065a9d88b39725
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2284a46a65b0c19e5937f19b9e75ea28.png",12h00 ngày 22/03 Tokyo Verdy vs FC Tokyo [HẢI THANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1774166739-0-0-589a4c7f07655fd5f7e2cd383457a159
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1774168899-0-0-4dbe66f4bb4ebb4a3b42baba2b504f6f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [VENDETTA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1774166739-0-0-296f559ab6d80dde4fd3a747464085e7
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1774168899-0-0-e2ab35056f045991139924b20b065522
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [VENDETTA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1774166739-0-0-c798920f12fc3a260b37d6558c37b016
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1774168899-0-0-77b57c1f7557ed04fb0993872b78f9ff
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [VENDETTA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1774166739-0-0-71ae316ab770f478cd9d4d53fe68ec80
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1774168899-0-0-8e740407b32abeed1be1046606e555ec
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [VENDETTA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1774166739-0-0-98dd81b8d4881709699aedf265992f86
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV GÔN] (Socolive) flv
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1774168899-0-0-543c3cddb6ca58ab7a8a75304a288f3e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=5aaf4255f8cb866af3fa4b7326d9e4b2&txTime=69bfe923
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV GÔN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1774168899-0-0-784ad456e3d9c1a687d1d8843bee74a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV CÒ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=0d09a2520a62604c854419fce713cd9d&txTime=69bfe923
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV GÔN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1774168899-0-0-b6514effb888a867982f7517f9f3bb2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV CÒ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=5aaf4255f8cb866af3fa4b7326d9e4b2&txTime=69bfe923
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV GÔN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1774168899-0-0-09f5011aefdd68ea9d5c672089a866cf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/da7f502ee13d5e0fa379bac240737e64.png",15h00 ngày 22/03 Perth Glory vs Melbourne City [BLV CÒ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=0d09a2520a62604c854419fce713cd9d&txTime=69bfe923
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1774168899-0-0-2b77994d663576466808df9df696fa74
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV A TINH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598119_lsd.flv?auth_key=1774166739-0-0-67a8cedbb2865d6dd280da94326aaefb
+https://pull06.scstream.net/live/stream-598119_lsd.flv?auth_key=1774168899-0-0-a771385524ebecab8a26d383da165741
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV A TINH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598119_lhd.flv?auth_key=1774166739-0-0-1e62f89a41a5c95961c3df81c581af1b
+https://pull06.scstream.net/live/stream-598119_lhd.flv?auth_key=1774168899-0-0-190744b354e2b5ee63e84c81f95f16b2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV A TINH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598119_lsd.m3u8?auth_key=1774166739-0-0-525b6d78297e8d6acedceeda6ca4a18a
+https://pull.niues.live/live/stream-598119_lsd.m3u8?auth_key=1774168899-0-0-1d8865e86909bf5d8fe37f1e15dab928
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV A TINH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1774166739-0-0-90c1245f960b425ba518d04f01dcc480
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/7a4d96be42836f861afaf2d0c628642f.png",14h00 ngày 22/03 Taiyuan W vs Cathay Life W [KING] (Socolive) flv
+https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1774168899-0-0-c3410fb705a58ac5fe1fbde035389312
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1774166739-0-0-10b62f90b7d0035cc328c9c18aab3a71
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/7a4d96be42836f861afaf2d0c628642f.png",14h00 ngày 22/03 Taiyuan W vs Cathay Life W [KING] (Socolive) hdFlv
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=b97816a98ba1393f8c686d4f26e46bd8&txTime=69bff193
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV GÔN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1774166739-0-0-ab83e6ba38242ccca64ac16631e54b88
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/7a4d96be42836f861afaf2d0c628642f.png",14h00 ngày 22/03 Taiyuan W vs Cathay Life W [KING] (Socolive) m3u8
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=e24ad78c99b0aec26da45d26545fd0f3&txTime=69bff193
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV GÔN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1774166739-0-0-6a44449fc7e87182600a480e988e1935
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/7a4d96be42836f861afaf2d0c628642f.png",14h00 ngày 22/03 Taiyuan W vs Cathay Life W [KING] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=b97816a98ba1393f8c686d4f26e46bd8&txTime=69bff193
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1774166739-0-0-fe1ba5a481929b4c2665a6c635d4a2c6
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=e24ad78c99b0aec26da45d26545fd0f3&txTime=69bff193
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/415e4bf15d326a94eba479f6bab9cf67.png",14h30 ngày 22/03 FC Anyang vs Incheon United Club [BLV KAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=9dd2508523b0e6b80dbbc7bcb823ac8e&txTime=69bfe923
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=6508fbaf77ee43fb9d4ba5aa47e30629&txTime=69bff193
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/415e4bf15d326a94eba479f6bab9cf67.png",14h30 ngày 22/03 FC Anyang vs Incheon United Club [BLV KAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=30b12970841128d7d0bd892b9dbdb4d5&txTime=69bfe923
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=8344a569f2ffc8ce4372675f505eff64&txTime=69bff193
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/415e4bf15d326a94eba479f6bab9cf67.png",14h30 ngày 22/03 FC Anyang vs Incheon United Club [BLV KAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=9dd2508523b0e6b80dbbc7bcb823ac8e&txTime=69bfe923
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=6508fbaf77ee43fb9d4ba5aa47e30629&txTime=69bff193
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/415e4bf15d326a94eba479f6bab9cf67.png",14h30 ngày 22/03 FC Anyang vs Incheon United Club [BLV KAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=30b12970841128d7d0bd892b9dbdb4d5&txTime=69bfe923
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=8344a569f2ffc8ce4372675f505eff64&txTime=69bff193
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/7a4d96be42836f861afaf2d0c628642f.png",14h00 ngày 22/03 Taiyuan W vs Cathay Life W [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1774168899-0-0-984a7afb5d79d622d78d4a2adf083956
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/7a4d96be42836f861afaf2d0c628642f.png",14h00 ngày 22/03 Taiyuan W vs Cathay Life W [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1774168899-0-0-e536bc863d0912047cc0c8171b6bb88a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/7a4d96be42836f861afaf2d0c628642f.png",14h00 ngày 22/03 Taiyuan W vs Cathay Life W [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1774168899-0-0-a78fc00d55ffb644ca183762c9d6a248
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/7a4d96be42836f861afaf2d0c628642f.png",14h00 ngày 22/03 Taiyuan W vs Cathay Life W [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1774168899-0-0-c392f9cdc6779d9a2d6d618f40cc0764
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774166739-0-0-b8134b461c14d42287e33d0dabc9379f
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774168899-0-0-0953d7cdc5af6fe92414771fc58a7cfd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774166739-0-0-20324cc59f1e91579b8a85e9e2078149
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774168899-0-0-a70d1d8c202d5dca112380ce44cd8a7b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774166739-0-0-01134f3920ba19617c8282df934f0577
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774168899-0-0-50344f5ce28f88e71375932e502c970d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774166739-0-0-13286ae319e1621fa88980708f3afe74
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",12h00 22/03 Tokyo Verdy vs FC Tokyo (Hội Quán) FHD 
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774168899-0-0-2d946fdf1dddf4e6ab0ec3658e75bce2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [TAM MAO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",12h00 22/03 Tokyo Verdy vs FC Tokyo (Hội Quán) HD 
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=f6c4ee033efa4dd3fef843252464ebea&txTime=69bff2fb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [TAM MAO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/Tokyo_Verdy_2020_logo.webp",12h00 22/03 Tokyo Verdy vs FC Tokyo (Hội Quán) SD 
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=e8a16389484fe48d461203bb664861c9&txTime=69bff2fb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [TAM MAO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=f6c4ee033efa4dd3fef843252464ebea&txTime=69bff2fb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=e8a16389484fe48d461203bb664861c9&txTime=69bff2fb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1774169259-0-0-08565bcfd9d1913ff35019c417349b9f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1774169259-0-0-e33ab390823fa4875e7453b41619fe2b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1774169259-0-0-9c84d0be230023769c448fcdc5b24f73
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/e1243c28bdd00116372709969b74a962.png",13h00 ngày 22/03 Kashima Antlers vs JEF United Ichihara Chiba [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1774169259-0-0-cc8db5059f405a47703f854f0ca471bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [CÚ ĐÊM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1774169259-0-0-6e53810e569f2904695f3745b68098f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [CÚ ĐÊM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1774169259-0-0-c40ca588d82da43b605ea5d4eba22842
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [CÚ ĐÊM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1774169259-0-0-ca849adc287f4c881f9e015af2b7723c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [CÚ ĐÊM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1774169259-0-0-a7415d3326914b7a2a2b42aeab0bb5ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1774169259-0-0-ae6aff0895ae12e98b0e55aaea51bb26
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1774169259-0-0-f6ad01a7b4d25b84cd397bcecb7a35dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1774169259-0-0-6fcc4a4d88d50128a8a61331d2ad6114
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/06971fad68ef546eebf855c86c3c2234.png",14h00 ngày 22/03 Urawa Red Diamonds vs Machida Zelvia [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1774169259-0-0-beaff1ab56db0245a933581d0b66961d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1774169259-0-0-9141ce8ae54a7813f92066761a990754
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1774169259-0-0-25b23696142827083ea4faaa09b92015
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1774169259-0-0-a29a791fa890eea1dc74c4e3dd1ef6f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/c2b02375f758b84365178b64e1013b2c.png",13h00 ngày 22/03 Cerezo Osaka vs Vissel Kobe [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1774169259-0-0-f77d2d340808c6c26f42d8554424851a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [Đình Bắc] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1774169259-0-0-75cf1cb3acb3d2f4a64c5986946b36b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [Đình Bắc] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1774169259-0-0-5078ba6685025527f870da74291f635c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [Đình Bắc] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1774169259-0-0-95c89459ea8a2c61331c6fb9182d85dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/2522a3e347f8e0f9840ff0360e063877.png",13h00 ngày 22/03 Kawasaki Frontale vs Yokohama F. Marinos [Đình Bắc] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1774169259-0-0-658c36a612e06eb4ed452eac8ebe981b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/95677b846229191a8514f3c0dc7214cf.png",14h30 ngày 22/03 Wonju DB vs KoGas [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1774169259-0-0-a364d48c00943feb5fdd84ffc9b6aaa5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/95677b846229191a8514f3c0dc7214cf.png",14h30 ngày 22/03 Wonju DB vs KoGas [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1774169259-0-0-fdd4490ae21cc6cfcf73b87b0c2b1a36
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/95677b846229191a8514f3c0dc7214cf.png",14h30 ngày 22/03 Wonju DB vs KoGas [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1774169259-0-0-7abe4cabe44d7e7d2f65262c2a924a7e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/95677b846229191a8514f3c0dc7214cf.png",14h30 ngày 22/03 Wonju DB vs KoGas [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1774169259-0-0-95ffd4f548fb33ec492d060d863b0487
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/95677b846229191a8514f3c0dc7214cf.png",14h30 ngày 22/03 Wonju DB vs KoGas [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1774169259-0-0-56765402e5d3725b1a98a14d9f955ddf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/95677b846229191a8514f3c0dc7214cf.png",14h30 ngày 22/03 Wonju DB vs KoGas [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1774169259-0-0-3b8d2df2cc86b9b071900b2c8ad5d4cb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/95677b846229191a8514f3c0dc7214cf.png",14h30 ngày 22/03 Wonju DB vs KoGas [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1774169259-0-0-a2f10aa0b3ef242261bc16d1264467bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260320/95677b846229191a8514f3c0dc7214cf.png",14h30 ngày 22/03 Wonju DB vs KoGas [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1774169259-0-0-9e51429e28fcfc6c80d09cacee0f2edf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/782fb8ccf431a35258425dda2b342f29.png",14h30 ngày 22/03 Pohang Steelers vs Bucheon FC 1995 [HẢI THANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1774169259-0-0-95da2b1ffec1901bd57b2b25afeb9c4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/782fb8ccf431a35258425dda2b342f29.png",14h30 ngày 22/03 Pohang Steelers vs Bucheon FC 1995 [HẢI THANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1774169259-0-0-76b65ef37e59fb720f8be4963be4f916
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/782fb8ccf431a35258425dda2b342f29.png",14h30 ngày 22/03 Pohang Steelers vs Bucheon FC 1995 [HẢI THANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1774169259-0-0-ce614f2d3d9d59ff72ce98a6a7dfb91c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260319/782fb8ccf431a35258425dda2b342f29.png",14h30 ngày 22/03 Pohang Steelers vs Bucheon FC 1995 [HẢI THANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1774169259-0-0-27834b58ddf6e54f059dd3d865c60d4f
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Cerezo_Osaka_logo.svg/250px-Cerezo_Osaka_logo.svg.png",13h00 22/03 Cerezo Osaka vs Vissel Kobe (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1308,49 +1320,70 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg",14h30 22/03 Gangwon FC vs Jeju United FC (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg",14h30 22/03 Gangwon FC vs Jeju United FC (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Gangwon_FC.svg",14h30 22/03 Gangwon FC vs Jeju United FC (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Perth_Glory_FC_logo.svg",15h00 22/03 Perth Glory vs Melbourne City (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Perth_Glory_FC_logo.svg",15h00 22/03 Perth Glory vs Melbourne City (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Perth_Glory_FC_logo.svg",15h00 22/03 Perth Glory vs Melbourne City (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80",13h00 22/03 Kashima Antlers vs Chiba
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/87547578.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80",13h00 22/03 Cerezo Osaka vs Vissel Kobe
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/41943555.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/ca15e36551392e8c99b53b5b2f8531d3.png!w80",14h00 22/03 Urawa Reds vs Machida
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/07428422.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Quê Choa",[SV.League Women] 12h05 22/03 Hisamitsu Springs W vs Gunma Bank Green Wings W [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
-#EXTINF:-1 group-title="Quê Choa",[SV.League Women] 12h05 22/03 Hisamitsu Springs W vs Gunma Bank Green Wings W [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[SV.League Women] 12h05 22/03 Hisamitsu Springs W vs Gunma Bank Green Wings W [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[SV.League Women] 12h05 22/03 Toray Arrows W vs Okayama Seagulls W [FHD]
+#EXTINF:-1 group-title="Quê Choa",[SV.League Women] 13h05 22/03 Toray Arrows W vs Okayama Seagulls W [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.m3u8
-#EXTINF:-1 group-title="Quê Choa",[SV.League Women] 12h05 22/03 Toray Arrows W vs Okayama Seagulls W [HD]
+#EXTINF:-1 group-title="Quê Choa",[SV.League Women] 13h05 22/03 Toray Arrows W vs Okayama Seagulls W [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[SV.League Women] 12h05 22/03 Toray Arrows W vs Okayama Seagulls W [SD]
+#EXTINF:-1 group-title="Quê Choa",[SV.League Women] 13h05 22/03 Toray Arrows W vs Okayama Seagulls W [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Vietnam Hoa Lu Cup] 12h05 22/03 Binh Chủng Thông Tin  vs Viettinbank  [FHD]
+#EXTINF:-1 group-title="Quê Choa",[Vietnam Hoa Lu Cup] 13h05 22/03 Binh Chủng Thông Tin  vs Viettinbank  [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Vietnam Hoa Lu Cup] 12h05 22/03 Binh Chủng Thông Tin  vs Viettinbank  [HD]
+#EXTINF:-1 group-title="Quê Choa",[Vietnam Hoa Lu Cup] 13h05 22/03 Binh Chủng Thông Tin  vs Viettinbank  [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Vietnam Hoa Lu Cup] 12h05 22/03 Binh Chủng Thông Tin  vs Viettinbank  [SD]
+#EXTINF:-1 group-title="Quê Choa",[Vietnam Hoa Lu Cup] 13h05 22/03 Binh Chủng Thông Tin  vs Viettinbank  [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[A-League] 13h05 22/03 Perth Glory vs Melbourne City [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+#EXTINF:-1 group-title="Quê Choa",[A-League] 13h05 22/03 Perth Glory vs Melbourne City [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[A-League] 13h05 22/03 Perth Glory vs Melbourne City [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
