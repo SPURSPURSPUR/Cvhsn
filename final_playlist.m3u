@@ -9,58 +9,18 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18982_20130921172639.gif",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18982_20130921172639.gif",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18982_20130921172639.gif",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC (Lương Sơn) BLV TỐNG GIANG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18982_20130921172639.gif",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC (Lương Sơn) BLV TỐNG GIANG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18982_20130921172639.gif",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC (Lương Sơn) BLV KAKA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18982_20130921172639.gif",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC (Lương Sơn) BLV KAKA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1774286885.png",08h30 ngày 24/03 Dallas Mavericks vs Golden State Warriors (Lương Sơn) BLV YẾN THANH m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/55094_1htca2k8tfe.png",11h30 ngày 24/03 Garhwal Diamon vs Friends United (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1774286885.png",08h30 ngày 24/03 Dallas Mavericks vs Golden State Warriors (Lương Sơn) BLV YẾN THANH flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/55094_1htca2k8tfe.png",11h30 ngày 24/03 Garhwal Diamon vs Friends United (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1a156a7e4977427fc1dec08eac881161/image/small?v=1768601124",07h00 ngày 24/03 Sociedad Deportiva Aucas vs Orense SC (Khán Đài A) source
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/55094_1htca2k8tfe.png",11h30 ngày 24/03 Garhwal Diamon vs Friends United (Lương Sơn) BLV ĐOÀN DỰ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3748a3d540143186f113212b3623e3fd/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",07h15 ngày 24/03 CA Huracan vs Barracas Central (Khán Đài A) source
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/55094_1htca2k8tfe.png",11h30 ngày 24/03 Garhwal Diamon vs Friends United (Lương Sơn) BLV ĐOÀN DỰ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7a3f82227d4e52e637d753e4a8f5bfb6/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a177972d3d491d03802e61e01fa5c029/image/small?v=1768601124",05h00 ngày 24/03 Estudiantes La Plata vs Central Cordoba SDE (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/af4def7fdb3516afdcd108f318b88aee/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/aba4de2a28a3f91615766938ef996120/image/small?v=1768601124",06h30 ngày 24/03 Rubio nu vs Sportivo Ameliano (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3b90a2ef616747147352e2af9f50ed19/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8ba27ba7171f0f2cb5529720780fcfd9/image/small?v=1768601124",06h00 ngày 24/03 Metropolitanos FC vs Academia Anzoategui (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1c969e72411d54aeaeae52a834b74b68/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cfc28eca66520a2b1dd9645436a42911/image/small?v=1768601124",05h00 ngày 24/03 Carabobo vs Academia Puerto Cabello (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9509e215d1914a8f240e55d10d56c194/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/147f17c4fa667f3a07b6f85062e7fbf3/image/small?v=1768601124",06h00 ngày 24/03 Comunicaciones BsAs vs Liniers (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/944917d5fda988490aa299eb336fceaf/playlist.m3u8
+https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6ef3784913bb573bb13a1edda95c53ae/image/small?v=1768601124",06h20 ngày 24/03 Jaguares de Cordoba vs Aguilas Doradas (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -73,18 +33,18 @@ https://live.alilicloud.com/live/49b83d0db8f8ebafb06465dbf56fce94/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/26e0cc80f39d73bb93209f59260bb8bf/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/62e935384e5b8db2e0afd14f9403611f/image/small?v=1768601124",05h00 ngày 24/03 Spanish Town Police vs Treasure Beach (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1a156a7e4977427fc1dec08eac881161/image/small?v=1768601124",07h00 ngày 24/03 Sociedad Deportiva Aucas vs Orense SC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/99dc738e1cf600a600df090a514f0759/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131624_d0d243b2.png",09h00 ngày 24/03 Portland Timbers II vs LA Galaxy II (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131624_d0d243b2.png",09h00 ngày 24/03 Portland Timbers II vs LA Galaxy II (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+https://live.alilicloud.com/live/3748a3d540143186f113212b3623e3fd/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",07h15 ngày 24/03 CA Huracan vs Barracas Central (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7a3f82227d4e52e637d753e4a8f5bfb6/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/aba4de2a28a3f91615766938ef996120/image/small?v=1768601124",06h30 ngày 24/03 Rubio nu vs Sportivo Ameliano (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3b90a2ef616747147352e2af9f50ed19/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145201_72f0bbb2.png",17h45 ngày 24/03 Bangladesh U20 vs Pakistan (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -101,185 +61,95 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1a156a7e4977427fc1dec08eac881161/image/small?v=1768601124",07h00 ngày 24/03 Sociedad Deportiva Aucas vs Orense SC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3748a3d540143186f113212b3623e3fd/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a4b51f131cc552ebadedc71910b05d02/image/small?v=1768601124",07h15 ngày 24/03 CA Huracan vs Barracas Central (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7a3f82227d4e52e637d753e4a8f5bfb6/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2512f96d1f97f9174ae7763763a3f8c5/image/small?v=1768601124",07h30 ngày 24/03 Mount Pleasant FA vs Portmore United (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/49b83d0db8f8ebafb06465dbf56fce94/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1a7b357850be6cec76bc427760660752/image/small?v=1768601124",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/26e0cc80f39d73bb93209f59260bb8bf/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: GER D1 - FC Augsburg vs VfB Stuttgart [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=161e32b6537e42f436bf59e639a2b8a5&txTime=69c25aeb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1774331979-0-0-83cf44c202a23b17f51aed0097545cef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: GER D1 - FC Augsburg vs VfB Stuttgart [Sóc đau cổ vai gáy] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=3d860cba322757faf89788ab28861c49&txTime=69c25aeb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1774331979-0-0-7ed6b7477dec05e5ef0f8578a1b9eab6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: GER D1 - FC Augsburg vs VfB Stuttgart [Sóc đau cổ vai gáy] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=161e32b6537e42f436bf59e639a2b8a5&txTime=69c25aeb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1774331979-0-0-6a3408c1a593cdda234654f555838de0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: GER D1 - FC Augsburg vs VfB Stuttgart [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=3d860cba322757faf89788ab28861c49&txTime=69c25aeb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV ĐỐM] (Socolive) flv
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1774331979-0-0-2447572a092602428afff9cb5ca9e59c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: ENG LC - Arsenal vs Manchester City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1774326939-0-0-72fb699933f2c0c1535ca6b39380feee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV ĐỐM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1774331979-0-0-2da3386b7bf1f7a36eb4d6c072de4f10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: ENG LC - Arsenal vs Manchester City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1774326939-0-0-a38640cabfadb14f09bc7e0632f18dfd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV ĐỐM] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1774331979-0-0-be125f8dd2c8811b75c55e7e360fa6c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: ENG LC - Arsenal vs Manchester City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1774326939-0-0-5c3b26adb1700fe896bd2117828b304f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1774331979-0-0-bc0a8fa3384499102bceb691e3fe2062
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: ENG LC - Arsenal vs Manchester City [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1774326939-0-0-2b92d5b424874e3b6789b642089d642b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV TOMIA] (Socolive) flv
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1774331979-0-0-4cd335f8c3332f9286530b0e803f8303
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: ITA D1 - Fiorentina vs Inter Milan [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1774326939-0-0-b980d57619a1ae12c92a8a03e0bd9eab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV TOMIA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1774331979-0-0-3dcb2544d7dea8887bf0ba22ab00a66c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: ITA D1 - Fiorentina vs Inter Milan [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1774326939-0-0-5ad720060a8ad539d80bde94cb2c623c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV TOMIA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1774331979-0-0-dc6f8cde3c9974cbec381872331fe663
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: ITA D1 - Fiorentina vs Inter Milan [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1774326939-0-0-812363a83577125508b28806a0f3cfa2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV TOMIA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1774331979-0-0-8bd6f8e055807de6e9e1f39aaed5d031
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: ITA D1 - Fiorentina vs Inter Milan [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1774326939-0-0-0f9ac036d41f0ce182a02dc91d179b51
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1774331979-0-0-f889d1dd7902e15d5876134733ba4a41
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: USA MLS - New York City FC vs Inter Miami CF [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1774331979-0-0-40b14ecf7d5ad678174122634f50822f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: USA MLS - New York City FC vs Inter Miami CF [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1774331979-0-0-f7f8c8fa0238e22e669ed461b03638cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: USA MLS - New York City FC vs Inter Miami CF [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1774331979-0-0-5bc16f1de556720bfe69999c07f56872
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: USA MLS - New York City FC vs Inter Miami CF [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1774331979-0-0-7c1784b612a6fd822830b66dada91120
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: SPA D1 - Athletic Club vs Real Betis [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1774331979-0-0-c9dee7cf18a930b1ac5a3142486bc273
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: SPA D1 - Athletic Club vs Real Betis [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1774331979-0-0-4cbd5d58619b4deab20263e056f4b1d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: SPA D1 - Athletic Club vs Real Betis [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1774331979-0-0-b74aa312e4033e8dac6451c3396deb73
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: SPA D1 - Athletic Club vs Real Betis [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1774331979-0-0-34ffc86112d531abb796bc62409ec795
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: SPA D1 - Real Madrid vs Atletico Madrid [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1774331979-0-0-c6b90bb79dc216513dfbae08f9cd67c6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: SPA D1 - Real Madrid vs Atletico Madrid [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1774331979-0-0-e5fe71c9735e86e91d608f35b51ac699
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: SPA D1 - Real Madrid vs Atletico Madrid [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1774331979-0-0-3578d7b0d4b17c809056c5ee62e36a95
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",Tường thuật: SPA D1 - Real Madrid vs Atletico Madrid [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1774331979-0-0-3f2e6dd2a3af960ccf33d6fb545e7725
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774326939-0-0-b2a815f4e581534eec2b8677a2b4b4a2
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774332339-0-0-13d429654bb418fc941cd303b5220376
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774326939-0-0-4ed013b15f57e79e58a66e3ab41de356
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774332339-0-0-a845a3c1dbcffbba8099b3e49101baa8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774326939-0-0-29436dfc36acffc1687c1a78b36a3ecc
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774332339-0-0-9a09bef7fffcc545328a84132d45665d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774326939-0-0-6e3ff9e2c84a204b6e3a6542f237a318
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1774327299-0-0-33c118c9fc3b60be506c783d398a48f6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1774327299-0-0-ba0e0fb49db1fdbd86eddf0eb4b59a8e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1774327299-0-0-09a975d22d513b0c6465ca518038f6fe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1774327299-0-0-4cd36fa3840f7379e350e8549b72aaf9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/760b7aa544ea6e577a39a99d96b1da04.png",09h00 ngày 24/03 Portland Trail Blazers vs Brooklyn Nets [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1774327299-0-0-cc36eea4fef5a450b24fda0725cbb7cb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/760b7aa544ea6e577a39a99d96b1da04.png",09h00 ngày 24/03 Portland Trail Blazers vs Brooklyn Nets [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1774327299-0-0-cdaaf99edcc80fad4424446b6b9f0adf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/760b7aa544ea6e577a39a99d96b1da04.png",09h00 ngày 24/03 Portland Trail Blazers vs Brooklyn Nets [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1774327299-0-0-8a255c4996dff3c74df81f450eb5bc6e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/760b7aa544ea6e577a39a99d96b1da04.png",09h00 ngày 24/03 Portland Trail Blazers vs Brooklyn Nets [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1774327299-0-0-4701c46d78e4af1e5ff4810f390ec24c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/25691270f8a74e1eb69f2d263401a75d.png",08h30 ngày 24/03 Dallas Mavericks vs Golden State Warriors [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1774327299-0-0-3c23997f5fdca226fa094d48b33acef1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/25691270f8a74e1eb69f2d263401a75d.png",08h30 ngày 24/03 Dallas Mavericks vs Golden State Warriors [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1774327299-0-0-10a9ed3f10f9445d8f1d1065b7c8137f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/25691270f8a74e1eb69f2d263401a75d.png",08h30 ngày 24/03 Dallas Mavericks vs Golden State Warriors [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1774327299-0-0-f84d54e405db5fe9bfa316b02b72e4eb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/25691270f8a74e1eb69f2d263401a75d.png",08h30 ngày 24/03 Dallas Mavericks vs Golden State Warriors [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1774327299-0-0-f8010075f1525a46fe22300de84b5353
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1774327299-0-0-824a7168f71d13259e1fa119e5795882
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1774327299-0-0-1a78713cdd6ce49836f75708561b7ca1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1774327299-0-0-eff573b947a204849f08f22d00cb4104
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1774327299-0-0-eeaa56be263a900038c7d168a1e3d79d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/760b7aa544ea6e577a39a99d96b1da04.png",09h00 ngày 24/03 Portland Trail Blazers vs Brooklyn Nets [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1774327299-0-0-bd6c068f831712d37b1dae3244bdb3c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/760b7aa544ea6e577a39a99d96b1da04.png",09h00 ngày 24/03 Portland Trail Blazers vs Brooklyn Nets [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1774327299-0-0-ed689d327a8b051c1b4a174f040aae9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/760b7aa544ea6e577a39a99d96b1da04.png",09h00 ngày 24/03 Portland Trail Blazers vs Brooklyn Nets [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774327299-0-0-9cfa80529a19d00849038af5a0b00cee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/760b7aa544ea6e577a39a99d96b1da04.png",09h00 ngày 24/03 Portland Trail Blazers vs Brooklyn Nets [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774327299-0-0-bfcdb77bf8910be6e5e8dceeacd69b61
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1774327299-0-0-f7554e865af5cbb14a097f7706986c91
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1774327299-0-0-44ed6a11f2b3363df8d440c4fb20a1c3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1774327299-0-0-2de54a7d3039a556f9936036ec3a7519
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png",09h00 ngày 24/03 Portland Timbers Reserve vs Ventura County FC [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1774327299-0-0-206165217464cadbf83ceb41c4c4afc8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/9fa4b88a4fb83b5cc833aa8c81aa8169.png",09h30 ngày 24/03 Los Angeles Clippers vs Milwaukee Bucks [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1774327659-0-0-d76935e34853928d80403e640498bad3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/9fa4b88a4fb83b5cc833aa8c81aa8169.png",09h30 ngày 24/03 Los Angeles Clippers vs Milwaukee Bucks [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1774327659-0-0-5c0eb5065fbfd3030bcbcd68133abc4a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/9fa4b88a4fb83b5cc833aa8c81aa8169.png",09h30 ngày 24/03 Los Angeles Clippers vs Milwaukee Bucks [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1774327659-0-0-0e0eacd1cb41980466acd65072d1f837
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/9fa4b88a4fb83b5cc833aa8c81aa8169.png",09h30 ngày 24/03 Los Angeles Clippers vs Milwaukee Bucks [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1774327659-0-0-815aabc3113e2e5e4d5e6b02de73347d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/9fa4b88a4fb83b5cc833aa8c81aa8169.png",09h30 ngày 24/03 Los Angeles Clippers vs Milwaukee Bucks [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1774327659-0-0-817411b650ae0f421c4035569e1ad4f3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/9fa4b88a4fb83b5cc833aa8c81aa8169.png",09h30 ngày 24/03 Los Angeles Clippers vs Milwaukee Bucks [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1774327659-0-0-e599bf124895a9fcd7ca616af7b31748
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/9fa4b88a4fb83b5cc833aa8c81aa8169.png",09h30 ngày 24/03 Los Angeles Clippers vs Milwaukee Bucks [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1774327659-0-0-b2d6bc215800501197d2d5d798b74e41
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260322/9fa4b88a4fb83b5cc833aa8c81aa8169.png",09h30 ngày 24/03 Los Angeles Clippers vs Milwaukee Bucks [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1774327659-0-0-f54b5fdb74d986a98f88576a041b2162
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80",09h30 24/03 Los Angeles Clippers vs Milwaukee Bucks
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/02456966.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/ca05b27dd2979a344914fd662c3471c7.png!w80",09h00 24/03 Portland Timbers 2 vs Ventura County FC
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/08552895.m3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774332339-0-0-43cb5f9fdfac3c653bb073d747b65e3d
 #EXTM3U
-#EXTINF:-1 group-title="Quê Choa",[NBA] 08h30 24/03 Dallas Mavericks vs Golden State Warriors [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[NBA] 08h30 24/03 Dallas Mavericks vs Golden State Warriors [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[NBA] 08h30 24/03 Dallas Mavericks vs Golden State Warriors [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
 # --- Bongda 2 Playlist Start ---
 #EXTM3U
 #EXTINF:-1 group-title="Bún chả",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB ngày 06/02/2026 [MAIN]
@@ -928,12 +798,12 @@ https://live5.msrktz.app/live/14830711.m3u8
       </div><!-- /.section -->
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9e12bb21fd36084b</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9e1338742deac643</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">20.172.192.245</span>
+        <span class="hidden" id="cf-footer-ip">20.3.221.177</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
