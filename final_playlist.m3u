@@ -9,47 +9,54 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/69530_1jx4rrayyj2c.png",12h00 ngày 07/04 Linyi Red Arrow vs Qingdao Fuli (Lương Sơn) NHÀ ÐÀI m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3009_1gxmc3935je.png",14h00 ngày 07/04 Kitchee vs LeeMan (Lương Sơn) BLV KHỔNG MINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MwcqphkhFCMUhQpF6/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/69530_1jx4rrayyj2c.png",12h00 ngày 07/04 Linyi Red Arrow vs Qingdao Fuli (Lương Sơn) NHÀ ÐÀI flv
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3009_1gxmc3935je.png",14h00 ngày 07/04 Kitchee vs LeeMan (Lương Sơn) BLV KHỔNG MINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3009_1gxmc3935je.png",14h00 ngày 07/04 Kitchee vs LeeMan (Lương Sơn) BLV SHIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3009_1gxmc3935je.png",14h00 ngày 07/04 Kitchee vs LeeMan (Lương Sơn) BLV SHIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b6fdd512ebe87c266431902e66b80566/image/small?v=1768601124",14h00 ngày 07/04 Kitchee vs Lee Man (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/174627261a53ba12e1082474ad7b19f4/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",14h30 ngày 07/04 Biên phòng MB vs Đà Nẵng (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/c6bdebdd038e41a394255f4c396dce88/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",14h30 ngày 07/04 Biên phòng MB vs Đà Nẵng (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/c6bdebdd038e41a394255f4c396dce88/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",14h30 ngày 07/04 Biên phòng MB vs Đà Nẵng (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/c6bdebdd038e41a394255f4c396dce88/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/43a8e95adeee5e6274eb3cb58e806fdb/image/small?v=1768601124",14h00 ngày 07/04 Shanxi Longsheng vs Dalian Tornadoes (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a895ba0c8f8547f8eaab949875471058/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e01ea5d25887d64d512c70e7fbd90596/image/small?v=1768601124",09h00 ngày 07/04 AD Municipal Liberia vs AD San Carlos (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d554adbc542064165d952318f972ad30/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/74feb8b33b07dd8a93ce89ae21677a14/image/small?v=1768601124",12h55 ngày 07/04 Persimi Sarmi vs Persidafon (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a99f70cffaabe910fe3a52e98cfb556c/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6dcb6a43a82b7aedff358e3effe13da8/image/small?v=1768601124",12h00 ngày 07/04 Linyi Red Arrow vs Qingdao Fuli (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/e67bb96f2beffcb7624a1b71ad762a7c/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/78430e09e350a4543b2a773731a9208f/image/small?v=1768601124",07h15 ngày 07/04 Instituto de Córdoba vs Defensa Y Justicia (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8f227c7174d29f0c89a8fa8106db1307/image/small?v=1768601124",13h00 ngày 07/04 Sams SC vs Bantara SC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/36252d9a75c34a1a8cff994747afc2ec/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/dab633b5e1c6f7d4add6a92b1e0c35d6/image/small?v=1768601124",08h30 ngày 07/04 CD Universitario vs Herrera FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d47ecfedf80e62d3b293b253298c19ff/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9adb240c5f6b1dd94e59aff1f708d4be/image/small?v=1768601124",08h10 ngày 07/04 Atletico Nacional Medellin vs Jaguares de Cordoba (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/30b8b1984001329d9f58527872f89779/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a7f7479011bf657f958f9583f6c48ff3/image/small?v=1768601124",08h00 ngày 07/04 Pitbulls vs CS Uruguay De Coronado (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d1409b14d83354085584118095540810/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc9fOmXkUXVf-KqZbsR2bSRzsHH1VBglzbA&s",12h00 ngày 07/04 VTV BĐ Long An vs Vietinbank (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/02956718844a47bf999e8201f76b3028/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc9fOmXkUXVf-KqZbsR2bSRzsHH1VBglzbA&s",12h00 ngày 07/04 VTV BĐ Long An vs Vietinbank (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/02956718844a47bf999e8201f76b3028/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc9fOmXkUXVf-KqZbsR2bSRzsHH1VBglzbA&s",12h00 ngày 07/04 VTV BĐ Long An vs Vietinbank (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/02956718844a47bf999e8201f76b3028/index.m3u8
+https://live.alilicloud.com/live/232ba028cdce89dac865971c91718146/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130646_57e46c3c.png",14h00 ngày 07/04 Kitchee vs Warriors (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -66,6 +73,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251014_201151_a5abe6d3.png",14h30 ngày 07/04 Biên Phòng MB vs Đà Nẵng (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251014_201151_a5abe6d3.png",14h30 ngày 07/04 Biên Phòng MB vs Đà Nẵng (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250902_193521_ec2f00c2.png",15h00 ngày 07/04 Malaysia vs Indonesia (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -114,6 +129,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoidonghd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoidonghd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251008_221852_85d58317.webp",17h30 ngày 07/04 XMLS Thanh Hóa vs LPBank Ninh Bình (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251008_221852_85d58317.webp",17h30 ngày 07/04 XMLS Thanh Hóa vs LPBank Ninh Bình (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125850_46e8508f.png",18h30 ngày 07/04 Bandırmaspor vs Sarıyer (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -274,146 +297,158 @@ https://gckc0525.edgemaxcdn.org/live/chuoihothd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoihothd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e01ea5d25887d64d512c70e7fbd90596/image/small?v=1768601124",09h00 ngày 07/04 AD Municipal Liberia vs AD San Carlos (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",14h30 ngày 07/04 Biên phòng MB vs Đà Nẵng (Gà Vàng) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d554adbc542064165d952318f972ad30/playlist.m3u8
+https://pull-live7.fastestcdn-global.com/live/3bc38fc3783c4c27895c929f52e859de/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",14h30 ngày 07/04 Biên phòng MB vs Đà Nẵng (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/3bc38fc3783c4c27895c929f52e859de/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",14h30 ngày 07/04 Biên phòng MB vs Đà Nẵng (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/3bc38fc3783c4c27895c929f52e859de/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",14h30 ngày 07/04 Biên phòng MB vs Đà Nẵng (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/3bc38fc3783c4c27895c929f52e859de/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",14h30 ngày 07/04 Biên phòng MB vs Đà Nẵng (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/3bc38fc3783c4c27895c929f52e859de/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7c/Logo_B%C4%90BPVN.png",14h30 ngày 07/04 Biên phòng MB vs Đà Nẵng (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/3bc38fc3783c4c27895c929f52e859de/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b6fdd512ebe87c266431902e66b80566/image/small?v=1768601124",14h00 ngày 07/04 Kitchee vs Lee Man (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/174627261a53ba12e1082474ad7b19f4/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/43a8e95adeee5e6274eb3cb58e806fdb/image/small?v=1768601124",14h00 ngày 07/04 Shanxi Longsheng vs Dalian Tornadoes (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a895ba0c8f8547f8eaab949875471058/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/74feb8b33b07dd8a93ce89ae21677a14/image/small?v=1768601124",12h55 ngày 07/04 Persimi Sarmi vs Persidafon (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a99f70cffaabe910fe3a52e98cfb556c/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/zsTGEOAr-U5lCk1c0.png",15h00 ngày 07/04 Malaysia vs Indonesia (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/8b200f3c37bf408096578cfdfa49b1ae/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/zsTGEOAr-U5lCk1c0.png",15h00 ngày 07/04 Malaysia vs Indonesia (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/8b200f3c37bf408096578cfdfa49b1ae/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/zsTGEOAr-U5lCk1c0.png",15h00 ngày 07/04 Malaysia vs Indonesia (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/8b200f3c37bf408096578cfdfa49b1ae/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/zsTGEOAr-U5lCk1c0.png",15h00 ngày 07/04 Malaysia vs Indonesia (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/8b200f3c37bf408096578cfdfa49b1ae/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/zsTGEOAr-U5lCk1c0.png",15h00 ngày 07/04 Malaysia vs Indonesia (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/8b200f3c37bf408096578cfdfa49b1ae/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/zsTGEOAr-U5lCk1c0.png",15h00 ngày 07/04 Malaysia vs Indonesia (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/8b200f3c37bf408096578cfdfa49b1ae/index.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6dcb6a43a82b7aedff358e3effe13da8/image/small?v=1768601124",12h00 ngày 07/04 Linyi Red Arrow vs Qingdao Fuli (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/e67bb96f2beffcb7624a1b71ad762a7c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://i.pinimg.com/736x/1e/e2/87/1ee28789b6239045707c29b0a15e9202.jpg",12h00 ngày 07/04 VTV Bình Điền Long An vs Vietinbank (Gà Vàng) sd_1
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8f227c7174d29f0c89a8fa8106db1307/image/small?v=1768601124",13h00 ngày 07/04 Sams SC vs Bantara SC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/982a764ecf6f4d5cb1076fc1f2cd0818/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://i.pinimg.com/736x/1e/e2/87/1ee28789b6239045707c29b0a15e9202.jpg",12h00 ngày 07/04 VTV Bình Điền Long An vs Vietinbank (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/982a764ecf6f4d5cb1076fc1f2cd0818/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://i.pinimg.com/736x/1e/e2/87/1ee28789b6239045707c29b0a15e9202.jpg",12h00 ngày 07/04 VTV Bình Điền Long An vs Vietinbank (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/982a764ecf6f4d5cb1076fc1f2cd0818/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://i.pinimg.com/736x/1e/e2/87/1ee28789b6239045707c29b0a15e9202.jpg",12h00 ngày 07/04 VTV Bình Điền Long An vs Vietinbank (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/982a764ecf6f4d5cb1076fc1f2cd0818/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://i.pinimg.com/736x/1e/e2/87/1ee28789b6239045707c29b0a15e9202.jpg",12h00 ngày 07/04 VTV Bình Điền Long An vs Vietinbank (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/982a764ecf6f4d5cb1076fc1f2cd0818/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://i.pinimg.com/736x/1e/e2/87/1ee28789b6239045707c29b0a15e9202.jpg",12h00 ngày 07/04 VTV Bình Điền Long An vs Vietinbank (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/982a764ecf6f4d5cb1076fc1f2cd0818/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/CSazGle5-vqjoDF7T.png",12h30 ngày 07/04 Brunei vs Australia (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/5df5824a3e4642f4a0aae7c2e5351a27/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/CSazGle5-vqjoDF7T.png",12h30 ngày 07/04 Brunei vs Australia (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/5df5824a3e4642f4a0aae7c2e5351a27/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/CSazGle5-vqjoDF7T.png",12h30 ngày 07/04 Brunei vs Australia (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/5df5824a3e4642f4a0aae7c2e5351a27/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/CSazGle5-vqjoDF7T.png",12h30 ngày 07/04 Brunei vs Australia (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/5df5824a3e4642f4a0aae7c2e5351a27/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/CSazGle5-vqjoDF7T.png",12h30 ngày 07/04 Brunei vs Australia (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/5df5824a3e4642f4a0aae7c2e5351a27/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/CSazGle5-vqjoDF7T.png",12h30 ngày 07/04 Brunei vs Australia (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/5df5824a3e4642f4a0aae7c2e5351a27/index.m3u8
+https://live.alilicloud.com/live/232ba028cdce89dac865971c91718146/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1775545540-0-0-6bc6c81fb4c3caa1b530416e2afc7478
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1775550940-0-0-ea1c19df9c74363b281ec07872a350ba
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1775545540-0-0-7e37929ad9956bb90ca8849a97f8c8f6
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1775550940-0-0-063b664542ba34f15b2c9d2f80be9a14
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1775545540-0-0-f368de42bb32d99b05d7227afffdaa1e
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1775550940-0-0-13e3297c5a15f599bfe0df84b23aab8f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1775545540-0-0-b64039d51ef6594981d7082fd405bb04
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: SPA D1 - Girona FC vs Villarreal CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1775545540-0-0-0c5999830f6efb270ddaec0c82baf935
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: SPA D1 - Girona FC vs Villarreal CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1775545540-0-0-da42c741546e9a96bc472d862e049e38
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: SPA D1 - Girona FC vs Villarreal CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1775545540-0-0-9ae6af6c661e6f48928ef52352fa386a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: SPA D1 - Girona FC vs Villarreal CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1775545540-0-0-b66fcc406feb65c079cfed0979fe5cd1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Juventus vs Genoa [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1775545540-0-0-3df299a2d036569d1724129add0bd9ee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Juventus vs Genoa [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1775545540-0-0-7a77766e0e1c8fa4654545d4f6a16a40
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Juventus vs Genoa [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1775545540-0-0-cc9c51d5f25187a5c8187f3e5fa7c5b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Juventus vs Genoa [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1775545540-0-0-1241e20f4cf829a3c04b31a1328a6e2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: FRA D1 - AS Monaco vs Marseille [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1775545540-0-0-e4f86dbc2e6707413155825d22fb79f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: FRA D1 - AS Monaco vs Marseille [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1775545540-0-0-706cc973d7bec288062a51b93ebf753c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: FRA D1 - AS Monaco vs Marseille [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1775545540-0-0-ba527016e0a7bf3561478b855f7fb51a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: FRA D1 - AS Monaco vs Marseille [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1775545540-0-0-478c080a3a947614422e0346cbc0bf15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Napoli vs AC Milan [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1775545540-0-0-aef1ca7f0c360176e1603cb37de8e315
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Napoli vs AC Milan [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1775545540-0-0-d89277da7a27b041ec4441848ab57ae0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Napoli vs AC Milan [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1775545540-0-0-67681ddda7aa64c905d19075a75d5383
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Napoli vs AC Milan [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1775545540-0-0-97181adcefe5ba7a290f3fc113e5bd66
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Inter Milan vs AS Roma [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1775545540-0-0-1ab975f1cd4424175f13782a74f6df16
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Inter Milan vs AS Roma [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1775545540-0-0-7c61d816e136c815452fd6192062dd29
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Inter Milan vs AS Roma [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1775545540-0-0-b1a7db88e988fefa392f994c28bc6e26
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Inter Milan vs AS Roma [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1775545540-0-0-8f4925ce2dffa3477f9429910cc62614
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1775550940-0-0-6b7240c10d9f8b7a02a944d79b1b5064
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Lecce vs Atalanta [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1775545540-0-0-c7df4b0f3e466c79d7bc76866fed4ccf
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1775550940-0-0-91825bd02a0de2c0532bec6acd57f985
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Lecce vs Atalanta [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1775545540-0-0-beef8ffb0cdcbc0772cacd0318adff66
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1775550940-0-0-77429741e8b0c597bef6678210fbb9d7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Lecce vs Atalanta [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1775545540-0-0-fabb81ba48544f26c21c8346b0ee6376
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1775550940-0-0-5bbc15c820df2785d7b1949b0f7851f5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Lecce vs Atalanta [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1775545540-0-0-337e096c2ed47a4e29bddc115425d4b1
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1775550940-0-0-e88ea1d600598b8fe62fa8a33d0b97c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Juventus vs Genoa [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1775550940-0-0-eb922ba93e76b0491547f7e117f0ffee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Juventus vs Genoa [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1775550940-0-0-f757c9fc645f59168216761f3ba95b70
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Juventus vs Genoa [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1775550940-0-0-f0df41c12c0720fe58b50a8546290e42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Juventus vs Genoa [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1775550940-0-0-1184abed571897ff247308f1c20ebb42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Napoli vs AC Milan [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1775550940-0-0-0262fd284aac4bd03c61d5d2e109bcb6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Napoli vs AC Milan [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1775550940-0-0-3bc0a3a0fe64de7a87c2adb03ea1f13b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Napoli vs AC Milan [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1775550940-0-0-832ed778b77e83a412e725a1ef12c157
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Napoli vs AC Milan [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1775550940-0-0-9575d6593585891372f73508228baab7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Inter Milan vs AS Roma [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1775550940-0-0-2c8139844dfc5cf782c5b7b74b6bbbd6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Inter Milan vs AS Roma [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1775550940-0-0-4e973da9a53f402584b7a78551a02101
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Inter Milan vs AS Roma [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1775550940-0-0-6f3f2e91a0753839f38ea51fc769ddf9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: ITA D1 - Inter Milan vs AS Roma [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1775550940-0-0-e1fe64a61a909f19d157bf3914d33e18
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: FRA D1 - AS Monaco vs Marseille [Sóc mèo méo meo] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1775550940-0-0-15c930ca2b6ba51286d8c3bbfc575681
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: FRA D1 - AS Monaco vs Marseille [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1775550940-0-0-b081e575c134c9ac57cac84439a7f986
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: FRA D1 - AS Monaco vs Marseille [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1775550940-0-0-2598ee29fd366ce1d87afbc83203fe71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: FRA D1 - AS Monaco vs Marseille [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1775550940-0-0-68ae39270494a8630d335d1e5331d489
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: SPA D1 - Girona FC vs Villarreal CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1775550940-0-0-b5d70bae2dd1435e3baf3355c48bbf85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: SPA D1 - Girona FC vs Villarreal CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1775550940-0-0-b44bb23c89673e9a20925c43bfa87cc7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: SPA D1 - Girona FC vs Villarreal CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1775550940-0-0-691e4dbe8065db49a9a49d5d9c0fd0c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260402/b03b55adee34379cd967bdf17a8be06e.png",Tường thuật: SPA D1 - Girona FC vs Villarreal CF [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1775550940-0-0-021498797f1ba835a9387102fa5965e2
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",10h00 07/04 PHAM Van Truong/BUI Bich Phuong vs Thulith PALLIYAGURU/Panchali ADHIKARI (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -426,31 +461,43 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",15h00 07/04 GUO Xin Wa/CHEN Fang Hui vs WU Guan Xun/LEE Chia Hsin (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",15h00 07/04 GUO Xin Wa/CHEN Fang Hui vs WU Guan Xun/LEE Chia Hsin (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",15h00 07/04 GUO Xin Wa/CHEN Fang Hui vs WU Guan Xun/LEE Chia Hsin (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",15h00 07/04 Dechapol PUAVARANUKROH/Supissara PAEWSAMPRAN vs Bobby SETIABUDI/Melati Daeva OKTAVIANTI (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",15h00 07/04 Dechapol PUAVARANUKROH/Supissara PAEWSAMPRAN vs Bobby SETIABUDI/Melati Daeva OKTAVIANTI (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",15h00 07/04 Dechapol PUAVARANUKROH/Supissara PAEWSAMPRAN vs Bobby SETIABUDI/Melati Daeva OKTAVIANTI (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Quê Choa",[VDQG] 12h00 07/04 VTV BÌNH ĐIỀN LONG AN vs Viettinbank  [FHD]
+#EXTINF:-1 group-title="Quê Choa",[VDQG] 14h30 07/04 Biên Phòng vs Đà Nẵng [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[VDQG] 12h00 07/04 VTV BÌNH ĐIỀN LONG AN vs Viettinbank  [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
+#EXTINF:-1 group-title="Quê Choa",[VDQG] 14h30 07/04 Biên Phòng vs Đà Nẵng [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[VDQG] 12h00 07/04 VTV BÌNH ĐIỀN LONG AN vs Viettinbank  [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[VDQG] 14h30 07/04 Biên Phòng vs Đà Nẵng [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[FUTSAL ĐÔNG NAM Á] 12h00 07/04 Brunei vs Úc [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[FUTSAL ĐÔNG NAM Á] 12h00 07/04 Brunei vs Úc [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[FUTSAL ĐÔNG NAM Á] 12h00 07/04 Brunei vs Úc [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
 # --- Bongda 2 Playlist Start ---
 #EXTM3U
 #EXTINF:-1 group-title="Bún chả",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB ngày 06/02/2026 [MAIN]
