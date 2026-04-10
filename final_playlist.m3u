@@ -9,46 +9,72 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/22416_1gw9fsjprn1f.png",14h15 ngày 10/04 Ferrymead Bays vs Christchurch United (Lương Sơn) BLV KENCHU m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34368_1gvagpekvs2d.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho (Lương Sơn) BLV TỐNG GIANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/22416_1gw9fsjprn1f.png",14h15 ngày 10/04 Ferrymead Bays vs Christchurch United (Lương Sơn) BLV KENCHU flv
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34368_1gvagpekvs2d.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho (Lương Sơn) BLV TỐNG GIANG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/22416_1gw9fsjprn1f.png",14h15 ngày 10/04 Ferrymead Bays vs Christchurch United (Lương Sơn) BLV URA m3u
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34368_1gvagpekvs2d.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34368_1gvagpekvs2d.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12874_1gskkb8he46.png",16h30 ngày 10/04 St Albans Saints vs Avondale FC (Lương Sơn) BLV PELE m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12874_1gskkb8he46.png",16h30 ngày 10/04 St Albans Saints vs Avondale FC (Lương Sơn) BLV PELE flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16858_164085294979.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar (Lương Sơn) BLV SHIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16858_164085294979.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar (Lương Sơn) BLV SHIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16858_164085294979.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16858_164085294979.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16858_164085294979.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16858_164085294979.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar (Lương Sơn) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8797_1grzww51z62n.png",16h30 ngày 10/04 Wynnum Wolves vs Queensland Lions SC (Lương Sơn) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8797_1grzww51z62n.png",16h30 ngày 10/04 Wynnum Wolves vs Queensland Lions SC (Lương Sơn) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2439_1hd5avvjt32h.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/22416_1gw9fsjprn1f.png",14h15 ngày 10/04 Ferrymead Bays vs Christchurch United (Lương Sơn) BLV URA flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2439_1hd5avvjt32h.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Lương Sơn) BLV URA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/623b844a585f4ca78220dc413afe9243/image/small?v=1768601124",14h30 ngày 10/04 Beijing Yuhong Xiushan (W) vs Zhejiang Hangzhou Bank Women (Khán Đài A) source
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2439_1hd5avvjt32h.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Lương Sơn) BLV KEVILL m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://livez.alilicloud.com/live/86ee79691f19c6a3b407387fb13281bf/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3c5a88f9687af3d647b187fc9aec51dd/image/small?v=1768601124",14h30 ngày 10/04 Wuhan Jianghan Women vs Jiangsu Women (Khán Đài A) source
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2439_1hd5avvjt32h.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Lương Sơn) BLV KEVILL flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://livez.alilicloud.com/live/b4bd92745f2b162359007026cbdf4175/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0db769f06785ae3fbec783833ba6ea60/image/small?v=1768601124",14h30 ngày 10/04 Changchun Dazhongzhuoyue Women vs Guangdong Women (Khán Đài A) source
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2439_1hd5avvjt32h.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Lương Sơn) BLV MÃ SIÊU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://livez.alilicloud.com/live/682803616fe38c731328150b60399d95/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4ee9dcc55937066bb17338f3405e76ef/image/small?v=1768601124",14h30 ngày 10/04 Shanghai RCB (W) vs Sichuan Women (Khán Đài A) source
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2439_1hd5avvjt32h.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Lương Sơn) BLV MÃ SIÊU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://livez.alilicloud.com/live/5ec441aecc6b2e4fb3b371ace1419e5d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f69c8d9ac041c39f7b04f495bc2b0b4c/image/small?v=1768601124",09h00 ngày 10/04 Independiente Santa Fe vs CA Penarol (Khán Đài A) source
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29208_1gryyqvj2y1r.png",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers (Lương Sơn) BLV KENCHU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/724bd7dc24e2b161740d5ded5de90526/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1c995da146e9e97ccb72bf7dc468306d/image/small?v=1768601124",14h30 ngày 10/04 Tai'an Tiankuang vs Beijing IT (Khán Đài A) source
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/29208_1gryyqvj2y1r.png",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers (Lương Sơn) BLV KENCHU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://livez.alilicloud.com/live/9a950eb3a2935d7ebb9dca073a24eed9/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/961cd23b61e165f6ab07eaccbf73b2a4/image/small?v=1768601124",14h30 ngày 10/04 Shanghai Port B vs Dalian Kewei (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://livez.alilicloud.com/live/3f068afc661f75a6d4ad90610569abfc/playlist.m3u8
+https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d51f601f2711849b781bdc1df8db6451/image/small?v=1768601124",12h00 ngày 10/04 Chongqing Dikai vs Guizhou Open University (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -56,35 +82,155 @@ https://live.alilicloud.com/live/4aca4cd3e33c47cfb9b20a39ffdded15/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/78b8192ddc47e3cb6410e0162d2e1653/image/small?v=1768601124",14h15 ngày 10/04 Ferrymead Bays vs Christchurch United (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://livez.alilicloud.com/live/bd1efc4cd4bc4b597b48332192c8528f/playlist.m3u8
+https://live.alilicloud.com/live/bd1efc4cd4bc4b597b48332192c8528f/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/efe5e5d0f3566fa6b39d0dceb86a82f8/image/small?v=1768601124",12h00 ngày 10/04 Shenzhen Jixiang vs Chengdu Yuhui Rende (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4584bdbf68d69e6982692634b145355a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzIpIPoDZXAABXKGntvXchkOlaMiwXlOIAA&s",14h30 ngày 10/04 Thể công Tân Cảng vs Đà Nẵng (Khán Đài A) hd_1
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/264cbd879dad7eaee97b59c19990c78e/image/small?v=1768601124",14h00 ngày 10/04  vs ASIOP FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/8a28baa4a133497187770e9310a95193/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzIpIPoDZXAABXKGntvXchkOlaMiwXlOIAA&s",14h30 ngày 10/04 Thể công Tân Cảng vs Đà Nẵng (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/8a28baa4a133497187770e9310a95193/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzIpIPoDZXAABXKGntvXchkOlaMiwXlOIAA&s",14h30 ngày 10/04 Thể công Tân Cảng vs Đà Nẵng (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/8a28baa4a133497187770e9310a95193/index.m3u8
+https://live.alilicloud.com/live/aa2e57807096638081a9894614a70f15/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/43ad50723169a969b8a2e457b38aff4f/image/small?v=1768601124",14h30 ngày 10/04 Northern United FC vs Tarun Sangha FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://livez.alilicloud.com/live/4968bddf49a241b1f24f59d2c9767b17/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250921_103707_aead777a.png",14h30 ngày 10/04 Công An TP. Hồ Chí Minh vs Biên Phòng MB (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250921_103707_aead777a.png",14h30 ngày 10/04 Công An TP. Hồ Chí Minh vs Biên Phòng MB (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+https://live.alilicloud.com/live/4968bddf49a241b1f24f59d2c9767b17/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/27995ddd0093e55589f052660b317e96/image/small?v=1768601124",15h45 ngày 10/04 West Torrens Birkalla Women vs MetroStars (W) (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/98121cd70d2386b37db29000c4c60f1b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/623b844a585f4ca78220dc413afe9243/image/small?v=1768601124",14h30 ngày 10/04 Beijing Yuhong Xiushan (W) vs Zhejiang Hangzhou Bank Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/86ee79691f19c6a3b407387fb13281bf/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ab3ca0bb97e4080435ca6b1732448bf7/image/small?v=1768601124",15h30 ngày 10/04 PSIM Yogyakarta vs Persatuan Sepakbola Makassar (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/36a29b61b745af4d852d5495f3eba00d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ab3ca0bb97e4080435ca6b1732448bf7/image/small?v=1768601124",15h30 ngày 10/04 PSIM Yogyakarta vs Persatuan Sepakbola Makassar (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/17b4a39c18b640c39c471a1ca4ca7bbb/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ab3ca0bb97e4080435ca6b1732448bf7/image/small?v=1768601124",15h30 ngày 10/04 PSIM Yogyakarta vs Persatuan Sepakbola Makassar (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/17b4a39c18b640c39c471a1ca4ca7bbb/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ab3ca0bb97e4080435ca6b1732448bf7/image/small?v=1768601124",15h30 ngày 10/04 PSIM Yogyakarta vs Persatuan Sepakbola Makassar (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/17b4a39c18b640c39c471a1ca4ca7bbb/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3c5a88f9687af3d647b187fc9aec51dd/image/small?v=1768601124",14h30 ngày 10/04 Wuhan Jianghan Women vs Jiangsu Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b4bd92745f2b162359007026cbdf4175/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0db769f06785ae3fbec783833ba6ea60/image/small?v=1768601124",14h30 ngày 10/04 Changchun Dazhongzhuoyue Women vs Guangdong Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/682803616fe38c731328150b60399d95/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4ee9dcc55937066bb17338f3405e76ef/image/small?v=1768601124",14h30 ngày 10/04 Shanghai RCB (W) vs Sichuan Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5ec441aecc6b2e4fb3b371ace1419e5d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/19372350dead3693d16c0c453741fc1f/image/small?v=1768601124",13h00 ngày 10/04 Box Hill Women vs Spring Hills FC Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/70b70a5821ee0b4ebe0f2d7332256789/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/74c46b08e59409df683ab945e634a550/image/small?v=1768601124",15h00 ngày 10/04 Guangzhou Dandelion Alpha vs Jiangxi Lushan (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/afbd339f1498a70ab838d6669845d5fb/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1a98e28d9bb2fe31593d171dc3dca64a/image/small?v=1768601124",15h00 ngày 10/04 ACS Dumbravita vs Selimbar (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a599a8db3fa3d1bc36bb4c48c918776d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5d5e3465a9779619f6100e6dfa7883d7/image/small?v=1768601124",15h00 ngày 10/04 Xiamen Feilu vs Guangdong Mingtu (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/82deb3919907c733751aeec0ee9f653b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8498c9066dd0f6c48c216385347b0f63/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/f5add09c3b2d48b59d39026f385d45a1/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/f5add09c3b2d48b59d39026f385d45a1/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/f5add09c3b2d48b59d39026f385d45a1/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/098d9666e9436b5cb3b2ec2fddbdde21/image/small?v=1768601124",15h00 ngày 10/04 Suining Team vs Hubei Super Mr (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a99e178c0503f46ffb60d5f8c0bf3de9/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/38ad73ff0d30654d8c8fbcd11ffc82d0/image/small?v=1768601124",16h30 ngày 10/04 Metalist 1925 Kharkiv(U21) vs Dinamo Kyiv U21 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/972f60387d557de19a110a9d9bb3a05c/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/23320bd96d598bb253a70aa214fb6b1e/image/small?v=1768601124",16h30 ngày 10/04 PWD Sports Club vs Rahmatgonj MFS (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d6b7856f2bc93e10b506fe3eb170365d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1c995da146e9e97ccb72bf7dc468306d/image/small?v=1768601124",14h30 ngày 10/04 Tai'an Tiankuang vs Beijing IT (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9a950eb3a2935d7ebb9dca073a24eed9/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://e7.pngegg.com/pngimages/637/307/png-clipart-flag-of-vietnam-vietnam-flag-flag-image-file-formats-thumbnail.png",17h00 ngày 10/04 Việt Nam vs Indonesia (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/c90977e9d676441ca68e9081e6247f40/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://e7.pngegg.com/pngimages/637/307/png-clipart-flag-of-vietnam-vietnam-flag-flag-image-file-formats-thumbnail.png",17h00 ngày 10/04 Việt Nam vs Indonesia (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/c90977e9d676441ca68e9081e6247f40/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://e7.pngegg.com/pngimages/637/307/png-clipart-flag-of-vietnam-vietnam-flag-flag-image-file-formats-thumbnail.png",17h00 ngày 10/04 Việt Nam vs Indonesia (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/c90977e9d676441ca68e9081e6247f40/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c87879446d4f3c32d142e3506a39c9b6/image/small?v=1768601124",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/bbde2cb6048756ec7b40c9c6cd2276fe/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/961cd23b61e165f6ab07eaccbf73b2a4/image/small?v=1768601124",14h30 ngày 10/04 Shanghai Port B vs Dalian Kewei (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3f068afc661f75a6d4ad90610569abfc/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/01dbcf818a53506d6216bb0234cfe17c/image/small?v=1768601124",16h30 ngày 10/04 Fakirerpool Young Mens Club vs Brothers Union (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9714eb53dd20f8865aaf0cad21d4bc2b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1ecef7960d57036cb3f4b9e0a4f16c1c/image/small?v=1768601124",16h30 ngày 10/04 Moreton City Excelsior Women vs Peninsula Power Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7beb12f5768e2d2ab6eada72e37b3566/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d90ac4f17507525ab93545a8a01336be/image/small?v=1768601124",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0a928b9bcba3d2e1243d9e315a781f27/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ba7f26411c9f53da2f85500e5de52f35/image/small?v=1768601124",16h30 ngày 10/04 St Albans Saints vs Avondale FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/2f2a5c34b08eb9eac55e02df8f7e6622/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/55d73e693e350691e6cd5cde3928cd7d/image/small",15h30 ngày 10/04 Aktobe Women vs Almaty Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/aaafab253b76002cac940f1a58b80316/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/109c3a2448a3d48790a026bb0936ddfb/image/small?v=1768601124",16h30 ngày 10/04 Abahani Limited Dhaka vs Mohammedan Dhaka (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8e7e7e840e96b8278aface7cef89ec4f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b00dc2ec5693544dc3d23afd6020f4e7/image/small?v=1768601124",16h30 ngày 10/04 Brisbane Wolves vs Queensland Lions SC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/379deee5c26e72ac336165adf8a70315/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3306cb2537b6e4e8f67f9a53cf8f5930/image/small?v=1768601124",15h00 ngày 10/04 Guizhou Xufengtang vs Chengdu Dingyao Jincheng (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/fcc357d1daf163f7bb4102e753654ab1/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_140537_8be207a1.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -109,22 +255,54 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png",17h00 ngày 10/04 Thailand vs Australia (Chuối Chiên) HD1
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130439_20e4bfd2.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130439_20e4bfd2.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134222_300cdc65.png",17h00 ngày 10/04 Spartak Varna vs Dobrudzha (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134222_300cdc65.png",17h00 ngày 10/04 Spartak Varna vs Dobrudzha (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250917_090027_b537b3e3.png",17h00 ngày 10/04 Hồ Chí Minh II vs PVF-CAND (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250917_090027_b537b3e3.png",17h00 ngày 10/04 Hồ Chí Minh II vs PVF-CAND (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080231_89f500ea.gif",17h00 ngày 10/04 Indonesia vs Việt Nam (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png",17h00 ngày 10/04 Thailand vs Australia (Chuối Chiên) HD2
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080231_89f500ea.gif",17h00 ngày 10/04 Indonesia vs Việt Nam (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png",17h00 ngày 10/04 Thailand vs Australia (Chuối Chiên) FHD1
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080231_89f500ea.gif",17h00 ngày 10/04 Indonesia vs Việt Nam (Chuối Chiên) FHD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png",17h00 ngày 10/04 Thailand vs Australia (Chuối Chiên) FHD2
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080231_89f500ea.gif",17h00 ngày 10/04 Indonesia vs Việt Nam (Chuối Chiên) FHD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251009_193732_ee0d8fd0.png",17h30 ngày 10/04 LPBank Ninh Bình vs TP Hồ Chí Minh  (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251009_193732_ee0d8fd0.png",17h30 ngày 10/04 LPBank Ninh Bình vs TP Hồ Chí Minh  (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x5.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132405_d46c909a.png",19h15 ngày 10/04 Viettel vs Thanh Hóa (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -141,19 +319,19 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080231_89f500ea.gif",20h00 ngày 10/04 Indonesia vs Việt Nam (Chuối Chiên) HD1
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png",20h00 ngày 10/04 Thailand vs Australia (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080231_89f500ea.gif",20h00 ngày 10/04 Indonesia vs Việt Nam (Chuối Chiên) HD2
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png",20h00 ngày 10/04 Thailand vs Australia (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080231_89f500ea.gif",20h00 ngày 10/04 Indonesia vs Việt Nam (Chuối Chiên) FHD1
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png",20h00 ngày 10/04 Thailand vs Australia (Chuối Chiên) FHD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080231_89f500ea.gif",20h00 ngày 10/04 Indonesia vs Việt Nam (Chuối Chiên) FHD2
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132715_358dda20.png",20h00 ngày 10/04 Thailand vs Australia (Chuối Chiên) FHD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
@@ -253,166 +431,550 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/623b844a585f4ca78220dc413afe9243/image/small?v=1768601124",14h30 ngày 10/04 Beijing Yuhong Xiushan (W) vs Zhejiang Hangzhou Bank Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://livez.alilicloud.com/live/86ee79691f19c6a3b407387fb13281bf/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3c5a88f9687af3d647b187fc9aec51dd/image/small?v=1768601124",14h30 ngày 10/04 Wuhan Jianghan Women vs Jiangsu Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://livez.alilicloud.com/live/b4bd92745f2b162359007026cbdf4175/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png/250px-Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",14h30 ngày 10/04 Thể Công Tân Cảng vs Đà Nẵng (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/35153f31b4954202a4ec7e6cf5229d4d/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png/250px-Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",14h30 ngày 10/04 Thể Công Tân Cảng vs Đà Nẵng (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/35153f31b4954202a4ec7e6cf5229d4d/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png/250px-Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",14h30 ngày 10/04 Thể Công Tân Cảng vs Đà Nẵng (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/35153f31b4954202a4ec7e6cf5229d4d/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png/250px-Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",14h30 ngày 10/04 Thể Công Tân Cảng vs Đà Nẵng (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/35153f31b4954202a4ec7e6cf5229d4d/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png/250px-Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",14h30 ngày 10/04 Thể Công Tân Cảng vs Đà Nẵng (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/35153f31b4954202a4ec7e6cf5229d4d/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/c/c3/Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png/250px-Logo_Th%E1%BB%83_C%C3%B4ng_T%C3%A2n_C%E1%BA%A3ng.png",14h30 ngày 10/04 Thể Công Tân Cảng vs Đà Nẵng (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/35153f31b4954202a4ec7e6cf5229d4d/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0db769f06785ae3fbec783833ba6ea60/image/small?v=1768601124",14h30 ngày 10/04 Changchun Dazhongzhuoyue Women vs Guangdong Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://livez.alilicloud.com/live/682803616fe38c731328150b60399d95/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4ee9dcc55937066bb17338f3405e76ef/image/small?v=1768601124",14h30 ngày 10/04 Shanghai RCB (W) vs Sichuan Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://livez.alilicloud.com/live/5ec441aecc6b2e4fb3b371ace1419e5d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1c995da146e9e97ccb72bf7dc468306d/image/small?v=1768601124",14h30 ngày 10/04 Tai'an Tiankuang vs Beijing IT (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://livez.alilicloud.com/live/9a950eb3a2935d7ebb9dca073a24eed9/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/961cd23b61e165f6ab07eaccbf73b2a4/image/small?v=1768601124",14h30 ngày 10/04 Shanghai Port B vs Dalian Kewei (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://livez.alilicloud.com/live/3f068afc661f75a6d4ad90610569abfc/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d51f601f2711849b781bdc1df8db6451/image/small?v=1768601124",12h00 ngày 10/04 Chongqing Dikai vs Guizhou Open University (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4aca4cd3e33c47cfb9b20a39ffdded15/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/78b8192ddc47e3cb6410e0162d2e1653/image/small?v=1768601124",14h15 ngày 10/04 Ferrymead Bays vs Christchurch United (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://livez.alilicloud.com/live/bd1efc4cd4bc4b597b48332192c8528f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/efe5e5d0f3566fa6b39d0dceb86a82f8/image/small?v=1768601124",12h00 ngày 10/04 Shenzhen Jixiang vs Chengdu Yuhui Rende (Gà Vàng) source
+https://live.alilicloud.com/live/bd1efc4cd4bc4b597b48332192c8528f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/264cbd879dad7eaee97b59c19990c78e/image/small?v=1768601124",14h00 ngày 10/04  vs ASIOP FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4584bdbf68d69e6982692634b145355a/playlist.m3u8
+https://live.alilicloud.com/live/aa2e57807096638081a9894614a70f15/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/43ad50723169a969b8a2e457b38aff4f/image/small?v=1768601124",14h30 ngày 10/04 Northern United FC vs Tarun Sangha FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://livez.alilicloud.com/live/4968bddf49a241b1f24f59d2c9767b17/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [HUNTER] (Socolive) flv
+https://live.alilicloud.com/live/4968bddf49a241b1f24f59d2c9767b17/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/27995ddd0093e55589f052660b317e96/image/small?v=1768601124",15h45 ngày 10/04 West Torrens Birkalla Women vs MetroStars (W) (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/98121cd70d2386b37db29000c4c60f1b/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/623b844a585f4ca78220dc413afe9243/image/small?v=1768601124",14h30 ngày 10/04 Beijing Yuhong Xiushan (W) vs Zhejiang Hangzhou Bank Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/86ee79691f19c6a3b407387fb13281bf/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ab3ca0bb97e4080435ca6b1732448bf7/image/small?v=1768601124",15h30 ngày 10/04 PSIM Yogyakarta vs Persatuan Sepakbola Makassar (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/36a29b61b745af4d852d5495f3eba00d/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ab3ca0bb97e4080435ca6b1732448bf7/image/small?v=1768601124",15h30 ngày 10/04 PSIM Yogyakarta vs Persatuan Sepakbola Makassar (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/ff35ce427cac47bd92847852843afa06/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ab3ca0bb97e4080435ca6b1732448bf7/image/small?v=1768601124",15h30 ngày 10/04 PSIM Yogyakarta vs Persatuan Sepakbola Makassar (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/ff35ce427cac47bd92847852843afa06/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ab3ca0bb97e4080435ca6b1732448bf7/image/small?v=1768601124",15h30 ngày 10/04 PSIM Yogyakarta vs Persatuan Sepakbola Makassar (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/ff35ce427cac47bd92847852843afa06/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ab3ca0bb97e4080435ca6b1732448bf7/image/small?v=1768601124",15h30 ngày 10/04 PSIM Yogyakarta vs Persatuan Sepakbola Makassar (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/ff35ce427cac47bd92847852843afa06/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ab3ca0bb97e4080435ca6b1732448bf7/image/small?v=1768601124",15h30 ngày 10/04 PSIM Yogyakarta vs Persatuan Sepakbola Makassar (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/ff35ce427cac47bd92847852843afa06/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ab3ca0bb97e4080435ca6b1732448bf7/image/small?v=1768601124",15h30 ngày 10/04 PSIM Yogyakarta vs Persatuan Sepakbola Makassar (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/ff35ce427cac47bd92847852843afa06/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3c5a88f9687af3d647b187fc9aec51dd/image/small?v=1768601124",14h30 ngày 10/04 Wuhan Jianghan Women vs Jiangsu Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/b4bd92745f2b162359007026cbdf4175/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0db769f06785ae3fbec783833ba6ea60/image/small?v=1768601124",14h30 ngày 10/04 Changchun Dazhongzhuoyue Women vs Guangdong Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/682803616fe38c731328150b60399d95/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4ee9dcc55937066bb17338f3405e76ef/image/small?v=1768601124",14h30 ngày 10/04 Shanghai RCB (W) vs Sichuan Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5ec441aecc6b2e4fb3b371ace1419e5d/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/19372350dead3693d16c0c453741fc1f/image/small?v=1768601124",13h00 ngày 10/04 Box Hill Women vs Spring Hills FC Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/70b70a5821ee0b4ebe0f2d7332256789/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/74c46b08e59409df683ab945e634a550/image/small?v=1768601124",15h00 ngày 10/04 Guangzhou Dandelion Alpha vs Jiangxi Lushan (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/afbd339f1498a70ab838d6669845d5fb/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1a98e28d9bb2fe31593d171dc3dca64a/image/small?v=1768601124",15h00 ngày 10/04 ACS Dumbravita vs Selimbar (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a599a8db3fa3d1bc36bb4c48c918776d/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5d5e3465a9779619f6100e6dfa7883d7/image/small?v=1768601124",15h00 ngày 10/04 Xiamen Feilu vs Guangdong Mingtu (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/82deb3919907c733751aeec0ee9f653b/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8498c9066dd0f6c48c216385347b0f63/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/3379fc43e3764bf7985f024a46348860/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/3379fc43e3764bf7985f024a46348860/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/3379fc43e3764bf7985f024a46348860/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/3379fc43e3764bf7985f024a46348860/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/3379fc43e3764bf7985f024a46348860/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/3379fc43e3764bf7985f024a46348860/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/098d9666e9436b5cb3b2ec2fddbdde21/image/small?v=1768601124",15h00 ngày 10/04 Suining Team vs Hubei Super Mr (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a99e178c0503f46ffb60d5f8c0bf3de9/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/38ad73ff0d30654d8c8fbcd11ffc82d0/image/small?v=1768601124",16h30 ngày 10/04 Metalist 1925 Kharkiv(U21) vs Dinamo Kyiv U21 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/972f60387d557de19a110a9d9bb3a05c/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/23320bd96d598bb253a70aa214fb6b1e/image/small?v=1768601124",16h30 ngày 10/04 PWD Sports Club vs Rahmatgonj MFS (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d6b7856f2bc93e10b506fe3eb170365d/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1c995da146e9e97ccb72bf7dc468306d/image/small?v=1768601124",14h30 ngày 10/04 Tai'an Tiankuang vs Beijing IT (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9a950eb3a2935d7ebb9dca073a24eed9/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c87879446d4f3c32d142e3506a39c9b6/image/small?v=1768601124",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/bbde2cb6048756ec7b40c9c6cd2276fe/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/961cd23b61e165f6ab07eaccbf73b2a4/image/small?v=1768601124",14h30 ngày 10/04 Shanghai Port B vs Dalian Kewei (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3f068afc661f75a6d4ad90610569abfc/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/z51XtzyB-fRMecE0C.png",17h00 ngày 10/04 Indonesia vs Việt Nam (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/68089b0e3a2643ffb42333bac32a421e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/z51XtzyB-fRMecE0C.png",17h00 ngày 10/04 Indonesia vs Việt Nam (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/68089b0e3a2643ffb42333bac32a421e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/z51XtzyB-fRMecE0C.png",17h00 ngày 10/04 Indonesia vs Việt Nam (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/68089b0e3a2643ffb42333bac32a421e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/z51XtzyB-fRMecE0C.png",17h00 ngày 10/04 Indonesia vs Việt Nam (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/68089b0e3a2643ffb42333bac32a421e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/z51XtzyB-fRMecE0C.png",17h00 ngày 10/04 Indonesia vs Việt Nam (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/68089b0e3a2643ffb42333bac32a421e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/z51XtzyB-fRMecE0C.png",17h00 ngày 10/04 Indonesia vs Việt Nam (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/68089b0e3a2643ffb42333bac32a421e/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/01dbcf818a53506d6216bb0234cfe17c/image/small?v=1768601124",16h30 ngày 10/04 Fakirerpool Young Mens Club vs Brothers Union (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9714eb53dd20f8865aaf0cad21d4bc2b/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1ecef7960d57036cb3f4b9e0a4f16c1c/image/small?v=1768601124",16h30 ngày 10/04 Moreton City Excelsior Women vs Peninsula Power Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7beb12f5768e2d2ab6eada72e37b3566/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d90ac4f17507525ab93545a8a01336be/image/small?v=1768601124",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0a928b9bcba3d2e1243d9e315a781f27/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ba7f26411c9f53da2f85500e5de52f35/image/small?v=1768601124",16h30 ngày 10/04 St Albans Saints vs Avondale FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/2f2a5c34b08eb9eac55e02df8f7e6622/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/55d73e693e350691e6cd5cde3928cd7d/image/small",15h30 ngày 10/04 Aktobe Women vs Almaty Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/aaafab253b76002cac940f1a58b80316/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/109c3a2448a3d48790a026bb0936ddfb/image/small?v=1768601124",16h30 ngày 10/04 Abahani Limited Dhaka vs Mohammedan Dhaka (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8e7e7e840e96b8278aface7cef89ec4f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b00dc2ec5693544dc3d23afd6020f4e7/image/small?v=1768601124",16h30 ngày 10/04 Brisbane Wolves vs Queensland Lions SC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/379deee5c26e72ac336165adf8a70315/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3306cb2537b6e4e8f67f9a53cf8f5930/image/small?v=1768601124",15h00 ngày 10/04 Guizhou Xufengtang vs Chengdu Dingyao Jincheng (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/fcc357d1daf163f7bb4102e753654ab1/playlist.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1775810501-0-0-2195bc854b195499787e09dcc4aa1a8e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1775816621-0-0-bfc9c0e7252db815113f2732cc33641b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1775810501-0-0-faa0ad0d00fa6d00fec5c82815d9ebd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [HUNTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1775816621-0-0-d4ce8d2e4b462100d5dd975e26c12893
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1775810501-0-0-9424d65c264ce87b907c516758b011a1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1775816621-0-0-48b4ef082e9c1b47f369d61457a45e7e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1775810501-0-0-ef205e2157555152fe1d1a58c136fa5c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/e73481a95e916e0bc41da270bc3f75a9.png",14h00 ngày 10/04 Taiyuan W vs Taipower W [CHAN SENA] (Socolive) flv
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1775816621-0-0-4a4f9ae8c61cccdc3be16191f0ef4da6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lsd.flv?txSecret=e2895e8e6f3cd54f0f759d92e1b42ec9&txTime=69d8fe15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/e73481a95e916e0bc41da270bc3f75a9.png",14h00 ngày 10/04 Taiyuan W vs Taipower W [CHAN SENA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=6bfd5b083b062a2f910edb72a3af3911&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=2f799ed4c37a6e78566174f840746bc2&txTime=69d8fe15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/e73481a95e916e0bc41da270bc3f75a9.png",14h00 ngày 10/04 Taiyuan W vs Taipower W [CHAN SENA] (Socolive) m3u8
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=64194fee110fbc5efd4fe45e080cc417&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=e2895e8e6f3cd54f0f759d92e1b42ec9&txTime=69d8fe15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/e73481a95e916e0bc41da270bc3f75a9.png",14h00 ngày 10/04 Taiyuan W vs Taipower W [CHAN SENA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=6bfd5b083b062a2f910edb72a3af3911&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=2f799ed4c37a6e78566174f840746bc2&txTime=69d8fe15
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=64194fee110fbc5efd4fe45e080cc417&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1775816621-0-0-9de70ebf4b38e2df574e494d738a0eab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1775816621-0-0-0edbd15a94a7953d8cfa426e36d8e741
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1775816621-0-0-e8570887d720b7876c68d2dfb739d6c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1775816621-0-0-4f8af744b75ddf695bc66174dc44df8e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1775816621-0-0-8f46a44d712bf07b969877a09d0ea16f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1775816621-0-0-f76efe443aa2c17db760e5343f27c6c2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1775816621-0-0-a76644a8e16d1242dfa31ab7a7efbb1a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1775816621-0-0-335011836cad57eada19614c0a707dc9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/ada0057e0a0b0c79e465b70fd34f4183.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=26d47280da942e5775646a4047d19f91&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/ada0057e0a0b0c79e465b70fd34f4183.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=510f7206807cd5b3ba502979c8b47c4c&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/ada0057e0a0b0c79e465b70fd34f4183.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=26d47280da942e5775646a4047d19f91&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/ada0057e0a0b0c79e465b70fd34f4183.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=510f7206807cd5b3ba502979c8b47c4c&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/49bea5c4a0de1632ef6aadaa4fd51e57.png",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=1aa52ee708eabc1bf1b07ad61afb9173&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/49bea5c4a0de1632ef6aadaa4fd51e57.png",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=344d9e7308c262b01a2c43c2df84c894&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/49bea5c4a0de1632ef6aadaa4fd51e57.png",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=1aa52ee708eabc1bf1b07ad61afb9173&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/49bea5c4a0de1632ef6aadaa4fd51e57.png",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=344d9e7308c262b01a2c43c2df84c894&txTime=69d915fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/008ba5c070aa29df1d4e5e83e945e148.png",17h00 ngày 10/04 Thanh Niên TP. Hồ Chí Minh vs PVF-CAND B [BLV MIXI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1775816621-0-0-68fb892104647305b9e310540f74cab7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/008ba5c070aa29df1d4e5e83e945e148.png",17h00 ngày 10/04 Thanh Niên TP. Hồ Chí Minh vs PVF-CAND B [BLV MIXI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1775816621-0-0-24c65ec0ff28b96e41c757977ac0b221
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/008ba5c070aa29df1d4e5e83e945e148.png",17h00 ngày 10/04 Thanh Niên TP. Hồ Chí Minh vs PVF-CAND B [BLV MIXI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1775816621-0-0-8e7ce65fb97b4d7cc16b2a2f2067287e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/008ba5c070aa29df1d4e5e83e945e148.png",17h00 ngày 10/04 Thanh Niên TP. Hồ Chí Minh vs PVF-CAND B [BLV MIXI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1775816621-0-0-fa1d6cc0cb40aa43e7110eeaf2db3f8b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/ada0057e0a0b0c79e465b70fd34f4183.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho [CHANH MUỐI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1775816621-0-0-3cc9b9066f3f1e13d9a33eaf68ca17bc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/ada0057e0a0b0c79e465b70fd34f4183.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho [CHANH MUỐI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1775816621-0-0-4423100261c7f8a8160784398a97dce4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/ada0057e0a0b0c79e465b70fd34f4183.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho [CHANH MUỐI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1775816621-0-0-d8d5f06db13f9bebe6dc2e57252f3143
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/ada0057e0a0b0c79e465b70fd34f4183.png",16h00 ngày 10/04 Ho Chi Minh City vs Xuan Thien Phu Tho [CHANH MUỐI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1775816621-0-0-ed45e4548b7d58b94be50028ec262db7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/49bea5c4a0de1632ef6aadaa4fd51e57.png",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers [NGƯỜI CÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1775816621-0-0-087d7f11d9cdd2d0b463f5d225fb9557
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/49bea5c4a0de1632ef6aadaa4fd51e57.png",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers [NGƯỜI CÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1775816621-0-0-aa0cd186c0071df2d3c91fbac18a3beb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/49bea5c4a0de1632ef6aadaa4fd51e57.png",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers [NGƯỜI CÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1775816621-0-0-935d6d4869924d416e94822448b07fc8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/49bea5c4a0de1632ef6aadaa4fd51e57.png",16h30 ngày 10/04 Gold Coast Knights vs Rochedale Rovers [NGƯỜI CÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1775816621-0-0-a80b1983f8ab68043809763eb5e2e1d8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1775816981-0-0-4d2dce68a8bc0894952bf4e99ca540f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1775816981-0-0-ebd1f6c8d16597c498541fb1fdeae39b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1775816981-0-0-c73e6dd6c76517fcee49cc9285fbc389
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1775816981-0-0-7916243141c22ce94aa370e9dd66c89a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1775816981-0-0-79882f91338dfbf35e37021be0e59f7b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1775816981-0-0-a0a3b1c5b644aff4c88ea20236e483b7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1775816981-0-0-f10b742176da5173fd3defbbdf696eda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1775816981-0-0-883c35d304e3ffbe643a742953757988
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1775816981-0-0-1c722eaaececf04de9aeda5556d991ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1775816981-0-0-bc26de7e2ec6727acded1ffb30d173d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1775816981-0-0-7969475369239f011113d7336f92c159
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1775816981-0-0-0b3ec9c29c667ce6a36466db84837adc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/e2b68c2ad1d9df12ee0ad45b9108c987.png",16h30 ngày 10/04 St Albans Saints vs Avondale FC [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1775816981-0-0-da31810e24232d5fa842fac02e05c3a8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/e2b68c2ad1d9df12ee0ad45b9108c987.png",16h30 ngày 10/04 St Albans Saints vs Avondale FC [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1775816981-0-0-b003b32f8525d4a521fd4b3e0659aef8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/e2b68c2ad1d9df12ee0ad45b9108c987.png",16h30 ngày 10/04 St Albans Saints vs Avondale FC [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1775816981-0-0-e3001ac2ab0e6c93d1b6f331fff59bda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/e2b68c2ad1d9df12ee0ad45b9108c987.png",16h30 ngày 10/04 St Albans Saints vs Avondale FC [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1775816981-0-0-dd9a189014464e0be7f4e82ba234d2d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/26b73978299a43bb4b95ef7f673c0d83.png",16h30 ngày 10/04 Brisbane Wolves vs Queensland Lions SC [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=0724879bd6b764980a3761100e7cc442&txTime=69d91765
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/26b73978299a43bb4b95ef7f673c0d83.png",16h30 ngày 10/04 Brisbane Wolves vs Queensland Lions SC [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=75dc88a29b05d804b68381d881a2607e&txTime=69d91765
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/26b73978299a43bb4b95ef7f673c0d83.png",16h30 ngày 10/04 Brisbane Wolves vs Queensland Lions SC [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=0724879bd6b764980a3761100e7cc442&txTime=69d91765
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/26b73978299a43bb4b95ef7f673c0d83.png",16h30 ngày 10/04 Brisbane Wolves vs Queensland Lions SC [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=75dc88a29b05d804b68381d881a2607e&txTime=69d91765
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/15a0909ae8c1dd924b2692dce3dce832.png",17h00 ngày 10/04 KB Stars W vs Woori WON W [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1775816981-0-0-80ab78c66f030ab2d742bbd20016a0a0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/15a0909ae8c1dd924b2692dce3dce832.png",17h00 ngày 10/04 KB Stars W vs Woori WON W [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1775816981-0-0-c6492024a6d9cf93eb14e50f7a15db15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/15a0909ae8c1dd924b2692dce3dce832.png",17h00 ngày 10/04 KB Stars W vs Woori WON W [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1775816981-0-0-03ce4c92e48cae396b0c9bf2dc040704
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/15a0909ae8c1dd924b2692dce3dce832.png",17h00 ngày 10/04 KB Stars W vs Woori WON W [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1775816981-0-0-4ee78fb18d3b59d57695908729fd539a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260406/fba439209cc8cde170a69f4ccdd55f80.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1775810501-0-0-e085201935efb215e0bfd56574d59f2b
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1775816981-0-0-9c636b5d71675c68d5d5dd29e5c0af04
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260406/fba439209cc8cde170a69f4ccdd55f80.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1775810501-0-0-cf8380e3ece6b6dfc2d56f4d340de03f
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1775816981-0-0-cd39d1294164ae050e6f4795a8badd4f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260406/fba439209cc8cde170a69f4ccdd55f80.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1775810501-0-0-bf27deff167da988ccd1132e3ef63db2
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1775816981-0-0-632d83dd36041cad4dbf4155eda722cb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260406/fba439209cc8cde170a69f4ccdd55f80.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1775810501-0-0-70199bb7a2b4ec18b919c78743c6eb07
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [BRIAN] (Socolive) flv
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1775816981-0-0-b46dc939e885d2f42704da5887de1998
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1775810861-0-0-fb25a587455dffe754cf61d196b3c9db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [BRIAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=d7d873343a92aedd8c3d4ad79f0dd8e4&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1775810861-0-0-54de2dcf3530af2eadef1d3cbd0af4c3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [BRIAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=089b3e4cf1512a79634668bcd34d9fa5&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1775810861-0-0-ae980b2dc5823ae188cb16e1b12c48c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [BRIAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=d7d873343a92aedd8c3d4ad79f0dd8e4&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1775810861-0-0-a90410416e085d6943510c049a990aeb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [A CHÈ] (Socolive) flv
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=089b3e4cf1512a79634668bcd34d9fa5&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1775810861-0-0-5b514fea3d0894e657225eda265f6722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [A CHÈ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=c3ddca6f2dd73da08fa397f0124273ad&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1775810861-0-0-6bba114ae67b6326c3a06bb49704041e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [A CHÈ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=e240680cf4c57f6e88cfb99290729a63&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1775810861-0-0-4ccad1a219eb6e12c029866323dab77d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [A CHÈ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c3ddca6f2dd73da08fa397f0124273ad&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1775810861-0-0-54c5df407dcaf262065d59a97febc124
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [KING] (Socolive) flv
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e240680cf4c57f6e88cfb99290729a63&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1775811221-0-0-ec68c731f6035d3793b814570da9d529
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [KING] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=1b5edfda835a70d5cc92e192300f0571&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1775811221-0-0-168f8f9fdac357c49e2ddf4be680d42e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [KING] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=abe2dc935f0c5a4850b7d1a93377ae16&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1775811221-0-0-c92979f6db347e50a0fcfed2272586e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/22fa4c8e025fb2fa7e11fd92572e4f4d.png",14h30 ngày 10/04 Southland Sharks vs Otago Nuggets [KING] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=1b5edfda835a70d5cc92e192300f0571&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1775811221-0-0-91d4f0a975b92102470511f7e160c892
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/e73481a95e916e0bc41da270bc3f75a9.png",14h00 ngày 10/04 Taiyuan W vs Taipower W [BLV HENRY] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=abe2dc935f0c5a4850b7d1a93377ae16&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV PIRLO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1775811221-0-0-03affad9527ac9d8641825e746b7c74f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/e73481a95e916e0bc41da270bc3f75a9.png",14h00 ngày 10/04 Taiyuan W vs Taipower W [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1775817341-0-0-c5e8f6a704b98bfa508290392893e760
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV PIRLO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1775811221-0-0-7605f049c3bf62c0c298ab3deaabb014
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/e73481a95e916e0bc41da270bc3f75a9.png",14h00 ngày 10/04 Taiyuan W vs Taipower W [BLV HENRY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1775817341-0-0-f8e912c94a63b3e5936e45c627a4f371
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV PIRLO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1775811221-0-0-e0096e7b0b843e4ed064090fa5de26b7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260408/e73481a95e916e0bc41da270bc3f75a9.png",14h00 ngày 10/04 Taiyuan W vs Taipower W [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1775817341-0-0-021b566041e5020b71a415689aaa0e8a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/62cae456a79b95f809a4796c93ab0fc9.png",15h30 ngày 10/04 PSIM Yogyakarta vs PSM Makassar [BLV PIRLO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1775811221-0-0-e73af34680c3aa4f0b42e834b9c9a5d0
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",10h30 10/04 AN Se Young vs Tomoka MIYAZAKI (Hội Quán) FHD 
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1775817341-0-0-3b7de0fb5697b80039fc46b312eaebd0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=28c2c39ea477326a0f14427307b896aa&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=9520755bce59dde9f9063f95084ea23c&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=28c2c39ea477326a0f14427307b896aa&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/246c6bc49fcb6bf603f996cbb8a17177.png",16h35 ngày 10/04 Central Coast Mariners vs Brisbane Roar [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=9520755bce59dde9f9063f95084ea23c&txTime=69d918cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/26b73978299a43bb4b95ef7f673c0d83.png",16h30 ngày 10/04 Brisbane Wolves vs Queensland Lions SC [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1775817341-0-0-0620e47229ec3768c8bcc56cf445862c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/26b73978299a43bb4b95ef7f673c0d83.png",16h30 ngày 10/04 Brisbane Wolves vs Queensland Lions SC [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1775817341-0-0-f2abc34be9577381163b1cb368ea7b52
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/26b73978299a43bb4b95ef7f673c0d83.png",16h30 ngày 10/04 Brisbane Wolves vs Queensland Lions SC [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1775817341-0-0-7cf5dd284f2f4279fefb7538c15853f7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/26b73978299a43bb4b95ef7f673c0d83.png",16h30 ngày 10/04 Brisbane Wolves vs Queensland Lions SC [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1775817341-0-0-56f8dfca1197d9aaeccdc3328597c558
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/008ba5c070aa29df1d4e5e83e945e148.png",17h00 ngày 10/04 Thanh Niên TP. Hồ Chí Minh vs PVF-CAND B [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1775817341-0-0-561d319bd20ce3d0bcf790a3a9c521a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/008ba5c070aa29df1d4e5e83e945e148.png",17h00 ngày 10/04 Thanh Niên TP. Hồ Chí Minh vs PVF-CAND B [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1775817341-0-0-958a41443bdb726ea6a1f7c456e6008f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/008ba5c070aa29df1d4e5e83e945e148.png",17h00 ngày 10/04 Thanh Niên TP. Hồ Chí Minh vs PVF-CAND B [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1775817341-0-0-28e5bc4e9416fd22ac8f51d5e5db7ac0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/008ba5c070aa29df1d4e5e83e945e148.png",17h00 ngày 10/04 Thanh Niên TP. Hồ Chí Minh vs PVF-CAND B [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1775817341-0-0-18b64f4405e5b8328fc5ed9553d71163
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/e2b68c2ad1d9df12ee0ad45b9108c987.png",16h30 ngày 10/04 St Albans Saints vs Avondale FC [BLV LIO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1775817341-0-0-34aeb5d451a0452dbf8c6beebff0d3d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/e2b68c2ad1d9df12ee0ad45b9108c987.png",16h30 ngày 10/04 St Albans Saints vs Avondale FC [BLV LIO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1775817341-0-0-0641cb25e2c233440ebe48d704e9befb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/e2b68c2ad1d9df12ee0ad45b9108c987.png",16h30 ngày 10/04 St Albans Saints vs Avondale FC [BLV LIO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1775817341-0-0-5dcf41548ae50fe511c2524ff33b12ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/e2b68c2ad1d9df12ee0ad45b9108c987.png",16h30 ngày 10/04 St Albans Saints vs Avondale FC [BLV LIO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1775817341-0-0-59cbfe4cf4a10ad3155b952eeb6d8248
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/a3983dd562b011c04e1265747f795cb8.png",17h00 ngày 10/04 Spartak Varna vs FC Dobrudzha Dobrich [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1775817341-0-0-949068f3b837c651ec22396067634480
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/a3983dd562b011c04e1265747f795cb8.png",17h00 ngày 10/04 Spartak Varna vs FC Dobrudzha Dobrich [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1775817341-0-0-989276c7bc2fdc7bf5eed4c7eb33b21e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/a3983dd562b011c04e1265747f795cb8.png",17h00 ngày 10/04 Spartak Varna vs FC Dobrudzha Dobrich [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1775817341-0-0-ada70732241d0e992c607f9e13036819
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/a3983dd562b011c04e1265747f795cb8.png",17h00 ngày 10/04 Spartak Varna vs FC Dobrudzha Dobrich [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1775817341-0-0-5bb718277ac5c7cf86963bf490f6096f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/a3983dd562b011c04e1265747f795cb8.png",17h00 ngày 10/04 Spartak Varna vs FC Dobrudzha Dobrich [BLV RYO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1775817341-0-0-de63118698c55c1aab5e214e6b40a3a8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/a3983dd562b011c04e1265747f795cb8.png",17h00 ngày 10/04 Spartak Varna vs FC Dobrudzha Dobrich [BLV RYO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1775817341-0-0-c4ae3b32b2513135a83a6e3341545131
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/a3983dd562b011c04e1265747f795cb8.png",17h00 ngày 10/04 Spartak Varna vs FC Dobrudzha Dobrich [BLV RYO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1775817341-0-0-9b0554e9bb9712733a624bcabe6c35b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260407/a3983dd562b011c04e1265747f795cb8.png",17h00 ngày 10/04 Spartak Varna vs FC Dobrudzha Dobrich [BLV RYO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1775817341-0-0-8d9b9c44d477479095c689f95c7378ce
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9c/Logo_PSIM_Yogyakarta.png",15h30 10/04 PSIM Yogyakarta vs PSM Makassar (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",10h30 10/04 AN Se Young vs Tomoka MIYAZAKI (Hội Quán) HD 
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9c/Logo_PSIM_Yogyakarta.png",15h30 10/04 PSIM Yogyakarta vs PSM Makassar (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",10h30 10/04 AN Se Young vs Tomoka MIYAZAKI (Hội Quán) SD 
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9c/Logo_PSIM_Yogyakarta.png",15h30 10/04 PSIM Yogyakarta vs PSM Makassar (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://vpf.vn/wp-content/uploads/2024/09/TNHCM.png",16h00 10/04 TPHCM vs Xuân Thiện Phú Thọ (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://vpf.vn/wp-content/uploads/2024/09/TNHCM.png",16h00 10/04 TPHCM vs Xuân Thiện Phú Thọ (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://vpf.vn/wp-content/uploads/2024/09/TNHCM.png",16h00 10/04 TPHCM vs Xuân Thiện Phú Thọ (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA_Gai94H-9w4OSQZGIR7XXe81pj_M_f4Ag&s",16h35 10/04 Central Coast Mariners vs Brisbane Roar (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA_Gai94H-9w4OSQZGIR7XXe81pj_M_f4Ag&s",16h35 10/04 Central Coast Mariners vs Brisbane Roar (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA_Gai94H-9w4OSQZGIR7XXe81pj_M_f4Ag&s",16h35 10/04 Central Coast Mariners vs Brisbane Roar (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://i.imgur.com/En6ybMI.jpeg",17h00 10/04 Việt Nam vs Indonesia (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://i.imgur.com/En6ybMI.jpeg",17h00 10/04 Việt Nam vs Indonesia (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://i.imgur.com/En6ybMI.jpeg",17h00 10/04 Việt Nam vs Indonesia (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/3840px-Flag_of_Japan.svg.png",12h00 10/04 Riko GUNJI vs WANG Zhi Yi (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -437,46 +999,91 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",14h30 10/04 KIM Won Ho / SEO Seung Jae vs Alfian Fajar RAYHAN / Devin Artha WAHYUDI (Hội Quán) FHD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",15h30 10/04 KIM Won Ho / SEO Seung Jae vs Alfian Fajar RAYHAN / Devin Artha WAHYUDI (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",14h30 10/04 KIM Won Ho / SEO Seung Jae vs Alfian Fajar RAYHAN / Devin Artha WAHYUDI (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",15h30 10/04 KIM Won Ho / SEO Seung Jae vs Alfian Fajar RAYHAN / Devin Artha WAHYUDI (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",14h30 10/04 KIM Won Ho / SEO Seung Jae vs Alfian Fajar RAYHAN / Devin Artha WAHYUDI (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",15h30 10/04 KIM Won Ho / SEO Seung Jae vs Alfian Fajar RAYHAN / Devin Artha WAHYUDI (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/fef70eb7dee84d19446f52cb3490fd71.png!w80",14h30 10/04 Shanghai Port B vs Dalian Kewei
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jo%C3%A3o_Fonseca_%282024_Cary%29_09_%28cropped%29.jpg",16h00 10/04 Joao Fonseca vs Alexander Zverev (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/07808742.m3u8
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jo%C3%A3o_Fonseca_%282024_Cary%29_09_%28cropped%29.jpg",16h00 10/04 Joao Fonseca vs Alexander Zverev (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jo%C3%A3o_Fonseca_%282024_Cary%29_09_%28cropped%29.jpg",16h00 10/04 Joao Fonseca vs Alexander Zverev (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/781ec70f5330d740f23ff6ba778ae7e4.png!w80",15h00 10/04 Xiamen Feilu vs Guangdong Mingtu
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/18812304.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80",15h30 10/04 PSIM Yogyakarta vs PSM Makassar
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/87547578.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/5e40ed1f6779e1fcfb55c259e36746da.png!w80",16h00 10/04 Bà Rịa Vũng Tàu vs Gia Dinh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/f492a7a07b9d72c444cc5e6a3f990603.png!w80",16h30 10/04 St Albans vs Avondale FC
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/88508431.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Quê Choa",[Asia Championships] 14h10 10/04 Shi Y. Q. vs Naraoka [FHD]
+#EXTINF:-1 group-title="Quê Choa",[Asia Championships] 15h30 10/04 Gao Feng Ji vs Yamaguchi [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Asia Championships] 14h10 10/04 Shi Y. Q. vs Naraoka [HD]
+#EXTINF:-1 group-title="Quê Choa",[Asia Championships] 15h30 10/04 Gao Feng Ji vs Yamaguchi [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Asia Championships] 14h10 10/04 Shi Y. Q. vs Naraoka [SD]
+#EXTINF:-1 group-title="Quê Choa",[Asia Championships] 15h30 10/04 Gao Feng Ji vs Yamaguchi [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6_sd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[VDQG] 14h10 10/04 Thể Công Tân Cảng vs Đà Nẵng [FHD]
+#EXTINF:-1 group-title="Quê Choa",[V.League 2] 15h30 10/04 Ho Chi Minh vs Xuan Thien Phu Tho [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
-#EXTINF:-1 group-title="Quê Choa",[VDQG] 14h10 10/04 Thể Công Tân Cảng vs Đà Nẵng [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai8_full-hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[V.League 2] 15h30 10/04 Ho Chi Minh vs Xuan Thien Phu Tho [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_hd.m3u8
-#EXTINF:-1 group-title="Quê Choa",[VDQG] 14h10 10/04 Thể Công Tân Cảng vs Đà Nẵng [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai8_hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[V.League 2] 15h30 10/04 Ho Chi Minh vs Xuan Thien Phu Tho [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_sd.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai8_sd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[A-League] 15h30 10/04 Central Coast Mariners vs Brisbane Roar [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_full-hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[A-League] 15h30 10/04 Central Coast Mariners vs Brisbane Roar [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[A-League] 15h30 10/04 Central Coast Mariners vs Brisbane Roar [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[FUTSAL ĐÔNG NAM Á] 15h30 10/04 Indonesia vs Vietnam  [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[FUTSAL ĐÔNG NAM Á] 15h30 10/04 Indonesia vs Vietnam  [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[FUTSAL ĐÔNG NAM Á] 15h30 10/04 Indonesia vs Vietnam  [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
 # --- Bongda 2 Playlist Start ---
 #EXTM3U
 #EXTINF:-1 group-title="Bún chả",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB ngày 06/02/2026 [MAIN]
