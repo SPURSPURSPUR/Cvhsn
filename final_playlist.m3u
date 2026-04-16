@@ -9,18 +9,12 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV PELE m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV NHỊ KA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV PELE flv
+https://hls-ls.cdnok9.site/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV NHỊ KA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14_1hzrbdqcqe1x.png",02h00 ngày 17/04 Aston Villa vs Bologna (Lương Sơn) BLV TÔN LẬP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14_1hzrbdqcqe1x.png",02h00 ngày 17/04 Aston Villa vs Bologna (Lương Sơn) BLV TÔN LẬP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14_1hzrbdqcqe1x.png",02h00 ngày 17/04 Aston Villa vs Bologna (Lương Sơn) BLV KEVILL m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
@@ -33,72 +27,78 @@ https://hls-ls.cdnok9.site/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14_1hzrbdqcqe1x.png",02h00 ngày 17/04 Aston Villa vs Bologna (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14_1hzrbdqcqe1x.png",02h00 ngày 17/04 Aston Villa vs Bologna (Lương Sơn) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.site/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14_1hzrbdqcqe1x.png",02h00 ngày 17/04 Aston Villa vs Bologna (Lương Sơn) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.site/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV DƯƠNG QUÁ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV DƯƠNG QUÁ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV LEO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV LEO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.site/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV URA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV LEO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV MÃ SIÊU flv
+https://hls-ls.cdnok9.site/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV LEO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV DƯƠNG CHÍ m3u
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV DƯƠNG QUÁ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV DƯƠNG CHÍ flv
+https://hls-ls.cdnok9.site/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41_164869100556.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Lương Sơn) BLV DƯƠNG QUÁ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.site/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV FALCON m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV MÃ SIÊU m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV FALCON flv
+https://hls-ls.cdnok9.site/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV MÃ SIÊU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/falcon.flv?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV PELE m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.site/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV PELE flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV DƯƠNG CHÍ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.site/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/163_1hxqrpz41w1v.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace (Lương Sơn) BLV DƯƠNG CHÍ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV QUAN VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.site/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV QUAN VŨ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV FALCON m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.site/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV FALCON flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/falcon.flv?expire=3976189140&sign=96837373a6193800a79554011d4ba366
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV LỮ BỐ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.site/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV LỮ BỐ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV NHỊ KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/88_164871261858.png",02h00 ngày 17/04 Real Betis vs Sporting Braga (Lương Sơn) BLV NHỊ KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/536_1gtqm2e1nq11.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano (Lương Sơn) BLV LÝ ỨNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.site/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
@@ -117,48 +117,28 @@ https://hls-ls.cdnok9.site/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/536_1gtqm2e1nq11.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano (Lương Sơn) BLV A TỦA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/236_164871181440.png",02h00 ngày 17/04 Strasbourg vs FSV Mainz 05 (Lương Sơn) BLV FERNANDO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/236_164871181440.png",02h00 ngày 17/04 Strasbourg vs FSV Mainz 05 (Lương Sơn) BLV FERNANDO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/236_164871181440.png",02h00 ngày 17/04 Strasbourg vs FSV Mainz 05 (Lương Sơn) BLV MAYBACH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.site/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/236_164871181440.png",02h00 ngày 17/04 Strasbourg vs FSV Mainz 05 (Lương Sơn) BLV MAYBACH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/236_164871181440.png",02h00 ngày 17/04 Strasbourg vs FSV Mainz 05 (Lương Sơn) BLV FERNANDO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.site/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/236_164871181440.png",02h00 ngày 17/04 Strasbourg vs FSV Mainz 05 (Lương Sơn) BLV FERNANDO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14_1hzrbdqcqe1x.png",02h00 ngày 17/04 Aston Villa vs Bologna (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.site/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14_1hzrbdqcqe1x.png",02h00 ngày 17/04 Aston Villa vs Bologna (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/24809_1grafswzj7y.png",01h00 ngày 17/04 River Plate Reserves vs Argentinos Jrs Reserves (Lương Sơn) BLV MỘT CHÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/24809_1grafswzj7y.png",01h00 ngày 17/04 River Plate Reserves vs Argentinos Jrs Reserves (Lương Sơn) BLV MỘT CHÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/24809_1grafswzj7y.png",01h00 ngày 17/04 River Plate Reserves vs Argentinos Jrs Reserves (Lương Sơn) BLV PHONG VÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/24809_1grafswzj7y.png",01h00 ngày 17/04 River Plate Reserves vs Argentinos Jrs Reserves (Lương Sơn) BLV PHONG VÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/680583a373cbcda3940d2e7033149de0/image/small?v=1768601124",20h55 ngày 16/04 Dhofar SCSC vs Rustaq SC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d9fbd946f3d4beae127a545e7f546319/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/de454b97492834f01be3763729092e25/image/small?v=1768601124",22h30 ngày 16/04 Germany Women U23 vs Italy Women U23 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/444a5c5fa4cad43a56f49fb82aeb7a98/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d5849eefad036d7651db3f8988de7f52/image/small?v=1768601124",21h30 ngày 16/04 AraratvsArmenia FC vs FC Noah (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a2be4a4bdb7fbbbdc6ba428bda3a0d30/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6e5884479d17e9c156c46a335ed1d07b/image/small?v=1768601124",23h00 ngày 16/04 JK Tallinna Kalev vs Flora Tallinn II (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -195,22 +175,6 @@ https://pull-kda.fastestcdn-global.com/live/92078c7e1217418490e3d5da524b7dc5/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://pull-kda.fastestcdn-global.com/live/92078c7e1217418490e3d5da524b7dc5/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5834e84d27e52f9c63c783b5f72e5370/image/small?v=1768601124",23h15 ngày 16/04 AlvsSadd vs Vissel Kobe (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7bb47d47981ee3dd6dfee7a5c04e29a6/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5834e84d27e52f9c63c783b5f72e5370/image/small?v=1768601124",23h15 ngày 16/04 AlvsSadd vs Vissel Kobe (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/0edd6e95e4f047e1a191f75d5cdcf39b/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5834e84d27e52f9c63c783b5f72e5370/image/small?v=1768601124",23h15 ngày 16/04 AlvsSadd vs Vissel Kobe (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/0edd6e95e4f047e1a191f75d5cdcf39b/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5834e84d27e52f9c63c783b5f72e5370/image/small?v=1768601124",23h15 ngày 16/04 AlvsSadd vs Vissel Kobe (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/0edd6e95e4f047e1a191f75d5cdcf39b/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4d8e5d310b1e59e097fdcce40756eaa8/image/small?v=1768601124",23h30 ngày 16/04 Stade Malien vs Union Sportive Bougouba (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -227,6 +191,10 @@ https://live.alilicloud.com/live/552528c68bf93c283edbf8dd0e52b57f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/8b5aa3cca93ecb26aefc1eadafa94a23/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0ac3df5c296adf064ac96b7d469dc467/image/small?v=1768601124",02h00 ngày 17/04 Brazil U17 vs Colombia U17 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6da587eae9466a70181c5765f34b68d1/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e4d1cc1e8e1d657a464252751fd78583/image/small?v=1768601124",02h30 ngày 17/04 Cote d'Ivoire Women vs PakistanWomen (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -239,10 +207,10 @@ https://live.alilicloud.com/live/1abcc3175db5951733e8d49e8b53aed4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a190d72f6106bb7805210a267cbaad31/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/176f2b576d211ec8cf9ece006a22251e/image/small?v=1768601124",21h00 ngày 16/04 Septemvri Sofia vs Spartak Varna (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/955a43a2273a1fa9a5f79ffd14765500/image/small?v=1768601124",03h00 ngày 17/04 Uruguay U17 vs Venezuela U17 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e2edcb503c99e394670dc60cc6f95c88/playlist.m3u8
+https://live.alilicloud.com/live/15ffb0015fcbb691a2cd531e129ecb14/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/dd815e052efad76d399a996f7e09a7f8/image/small?v=1768601124",23h45 ngày 16/04 AZ Alkmaar vs FC Shakhtar Donetsk (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -455,6 +423,10 @@ https://live.alilicloud.com/live/a7d0be5a5699d71e460ba23898ac0767/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/552528c68bf93c283edbf8dd0e52b57f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0ac3df5c296adf064ac96b7d469dc467/image/small?v=1768601124",02h00 ngày 17/04 Brazil U17 vs Colombia U17 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6da587eae9466a70181c5765f34b68d1/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e4d1cc1e8e1d657a464252751fd78583/image/small?v=1768601124",02h30 ngày 17/04 Cote d'Ivoire Women vs PakistanWomen (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -487,6 +459,10 @@ https://pull-gv.fastestcdn-global.com/live/5d29b00b60db42f99a34fb1dbf0f0c52/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://pull-gv.fastestcdn-global.com/live/5d29b00b60db42f99a34fb1dbf0f0c52/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/955a43a2273a1fa9a5f79ffd14765500/image/small?v=1768601124",03h00 ngày 17/04 Uruguay U17 vs Venezuela U17 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/15ffb0015fcbb691a2cd531e129ecb14/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/329289bca8bd5d05f72deb7685c4ea62/image/small?v=1768601124",02h00 ngày 17/04 Nottingham Forest vs FC Porto (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -647,366 +623,366 @@ https://live.alilicloud.com/live/c05e8b4cb04b8d2888dd1fbff3b8619d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/adfee70502f4bee87dce618c060f09dc/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1776371021-0-0-af403be1cd7a899cb83f23106b82cdb7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1776371021-0-0-147eeb174f66c6e8846be3448eced005
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1776371021-0-0-8ba23b545ec281bc38b7068d85931b0c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1776371021-0-0-66a30385783162c5a8fecadd0f3cf1d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=dcbf91a214def51a6db3e7dd61da0bd3&txTime=69e18b9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=3700b3f1479f17ae0e34213bb1fd1b57&txTime=69e18b9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=dcbf91a214def51a6db3e7dd61da0bd3&txTime=69e18b9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3700b3f1479f17ae0e34213bb1fd1b57&txTime=69e18b9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=b801b424c01831141d606fee1ba1159d&txTime=69e18b9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=01f11ced80d843950bd677353ada66cf&txTime=69e18b9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=b801b424c01831141d606fee1ba1159d&txTime=69e18b9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=01f11ced80d843950bd677353ada66cf&txTime=69e18b9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV COZY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1776371021-0-0-fcceaf4842d9bafcc59041a6c1c2e36c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV COZY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1776371021-0-0-bc61b8992cda45ddb53c6a94c3b53dd5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV COZY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1776371021-0-0-a7b6db5ddc730e281cd19f93b560c1f5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV COZY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1776371021-0-0-958794f71003b4e44745dc5cec63e2e1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1776371021-0-0-1b913e80a61ece945c73a9c76dfd70f5
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1776374261-0-0-fdb8c099bebdc36949342765104818e2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1776371021-0-0-42bd57024e6e5ae0635794e328c948b6
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1776374261-0-0-e011ca20eb15f187ecabddbb73209cb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1776371021-0-0-a4f37ee0a050e7e744fdb3bf6139135f
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1776374261-0-0-7ef3ccb2046d09eb8de754521a3bdf13
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1776371021-0-0-8066a3b004ea4fceec52d51e73ec73d9
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1776374261-0-0-53c96ebf766d84c225fbdc0e55fed18d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=8fd7946c3b5aed8d9cf2257d3797b890&txTime=69e19845
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=48b66e7195a5e4dea0ad99a15ca1dea7&txTime=69e19845
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=8fd7946c3b5aed8d9cf2257d3797b890&txTime=69e19845
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=48b66e7195a5e4dea0ad99a15ca1dea7&txTime=69e19845
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=e32fc18bdfa9d5768845dbd20ffce495&txTime=69e19845
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=199ae9f5bec4a75a0d535225a97d1079&txTime=69e19845
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=e32fc18bdfa9d5768845dbd20ffce495&txTime=69e19845
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=199ae9f5bec4a75a0d535225a97d1079&txTime=69e19845
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1776374261-0-0-89862651f004ba3f9910e5b8e0e7c2ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1776374261-0-0-1277fdf5b484d1edffac4c5c6ea68602
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1776374261-0-0-96f6e63e4a0eaf372afb10822ca333f5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1776374261-0-0-937bc69d53075cfd750d606d2fa42e40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1776374261-0-0-1260c2163dbbe65d2a00e0a0246a389e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1776374261-0-0-7ca4617d8bb88c85da0ee96f5f6a495b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1776374261-0-0-5418760ea8cf52a8cbb269d27bd4d027
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1776374261-0-0-a19efdf8bbdc699086f242d06d8c796b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV ALEX] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1776371021-0-0-ea398bc78eacbfedc51ea8fdbd94e672
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1776374261-0-0-7bf0806450fe24907cc10a72b3377f09
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV ALEX] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1776371021-0-0-663e00a5c3ef55364f5b2a9dcd843466
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1776374261-0-0-b8d6422491aceb34f605f65f570ff0ce
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV ALEX] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1776371021-0-0-e0d7ca96f54eb45fa991ef9c4c3998b5
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1776374261-0-0-fef3df53e155b3f10fe0bf26e4f51099
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV ALEX] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1776371021-0-0-dff8037ba7fd5b5aeca0eb780cb593d0
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1776374261-0-0-62d98536f9e471dffcc5d05ce472e092
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [QUỐC KHÁNH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=e091591614708feb147c06e6fe15517c&txTime=69e18b9d
+https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=cf0a984b530493cf1b40249ea165e737&txTime=69e19845
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [QUỐC KHÁNH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=4d7a0b98344206564a19d84a313ad196&txTime=69e18b9d
+https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=4027915d15bb7a2e874f483144e9f16b&txTime=69e19845
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [QUỐC KHÁNH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=e091591614708feb147c06e6fe15517c&txTime=69e18b9d
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=cf0a984b530493cf1b40249ea165e737&txTime=69e19845
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [QUỐC KHÁNH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=4d7a0b98344206564a19d84a313ad196&txTime=69e18b9d
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=4027915d15bb7a2e874f483144e9f16b&txTime=69e19845
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1776371021-0-0-ec79326233fe65c0a3cd520f0dba1b2f
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1776374261-0-0-41571bc1d26631247776167d3b0a376b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1776371021-0-0-6b0bdaf9129b2e1704015128b29fdae7
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1776374261-0-0-46952a9ebdf9ddeb3af7b0d899f72e0e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1776371021-0-0-8ef7b2c83b130335f1b5466cf0d4f318
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1776374261-0-0-f015e7b642ece3b51f72b986e8c43175
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1776371021-0-0-158ad417c4559051f3d013a8eed7d816
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1776374261-0-0-a867f8376d310d9f468ffc0376a6bde2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV WUKONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1776371021-0-0-8c6f1117c40e61601d772b78e31a69f1
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1776374261-0-0-111ecfcbff27941b09ad7faa405b781f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV WUKONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1776371021-0-0-60f099f2d8876544adb43893112f2e53
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1776374261-0-0-6bf6c3e9248b453cd1a943ede7a45d9e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV WUKONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1776371021-0-0-add2d92902715dceca057e0d71a629b9
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1776374261-0-0-9d5bedae28e78b9cb87c1c4e3b144b8b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1776371021-0-0-c9f90061f25a0b2ed140b3ee56d88f50
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1776371021-0-0-5f875b8bc9d65ff6bd2c2fbe65db3d17
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1776371021-0-0-5eb4a5f2d3af9a8f51df146022df47a6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1776371021-0-0-984fa4dd92f0c5e3fa89cae3806a0ff2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1776371021-0-0-a73e450efd4bc114e85ce5a03050b7d4
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1776374261-0-0-0696dc002b47c5d6ad0857cc4bc0e213
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [NGƯỜI THÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1776371021-0-0-5958a1b98bc7ea60279219aca286fbdf
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1776374261-0-0-66e31102e47f29ef68b1511967b0f5c9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [NGƯỜI THÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1776371021-0-0-32028da042cd158e5914e8d3f7d16a22
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1776374261-0-0-8ffd8d5194f4fd7674f496fc6f83c778
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [NGƯỜI THÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1776371021-0-0-7905531abbe286c9561aa055cab53a09
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1776374261-0-0-f6876f2ac6bd8e7a7c6ea9da4c35e66d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [NGƯỜI THÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1776371021-0-0-a55facc63c285573f60c06c8911a2ee3
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1776374261-0-0-0cbe5f5838e6ba154572959726bc5506
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [KÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1776374261-0-0-772e729b13c66c57fc568578e9e62a50
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [KÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1776374261-0-0-e627b6070df21b22bd35d0656aa5605f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [KÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1776374261-0-0-88bfde0d9503caaf6e0be13cb65af0aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [KÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1776374261-0-0-db7d16beebda0ab3a6ce2ade185cef51
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1776371381-0-0-5d4b3f6c77487b513bb91d1bc10afd27
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1776374621-0-0-7552a309183c6844f172e7594aa85b36
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV CÒ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1776371381-0-0-e9e05f2e9df9c5af65762972749da4a6
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1776374621-0-0-09326573e66910f80dd265414ab706bb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV CÒ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1776371381-0-0-850f79d061e3e15591e7bab4947123d5
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1776374621-0-0-f3206a05e3f9599791b2b371843eeb7d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [BLV CÒ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1776371381-0-0-0801e0afbd0a2ed7b5b10f1f778cdda0
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1776374621-0-0-d94c3c0c935ff70b265b82870570fe6e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1776371381-0-0-3b60d454c0c4ee68c6cb58a54c1fd0f4
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1776374621-0-0-f4dd3723a5cf85dfcf65c0fd1ddcd948
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1776371381-0-0-998243895dc80d321d738cea7f315e3d
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1776374621-0-0-0fdbcbe74c4c0279a5a82bd86c2c500e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1776371381-0-0-e193d241c52efeb2cc710aed23e44e1d
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1776374621-0-0-ef18fdd2c2190318a2ef05c97f8fa5d6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1776371381-0-0-317b3435d59641d5bd979157f05d5da2
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1776374621-0-0-2e3462a38a36ed5eae30daaa5b8e6f1d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [CÔNG CHẤT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1776371381-0-0-cd5c1b43093f55c5055016109983c335
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1776374621-0-0-2f62b339fa240cde25b67240021c2bb5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [CÔNG CHẤT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1776371381-0-0-46328c50ec5ac13125ca4a8141cdeb8a
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1776374621-0-0-75820581a4ee9df8a05961f7dae461a5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [CÔNG CHẤT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1776371381-0-0-1e54faa45c50a65424f9f4baea232288
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1776374621-0-0-722d20d7b3d79849764e8b1b322d92af
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [CÔNG CHẤT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1776371381-0-0-9b60fd6e010d4ceae4157536e413301b
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1776374621-0-0-1b437140400da3dad8b78416af9ae070
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV VITAMIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1776371381-0-0-150de103af74af773d2bf69d1b74ef97
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1776374621-0-0-cfb4c1d160b4b2fae6ec83ebeca8d59d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV VITAMIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1776371381-0-0-ef58a37cc9888f121b23b9b7fd4183b5
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1776374621-0-0-6d87d0dba60ca84362c8a01f2cf25d5d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV VITAMIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1776371381-0-0-05f079acd1b2a1de1c70265435409552
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1776374621-0-0-115652adf8947c56a1b5dee461b669b2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV VITAMIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1776371381-0-0-f2c45a9129cb84dee1eec55428c727a3
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1776374621-0-0-25a3499d4d68be4023abde484cd9aabb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1776371381-0-0-63a4ee41d182c1f3fb8cfbadf513e84b
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1776374621-0-0-f47f3b01eb7346fb440a13dd5471a9a4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1776371381-0-0-365d259ed79f26c1a7999ff668a3b545
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1776374621-0-0-159967cc980bdb8584964e3f587e3101
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1776371381-0-0-1186a2ff90cbb3cc5185f682580fa3d9
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1776374621-0-0-401ae0cf3a8788538ab2eafa657cd8c9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1776371381-0-0-86bfa1db9d6c034ae83b252c60b7fbf9
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1776374621-0-0-607c37e74e34eb1c834af193b10046d1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1776371381-0-0-9010eefc32d9ea37a2ca96af3fc62359
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1776374621-0-0-b7e658f6da58ff80c23ca172ef68826d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV TOMIA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1776371381-0-0-e4dcc2820b845141b7b43f4c41079bf4
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1776374621-0-0-bb4842f1f7a66c9c79b45be8877682cd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV TOMIA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1776371381-0-0-6f81641a76cc51982292929c674d9a16
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1776374621-0-0-08881c67125ae212b25455493bc86a19
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1776371381-0-0-d475e6c4998ed46dbaa155ba688d994f
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1776374621-0-0-2362f9fe126b698931026d73de2db431
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [BLV VIP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=48cadd573956f822f17506aba1190455&txTime=69e18d05
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=a637754ed43d2da9a0eed16b334e2266&txTime=69e199ad
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [BLV VIP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=594c4bcd79170dd8be30764b3a762085&txTime=69e18d05
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=90cf3ae2f39f28de20d8295e6bdc20cb&txTime=69e199ad
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [BLV VIP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=48cadd573956f822f17506aba1190455&txTime=69e18d05
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=a637754ed43d2da9a0eed16b334e2266&txTime=69e199ad
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [BLV VIP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=594c4bcd79170dd8be30764b3a762085&txTime=69e18d05
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=90cf3ae2f39f28de20d8295e6bdc20cb&txTime=69e199ad
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [BLV A TINH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598119_lsd.flv?auth_key=1776371381-0-0-d4ba2417849a6bc95261b131a6dd45ef
+https://pull06.scstream.net/live/stream-598119_lsd.flv?auth_key=1776374621-0-0-ac6868255954db6e6588deb53c7e78ec
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [BLV A TINH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598119_lhd.flv?auth_key=1776371381-0-0-b31d69bf94a795d2879384dedf6bc6c4
+https://pull06.scstream.net/live/stream-598119_lhd.flv?auth_key=1776374621-0-0-0a253116309ea2fba74b00da145dc8bf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [BLV A TINH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598119_lsd.m3u8?auth_key=1776371381-0-0-be203a8ee4fcdb96ea8ac2ef5e5d96c7
+https://pull.niues.live/live/stream-598119_lsd.m3u8?auth_key=1776374621-0-0-0799aa28eecce47b3c61ff8cb2c2ebaa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/941a0534bcbe311ed8e3a852bbb9b5d8.png",02h00 ngày 17/04 RC Strasbourg Alsace vs 1. FSV Mainz 05 [BLV A TINH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1776371381-0-0-8605301af78c04881b4a060fa3aa02ed
+https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1776374621-0-0-604dfed9343ea3b1abafb2e6d4b659f3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [RABBIT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-596191_lsd.flv?auth_key=1776371381-0-0-cbc7c00a4bc669698f6fc9a5763dcad5
+https://pull06.scstream.net/live/stream-596191_lsd.flv?auth_key=1776374621-0-0-e019caff386d9efac13c2eedd2c7779f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [RABBIT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-596191_lhd.flv?auth_key=1776371381-0-0-fb8835e251ead4f361c7788e4395b945
+https://pull06.scstream.net/live/stream-596191_lhd.flv?auth_key=1776374621-0-0-c2fe9c70e6221c1b915cfb1d3ceb3a12
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [RABBIT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1776371381-0-0-de27227cb1321e3e72df5e44718ffa81
+https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1776374621-0-0-1a2784fd99aa5d975c3ff57c6b7fd7e4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [RABBIT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1776371381-0-0-2dee0b8b8065d52e7e9404ecba53cd2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [HỘI GYM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1776371741-0-0-9217887a0c7dfb8bea97053369517cce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [HỘI GYM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1776371741-0-0-19ea56734b0a9a6524ab2974cfa1ff45
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [HỘI GYM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1776371741-0-0-383c9bc6b4f474b5a16acc2bd623ca19
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [HỘI GYM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1776371741-0-0-024594af4e1155a359df7c8029973244
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1776371741-0-0-b667b79b7330ec8c759962a21f53e8b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1776371741-0-0-02517e304ef31f44c1ea9f06a9c93f9f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1776371741-0-0-fd76a3560fe6d0aa1870227db39ac7b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1776371741-0-0-750bbead54544cf07615481d1bacdc96
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=760748f067cc817bee327d3c06b5ad4f&txTime=69e18e6d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=e9e26c1e8d78018f2fb069c9410ad7d8&txTime=69e18e6d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=760748f067cc817bee327d3c06b5ad4f&txTime=69e18e6d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=e9e26c1e8d78018f2fb069c9410ad7d8&txTime=69e18e6d
+https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1776374621-0-0-677628b9515560e791cce524ee7ac7bd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1776371741-0-0-ee41e75fb280cf983c152440de2f2009
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1776374981-0-0-57bb90d65e7bf774dc923110e724c211
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1776371741-0-0-10b48083ca291cd4cbe6b3ffd4ebd478
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1776374981-0-0-d42a60d1b96c29ccbbc8d3c3fd876c0e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1776371741-0-0-dabcda497fe9678189eb12db6d4aef9f
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1776374981-0-0-ce60f19858def70bab99ae3f6a3720aa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/a6e1b8b6996440a03c624614cb525590.png",02h00 ngày 17/04 Aston Villa vs Bologna [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1776371741-0-0-5b4c4e60b6c9d961a26f6ae056d17873
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1776374981-0-0-700b71d2f3aed9c7fadfd3cdeb9d30e3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV VOI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1776371741-0-0-7920adc76cf4b0e6ef5f398e75c08a2e
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1776374981-0-0-282d49bcb703e2096ba1979591ae3a47
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV VOI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1776371741-0-0-cebf68c8d7e2aeb4474ea3da44beca2c
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1776374981-0-0-e969f9e37b9266f986d070213f9eea54
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV VOI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1776371741-0-0-fc4e46ac41c51a6a6c189bb511c94600
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1776374981-0-0-06608e759e62bcd81b9fd26e71c6d8b4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV VOI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1776371741-0-0-8b5ca5e11ef31e228e4052db0237db7e
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1776374981-0-0-42ea2981b5c2b2b441388063dab2e5d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [HỘI GYM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1776374981-0-0-bdc8fa604154e2e4fce7c34f38462a8a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [HỘI GYM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1776374981-0-0-11c1f52eeea9e2d17d9870ac68c9e848
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [HỘI GYM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1776374981-0-0-d2fc7ca915411aea1c36cb9e46c828bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [HỘI GYM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1776374981-0-0-f76efcce7918e9fbfeb10c1ad8ef351d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1776374981-0-0-1e0c2cf9c7edf064f26f1702b296ed84
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1776374981-0-0-c553796cf050636a81dd8e8dcd44f6c4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1776374981-0-0-bec6b67e0a9e07a3c44b6585953333ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1776374981-0-0-a59f1e5726dea71a424dbd2be399681b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=6fad7ef4df951df5dcbb5fd144c1d28c&txTime=69e19b15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=b00c0837ed3177041e06095a89cea606&txTime=69e19b15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=6fad7ef4df951df5dcbb5fd144c1d28c&txTime=69e19b15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/db94ba61935543f6bb515725ab058955.png",02h00 ngày 17/04 Nottingham Forest vs FC Porto [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b00c0837ed3177041e06095a89cea606&txTime=69e19b15
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [LOKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1776371741-0-0-66379c53c42407e08f9a4b33606a5ecb
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1776374981-0-0-7731379975c299c0e7b5dc0ecb97d515
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [LOKA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1776371741-0-0-a962e55f484e67808d2ebe6ff7903745
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1776374981-0-0-2b44ee4aebcc485bd2b04770575c4c41
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [LOKA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1776371741-0-0-f8627b4e0cbaad8ac34f6201997bff13
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1776374981-0-0-6f7b431536ea101397e74cce3fb86cb2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [LOKA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1776371741-0-0-21b195832533865f832ffdabbe232f1c
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1776374981-0-0-1e7ae0f4d5ddb13bb11c6ad17a83868c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV MIXI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1776371741-0-0-0bea89880555c5c0e20260ac5e0373a6
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1776374981-0-0-0a710d6cca9a55cadeb8a16e61d870ca
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV MIXI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1776371741-0-0-3c1cb6eb57660a42c7a0a208ce383d6c
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1776374981-0-0-d4eed5218792a4240ae17208d58ceb47
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV MIXI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1776371741-0-0-9ce4422fbc31bddc8a7c77de6bb52f6d
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1776374981-0-0-d4f4f3409a9bb7e5ceef7c21200e7e8b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/57ab974b31fe4fce587b2d019de05480.png",02h00 ngày 17/04 Real Betis vs Sporting Braga [BLV MIXI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1776371741-0-0-631980e5becbb585ecf613eccf71bdd8
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1776374981-0-0-c21ad8e9a21d6bef90442e2f8f167f64
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [NGƯỜI CÁ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1776371741-0-0-a9a5f29ba095a1df5783e987c53a941d
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1776374981-0-0-1dfdfece8c25aaa439f542565561f34a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [NGƯỜI CÁ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1776371741-0-0-b9e886c29b48e53130e37a2e65631e50
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1776374981-0-0-e2f05d49d8a2d19a5085fe49b3a46dd5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [NGƯỜI CÁ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1776371741-0-0-d8c9d7e77141abd2eddbdcf1e868734a
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1776374981-0-0-8c7d2af4ff1c9920c089fac761b47bb8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [NGƯỜI CÁ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1776371741-0-0-0f5d50f055ce7a9693861673b88f6f48
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1776374981-0-0-3b5765159a8a0081a99412582176a166
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [THE KOP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1776371741-0-0-c8e6b712c42b22f56685fe38de06181c
+https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1776374981-0-0-87171c2ea5817597fe94cfd8997f63fd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [THE KOP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1776371741-0-0-a83e404c96bed466357fb697463c757e
+https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1776374981-0-0-6093a31395b8e176e6b6c27545bed2cd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [THE KOP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1776371741-0-0-23f525468d892d301436d5932347cbc1
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1776374981-0-0-f6c55bd667f58994dd066aa9fc80beed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/bae2c505dc702ee8555c0cf82688aa03.png",02h00 ngày 17/04 AEK Athens vs Rayo Vallecano [THE KOP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1776371741-0-0-13633d215e0aa5f9b9a647a10a47157c
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1776374981-0-0-88608b5e88d739d983a06d87bad85314
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV LONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=1f5a2552878022c2c5c60b7dda5c3081&txTime=69e18e6d
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=646ffba86fa89eaeaab3bca1b2795295&txTime=69e19b15
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV LONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=e532f6e83f52cb151cd95502bfb3391f&txTime=69e18e6d
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=dea395a6757c829c8cb4d3888b4a51a6&txTime=69e19b15
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV LONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=1f5a2552878022c2c5c60b7dda5c3081&txTime=69e18e6d
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=646ffba86fa89eaeaab3bca1b2795295&txTime=69e19b15
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260414/38633cc002313d3c7ac5414297c9de26.png",02h00 ngày 17/04 Fiorentina vs Crystal Palace [BLV LONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=e532f6e83f52cb151cd95502bfb3391f&txTime=69e18e6d
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=dea395a6757c829c8cb4d3888b4a51a6&txTime=69e19b15
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",02h00 17/04 Nottingham Forest vs FC Porto (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1110,66 +1086,6 @@ https://live5.msrktz.app/live/14707124.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/41943555.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa League] 02h00 17/04 Aston Villa vs Bologna [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa League] 02h00 17/04 Aston Villa vs Bologna [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa League] 02h00 17/04 Aston Villa vs Bologna [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa League] 02h00 17/04 Real Betis vs SC Braga [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa League] 02h00 17/04 Real Betis vs SC Braga [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa League] 02h00 17/04 Real Betis vs SC Braga [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa League] 02h00 17/04 Nottingham Forest vs FC Porto [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa League] 02h00 17/04 Nottingham Forest vs FC Porto [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa League] 02h00 17/04 Nottingham Forest vs FC Porto [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa Conference League] 02h00 17/04 Fiorentina vs Crystal Palace [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa Conference League] 02h00 17/04 Fiorentina vs Crystal Palace [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa Conference League] 02h00 17/04 Fiorentina vs Crystal Palace [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa Conference League] 02h00 17/04 Strasbourg vs FSV Mainz 05 [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa Conference League] 02h00 17/04 Strasbourg vs FSV Mainz 05 [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
-#EXTINF:-1 group-title="Quê Choa",[UEFA Europa Conference League] 02h00 17/04 Strasbourg vs FSV Mainz 05 [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
 # --- Bongda 2 Playlist Start ---
 #EXTM3U
 #EXTINF:-1 group-title="Bún chả",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB ngày 06/02/2026 [MAIN]
