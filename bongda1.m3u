@@ -8,18 +8,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4429_164941023943.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang (Lương Sơn) BLV LƯU BỊ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4429_164941023943.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang (Lương Sơn) BLV LƯU BỊ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4429_164941023943.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang (Lương Sơn) BLV LEO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4429_164941023943.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang (Lương Sơn) BLV LEO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4429_164941023943.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
@@ -32,36 +20,38 @@ https://hls-ls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be1030
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4429_164941023943.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang (Lương Sơn) BLV DƯƠNG QUÁ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Lương Sơn) BLV PELE m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4429_164941023943.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang (Lương Sơn) BLV LEO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Lương Sơn) BLV PELE flv
+https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4429_164941023943.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang (Lương Sơn) BLV LEO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Lương Sơn) BLV LÝ QUỲ m3u
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4429_164941023943.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Lương Sơn) BLV LÝ QUỲ flv
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4429_164941023943.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Lương Sơn) BLV VÕ TÒNG m3u
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/91145e73e02f569a07fc6ef76aeee7b1/image/small?v=1768601124",15h30 ngày 19/04 Hubei Istar vs Haimen Codion (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d5899d6d185d3623bea66cead2cdde78/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a303b008b8d37b784888090b0161385a/image/small?v=1768601124",15h30 ngày 19/04 SKN St.Polten vs FC Liefering (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/437_1h1jgrf3gp0.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang (Lương Sơn) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ed46f414290b1f0132c6594622dffcc5/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c559cb494dcc1f2cc238508167cf88a2/image/small?v=1768601124",16h00 ngày 19/04 AlvsShabab SC (Seeb) vs Al Kuwait SC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/437_1h1jgrf3gp0.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang (Lương Sơn) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6e62815d5a6eea51598bd1d296466f08/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d3d27fbc91e1e2307f187f1d21889a2b/image/small?v=1768601124",15h30 ngày 19/04 Zlin B vs TJ Start Brno (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/437_1h1jgrf3gp0.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang (Lương Sơn) BLV MỘT CHÂN m3u
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0df758e0c49fff7644bd478ef3e1cb41/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2ab0e9a33b5f1865ef69d666aa12c554/image/small?v=1768601124",16h30 ngày 19/04 Elva vs FC Nomme United U21 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/437_1h1jgrf3gp0.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang (Lương Sơn) BLV MỘT CHÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1b83bc19b1529b0e6ca6f9cf34dd8f1c/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e2e8b26fba172d3e87df5de6c167f1cf/image/small?v=1768601124",15h15 ngày 19/04 Sigma Olomouc B vs Unicov (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -86,6 +76,10 @@ https://live.alilicloud.com/live/2150a74096981c9fd0bd8bacf7968cb5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a8e5a75368adc0eadc1364b9e3f00b04/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/bb266445e5113a496f05dce60fc9484f/image/small?v=1768601124",16h00 ngày 19/04 Epitsentr U21 vs Karpaty U21 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/2dc27de512c8c4dd4de39fa01d5f684a/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5c89a7243f122ec783794444a2ec2a8a/image/small?v=1768601124",12h00 ngày 19/04 Ulsan HD FC vs Gwangju Football Club (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -94,6 +88,10 @@ https://live.alilicloud.com/live/3e206e45bc78467e678e08870bc8e919/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/af6cf8192196ab579aaddb37ca9a4a2f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c230779905d93ebe35b7164a392e4316/image/small?v=1768601124",16h30 ngày 19/04 Chernomorets Odessa II vs HirnykvsSport (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/135724950cc4507c507f40b95b2b043f/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/455e691370d40bb9536736cb31cbc6aa/image/small?v=1768601124",14h00 ngày 19/04 Dalian Kewei vs Wenzhou Professional Football Club (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -130,18 +128,6 @@ https://live.alilicloud.com/live/08c65dc19faa8ccab807fcd776293ee3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/51497e726ea696bbfd746fb0a4bc9b1b/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TP_Ho_Chi_Minh_logo.png",14h30 ngày 19/04 TP Hồ Chí Minh vs Hà Nội (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/693faad39ba0488ca4894cd5d439922e/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TP_Ho_Chi_Minh_logo.png",14h30 ngày 19/04 TP Hồ Chí Minh vs Hà Nội (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/693faad39ba0488ca4894cd5d439922e/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TP_Ho_Chi_Minh_logo.png",14h30 ngày 19/04 TP Hồ Chí Minh vs Hà Nội (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/693faad39ba0488ca4894cd5d439922e/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/87a977b43bd25e65c536f72756e36fdf/image/small?v=1768601124",12h00 ngày 19/04 Fukushima United FC vs FC Gifu (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -214,6 +200,18 @@ https://live.alilicloud.com/live/f6839b793bf464acb9bd94d050397094/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/deab44588715d96724cadf632f2f5ebd/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/LP_Bank_Ninh_B%C3%ACnh_logo.png ",17h00 ngày 19/04 LB Bank Ninh Bình vs  Vietinbank (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/170bf5b85e654ccc84ca400bb13bbe8a/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/LP_Bank_Ninh_B%C3%ACnh_logo.png ",17h00 ngày 19/04 LB Bank Ninh Bình vs  Vietinbank (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/170bf5b85e654ccc84ca400bb13bbe8a/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/LP_Bank_Ninh_B%C3%ACnh_logo.png ",17h00 ngày 19/04 LB Bank Ninh Bình vs  Vietinbank (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/170bf5b85e654ccc84ca400bb13bbe8a/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6d62e8f30345e1d3fbe863986022d74e/image/small?v=1768601124",15h15 ngày 19/04 Admira Praha vs SK Motorlet Praha (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -250,58 +248,6 @@ https://live.alilicloud.com/live/7ec6244896262d8228d3fbb677fea2ce/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/57478897a3239e2be7f626d66b35231c/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8861961abfa06744128845e8021819de/image/small?v=1768601124",14h30 ngày 19/04 Pohang Steelers vs FC Anyang (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/df7d2f90e8cd4843e7580c29c435c2c9/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/256f8079afe833f3fe832f8fb510cd95/image/small?v=1768601124",12h00 ngày 19/04 Iwaki FC vs AC Nagano Parceiro (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e5d04f19d387f6bb5620ef2d4fba4996/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/91145e73e02f569a07fc6ef76aeee7b1/image/small?v=1768601124",15h30 ngày 19/04 Hubei Istar vs Haimen Codion (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d5899d6d185d3623bea66cead2cdde78/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a303b008b8d37b784888090b0161385a/image/small?v=1768601124",15h30 ngày 19/04 SKN St.Polten vs FC Liefering (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ed46f414290b1f0132c6594622dffcc5/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c559cb494dcc1f2cc238508167cf88a2/image/small?v=1768601124",16h00 ngày 19/04 AlvsShabab SC (Seeb) vs Al Kuwait SC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6e62815d5a6eea51598bd1d296466f08/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d3d27fbc91e1e2307f187f1d21889a2b/image/small?v=1768601124",15h30 ngày 19/04 Zlin B vs TJ Start Brno (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0df758e0c49fff7644bd478ef3e1cb41/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d46720785ecb98bceb6fcd7e30c936b8/image/small?v=1768601124",16h00 ngày 19/04 Spartak 2 Moscow vs Sheksna Cherepovets (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/efd22c34f340ab8ffc5484ca9a37afc4/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132410_f4f56b89.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132410_f4f56b89.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x3.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251009_193732_d8f4e716.png",14h30 ngày 19/04 TP Hồ Chí Minh  vs Hà Nội (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251009_193732_d8f4e716.png",14h30 ngày 19/04 TP Hồ Chí Minh  vs Hà Nội (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x4.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133412_55a77d69.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133412_55a77d69.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x5.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134620_da259809.png",15h30 ngày 19/04 Persik Kediri vs Persita (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -526,6 +472,58 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/91145e73e02f569a07fc6ef76aeee7b1/image/small?v=1768601124",15h30 ngày 19/04 Hubei Istar vs Haimen Codion (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d5899d6d185d3623bea66cead2cdde78/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a303b008b8d37b784888090b0161385a/image/small?v=1768601124",15h30 ngày 19/04 SKN St.Polten vs FC Liefering (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ed46f414290b1f0132c6594622dffcc5/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c559cb494dcc1f2cc238508167cf88a2/image/small?v=1768601124",16h00 ngày 19/04 AlvsShabab SC (Seeb) vs Al Kuwait SC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6e62815d5a6eea51598bd1d296466f08/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/76b449a7f11d876ccaf3bd8ef4dd1e9e/image/small?v=1768601124",14h30 ngày 19/04 Chungnam Asan vs Jeonnam Dragons (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/07fd3d118c27c4d303bffe2b8b504eec/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d3d27fbc91e1e2307f187f1d21889a2b/image/small?v=1768601124",15h30 ngày 19/04 Zlin B vs TJ Start Brno (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0df758e0c49fff7644bd478ef3e1cb41/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6fd0df3a9aef8e5b3fa3614199dd5485/image/small?v=1768601124",14h30 ngày 19/04 Hwaseong FC vs Gimpo FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/57478897a3239e2be7f626d66b35231c/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d46720785ecb98bceb6fcd7e30c936b8/image/small?v=1768601124",16h00 ngày 19/04 Spartak 2 Moscow vs Sheksna Cherepovets (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/efd22c34f340ab8ffc5484ca9a37afc4/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8861961abfa06744128845e8021819de/image/small?v=1768601124",14h30 ngày 19/04 Pohang Steelers vs FC Anyang (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/df7d2f90e8cd4843e7580c29c435c2c9/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ce08450eefcccac47bb9c1f3366f9e01/image/small?v=1768601124",14h30 ngày 19/04 Sunny Bank Athletic Club Taipei vs Taiwan Power Company FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5fc228eb004078c03a66f28b5d87f11e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4ea9b0c281dacd13ac3bb086e6dca49c/image/small?v=1768601124",14h30 ngày 19/04 Tainan City Steel vs Tatung FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/213ae6a60bd1493d905ce7811d6976e6/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9dfe3281f53a95378fa208b129c894d4/image/small?v=1768601124",14h30 ngày 19/04 Shanghai Second vs Guangdong Mingtu (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4a5f8df8473c8b18a6ad63221c6d2ec6/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3306cb2537b6e4e8f67f9a53cf8f5930/image/small?v=1768601124",14h30 ngày 19/04 Guizhou Xufengtang vs Tai'an Tiankuang (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3619c37512e239ba6e90f10d430ca98c/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d8bb9454c620f4b5f5911d1c5ce6550f/image/small?v=1768601124",15h00 ngày 19/04 Souths United vs Mitchelton FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d141803560e37783e13c3821b0559cc8/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2d7795075369c6c410d8a0125b42e850/image/small?v=1768601124",15h00 ngày 19/04 FK Uralvs2 vs KDV Tomsk (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -534,10 +532,6 @@ https://live.alilicloud.com/live/ff0eb0fe3f6664cf523161309217ea79/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/52e8d17273581a91b77650f491f3ab68/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b6609610c29603f899cd2deb69dfbd86/image/small?v=1768601124",14h00 ngày 19/04 Jinju Citizen vs Geumsan Insam FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/958b40d6ece732e399565a67ca3bc87d/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5be7a3f72134528f16cfc89b710c750c/image/small?v=1768601124",15h15 ngày 19/04 Jablonec B vs Arsenal Ceska Lipa (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -550,6 +544,14 @@ https://live.alilicloud.com/live/a8e5a75368adc0eadc1364b9e3f00b04/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ea9e80722f025900af92fc14d48c9ec7/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c230779905d93ebe35b7164a392e4316/image/small?v=1768601124",16h30 ngày 19/04 Chernomorets Odessa II vs HirnykvsSport (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/135724950cc4507c507f40b95b2b043f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2ab0e9a33b5f1865ef69d666aa12c554/image/small?v=1768601124",16h30 ngày 19/04 Elva vs FC Nomme United U21 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/1b83bc19b1529b0e6ca6f9cf34dd8f1c/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/441194a63649fdb67fb34b82fd8de51b/image/small?v=1768601124",15h30 ngày 19/04 Persatuan sepak bola Indonesia Kediri vs Persita Tangerang (Gà Vàng) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -578,66 +580,14 @@ https://stm02bc67063175.stream.hdplaylink.com/live/737cb55ae97a4696a62de716e7c04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/cd10c7bb38250c165f0732c147460130/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TP_Ho_Chi_Minh_logo.png",14h30 ngày 19/04 TP. Hồ Chí Minh vs Hà Nội (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/1c4c912689274427a9766dce4b67212b/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TP_Ho_Chi_Minh_logo.png",14h30 ngày 19/04 TP. Hồ Chí Minh vs Hà Nội (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/1c4c912689274427a9766dce4b67212b/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TP_Ho_Chi_Minh_logo.png",14h30 ngày 19/04 TP. Hồ Chí Minh vs Hà Nội (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/1c4c912689274427a9766dce4b67212b/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TP_Ho_Chi_Minh_logo.png",14h30 ngày 19/04 TP. Hồ Chí Minh vs Hà Nội (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/1c4c912689274427a9766dce4b67212b/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TP_Ho_Chi_Minh_logo.png",14h30 ngày 19/04 TP. Hồ Chí Minh vs Hà Nội (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/1c4c912689274427a9766dce4b67212b/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TP_Ho_Chi_Minh_logo.png",14h30 ngày 19/04 TP. Hồ Chí Minh vs Hà Nội (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/1c4c912689274427a9766dce4b67212b/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4dae5a07ad32ef193e5ba0bf6423f6d2/image/small?v=1768601124",16h00 ngày 19/04 Torpedo Miass vs FC Leningradets (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/30ead2c84cd93c7237b3cd0f987ec7ad/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/53246d696fae86958157a895f98f283e/image/small?v=1768601124",14h00 ngày 19/04 EnGenius Kowloon City vs Eastern District (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bb266445e5113a496f05dce60fc9484f/image/small?v=1768601124",16h00 ngày 19/04 Epitsentr U21 vs Karpaty U21 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a65c1bfc842faa3bba98fac1fa39b141/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1bd4885fe7fa6aa418c23fa161514ecd/image/small?v=1768601124",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/fbcf53d227e244195cb4ad848b75d258/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1bd4885fe7fa6aa418c23fa161514ecd/image/small?v=1768601124",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/f55320fc0aad4a32bf6c2cd1e3e2e4f2/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1bd4885fe7fa6aa418c23fa161514ecd/image/small?v=1768601124",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/f55320fc0aad4a32bf6c2cd1e3e2e4f2/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1bd4885fe7fa6aa418c23fa161514ecd/image/small?v=1768601124",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/f55320fc0aad4a32bf6c2cd1e3e2e4f2/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1bd4885fe7fa6aa418c23fa161514ecd/image/small?v=1768601124",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/f55320fc0aad4a32bf6c2cd1e3e2e4f2/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1bd4885fe7fa6aa418c23fa161514ecd/image/small?v=1768601124",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/f55320fc0aad4a32bf6c2cd1e3e2e4f2/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1bd4885fe7fa6aa418c23fa161514ecd/image/small?v=1768601124",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/f55320fc0aad4a32bf6c2cd1e3e2e4f2/playlist.m3u8
+https://live.alilicloud.com/live/2dc27de512c8c4dd4de39fa01d5f684a/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6d62e8f30345e1d3fbe863986022d74e/image/small?v=1768601124",15h15 ngày 19/04 Admira Praha vs SK Motorlet Praha (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -650,10 +600,6 @@ https://live.alilicloud.com/live/d27e395ce9cf1208686e9a02f39fc1c0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ad6a6fe214db48e77d4dfbf7b6ce5e18/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/61878b4cad6f72a30847c1a88610d992/image/small?v=1768601124",14h00 ngày 19/04 Queensland Lions SC vs Gold Coast United (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/bd130ab637c1ae3b852c125f1715febf/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c0e3d4c4b6157915121369d0dd736047/image/small?v=1768601124",16h00 ngày 19/04 Inter Milan U20 vs Lecce U20 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -662,402 +608,178 @@ https://live.alilicloud.com/live/bd081bfab6faaf10c15cef5a28fd813d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/6fdab8d9363aaee34495c2bd7b9ce19d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/91145e73e02f569a07fc6ef76aeee7b1/image/small?v=1768601124",15h30 ngày 19/04 Hubei Istar vs Haimen Codion (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/43a10977f617e441be49b5af2a732b53/image/small?v=1768601124",16h00 ngày 19/04 Dynamic Herb Cebu vs Stallion Laguna FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d5899d6d185d3623bea66cead2cdde78/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a303b008b8d37b784888090b0161385a/image/small?v=1768601124",15h30 ngày 19/04 SKN St.Polten vs FC Liefering (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ed46f414290b1f0132c6594622dffcc5/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/455e691370d40bb9536736cb31cbc6aa/image/small?v=1768601124",14h00 ngày 19/04 Dalian Kewei vs Wenzhou Professional Football Club (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f5f94c3fd1aa5b708f5a45362fe7f79e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c79793f22c748ba82fa73dfd4f1a9e5e/image/small?v=1768601124",13h00 ngày 19/04 Roasso Kumamoto vs Sagan Tosu (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c0143547b1a6562ca7c3999e9a47e043/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/48420c69bf30c3148d7d39f04d7aeb94/image/small?v=1768601124",12h30 ngày 19/04 Adelaide United vs Macarthur FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/51497e726ea696bbfd746fb0a4bc9b1b/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/982997bc757646014046e5ebe95967ed/image/small?v=1768601124",14h00 ngày 19/04 Qingdao Fuli vs Shanxi Chongde Ronghai (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ba51bb1167a500633d630b81bbc373a5/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0bc6ceff65bd9d53eb0e4c5edd03b640/image/small?v=1768601124",14h00 ngày 19/04 Wuxi Wugo vs Dalian K'un City (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a3ff4fd7936ed0ab4ab93dbd2cee1c67/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c559cb494dcc1f2cc238508167cf88a2/image/small?v=1768601124",16h00 ngày 19/04 AlvsShabab SC (Seeb) vs Al Kuwait SC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6e62815d5a6eea51598bd1d296466f08/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/960305feff8c2bbabca8b6f78c218fd8/image/small?v=1768601124",13h00 ngày 19/04 Pyeongtaek Citizen vs Gijang United (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f6839b793bf464acb9bd94d050397094/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/76b449a7f11d876ccaf3bd8ef4dd1e9e/image/small?v=1768601124",14h30 ngày 19/04 Chungnam Asan vs Jeonnam Dragons (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/07fd3d118c27c4d303bffe2b8b504eec/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/717558670950b8cdf1f0390a9619fe78/image/small?v=1768601124",14h00 ngày 19/04 Liaocheng Chuanqi vs Beijing IT (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0f8e402e6df999b53b233f87129187a9/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d3d27fbc91e1e2307f187f1d21889a2b/image/small?v=1768601124",15h30 ngày 19/04 Zlin B vs TJ Start Brno (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0df758e0c49fff7644bd478ef3e1cb41/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a6170406c530fbb85103c4a8e49bd0a8/image/small?v=1768601124",13h00 ngày 19/04 Gamba Osaka vs Fagiano Okayama (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7ec6244896262d8228d3fbb677fea2ce/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6fd0df3a9aef8e5b3fa3614199dd5485/image/small?v=1768601124",14h30 ngày 19/04 Hwaseong FC vs Gimpo FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/57478897a3239e2be7f626d66b35231c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d46720785ecb98bceb6fcd7e30c936b8/image/small?v=1768601124",16h00 ngày 19/04 Spartak 2 Moscow vs Sheksna Cherepovets (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/efd22c34f340ab8ffc5484ca9a37afc4/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8861961abfa06744128845e8021819de/image/small?v=1768601124",14h30 ngày 19/04 Pohang Steelers vs FC Anyang (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/df7d2f90e8cd4843e7580c29c435c2c9/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2e9c94cd0a379902822ecf145ebd3ddf/image/small?v=1768601124",14h00 ngày 19/04 Quzhou Team vs Hangzhou Team (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0c681900f5a25c1ec0c74d1bbdb94010/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b1963a09b18415a9556ce4b8d80126f6/image/small?v=1768601124",13h30 ngày 19/04 APIA Leichhardt Tigers vs Sydney Olympic (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6e6a05d7eb08ca7fc0afa51f246bd799/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ce08450eefcccac47bb9c1f3366f9e01/image/small?v=1768601124",14h30 ngày 19/04 Sunny Bank Athletic Club Taipei vs Taiwan Power Company FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5fc228eb004078c03a66f28b5d87f11e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5387003ff0de69e5766142ff75610ca4/image/small?v=1768601124",13h00 ngày 19/04 Newcastle Olympic FC Women vs Lake Macquarie (W) (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/91e4cb190c5941bb3215512e756482d2/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4ea9b0c281dacd13ac3bb086e6dca49c/image/small?v=1768601124",14h30 ngày 19/04 Tainan City Steel vs Tatung FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/213ae6a60bd1493d905ce7811d6976e6/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9dfe3281f53a95378fa208b129c894d4/image/small?v=1768601124",14h30 ngày 19/04 Shanghai Second vs Guangdong Mingtu (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4a5f8df8473c8b18a6ad63221c6d2ec6/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2401f525a8ed465ccd4a6409da360cce/image/small?v=1768601124",14h00 ngày 19/04 Brisbane City vs Rochedale Rovers (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f13ae8cff8d8f061834e58d2377bc58d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ec9f446527fba563b1fddd1a285875c8/image/small?v=1768601124",14h00 ngày 19/04 Fujian Quanzhou Qinggong vs Jiangxi Lushan (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d9268a4ea106929a8057288a5e272450/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3306cb2537b6e4e8f67f9a53cf8f5930/image/small?v=1768601124",14h30 ngày 19/04 Guizhou Xufengtang vs Tai'an Tiankuang (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3619c37512e239ba6e90f10d430ca98c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cc851d252e8d0dbc47aa80c5915fe105/image/small?v=1768601124",12h30 ngày 19/04 South Melbourne vs Oakleigh Cannons (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/08359d4fc387432c6a70c8a9688cc008/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d8bb9454c620f4b5f5911d1c5ce6550f/image/small?v=1768601124",15h00 ngày 19/04 Souths United vs Mitchelton FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d141803560e37783e13c3821b0559cc8/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1776592422-0-0-160af062ca8969f6a3d57a30b2a2bb10
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1776592422-0-0-e2e6e671426a391c20fd33534e00b6d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1776592422-0-0-ae41ba32f26cb943a0f497b15e64d9fd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1776592422-0-0-c91e0651d4d82cc8bf30c80ce2a38697
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1776592422-0-0-74cfad566ad3523371a6ad35b5d4b538
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1776592422-0-0-c86a595eaedd04c9ce23a87148127475
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1776592422-0-0-47a3b684d4451375a5390b9b25fa21f5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1776592422-0-0-3eabe396a220937c8fb16000ebad83f5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1776592422-0-0-addfe1e64fcc37760f5969af3d75db31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1776592422-0-0-d41b526d6c630eae616abc4bdd1bf71f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1776592422-0-0-923ee078a8303639046683bcc71fc53c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1776592422-0-0-892010cccfae1a97be76ae9aad62912c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1776592422-0-0-3ad986ea08054e4f8ebecdb00cccf2aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1776592422-0-0-5ce2b7e6c8f0eda0e6413ffa5bf2e194
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1776592422-0-0-5362a801c6f768805371789a934062d0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1776592422-0-0-18f5bc32145f5a323e5668698d9b1c75
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=6098091542cac10a3cdefa2849f69d21&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=0782610b4ce83901f387dec79106d1e1&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=6098091542cac10a3cdefa2849f69d21&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=0782610b4ce83901f387dec79106d1e1&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/5d3eaadc2d1bb43841f71063c5cd1b4f.png",13h00 ngày 19/04 Gamba Osaka vs Fagiano Okayama [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1776592422-0-0-d999db24c7b65bd782a460b1f402beae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/5d3eaadc2d1bb43841f71063c5cd1b4f.png",13h00 ngày 19/04 Gamba Osaka vs Fagiano Okayama [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1776592422-0-0-671d2f2ab16103fe21a2435e2f22714c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/5d3eaadc2d1bb43841f71063c5cd1b4f.png",13h00 ngày 19/04 Gamba Osaka vs Fagiano Okayama [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1776592422-0-0-26590d53e0958338aebb489280cf188b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/5d3eaadc2d1bb43841f71063c5cd1b4f.png",13h00 ngày 19/04 Gamba Osaka vs Fagiano Okayama [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1776592422-0-0-996c7ad5b9c5e24fc7e4083500780014
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1776592422-0-0-b4cc6e43f4c5d6b61ea0debc49013092
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1776592422-0-0-7be4f343c6362a59122fe54b6d7b951e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1776592422-0-0-b1eabd555866638875493856827a028b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1776592422-0-0-2d05e32c6bff5a55cdc5320a38f8d4df
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=dfb75c690d416716d8c7594eaeab9c47&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=ed4512a3348100c424b6ae89cf0e3d3f&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=dfb75c690d416716d8c7594eaeab9c47&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=ed4512a3348100c424b6ae89cf0e3d3f&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/8f538c48ad190e5146c76066a4c5011b.png",16h00 ngày 19/04 New Taipei Kings vs Xac Broncos [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lsd.flv?txSecret=44331bcacb0558f647ae797a5e3db3f9&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/8f538c48ad190e5146c76066a4c5011b.png",16h00 ngày 19/04 New Taipei Kings vs Xac Broncos [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=0628ac5fc4012aa2271a6571c02e35bc&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/8f538c48ad190e5146c76066a4c5011b.png",16h00 ngày 19/04 New Taipei Kings vs Xac Broncos [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=44331bcacb0558f647ae797a5e3db3f9&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/8f538c48ad190e5146c76066a4c5011b.png",16h00 ngày 19/04 New Taipei Kings vs Xac Broncos [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=0628ac5fc4012aa2271a6571c02e35bc&txTime=69e4ec76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [Đình Bắc] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1776592422-0-0-8dd9f92088ffa9c2526084a6345c9289
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [Đình Bắc] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1776592422-0-0-7caf136b7519379548d60b089be13c50
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [Đình Bắc] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1776592422-0-0-57a581cbb1d21b7d5c1cfc3364257484
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [Đình Bắc] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1776592422-0-0-6a0b0f6b3e597f5a32acfccd6ba90eee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1776592422-0-0-864ec507b3413a21b477c1ffcc22f607
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1776592422-0-0-c6cd262e2290fc5d14b5ac1080d96fb1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1776592422-0-0-4efe66c3bd11a3dccd1addb6eb5ceb41
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1776592422-0-0-449aa0e937dabe3a2bfd5022faf584e5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1776592782-0-0-60743ef8ce7677aa163cab158cc6249a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1776592782-0-0-dcc3ea9ffaf0bea5fe1b4dcbd902d83f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1776592782-0-0-df67116aa6bec9d89127a0a440228785
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1776592782-0-0-359585fedaa9a4947fc1e1eceb71806f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1776592782-0-0-ab8fb7402a4df47e1b9f48c5618d7ea1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1776592782-0-0-27b2d0e550c1bb3c33eb7385a603e18d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1776592782-0-0-aa606820d6508155680868567a046bc5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1776592782-0-0-d924af04da1e83ce26b452672e75edd1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV RÔSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=b251fce567bde608b8199410d3809d47&txTime=69e4edde
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV RÔSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=314ed33a28e2ae55580be5221d900836&txTime=69e4edde
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV RÔSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=b251fce567bde608b8199410d3809d47&txTime=69e4edde
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV RÔSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=314ed33a28e2ae55580be5221d900836&txTime=69e4edde
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1776593142-0-0-1bc2929a0f7fb03dd7a80bf8d4eafb14
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1776593142-0-0-8174457f2ad881b13614d530502b9653
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1776593142-0-0-002b549d2982ce22c52d0e862a5d7a05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1776593142-0-0-3f20d7b46612fc5b866943eecb3968fc
+https://live.alilicloud.com/live/7af5be8a5cacd8c97c335ec63be74bcf/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1776593142-0-0-4967c653ebdfceae494606b00d5e9937
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1776595302-0-0-df66af8c71c276ad001de1eff2555b0b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1776593142-0-0-e29be47e4d53612c306cefefddacc08f
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1776595302-0-0-314f579917bad7ffddee26e6b5396d07
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1776593142-0-0-f0976cbc0c2116b0164bb0085565e662
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1776595302-0-0-b492675e65e8a42ffed9edecf18ccdde
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1776593142-0-0-6fb0cb08a47d8328da514e37c028ccd0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV BÉO] (Socolive) flv
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1776595302-0-0-f8116e4d9d280ade6a7ba4ad35487bbb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/1932e28b4a79bbb0214fdc02d16dd7ff.png",17h00 ngày 19/04 Forca Lleida vs Barcelona [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=fda87be0de7d5c58abf6d6e656302378&txTime=69e4ef46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV BÉO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1776595302-0-0-aadbefe55b501afb105b7fb2ce97ecad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/1932e28b4a79bbb0214fdc02d16dd7ff.png",17h00 ngày 19/04 Forca Lleida vs Barcelona [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=cf5440e6f5d505a13ce51840c662dc4b&txTime=69e4ef46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV BÉO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1776595302-0-0-519283fd29210b7e4d6612503a7d4a07
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/1932e28b4a79bbb0214fdc02d16dd7ff.png",17h00 ngày 19/04 Forca Lleida vs Barcelona [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=fda87be0de7d5c58abf6d6e656302378&txTime=69e4ef46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/610ca7be119da03a5ae10b044b4e1b58.png",14h00 ngày 19/04 Nagoya Grampus vs Avispa Fukuoka [BLV BÉO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1776595302-0-0-2f76c79fd0511f156e38b6a7e7e71a0f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/1932e28b4a79bbb0214fdc02d16dd7ff.png",17h00 ngày 19/04 Forca Lleida vs Barcelona [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=cf5440e6f5d505a13ce51840c662dc4b&txTime=69e4ef46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [VỊT BẠC] (Socolive) flv
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1776595302-0-0-4622358969acb0a0b8d47bd5039624c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV LONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1776593142-0-0-83dfc263fc3b4fbd7201955bf298e96c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [VỊT BẠC] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=106c65c0a4ed2f26f5d412b2fc063d86&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV LONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1776593142-0-0-796e3dfcb3293ecc19e59bdcdc573fcb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [VỊT BẠC] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=c987c1502bdcaa3b2fea71d64d64e773&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV LONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1776593142-0-0-fc51e410b9cfa92c2b3f2bb4499d1cd8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [VỊT BẠC] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=106c65c0a4ed2f26f5d412b2fc063d86&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV LONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1776593142-0-0-a1781e3b4ea93813e87aa9301f2a705d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV VIP] (Socolive) flv
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=c987c1502bdcaa3b2fea71d64d64e773&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [Đình Bắc] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=7a245f5ece98b6d8bb94a058fa1ca112&txTime=69e4ef46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV VIP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1776595662-0-0-1faffd5e601fbb5829f8fcaa4b0e2c2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [Đình Bắc] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=e7889c12fee24388ebb1dac0100eeadf&txTime=69e4ef46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV VIP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1776595662-0-0-0e618b6c5d1e6481c7ccd4c5b3fa9a95
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [Đình Bắc] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=7a245f5ece98b6d8bb94a058fa1ca112&txTime=69e4ef46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV VIP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1776595662-0-0-11618b6ba4f7129850dbeff3b903eceb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [Đình Bắc] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e7889c12fee24388ebb1dac0100eeadf&txTime=69e4ef46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV LION] (Socolive) flv
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1776595662-0-0-e06a14605fc130e152390e19f52558b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/5d3eaadc2d1bb43841f71063c5cd1b4f.png",13h00 ngày 19/04 Gamba Osaka vs Fagiano Okayama [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1776593142-0-0-78db41230be306ff5d7bc9dac338b76d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV LION] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1776595662-0-0-a4f8341cf0f026117a13fd14c0febebb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/5d3eaadc2d1bb43841f71063c5cd1b4f.png",13h00 ngày 19/04 Gamba Osaka vs Fagiano Okayama [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1776593142-0-0-d2dcb968dd1e849e7a6d9d71c4993a42
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV LION] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1776595662-0-0-b304593bac45a7a823e3de9e5b9927bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/5d3eaadc2d1bb43841f71063c5cd1b4f.png",13h00 ngày 19/04 Gamba Osaka vs Fagiano Okayama [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1776593142-0-0-ef446e22ae974e7e025f3284c1408638
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/f2d05789963d6bf79771b88dbb614498.png",14h30 ngày 19/04 Pohang Steelers vs FC Anyang [BLV LION] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1776595662-0-0-b91ee650ac6d6f843f3e5674891d60d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/5d3eaadc2d1bb43841f71063c5cd1b4f.png",13h00 ngày 19/04 Gamba Osaka vs Fagiano Okayama [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1776593142-0-0-6ec94bc22e902b75cff2d93a51dea5cf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/717f4baa7ff02e1e644b189c37f271c1.png",15h00 ngày 19/04 Bank of Taiwan vs Taiwan Beer [KING] (Socolive) flv
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1776595662-0-0-aa34c8d864f1fb74cc35ae2c3726cd79
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1776593142-0-0-ddd6251bcd820c5e3f950fab9eceefac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/717f4baa7ff02e1e644b189c37f271c1.png",15h00 ngày 19/04 Bank of Taiwan vs Taiwan Beer [KING] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1776595662-0-0-840360c75d76352233654e115bcf1969
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1776593142-0-0-4a9599037786eb2359eefe1f21b2b2d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/717f4baa7ff02e1e644b189c37f271c1.png",15h00 ngày 19/04 Bank of Taiwan vs Taiwan Beer [KING] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1776595662-0-0-98c64e3ae46563b00915a4cede4297be
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1776593142-0-0-2c9fc1908904dfb1a25769e9e8b84fed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/717f4baa7ff02e1e644b189c37f271c1.png",15h00 ngày 19/04 Bank of Taiwan vs Taiwan Beer [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1776595662-0-0-539981123416b9d0484de25cb34f7f63
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1776593142-0-0-d0818973c155a94565e7c0ccb6ceb8d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/717f4baa7ff02e1e644b189c37f271c1.png",15h00 ngày 19/04 Bank of Taiwan vs Taiwan Beer [BRIAN] (Socolive) flv
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1776595662-0-0-1d3ef2ac668f53acc2b4a5a50e9f68d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/8f538c48ad190e5146c76066a4c5011b.png",16h00 ngày 19/04 New Taipei Kings vs Xac Broncos [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1776593142-0-0-47d08a60ecaac6c88531c951f1f2d503
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/717f4baa7ff02e1e644b189c37f271c1.png",15h00 ngày 19/04 Bank of Taiwan vs Taiwan Beer [BRIAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912115_lsd.flv?txSecret=533ec08131ff22675071172b74477514&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/8f538c48ad190e5146c76066a4c5011b.png",16h00 ngày 19/04 New Taipei Kings vs Xac Broncos [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1776593142-0-0-12b3cd5e2e63b159c32216d031636b29
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/717f4baa7ff02e1e644b189c37f271c1.png",15h00 ngày 19/04 Bank of Taiwan vs Taiwan Beer [BRIAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=85fbc3b1119366c218aadb47943c7171&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/8f538c48ad190e5146c76066a4c5011b.png",16h00 ngày 19/04 New Taipei Kings vs Xac Broncos [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1776593142-0-0-3db55b02b1f639e4c7fb45686446b3c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/717f4baa7ff02e1e644b189c37f271c1.png",15h00 ngày 19/04 Bank of Taiwan vs Taiwan Beer [BRIAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=533ec08131ff22675071172b74477514&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260417/8f538c48ad190e5146c76066a4c5011b.png",16h00 ngày 19/04 New Taipei Kings vs Xac Broncos [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1776593142-0-0-10f5a4916a1140a09d7386bf4d261072
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",13h00 19/04 Gamba Osaka vs Fagiano Okayama (Hội Quán) FHD 
+https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=85fbc3b1119366c218aadb47943c7171&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",13h00 19/04 Gamba Osaka vs Fagiano Okayama (Hội Quán) HD 
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1776595662-0-0-681681e0cf39137cca2b1e33fb8c3308
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Gamba_Osaka_logo_2021.png",13h00 19/04 Gamba Osaka vs Fagiano Okayama (Hội Quán) SD 
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1776595662-0-0-a5cebee7524f0a94f881ca986729a75c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/c/cf/Pohang_Steelers_logo.png",14h30 19/04 Pohang Steelers vs FC Anyang (Hội Quán) FHD 
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1776595662-0-0-bd60103381c1278fbf0da3619a89f728
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/c/cf/Pohang_Steelers_logo.png",14h30 19/04 Pohang Steelers vs FC Anyang (Hội Quán) HD 
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1776595662-0-0-b2953f966b2ccf600a14d0d84b5b2e24
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [TAM MAO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/c/cf/Pohang_Steelers_logo.png",14h30 19/04 Pohang Steelers vs FC Anyang (Hội Quán) SD 
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=16f3fae36834e7e163eb4392ca2b8576&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [TAM MAO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=7ccca698b8d298d2fd0e5d4ad8e78a39&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=16f3fae36834e7e163eb4392ca2b8576&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=7ccca698b8d298d2fd0e5d4ad8e78a39&txTime=69e4f91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [BLV SATIVA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1776595662-0-0-db838e7af51eecfbffa589be6f42ff1d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [BLV SATIVA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1776595662-0-0-b104117f3af1e12f94d59761dff82bc7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [BLV SATIVA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1776595662-0-0-8ae05cf61847f85f9cc5a93dbb92f54f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/b83faf537f4c31a233ff00605c7793eb.png",16h00 ngày 19/04 Al-Shabab SC (Seeb) vs Al Kuwait SC [BLV SATIVA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1776595662-0-0-fff1d5578544b11be35c864220542a9f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1776595662-0-0-af805cf481e55b39e0b8f3cd9fb805c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1776595662-0-0-c3f5f79b79fd5e2976fd80a1bf3c36c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1776595662-0-0-5d9487442f8f18062e4c79a541248a7e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1776595662-0-0-fcd0d8fa3ae5c18ff97869b54ffbd105
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1776596022-0-0-cca102ee06c07fc4305e6b18802d45b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1776596022-0-0-acefba8f3038b9fb06076dad921bb986
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1776596022-0-0-7b4c08ae242df3aa3173f06597b573d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1776596022-0-0-9336ad0fc6841eff802b1b0a23ce6701
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1776596022-0-0-f414ca454a865906a69aaf668d2dc5a8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1776596022-0-0-749364f4e220541aedd4abc47692d9ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1776596022-0-0-baec162b0a5f95567ddf0f2e8107134a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/359bd0a8bdeeb865a08350b505cd8211.png",15h30 ngày 19/04 Persik Kediri vs Persita Tangerang [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1776596022-0-0-6e340091d189494d60c3f2b3934571f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1776596022-0-0-ac39b3267dc19515d19e600300f8df40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1776596022-0-0-47355c90075c02dd4ecdc89294bc36a9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1776596022-0-0-56f8187d1b20fe57cd31c83f113caba3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260416/ccd7da19f496b3d8fc023705418c40fa.png",17h30 ngày 19/04 Cremonese vs Torino [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1776596022-0-0-1ea59f6f3fcd911f54e20badaf988198
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Persik_Kediri_logo.svg",15h30 19/04 Persik Kediri vs Persita (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1070,18 +792,6 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVoF5JlMnZ9nLDHisQKw0Qnls9Htd8RO-L9Q&s",14h00 19/04 TP Hồ Chí Minh - Hà Nội (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVoF5JlMnZ9nLDHisQKw0Qnls9Htd8RO-L9Q&s",14h00 19/04 TP Hồ Chí Minh - Hà Nội (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVoF5JlMnZ9nLDHisQKw0Qnls9Htd8RO-L9Q&s",14h00 19/04 TP Hồ Chí Minh - Hà Nội (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5XHQq2Yj8g5myZk0CoWLjBNVsfHEWwaboQ&s",15h00 19/04 BRO vs NS (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1094,37 +804,34 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80",14h00 19/04 Nagoya Grampus vs Avispa Fukuoka
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Korea_Exchange_Logo.svg/1280px-Korea_Exchange_Logo.svg.png",17h00 19/04 DRX vs T1 (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/78905744.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/6f05c460789939ac83282bd0686446f1.png!w80",14h30 19/04 Pohang Steelers vs FC Anyang
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Korea_Exchange_Logo.svg/1280px-Korea_Exchange_Logo.svg.png",17h00 19/04 DRX vs T1 (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/14707124.m3u8
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Korea_Exchange_Logo.svg/1280px-Korea_Exchange_Logo.svg.png",17h00 19/04 DRX vs T1 (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/7238b4b0d6c0b9514b00455e7a021221.png!w80",16h00 19/04 Al-Shabab vs Al Kuwait
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/08552895.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80",15h30 19/04 Persik Kediri vs Persita
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/87547578.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Quê Choa",[K League 1] 14h30 19/04 Pohang Steelers vs FC Anyang [FHD]
+#EXTINF:-1 group-title="Quê Choa",[LCK] 17h00 19/04 DRX vs T1 [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-#EXTINF:-1 group-title="Quê Choa",[K League 1] 14h30 19/04 Pohang Steelers vs FC Anyang [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 group-title="Quê Choa",[LCK] 17h00 19/04 DRX vs T1 [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-#EXTINF:-1 group-title="Quê Choa",[K League 1] 14h30 19/04 Pohang Steelers vs FC Anyang [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 group-title="Quê Choa",[LCK] 17h00 19/04 DRX vs T1 [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-#EXTINF:-1 group-title="Quê Choa",[VĐQG 2026 - CÚP PHÂN BÓN CÀ MAU] 14h30 19/04 Tp. Hồ Chí Minh vs Hà Nội Tasco Auto [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
-#EXTINF:-1 group-title="Quê Choa",[VĐQG 2026 - CÚP PHÂN BÓN CÀ MAU] 14h30 19/04 Tp. Hồ Chí Minh vs Hà Nội Tasco Auto [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
-#EXTINF:-1 group-title="Quê Choa",[VĐQG 2026 - CÚP PHÂN BÓN CÀ MAU] 14h30 19/04 Tp. Hồ Chí Minh vs Hà Nội Tasco Auto [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
