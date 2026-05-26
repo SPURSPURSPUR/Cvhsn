@@ -1,16 +1,22 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/316_1gy3wybtj81j.png",06h00 ngày 26/05 Coritiba PR vs Bahia (Lương Sơn) BLV LEO m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2228_1gr7yw7skg26.png",08h00 ngày 26/05 Real Cartagena vs Envigado FC (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/316_1gy3wybtj81j.png",06h00 ngày 26/05 Coritiba PR vs Bahia (Lương Sơn) BLV LEO flv
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2228_1gr7yw7skg26.png",08h00 ngày 26/05 Real Cartagena vs Envigado FC (Lương Sơn) BLV KAKA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/316_1gy3wybtj81j.png",06h00 ngày 26/05 Coritiba PR vs Bahia (Lương Sơn) BLV LƯU BỊ m3u
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2228_1gr7yw7skg26.png",08h00 ngày 26/05 Real Cartagena vs Envigado FC (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/316_1gy3wybtj81j.png",06h00 ngày 26/05 Coritiba PR vs Bahia (Lương Sơn) BLV LƯU BỊ flv
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2228_1gr7yw7skg26.png",08h00 ngày 26/05 Real Cartagena vs Envigado FC (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779731301.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779731301.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -31,22 +37,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131454_3188ce00.png",06h00 ngày 26/05 Coritiba vs Bahia (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131454_3188ce00.png",06h00 ngày 26/05 Coritiba vs Bahia (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131454_3188ce00.png",06h00 ngày 26/05 Coritiba vs Bahia (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131454_3188ce00.png",06h00 ngày 26/05 Coritiba vs Bahia (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144746_8843f688.png",15h00 ngày 26/05 Shanghai Port II vs Rizhao Yuqi (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -135,294 +125,162 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=b681cb50b3506343bd3f48350abca1a7&txTime=6a1532a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=923a4ea79cef55b0462a192ea5987a9d&txTime=6a1532a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=b681cb50b3506343bd3f48350abca1a7&txTime=6a1532a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=923a4ea79cef55b0462a192ea5987a9d&txTime=6a1532a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=311bbeeff15b33dd2e5ceea4eaa851ed&txTime=6a1532a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=1aa466eb631adb0df86f9094e4319835&txTime=6a1532a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=311bbeeff15b33dd2e5ceea4eaa851ed&txTime=6a1532a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=1aa466eb631adb0df86f9094e4319835&txTime=6a1532a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1779756115-0-0-68c3604b1c92b09349cd67147d8ecc0a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1779756115-0-0-fd055641863617457584a77102d439fc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1779756115-0-0-0b683eb1a8f89cbe5f5ba58ef39bd49d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779756115-0-0-2d687366c28644fd8c8f246d376b04e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1779756115-0-0-214ef4b30a43f4c4a4c331b59b65a5fe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1779756115-0-0-c4ea20bfd76763fdec180c52e19982bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1779756115-0-0-d2dc121abde0a9a70a385cc179b503f6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779756115-0-0-93a694fd131b7984d6d5244100739104
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [HÀ DUY KIÊN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1779756115-0-0-93cbe551f6a35cde02fa1e4b3cb8ec5c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [HÀ DUY KIÊN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1779756115-0-0-310c7b9755a937be0b74757288e7dd48
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [HÀ DUY KIÊN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1779756115-0-0-a2326e410d12a6feb29ed289fe998992
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [HÀ DUY KIÊN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779756115-0-0-b63c5539192c7e12b74656acb7c839bb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV NẤM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1779756115-0-0-895f04086711234dac09cd9aeb6ae552
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV NẤM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1779756115-0-0-0bf00422f7417107b07340d13f01217d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV NẤM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1779756115-0-0-529cf9729a79a62285cdeda4f10e7138
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV NẤM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779756115-0-0-cabe274f13c0d9a2882072cb2cf1b66b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV YONE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1779756115-0-0-7d448b92ce5c321460c9a27df9c618c9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV YONE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1779756115-0-0-5883b24fecfc4ff7d8b9e5e01e6b3368
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV YONE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1779756115-0-0-79ea8c6c7795e696dfe1c836351c0bd1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV YONE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1779756115-0-0-f2a411c237168238905c63fe32299077
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779756115-0-0-c3fc7b39115a5a12579b00ec1e64866c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779756115-0-0-c2452346809be21f417c88dc16ea09db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779756115-0-0-bda15a2bd6852789efd1f33e607fd153
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779756115-0-0-6cb020a66224afe6f29405d11c871a49
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1779756475-0-0-04f3dfe3a422824609428fa5d2be8ed3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1779756475-0-0-57537f090a658cdffa316c7e15368a33
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1779756475-0-0-62cf8ad1422f7c84e5b8a357eebdc62b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779756475-0-0-8ecdf35d4ba3016ede1d32c65b790219
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1779756475-0-0-ceb81d9f1010018daefab91fef8e76fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1779756475-0-0-825dc89ebc90dc872e03fc6d320772bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779756475-0-0-29385cc348a468e127baaba0b357664a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779756475-0-0-bcfe15292226b440a7839a01437cb1a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/d2cd6767ccecd6820c47a596afbefb60.png",00h15 ngày 26/05 Sandefjord vs Fredrikstad [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779756475-0-0-3eb868646df118c8a0f478e36dfe7330
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/d2cd6767ccecd6820c47a596afbefb60.png",00h15 ngày 26/05 Sandefjord vs Fredrikstad [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779756475-0-0-e44bacd3bc38de7d8cc900055c55fe05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/d2cd6767ccecd6820c47a596afbefb60.png",00h15 ngày 26/05 Sandefjord vs Fredrikstad [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779756475-0-0-37185b501ac7986b0db65d5a508027d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/d2cd6767ccecd6820c47a596afbefb60.png",00h15 ngày 26/05 Sandefjord vs Fredrikstad [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779756475-0-0-b599895eea809ca2d16ee7efec51dd74
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [MONEY MAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-605412_lsd.flv?auth_key=1779756475-0-0-46774b9ebcf61c0d230f2cbc5b922eba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [MONEY MAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1779756475-0-0-ec3bd018ffb7f394dc45060b1372c988
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [MONEY MAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1779756475-0-0-133a2128a8da5edcf3b63626d5f505fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [MONEY MAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779756475-0-0-a8fecb67ae4471f9328d19cf21589879
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1779756475-0-0-b633eacf6639b1d1a6688b1d6c9b0cac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1779756475-0-0-7f2fff72b70a0cae9845eb33d3b2a070
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1779756475-0-0-527ce385eee90a82d8b689198787bf65
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779756475-0-0-0f0abdf2d03f1db8b9492637f7253424
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/1b675f95c8660cb2032b87cab9109339.png",07h00 ngày 26/05 New York Liberty W vs Portland Fire W [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1779756475-0-0-5996450e951d90f7bdeda40f928981a2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/1b675f95c8660cb2032b87cab9109339.png",07h00 ngày 26/05 New York Liberty W vs Portland Fire W [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1779756475-0-0-ed46f7719b034c501f98c647e7228a61
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/1b675f95c8660cb2032b87cab9109339.png",07h00 ngày 26/05 New York Liberty W vs Portland Fire W [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1779756475-0-0-19e02e6ff10e78cea32d9dd29d0b1899
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/1b675f95c8660cb2032b87cab9109339.png",07h00 ngày 26/05 New York Liberty W vs Portland Fire W [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779756475-0-0-ebe3ba523160f65f51e1c79d15aee1f0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1779756475-0-0-0f667d9e3bd6b867d216d6053b18b3b4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1779756475-0-0-dc9111174377af6ebeaa94a9846b2535
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779756475-0-0-556ef423d65c3c4790c2a15fb67ff8f3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779756475-0-0-56c32494ca80821970845e4add99f15b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1779756475-0-0-f5fbebc9b67a1db0cfa2af83d54878c9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1779756475-0-0-9fcccf1eb509f9489850eae914f0467d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1779756475-0-0-8019786ceebb5817c2d68611ae8cf1f6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779756475-0-0-58c86cfe1123b1377de86ce67d71cdb6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV RÔSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=4d46ca93c4c8ef06e6f3c6b46535d4db&txTime=6a153573
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV RÔSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=cf25152a4ecdc324d379f8c2cda2befe&txTime=6a153573
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV RÔSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=4d46ca93c4c8ef06e6f3c6b46535d4db&txTime=6a153573
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/dded1a8e7acb94cffa4cb91b6071c94a.png",05h00 ngày 26/05 Botafogo SP vs Athletic Club [BLV RÔSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=cf25152a4ecdc324d379f8c2cda2befe&txTime=6a153573
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1779756835-0-0-8a1b308bfb17597e0cb5d2399917013f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1779756835-0-0-26965be39c28e86df32ac15d267ed3ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1779756835-0-0-95dff4a85ddf793030b8ef10d886b6c6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/0d22ac95eccd59e111504eec21e56910.png",06h00 ngày 26/05 Coritiba SAF - PR vs Bahia - BA [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779756835-0-0-5361f967a7c73e89d4b5c4e266dc037e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1779756835-0-0-4ee752a23a6166fc8908b0c060a059c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1779756835-0-0-b090f8035991bdef57853e748e380db4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1779756835-0-0-499161dc29a49aca91c669adcfc5914b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779756835-0-0-dcc42fc1db8167dd6f915c75bd8547a4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1779756835-0-0-8675a893e681514643eabefc114e5990
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1779756835-0-0-d7a03cbcf8e0576a5d4d7d8208190ccd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1779756835-0-0-30cbef0e156db0637a6b70c4785897d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779756835-0-0-95da21deb9d2964a654c6af58350719b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV CUỘI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1779756835-0-0-9137a52cd611fa3fa1a68fc40fc688c7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV CUỘI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1779756835-0-0-7485ba459fe7a29a38ee464ad330d7de
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV CUỘI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1779756835-0-0-e8d1361ec45e52450a990b7069c1dd79
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260523/738909d31497cda5c7c27088a2ff36a0.png",07h00 ngày 26/05 CD Copiapo S.A. vs Union Espanola [BLV CUỘI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779756835-0-0-273cb1827ee2ca2632ec296f6652ea38
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1779756835-0-0-f8f1dff55ea7b92c5339001c278f905e
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1779765475-0-0-66664d0ebfc773f333dd96efb6050efd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1779756835-0-0-7d8a4bf4150c0b1d387ac6dec892444f
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1779765475-0-0-36d79788e5d30cb6fdb2c9076d9eb26f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1779756835-0-0-924ccf3f16b9ef2143ec523a96c47ff5
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1779765475-0-0-86a1bd172aadb2119bce1e70d005d21e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779756835-0-0-12ff5becac38d0558199c03e59cf40f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/1b675f95c8660cb2032b87cab9109339.png",07h00 ngày 26/05 New York Liberty W vs Portland Fire W [A CHÈ] (Socolive) flv
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779765475-0-0-ae0eb1b3f6cdf250251332f6165a7ab3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1779756835-0-0-386fa706fcb1483e8783381df12cdafa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/1b675f95c8660cb2032b87cab9109339.png",07h00 ngày 26/05 New York Liberty W vs Portland Fire W [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1779765475-0-0-ecb0d1d279ebd4cc46730a1c7809faf3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1779756835-0-0-acf47ef64c7ea1fdd5c91a368561504f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/1b675f95c8660cb2032b87cab9109339.png",07h00 ngày 26/05 New York Liberty W vs Portland Fire W [A CHÈ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1779765475-0-0-4be774192e43ea734a22236c457ddb69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1779756835-0-0-8d45344439bd1d729e32760a7434788b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/1b675f95c8660cb2032b87cab9109339.png",07h00 ngày 26/05 New York Liberty W vs Portland Fire W [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1779765475-0-0-f7399d43f141953572b0bc1c1dffbf3a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779756835-0-0-c82300536525e110b95b729577bd8480
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coritiba_Foot_Ball_Club_logo.svg/500px-Coritiba_Foot_Ball_Club_logo.svg.png",06h00 26/05 Coritiba vs Bahia (Hội Quán) FHD 
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779765475-0-0-5c366bcd7bfc7b032b1cd1ef89bb7e60
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: MEX D1 - Pumas U.N.A.M. vs Cruz Azul [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coritiba_Foot_Ball_Club_logo.svg/500px-Coritiba_Foot_Ball_Club_logo.svg.png",06h00 26/05 Coritiba vs Bahia (Hội Quán) HD 
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1779765475-0-0-9f7427e850d858af0777fdbb777364c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: MEX D1 - Pumas U.N.A.M. vs Cruz Azul [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coritiba_Foot_Ball_Club_logo.svg/500px-Coritiba_Foot_Ball_Club_logo.svg.png",06h00 26/05 Coritiba vs Bahia (Hội Quán) SD 
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1779765475-0-0-9687c62147d8f19f18a6aff3904876d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: MEX D1 - Pumas U.N.A.M. vs Cruz Azul [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1779765475-0-0-60228e4ad35c6b48f631820b34add2c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: MEX D1 - Pumas U.N.A.M. vs Cruz Azul [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1779765475-0-0-6f66336cfa89a3b2ee1a2dc1b08ed0cf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - Torino vs Juventus [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1779765475-0-0-98dbb0522f7de911bf82fa54a7a7977b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - Torino vs Juventus [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1779765475-0-0-116409e7c02347e3628291bac8715379
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - Torino vs Juventus [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1779765475-0-0-3f3cd5cf1c6d12249db5bf85535fa37c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - Torino vs Juventus [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1779765475-0-0-c4d5f2b4d9e5ed7a2eae532a315840c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: USA MLS - Inter Miami CF vs Philadelphia Union [Sóc mèo méo meo] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1779765475-0-0-60cb2d8a7c6bf089a448ba990415c727
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: USA MLS - Inter Miami CF vs Philadelphia Union [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1779765475-0-0-e69159d3a215514a18fe43ee984ade0f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: USA MLS - Inter Miami CF vs Philadelphia Union [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1779765475-0-0-f5bbf1e952b3f995b6066d5c9ce1016c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: USA MLS - Inter Miami CF vs Philadelphia Union [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1779765475-0-0-1a05322bde77c2febcfdfa7968946611
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779765835-0-0-dd8d36819a41055259af73e9f6a4ae06
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779765835-0-0-aa6a75a0d10343ba8fbc3cbbf9d06ffb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779765835-0-0-4751ec964017841d35e77f816e2d2877
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779765835-0-0-3fab4e1f6041b46485014cb2d00b1f42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/0092257e161a9187a5e1fb1245961a68.png",09h00 ngày 26/05 Golden State Valkyries W vs Connecticut Sun W [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1779766195-0-0-3934eb3cc2971cf16dcc1503cc248b33
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/0092257e161a9187a5e1fb1245961a68.png",09h00 ngày 26/05 Golden State Valkyries W vs Connecticut Sun W [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1779766195-0-0-276c9b941983efe91a9e8a8162321d2e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/0092257e161a9187a5e1fb1245961a68.png",09h00 ngày 26/05 Golden State Valkyries W vs Connecticut Sun W [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1779766195-0-0-ce30533b30912aa46dbd0cee11aa7ac8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/0092257e161a9187a5e1fb1245961a68.png",09h00 ngày 26/05 Golden State Valkyries W vs Connecticut Sun W [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779766195-0-0-2feb9b327733fcee2b44b9a0d49e5930
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1779766195-0-0-08f8172b11437083414e7728d333bf21
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1779766195-0-0-d94eb2921ae42425bca290e07ac9df8d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1779766195-0-0-795e2c9cd594fdce044fb1ea2ac8eb38
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779766195-0-0-2107c98b7523fe5f750f5a74c88a106d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1779766195-0-0-f637f963cbbe1dfdc88ba18be7efe23b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1779766195-0-0-b06b2634d8a3b01245a1df4d0e245e8e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779766195-0-0-b804a4f4fff8321c8ed9693dcc24a490
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/9b9eef0520458edeb08efadfc15499cc.png",07h00 ngày 26/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779766195-0-0-412455cd297c4b97f6a24f4259287c5c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/0092257e161a9187a5e1fb1245961a68.png",09h00 ngày 26/05 Golden State Valkyries W vs Connecticut Sun W [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1779766195-0-0-52b8148f3632a82979b788a408eda7b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/0092257e161a9187a5e1fb1245961a68.png",09h00 ngày 26/05 Golden State Valkyries W vs Connecticut Sun W [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1779766195-0-0-9f26c16a33c5e6e2270a62908f67e933
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/0092257e161a9187a5e1fb1245961a68.png",09h00 ngày 26/05 Golden State Valkyries W vs Connecticut Sun W [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1779766195-0-0-067323c8e5160b40b8011c6103c6c741
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260524/0092257e161a9187a5e1fb1245961a68.png",09h00 ngày 26/05 Golden State Valkyries W vs Connecticut Sun W [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779766195-0-0-bf5fbb8aa8b05234f41cc8bb8bca22a9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - AC Milan vs Cagliari [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1779766195-0-0-a4c6b950d483128cc5e8522da4405d40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - AC Milan vs Cagliari [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1779766195-0-0-45430e2a4b6fd9afc84c78ceeb81b636
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - AC Milan vs Cagliari [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1779766195-0-0-49394ea49abbf43f753301ffbf42705f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - AC Milan vs Cagliari [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1779766195-0-0-f7e578e587d4ab9fd9abc3a3b3b1f0ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - Hellas Verona vs AS Roma [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1779766195-0-0-33dc0df3fe6d25280b5be78f3558b992
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - Hellas Verona vs AS Roma [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1779766195-0-0-c921b4725a2d8cca70245d30cbad014e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - Hellas Verona vs AS Roma [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1779766195-0-0-30cf081e6f432aeefa3abe04e12f7718
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: ITA D1 - Hellas Verona vs AS Roma [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1779766195-0-0-5429b64a4d3000c1047a6b039dc3aa04
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: NOR D1 - Sandefjord vs Fredrikstad [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1779766195-0-0-2e32c94656748b2682e8d2e9bc4e9f30
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: NOR D1 - Sandefjord vs Fredrikstad [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1779766195-0-0-ea85aabea982705e89fa8b0026a3984b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: NOR D1 - Sandefjord vs Fredrikstad [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1779766195-0-0-0fa55c4ac95b5c0d4870960bc9289bfb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260522/5f38ee00794c7f46839ec86e77e4c79d.png",Tường thuật: NOR D1 - Sandefjord vs Fredrikstad [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1779766195-0-0-bf5561377de88278858a9100639adcca
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSON_xAXqlmVA6CaABNgxtXMaVaFZIg65IPrg&s",07h00 26/05 Cleveland Cavaliers vs New York Knicks (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -435,18 +293,9 @@ https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/4f7a0095b9a3a4756318efd55451badb.png!w80",06h00 26/05 Coritiba vs Bahia
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/14707124.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",05h00 26/05 Botafogo vs Athletic MG
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/88508431.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/7770d591cd0855fc12e5fbfe80f83221.png!w80",07h00 26/05 Aucas vs Manta
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/02456966.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80",07h00 26/05 Cleveland Cavaliers vs New York Knicks
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80",07h00 26/05 New York Liberty vs Portland Fire
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",09h00 26/05 Golden State Valkyries vs Connecticut Sun
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/82054853.m3u8
+https://live05.msdht.app/live/87379114.m3u8
