@@ -1,47 +1,29 @@
 #EXTM3U
 # --- Bongda 1 Playlist Start ---
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama Marinos (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png",15h15 ngày 31/05 Brisbane Olympic United FC vs Brisbane City (Lương Sơn) BLV LỮ BỐ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama Marinos (Lương Sơn) BLV MÃ SIÊU flv
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png",15h15 ngày 31/05 Brisbane Olympic United FC vs Brisbane City (Lương Sơn) BLV LỮ BỐ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165399.png",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara (Lương Sơn) BLV YẾN THANH m3u
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png",15h15 ngày 31/05 Brisbane Olympic United FC vs Brisbane City (Lương Sơn) BLV LEO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png",15h15 ngày 31/05 Brisbane Olympic United FC vs Brisbane City (Lương Sơn) BLV LEO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780212425.webp",16h00 ngày 31/05 Haman FC vs Jinju Citizen (Lương Sơn) BLV FERNANDO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780212425.webp",16h00 ngày 31/05 Haman FC vs Jinju Citizen (Lương Sơn) BLV FERNANDO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165453.png",16h15 ngày 31/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165399.png",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara (Lương Sơn) BLV YẾN THANH flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165453.png",16h15 ngày 31/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama Marinos (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama Marinos (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama Marinos (Lương Sơn) BLV TÔN LẬP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama Marinos (Lương Sơn) BLV TÔN LẬP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/7943_1h53w49p622b.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds (Lương Sơn) BLV SHIN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/7943_1h53w49p622b.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds (Lương Sơn) BLV SHIN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/7943_1h53w49p622b.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds (Lương Sơn) BLV GẤU KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/7943_1h53w49p622b.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds (Lương Sơn) BLV GẤU KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165425.png",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165425.png",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -62,22 +44,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132418_76a11623.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132418_76a11623.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132409_e59d2efe.png",12h00 ngày 31/05 Shimizu S-pulse vs Yokohama F. Marinos (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132409_e59d2efe.png",12h00 ngày 31/05 Shimizu S-pulse vs Yokohama F. Marinos (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134249_f7c8e720.png",17h25 ngày 31/05 Japan vs Iceland (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -326,339 +292,183 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [TƯ MÃ Ý] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780212956-0-0-28cfaa5220cdd26318870e178b15c742
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1780223036-0-0-739a879431879e0c72356fb44613c4bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [TƯ MÃ Ý] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780212956-0-0-e095b8e3cd05065476c86fa31d94bcdf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780223036-0-0-2161067e560b1ec92f8618a360646568
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [TƯ MÃ Ý] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780212956-0-0-c34091a21c2aae27955970243984c736
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780223036-0-0-54175bf96e99762597e9b9cda0613326
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [TƯ MÃ Ý] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780212956-0-0-da4ff4d1675d141980830d1721004ef2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [CR Bưởi] (Socolive) flv
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780223036-0-0-190ea68115bb02a45b2377516da6a353
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [BLV NẤM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780212956-0-0-4aa13a536bc9c41af3e6e149ba764c13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [CR Bưởi] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780223036-0-0-430534e9773e5eb04b7a0ff5fb1db21d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [BLV NẤM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780212956-0-0-609fe8f49b4ba76006db714c92c2b695
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [CR Bưởi] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780223036-0-0-43556667aed050ddc26aba9f9bf9308d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [BLV NẤM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780212956-0-0-b3938483f989368359e88ca8f0959aac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [CR Bưởi] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780223036-0-0-d62b8030921bd86d17e2cb563749d897
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [BLV NẤM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780212956-0-0-44ce8ce2dbf79dccd0223d06cc7dca71
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) flv
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780223036-0-0-f965dfde34661b0f12bf332bd4e627b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780212956-0-0-4bdc6dee167d6205fb6ea84b634a5eb5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780223036-0-0-f088dfdc7227b4102e50196ca33e540a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780212956-0-0-8ca8f15b4b8e3a9dcfdf6bedc7c90616
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780223036-0-0-4543df99385f95d599e07a94c02ca596
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780212956-0-0-68809aa37e6031f69883b5aa1e0d8b6b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780223036-0-0-0c32987159155926758adc73eca98ec6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780212956-0-0-1b4209cc5dedb97dbb4369f1d4a18507
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) flv
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780223036-0-0-402b07024777bc6fa1510f70802f59fe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=bd8b3a8fa0a048573fd88c8b466d200c&txTime=6a1c2b2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780223036-0-0-7f9167cbee22d55068273d55919b1875
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=3188d748fdbfdb39a132206045c64204&txTime=6a1c2b2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780223036-0-0-32a854cf17db68a890a88aac2e29fe04
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=bd8b3a8fa0a048573fd88c8b466d200c&txTime=6a1c2b2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780223036-0-0-05b0170ffb33efda91f3edbcbfabb7c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=3188d748fdbfdb39a132206045c64204&txTime=6a1c2b2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/7203a081b2f85d46730a209f25e3f247.png",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) flv
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780223036-0-0-7db3160d38cca7c4b5bb18647b291565
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780212956-0-0-11656cfa2ddf350ce4909b27bfe1937a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/7203a081b2f85d46730a209f25e3f247.png",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=9addee1e4989d218fc21202e26258fbe&txTime=6a1c528c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780212956-0-0-7eb8e4a01609898eac9a6613dc94cfd5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/7203a081b2f85d46730a209f25e3f247.png",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=8da21c0d0a1c11ccac76f632abe3aa90&txTime=6a1c528c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780212956-0-0-60ef7ec8fe917496ad1c314c44918646
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/7203a081b2f85d46730a209f25e3f247.png",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=9addee1e4989d218fc21202e26258fbe&txTime=6a1c528c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780212956-0-0-fd615c5bdd40c96efb0f5b27f92dc4f1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) flv
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=8da21c0d0a1c11ccac76f632abe3aa90&txTime=6a1c528c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [LOKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780212956-0-0-f56e7f2f65b0926b1705b68e84d561cf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780223036-0-0-546d4158c7b8ad343e706af742b765b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [LOKA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780212956-0-0-4b558891424c2f03d527af6c6179a269
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780223036-0-0-4b036eba8a9eef05c22c189b7fef91ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [LOKA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780212956-0-0-e22b5a0bb8f633beb8d0ef63fc5dfca2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780223036-0-0-50931a255937040b0cf08c9a9d1f9521
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [LOKA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780212956-0-0-bd59e2e764507cb70092b1d19dbd1dda
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) flv
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780223036-0-0-4abdd7bac74f2a3d7e81c00a98b34281
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780212956-0-0-c0104437489f523095a6fb9b5720902d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780223396-0-0-b113fec2b8f78b8bbf2f5cb8c95273da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780212956-0-0-2bd67ea877d9bc6a231433b881d2ba3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780223396-0-0-a26947bbea07b75f4520c4f79ad15798
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780212956-0-0-80d80b5a118c08355d6dea1a16374134
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780223396-0-0-095e3ccfe1662dd3faf80e6bcff25472
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780212956-0-0-f47e1c8de88c82d4aa6f03511387c0b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) flv
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780223396-0-0-b995dfea231a800d1af1ee7248edb631
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=f807a7eb5f59d89d3d4596c3664e2b66&txTime=6a1c2b2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780223396-0-0-12ab9026cc764b6c0d80e8f9bf0986d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=2d62009a33b33e6b1173f78345540762&txTime=6a1c2b2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780223396-0-0-ef4a942405e7b8420c7db510073964b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=f807a7eb5f59d89d3d4596c3664e2b66&txTime=6a1c2b2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780223396-0-0-49387ea24aedcda5e2a9d176287ce005
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=2d62009a33b33e6b1173f78345540762&txTime=6a1c2b2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/ec3e83d9fcdbf4a17f0814f1baa2e46c.png",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) flv
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780223396-0-0-02662536aed83b05f4304c300a27e070
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bf8f799c185f710b48a94ea17879eaf7.png",16h00 ngày 31/05 New Taipei Kings vs Formosa Dreamers [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780212956-0-0-182bbb1f29c0dcb66b28d8192da51a36
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/ec3e83d9fcdbf4a17f0814f1baa2e46c.png",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780223396-0-0-fd867ee3db93ba659edaff987948d7d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bf8f799c185f710b48a94ea17879eaf7.png",16h00 ngày 31/05 New Taipei Kings vs Formosa Dreamers [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780212956-0-0-cb255383d0ad833650265c2566ec3533
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/ec3e83d9fcdbf4a17f0814f1baa2e46c.png",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780223396-0-0-e26d015f572bef5ae336b94c30b423ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bf8f799c185f710b48a94ea17879eaf7.png",16h00 ngày 31/05 New Taipei Kings vs Formosa Dreamers [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780212956-0-0-f8c5dcb4e891284565ea2604b6f31a31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/ec3e83d9fcdbf4a17f0814f1baa2e46c.png",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780223396-0-0-74e4378add40e0091cbcbc4a0d785e31
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/bf8f799c185f710b48a94ea17879eaf7.png",16h00 ngày 31/05 New Taipei Kings vs Formosa Dreamers [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780212956-0-0-8288a92498bd515d334df53307da4acb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) flv
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780223396-0-0-1bc692ed4c8080e5ab93781bd5eec67a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b40af3a67198fbb918020b89927aad1b.png",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=933028516686576bff58f0431fb82b4a&txTime=6a1c2b2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=1cd112e72bfd0974c3e5a44450a40743&txTime=6a1c53f4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b40af3a67198fbb918020b89927aad1b.png",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=8c8759d07327812bc25936cc32a6b871&txTime=6a1c2b2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=4b220d61889a433bad9ea1527c5db606&txTime=6a1c53f4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b40af3a67198fbb918020b89927aad1b.png",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=933028516686576bff58f0431fb82b4a&txTime=6a1c2b2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=1cd112e72bfd0974c3e5a44450a40743&txTime=6a1c53f4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b40af3a67198fbb918020b89927aad1b.png",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8c8759d07327812bc25936cc32a6b871&txTime=6a1c2b2c
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=4b220d61889a433bad9ea1527c5db606&txTime=6a1c53f4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780223756-0-0-daeb2e866ed6ed603761ec3bb3d29e6d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780223756-0-0-3d9d95bfbc5460193766c880e09bf117
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780223756-0-0-524d2fc3dd5f2e016743f0c650d716e0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780223756-0-0-91f32ff903ffc57936eb93d33577be98
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b40af3a67198fbb918020b89927aad1b.png",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780223756-0-0-f8c8a9917ff77d8aef1460e32b553ada
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b40af3a67198fbb918020b89927aad1b.png",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780223756-0-0-56072605805df88488b9e527a4f5d1a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b40af3a67198fbb918020b89927aad1b.png",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780223756-0-0-9b72c0ce1f7808182730a8b9a7bbe572
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b40af3a67198fbb918020b89927aad1b.png",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780223756-0-0-24b585e9fa9ca3de5d3b016ff187129f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/de1d075d61adf1d0480e0c3cf1de3eef.png",16h15 ngày 31/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780223756-0-0-beeba9239859c0d98b599c8293ffddbe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/de1d075d61adf1d0480e0c3cf1de3eef.png",16h15 ngày 31/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780223756-0-0-821f627502d688a167fdf5c709ef0b92
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/de1d075d61adf1d0480e0c3cf1de3eef.png",16h15 ngày 31/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780223756-0-0-b570a59a3cf2637731745a82a49b3f76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/de1d075d61adf1d0480e0c3cf1de3eef.png",16h15 ngày 31/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780223756-0-0-96e37b86e614ea1eed6f97ca3a045d8c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780212956-0-0-f202062be3e033d7eb5d631469da7f6f
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780223756-0-0-52e645695936e29449ea6efbd241d1aa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780212956-0-0-cbdaf94ec4006ebd77866f029bb8fa3b
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780223756-0-0-0c1cb09375fd773cffa8dc894cf75560
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780212956-0-0-cab7bc98a207ea19bd83e6dfad53ecb2
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780223756-0-0-1e7347a4b056c68bde62a6d3de57a615
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780212956-0-0-3220844ca7e68cce88e4417627195996
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV MIXI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780213316-0-0-834be714a1e3f90fcbc7d353d6e5065d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV MIXI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780213316-0-0-10459bb6ae5f3436a24df90351fa5674
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV MIXI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780213316-0-0-b7d921f94b625f7e47f6f2b09bac29cc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV MIXI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780213316-0-0-414246a79018c22651957d6e0e420319
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [MONEY MAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-605412_lsd.flv?auth_key=1780213316-0-0-32100dde62ec1ea7424382e5e2cb0477
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [MONEY MAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1780213316-0-0-278fb053d9ead6a83856f7f819ab2ced
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [MONEY MAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1780213316-0-0-545e2bfaeda228f2aee2d1a7e736a007
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [MONEY MAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780213316-0-0-488c83055ffb44ce087acc5cfa3451cc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [TRÀ ĐÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1780213316-0-0-73cd432fb8e9cd7d0b9488b2ef12debf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [TRÀ ĐÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780213316-0-0-759f6cfbf3eb07f890742bae0eee2c76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [TRÀ ĐÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780213316-0-0-ead91e1d985d85ed03179d4371f59ead
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [TRÀ ĐÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780213316-0-0-beb2eda3f66e746f440f3b23bf37f9c6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=e55da83506c14a3de01ec71a8dc1cf59&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=b6365b46eeac282647b3fbe0a1c8d113&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=e55da83506c14a3de01ec71a8dc1cf59&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=b6365b46eeac282647b3fbe0a1c8d113&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780213676-0-0-ff0d414452a5b5beed46a9e1582ce515
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780213676-0-0-6685c649c2b2f3a89af833025f9cc5b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780213676-0-0-c93cac1281d5843f608e95756befab51
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780213676-0-0-820f1c493a16fa16b6d9bf9480f8ed55
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780213676-0-0-d1e1395039fe8958ff77fd77eba21848
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780213676-0-0-54bcdd3ae0b0148f3cd1a322984953fe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780213676-0-0-a2dc79c30b73d125700e14f66e1435b7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780213676-0-0-e0717bc234855e95cf818e2471a6d5ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780213676-0-0-09f679811e69853ef804b0cdacb952eb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780213676-0-0-980b17195258751f99c7cafc22839e31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780213676-0-0-5e61fd35787aca456d09936a793a12fa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780213676-0-0-acd0b3b933abbe1fe73ef2b3ba3bbf05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=7d235bb2273164bca077cf96f647f2a4&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=a20b317af184c5de7141a1c61ee384a7&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=7d235bb2273164bca077cf96f647f2a4&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=a20b317af184c5de7141a1c61ee384a7&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780213676-0-0-86e4e17aaebb9bd1914366543e692852
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780213676-0-0-3d6e3971e61a6ba6d58bf78f80fead0a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780213676-0-0-294426b91db409e438aac14badefdb23
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780213676-0-0-6cf88d941f98e79481e1a2f449803b7c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780213676-0-0-c6138a58b4db57170c8ee2650c6ade58
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780213676-0-0-9cd9271c28ec48fee09f78005b2b8db1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780213676-0-0-0f4414f0ac4210f2c51b7a956d9a7707
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780213676-0-0-f8ff9e9c04b605642bd6f89f4b850ac1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=da99ab1fd4e515788452a16b34f5e271&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=8b893d35aa30a7c9ccb41abccadf7407&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=da99ab1fd4e515788452a16b34f5e271&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=8b893d35aa30a7c9ccb41abccadf7407&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=6f2728b717954ed5a4c33dea33fdbea6&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=f16db80d0004a606af7efc9c66e451ab&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=6f2728b717954ed5a4c33dea33fdbea6&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f16db80d0004a606af7efc9c66e451ab&txTime=6a1c2dfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/5751141884a73afbd1413ec5268bf599.png",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780213676-0-0-a595b0511ad3b8671012f41b9d3d008c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/5751141884a73afbd1413ec5268bf599.png",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780213676-0-0-6bda195297e3e35565fdc5c55495dd8b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/5751141884a73afbd1413ec5268bf599.png",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780213676-0-0-86af1730ef781441b947604baad8e5f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/5751141884a73afbd1413ec5268bf599.png",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780213676-0-0-36c6b8c33fb7b8ddf5e367f3c73df0b6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/170d9f55de00309549a5d145a3588c46.png",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780213676-0-0-fac7100180ce8846dff0b7a5d92f554f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/170d9f55de00309549a5d145a3588c46.png",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780213676-0-0-59aa0401827bba7ee94f871f8ed9cc67
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/170d9f55de00309549a5d145a3588c46.png",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780213676-0-0-a590c5f481e7b9353042a34e6d41d5c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/170d9f55de00309549a5d145a3588c46.png",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780213676-0-0-62485da9f9edd3cdae988b9d723276a4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/5751141884a73afbd1413ec5268bf599.png",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780213676-0-0-eb06dea77e09f14e68439ddeb370bbc5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/5751141884a73afbd1413ec5268bf599.png",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780213676-0-0-f0e13592f06ba359c2ad77d0dfad4c58
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/5751141884a73afbd1413ec5268bf599.png",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780213676-0-0-d24c4990b15fd8962a78455f342c9db4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/5751141884a73afbd1413ec5268bf599.png",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780213676-0-0-beca1c901b8fadc677c35302c6564555
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/170d9f55de00309549a5d145a3588c46.png",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV AB] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1780213676-0-0-e8711eef0efd0dc49f42a86c73955619
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/170d9f55de00309549a5d145a3588c46.png",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV AB] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780213676-0-0-c1e8897a9cdd987551ace15b521396c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/170d9f55de00309549a5d145a3588c46.png",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV AB] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780213676-0-0-1c733e1581476830bff106e07252f94f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/170d9f55de00309549a5d145a3588c46.png",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV AB] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780213676-0-0-8d9b5d3c43a8ae5976261ffa71feaef9
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/4315.png",12h00 31/05 Blaublitz Akita vs Consadole Sapporo (Hội Quán) FHD 
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780223756-0-0-6e90c726bcafdbf9f3335a229103458a
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Jeonnam_Dragons.svg",14h30 31/05 Jeonnam Dragons vs Seoul E-Land FC (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/4315.png",12h00 31/05 Blaublitz Akita vs Consadole Sapporo (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Jeonnam_Dragons.svg",14h30 31/05 Jeonnam Dragons vs Seoul E-Land FC (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/4315.png",12h00 31/05 Blaublitz Akita vs Consadole Sapporo (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Jeonnam_Dragons.svg",14h30 31/05 Jeonnam Dragons vs Seoul E-Land FC (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
@@ -674,18 +484,24 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png!w80",12h00 31/05 Fagiano Okayama vs Urawa Reds
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.tennisnerd.net/wp-content/uploads/2025/05/Marta-Kostyuk-1024x546.webp",16h00 31/05 Marta Kostyuk vs Iga Świątek (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png!w80",12h00 31/05 Shimizu S-Pulse vs Yokohama F. Marinos
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.tennisnerd.net/wp-content/uploads/2025/05/Marta-Kostyuk-1024x546.webp",16h00 31/05 Marta Kostyuk vs Iga Świątek (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/f492a7a07b9d72c444cc5e6a3f990603.png!w80",14h00 31/05 St Albans vs Preston Lions
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.tennisnerd.net/wp-content/uploads/2025/05/Marta-Kostyuk-1024x546.webp",16h00 31/05 Marta Kostyuk vs Iga Świątek (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/9387d0a789713efc4d22f39c269b89cc.png!w80",14h15 31/05 West Adelaide vs Adelaide City FC
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/b41e9e7759d0ab396a862fb8c80b5d27.png!w80",14h30 31/05 Hwaseong vs Gyeongnam FC
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/68848594.m3u8
+https://live05.msdht.app/live/87379114.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/7f291910f4d25f651ce0cc1ba097f774.png!w80",15h00 31/05 Olympic FC vs Brisbane
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/87547578.m3u8
 # --- Bongda 2 Playlist Start ---
 #EXTM3U
 #EXTINF:-1 group-title="Bún chả",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB ngày 06/02/2026 [MAIN]
