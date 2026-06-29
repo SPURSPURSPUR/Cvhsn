@@ -1,11 +1,17 @@
 #EXTM3U
 # --- Bongda 1 Playlist Start ---
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1621_1grmn7hx11v.png",04h30 ngày 29/06 Nautico (PE) vs Goias (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16322_1gy3wwapm01s.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1621_1grmn7hx11v.png",04h30 ngày 29/06 Nautico (PE) vs Goias (Lương Sơn) BLV VƯƠNG LUÂN flv
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16322_1gy3wwapm01s.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1581_1gtqm6x9y02z.png",06h30 ngày 29/06 Ituano SP vs Maranhao (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1581_1gtqm6x9y02z.png",06h30 ngày 29/06 Ituano SP vs Maranhao (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/56999_1gynxgz04m2b.png",05h00 ngày 29/06 Cincinnati II vs International Miami B (Lương Sơn) BLV PELE m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
@@ -24,24 +30,6 @@ https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb945
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/64845_1hsfe494ka8.png",05h00 ngày 29/06 Carolina Core vs Huntsville City (Lương Sơn) BLV LÝ QUỲ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1621_1grmn7hx11v.png",04h30 ngày 29/06 Nautico (PE) vs Goias (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1621_1grmn7hx11v.png",04h30 ngày 29/06 Nautico (PE) vs Goias (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1673_1gqxnqd00y2y.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife (Lương Sơn) BLV TÀO THÁO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1673_1gqxnqd00y2y.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife (Lương Sơn) BLV TÀO THÁO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1673_1gqxnqd00y2y.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife (Lương Sơn) BLV PHI HỔ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1673_1gqxnqd00y2y.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife (Lương Sơn) BLV PHI HỔ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -62,6 +50,14 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140551_06f60c03.png",07h00 ngày 29/06 D. Puerto Montt vs Concepción (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140551_06f60c03.png",07h00 ngày 29/06 D. Puerto Montt vs Concepción (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16h00 ngày 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -326,318 +322,318 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [VƯƠNG ANH] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [XUÂN SON] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=d6943a4a066cd46c21c52d5aa3ee883b&txTime=6a41f60a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [VƯƠNG ANH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=e4a9f92abf53283a0f08b401b02e61f9&txTime=6a4206ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [XUÂN SON] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=9d6f1df5ddbcaf7184f08d50ed8b9e9e&txTime=6a41f60a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=9c9e1a8e518b13f1a9d46ec2f41a837d&txTime=6a4206ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [XUÂN SON] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=d6943a4a066cd46c21c52d5aa3ee883b&txTime=6a41f60a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=e4a9f92abf53283a0f08b401b02e61f9&txTime=6a4206ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [XUÂN SON] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=9d6f1df5ddbcaf7184f08d50ed8b9e9e&txTime=6a41f60a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/380adc31c81894831e6f867dff954be0.png",06h00 ngày 29/06 Orlando City B vs Columbus Crew B [XUÂN SON] (Socolive) flv
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=9c9e1a8e518b13f1a9d46ec2f41a837d&txTime=6a4206ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV A TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=3b07a5239edfcebef523e753733504fc&txTime=6a41f60a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/380adc31c81894831e6f867dff954be0.png",06h00 ngày 29/06 Orlando City B vs Columbus Crew B [XUÂN SON] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782694042-0-0-d785266cb3e95cfcd69c96f2cc4d2513
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV A TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=948ab7d6c0b16487205474b7ad7e015c&txTime=6a41f60a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/380adc31c81894831e6f867dff954be0.png",06h00 ngày 29/06 Orlando City B vs Columbus Crew B [XUÂN SON] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782694042-0-0-fde1ca17b9e2165d86f65a2f0bc56b43
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV A TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=3b07a5239edfcebef523e753733504fc&txTime=6a41f60a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/380adc31c81894831e6f867dff954be0.png",06h00 ngày 29/06 Orlando City B vs Columbus Crew B [XUÂN SON] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782694042-0-0-2cfa7c1c1b6a484848c3ea98d1b7d52a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV A TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=948ab7d6c0b16487205474b7ad7e015c&txTime=6a41f60a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/be6f369b54b1fe113fbc75adc6abccfc.png",04h30 ngày 29/06 Nautico (PE) vs Goiás EC [BLV VOI] (Socolive) flv
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782694042-0-0-0cd3e243fbc8fe4ef2ee557a8d72b073
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [BLV CUỘI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782689722-0-0-a9114d21b3277c5599d26c4c44eb2dd3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/be6f369b54b1fe113fbc75adc6abccfc.png",04h30 ngày 29/06 Nautico (PE) vs Goiás EC [BLV VOI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782694042-0-0-b2690d78a870b15ee881493e773d52ab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [BLV CUỘI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782689722-0-0-ab850e9e3caaf4609c7421f30d011ac3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/be6f369b54b1fe113fbc75adc6abccfc.png",04h30 ngày 29/06 Nautico (PE) vs Goiás EC [BLV VOI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1782694042-0-0-1bd7108f7338aab8fc060f9066375e59
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [BLV CUỘI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782689722-0-0-cfae31b923cafdc53357fb738b36d389
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/be6f369b54b1fe113fbc75adc6abccfc.png",04h30 ngày 29/06 Nautico (PE) vs Goiás EC [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782694042-0-0-72b32236bd581e62774e74c90c44640d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [BLV CUỘI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782689722-0-0-f8111307998fb8ba197bc9ea4c24c33b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/854f84bb6449b19a56a6ae53aca5acac.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife [CHÍ PHÈO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1782689782-0-0-49833aae972fadca811f8e6bec8436b6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/854f84bb6449b19a56a6ae53aca5acac.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife [CHÍ PHÈO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1782689782-0-0-7eca32f4403661d6345af3b046d95e48
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/854f84bb6449b19a56a6ae53aca5acac.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife [CHÍ PHÈO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782689782-0-0-309ce7385e8673a3a9e90119e652486d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/854f84bb6449b19a56a6ae53aca5acac.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife [CHÍ PHÈO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782689782-0-0-2cacc6b1eb2af59cc593e9eaed82acc2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/be6f369b54b1fe113fbc75adc6abccfc.png",04h30 ngày 29/06 Nautico (PE) vs Goiás EC [BLV PICK] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1782689782-0-0-2e21b0aa17b33dc505a24e38e4113b76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/be6f369b54b1fe113fbc75adc6abccfc.png",04h30 ngày 29/06 Nautico (PE) vs Goiás EC [BLV PICK] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1782689782-0-0-219e2bd4101bffa996cff2672894ecc1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/be6f369b54b1fe113fbc75adc6abccfc.png",04h30 ngày 29/06 Nautico (PE) vs Goiás EC [BLV PICK] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1782689782-0-0-8f33d8e7dd3f44cbe03ef81fce779984
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/be6f369b54b1fe113fbc75adc6abccfc.png",04h30 ngày 29/06 Nautico (PE) vs Goiás EC [BLV PICK] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782689782-0-0-769d3e408addf97a38cdedb626235df6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/dbeb6001e3e9548d3b2004f7c66ab81d.png",06h00 ngày 29/06 Cavalry FC vs Supra Du Quebec [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782689782-0-0-11d7e5631d6d71a4aad0373cdf65366f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/dbeb6001e3e9548d3b2004f7c66ab81d.png",06h00 ngày 29/06 Cavalry FC vs Supra Du Quebec [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782689782-0-0-891b22a5c193c139a66f24e9125cec4c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/dbeb6001e3e9548d3b2004f7c66ab81d.png",06h00 ngày 29/06 Cavalry FC vs Supra Du Quebec [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782689782-0-0-5fc29945413a9121dfa576b9c0df17e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/dbeb6001e3e9548d3b2004f7c66ab81d.png",06h00 ngày 29/06 Cavalry FC vs Supra Du Quebec [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782689782-0-0-2315cbb6aa800eb5f6e1d849ff903326
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782694042-0-0-b46fbfdcbb6f77097a8841fad46ac604
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV RYO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782689782-0-0-3ec544f19ddb1f791d10713d51910009
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782694042-0-0-6667789ab4b3c892467aad5ede450ef7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV RYO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782689782-0-0-0bb23d34b0c9acc69e26da18a6aff335
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782694042-0-0-fe808cf61920eef0d5cff80fd6eb4733
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV RYO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782689782-0-0-342f77842e639db1dc5513bc159037b6
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782694042-0-0-bead3d12141d5b9c40de8057e52141ae
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV RYO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782689782-0-0-e41b4a6fb36f32a88f9a21e143061435
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6324b58916ec731f0c7868a76a81dd91.png",04h30 ngày 29/06 Universidad de Chile vs Union San Felipe [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1782690082-0-0-a74f14778fd0fa79486dab6e43d48093
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6324b58916ec731f0c7868a76a81dd91.png",04h30 ngày 29/06 Universidad de Chile vs Union San Felipe [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1782690082-0-0-8945f61aa7f2a7a0a34b0abd0887be71
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6324b58916ec731f0c7868a76a81dd91.png",04h30 ngày 29/06 Universidad de Chile vs Union San Felipe [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782690082-0-0-b955fa90e97394743e0b8465ce5c1a5e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6324b58916ec731f0c7868a76a81dd91.png",04h30 ngày 29/06 Universidad de Chile vs Union San Felipe [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782690082-0-0-2b0353d72ebc851b3bea45e5a3f51125
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/380adc31c81894831e6f867dff954be0.png",06h00 ngày 29/06 Orlando City B vs Columbus Crew B [HẢI THANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1782690082-0-0-48f8db7454fc474b14cc1c90f4de0633
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/380adc31c81894831e6f867dff954be0.png",06h00 ngày 29/06 Orlando City B vs Columbus Crew B [HẢI THANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1782690082-0-0-d8d5bf33e37825da0f2a223956ce8c82
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/380adc31c81894831e6f867dff954be0.png",06h00 ngày 29/06 Orlando City B vs Columbus Crew B [HẢI THANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782690082-0-0-b68ed42b2506d0ac8af9b3ff47efb135
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/380adc31c81894831e6f867dff954be0.png",06h00 ngày 29/06 Orlando City B vs Columbus Crew B [HẢI THANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782690082-0-0-af9ba24323e968f62ff7a99e35ca3284
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782690082-0-0-669adab09ffcbcc2d4af0db40e2a437f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1782690082-0-0-764cd57385aa52bb03d19e8e4dd8908b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782690082-0-0-feb081a3bfb03fba9c9566604400c216
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782690082-0-0-63e07db01646bd39eb889552aeb786b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV LUCAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782690087-0-0-5a07e9e01a3fdb1366ea320a19d578f3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV LUCAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782690087-0-0-6eac3d60be265bc1ee1235c581e476af
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV LUCAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782690087-0-0-bfc790bc7c432df1830ad0d154864d7c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV LUCAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782690087-0-0-112727f294992fc143b539a1c3d735e2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/04c6d90fb5effedd921be8ed7cefd973.png",06h00 ngày 29/06 Golden State Valkyries W vs New York Liberty W [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782690082-0-0-c0ee0a3b33ea8dce10ab63ffc3f5db52
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/04c6d90fb5effedd921be8ed7cefd973.png",06h00 ngày 29/06 Golden State Valkyries W vs New York Liberty W [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782690082-0-0-4df0bf56798623af8846a6bb7c407ad5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/04c6d90fb5effedd921be8ed7cefd973.png",06h00 ngày 29/06 Golden State Valkyries W vs New York Liberty W [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782690082-0-0-5929f84cc215b969dcc7a038c407a953
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/04c6d90fb5effedd921be8ed7cefd973.png",06h00 ngày 29/06 Golden State Valkyries W vs New York Liberty W [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782690082-0-0-3707f3cedfe46bf859be2111d92c3e50
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782690082-0-0-3a65445af2cca0606190b68af7978d66
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782690082-0-0-82348142b6bcbcb5e3437fc4bee43f55
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782690082-0-0-b62a286ffce4a45bad3e565a08a49b0c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782690082-0-0-69fd828fad135c27203ef12bee192b3f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/854f84bb6449b19a56a6ae53aca5acac.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=10b45d0f33c29bef2d5b2a7b0c5ecb07&txTime=6a41f8da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/854f84bb6449b19a56a6ae53aca5acac.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=579fb6d17ba313bc7d9f1272ddd3ce8e&txTime=6a41f8da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/854f84bb6449b19a56a6ae53aca5acac.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=10b45d0f33c29bef2d5b2a7b0c5ecb07&txTime=6a41f8da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/854f84bb6449b19a56a6ae53aca5acac.png",04h30 ngày 29/06 Fortaleza vs Sport Club do Recife [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=579fb6d17ba313bc7d9f1272ddd3ce8e&txTime=6a41f8da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6324b58916ec731f0c7868a76a81dd91.png",04h30 ngày 29/06 Universidad de Chile vs Union San Felipe [BLV A TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782690442-0-0-0297d0e0d429a85ac32face66d69d44d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6324b58916ec731f0c7868a76a81dd91.png",04h30 ngày 29/06 Universidad de Chile vs Union San Felipe [BLV A TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782690442-0-0-faa9685fc1bf1e9e4ce732775afb51c7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6324b58916ec731f0c7868a76a81dd91.png",04h30 ngày 29/06 Universidad de Chile vs Union San Felipe [BLV A TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782690442-0-0-41ca709fa7f993631a64371f5476e225
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/6324b58916ec731f0c7868a76a81dd91.png",04h30 ngày 29/06 Universidad de Chile vs Union San Felipe [BLV A TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782690442-0-0-cc24ef860c57b2070c3df2b5fa31b7ab
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782694042-0-0-e3d5f6e129d78888070fc8b3622909e3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [BLV CÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1782690442-0-0-68d885eaa6f91e64c0621ea23d6858ce
+https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1782694042-0-0-8aa6bea6d6072d05b7f2be02d8f70151
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [BLV CÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1782690442-0-0-95529a511a59c1e58fd377931a7d81c9
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1782694042-0-0-7b242bf88956160e3f10a384e9affd0f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [BLV CÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1782690442-0-0-365f0599f9db578f14d410e332c848bd
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1782694042-0-0-389421a5eb35329c204065c70d5cefd1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [BLV CÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782690442-0-0-243e50043ea970fc18d54b595f3061f0
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782694042-0-0-b61c36ef1316b68b1669521dd9088383
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=7de5495ed83993a6c0f3e01ce2d1e8a0&txTime=6a4206ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=aefe36df54b14b6630b4e91da74a03e3&txTime=6a4206ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=7de5495ed83993a6c0f3e01ce2d1e8a0&txTime=6a4206ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/c122d6f3b656b4c7d64a347d58eb9715.png",05h00 ngày 29/06 Cincinnati II vs International Miami B [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=aefe36df54b14b6630b4e91da74a03e3&txTime=6a4206ea
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [BLV RÔSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=acb9e22ec609cb87120063293c1b23f3&txTime=6a41f8da
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=fd65634d19394d495623f890d452e584&txTime=6a4206ea
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [BLV RÔSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=902b347cdcb204861d5a8888577eb1b1&txTime=6a41f8da
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=d9b20478d7cf01dce6fc3a2f92af3458&txTime=6a4206ea
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [BLV RÔSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=acb9e22ec609cb87120063293c1b23f3&txTime=6a41f8da
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=fd65634d19394d495623f890d452e584&txTime=6a4206ea
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [BLV RÔSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=902b347cdcb204861d5a8888577eb1b1&txTime=6a41f8da
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d9b20478d7cf01dce6fc3a2f92af3458&txTime=6a4206ea
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9d0b9ab5724abec7c370ef33a8a7614e.png",05h00 ngày 29/06 Carolina Core vs Huntsville City [BLV RAMBO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=aeb07c82d96ed319d2d41e2123f33178&txTime=6a41f8da
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=c011a93f5e4074dd976e6fa88bb07117&txTime=6a4206ea
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9d0b9ab5724abec7c370ef33a8a7614e.png",05h00 ngày 29/06 Carolina Core vs Huntsville City [BLV RAMBO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=df30f380b9614d351deb0204d09e561f&txTime=6a41f8da
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=e0c920356ac8cd26bd35fb2ee0046b2e&txTime=6a4206ea
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9d0b9ab5724abec7c370ef33a8a7614e.png",05h00 ngày 29/06 Carolina Core vs Huntsville City [BLV RAMBO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=aeb07c82d96ed319d2d41e2123f33178&txTime=6a41f8da
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c011a93f5e4074dd976e6fa88bb07117&txTime=6a4206ea
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9d0b9ab5724abec7c370ef33a8a7614e.png",05h00 ngày 29/06 Carolina Core vs Huntsville City [BLV RAMBO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=df30f380b9614d351deb0204d09e561f&txTime=6a41f8da
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e0c920356ac8cd26bd35fb2ee0046b2e&txTime=6a4206ea
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9d0b9ab5724abec7c370ef33a8a7614e.png",05h00 ngày 29/06 Carolina Core vs Huntsville City [HÀ DUY KIÊN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1782690442-0-0-9ead3c1aae704e9d8377db9e636705f7
+https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1782694042-0-0-31e7a8c29eec35e9e7d87edf11248771
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9d0b9ab5724abec7c370ef33a8a7614e.png",05h00 ngày 29/06 Carolina Core vs Huntsville City [HÀ DUY KIÊN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1782690442-0-0-f90ba5a48e79d81d6a917c5b8c42b9fa
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1782694042-0-0-5c50ac6af3542227ee818c5a74b3660d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9d0b9ab5724abec7c370ef33a8a7614e.png",05h00 ngày 29/06 Carolina Core vs Huntsville City [HÀ DUY KIÊN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1782690442-0-0-4f169dca64f7778cf3036a385199db3c
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1782694042-0-0-565c960dcc290de83a6ac242c61e1be5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9d0b9ab5724abec7c370ef33a8a7614e.png",05h00 ngày 29/06 Carolina Core vs Huntsville City [HÀ DUY KIÊN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782690442-0-0-f2024c3f9bfb5629cd45b2e4df4d7c62
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/dbeb6001e3e9548d3b2004f7c66ab81d.png",06h00 ngày 29/06 Cavalry FC vs Supra Du Quebec [TRÀ ĐÁ] (Socolive) flv
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782694042-0-0-8893e0e53fa100f6899c514ef9e6057d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/244b1bdf758624bb13d498410b8ea403.png",07h00 ngày 29/06 Mets de Guaynabo vs Gigantes de Carolina [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782690442-0-0-27c80f70c906fa067dbd462c60e5d9b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/dbeb6001e3e9548d3b2004f7c66ab81d.png",06h00 ngày 29/06 Cavalry FC vs Supra Du Quebec [TRÀ ĐÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1782694042-0-0-55c67fc9b6483b36502b49262fce0331
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/244b1bdf758624bb13d498410b8ea403.png",07h00 ngày 29/06 Mets de Guaynabo vs Gigantes de Carolina [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782690442-0-0-f684b357855c9cc8a263563004cd9ef2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/dbeb6001e3e9548d3b2004f7c66ab81d.png",06h00 ngày 29/06 Cavalry FC vs Supra Du Quebec [TRÀ ĐÁ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1782694042-0-0-9267f19536728f49f6e9037f3ef54486
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/244b1bdf758624bb13d498410b8ea403.png",07h00 ngày 29/06 Mets de Guaynabo vs Gigantes de Carolina [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782690442-0-0-27525488f6d4656bbff0f535410ad751
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/dbeb6001e3e9548d3b2004f7c66ab81d.png",06h00 ngày 29/06 Cavalry FC vs Supra Du Quebec [TRÀ ĐÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782694042-0-0-790345f7a98947fea752ca30acda45cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/244b1bdf758624bb13d498410b8ea403.png",07h00 ngày 29/06 Mets de Guaynabo vs Gigantes de Carolina [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782690442-0-0-0594b3a6c0d18db4a40b1a3cc1046b50
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782694042-0-0-ac5b863a9c263405b095641043432e3e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [KÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782690442-0-0-02b287e29a31735195fd7db96b8f6145
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782694042-0-0-259c07f610737a493408f12f7a0edbac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [KÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782690442-0-0-84a91bcbd0e16870e1d474c6968cd99a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782694042-0-0-fd7102a2ccc96daaa33eebd1f4fd3272
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [KÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782690442-0-0-59948cb234f9c7b49722333e07ef6389
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782694042-0-0-173cb41a0b76a39a48b2e37039ebae1e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [KÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782690442-0-0-733928984d19a6eb7f15e1b112f4180a
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782694042-0-0-fd07e728fe1b306ad720d1cf9f97aaa2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782690442-0-0-f097a621a7f5c1f71954d103e15199f8
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782694102-0-0-9ac0b74792048e723aad898c0c35a587
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782690442-0-0-55bd6121a0162485e3255e69ef738d90
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782694102-0-0-0af497c0e0a68583ec4a7dcb428d8611
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782690442-0-0-d6db1a8ed63260ac60ac34a81bf18e33
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782694102-0-0-d8153f208b111396af25ac63461b6fec
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782690442-0-0-350d0917a1f21a71207c4f9343196645
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782690442-0-0-18e83c2aab9a5394dcdbd77c17089948
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782690442-0-0-afa5ac12e71f5b826e26419b3e44cc87
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782690442-0-0-52f6680e9467fa1d40c1d4ccac2e6d53
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782690442-0-0-1ea70fef4a70d0500309f1c37ea6743e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782690442-0-0-f7a315bd947639688d15812cd6b30aea
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782690442-0-0-cc74aa63c06a9d9068162a75310bd628
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782690442-0-0-dcef3a421e342770c379cb80556ff44f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782690442-0-0-d444384232d7b3e2e0f6b2467248f920
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782694102-0-0-c276dc0a243757e32cf084f8b4c6952c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782690442-0-0-3fc456355992c7058be27b3af35a0d5e
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782694102-0-0-3df95cc1fc3d12542e8704c7cdfce4d0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782690442-0-0-4378a4c0fcce39d180a7cb26df43e649
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782694102-0-0-26dfc9159e766b2225fb4cfe95c01424
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782690442-0-0-6eb5adf6137d0ef6cabe6f2591515f45
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782694102-0-0-e0b06f69684cea9ff60d2df38774316e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782690442-0-0-12bbf80207e2987e89ca9c56a89d8a02
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782694102-0-0-a1c8acc7f35f22fe4c7bb190c3cbbc83
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782694102-0-0-61b80ba7497f5f61ff7ecfe057b26064
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782694102-0-0-3489f9b923530cc458a6536000c6e9b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782694102-0-0-f6728e5f865a666ce308d60ff921cce3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782694102-0-0-9d3688aa7102756a71d6ae02ae454600
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782694102-0-0-23eaaf1dfc386eef5478996a8b287a67
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782694102-0-0-013f71d577af5c769ec42e268d8ec321
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782694102-0-0-08949b633e3fa1762db4d9962d1ee493
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782694102-0-0-d5aa00f81f7e11c02de072bdfa591660
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782694102-0-0-f2bf8842a869f168af4ee6845a0b9074
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782694102-0-0-477e63bd454cab013741fc3704c29948
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782694102-0-0-5c4182d699ea7f80636c11f7e77480bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782694102-0-0-8bde78cdc29ed386a26d5362e75207da
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782690442-0-0-96fd4291e40b1caa1c566e4672e9d108
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782694102-0-0-6cfbe210c260276c9e5caaf34f741f3f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782690442-0-0-e44a137c3783f264453ad9e6a02cb7cc
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782694102-0-0-aaace71cecc6304a45625c88fc48ec5f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782690442-0-0-83ed433a542e520a8ab552268e8945f5
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782694102-0-0-1fd34c54581927d0c8f8242b87c1ac6a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782690442-0-0-114b910225f257158347571e93a32b79
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782694102-0-0-a2863fc79af11af893543da10a963732
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782694402-0-0-8e6aeb1356727874653ef5665b444855
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782694402-0-0-37c683141b1174dbd87350975c99aac3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782694402-0-0-916acf258659d4e583a8504d55602e48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/001fe7276f3e9b29e943643e7a3a0556.png",06h00 ngày 29/06 New York Red Bulls B vs Philadelphia Union II [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782694402-0-0-aa19fe1a67c6a256a9ecb580d744672f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782694402-0-0-2c95871fca82aceebfa41591c0fd3bed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1782694402-0-0-83837a55e88946c137b015ae1123d3df
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782694402-0-0-ca30cd7cc2ac5203940cd3ced13c8dc7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/ca00037bdc336df56e079981aa2598eb.png",06h00 ngày 29/06 Saint Louis City B vs Austin FC II [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782694402-0-0-9209eac48572b81d5d9761fff58be740
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782694402-0-0-bdb23497c7b2a605ac082895a1a21c3d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782694402-0-0-aa95d3b07f9643384c8b0074cc1a6b5f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782694402-0-0-192f644b0c28de2b1e001f38e51852a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782694402-0-0-47c755ce28a74d64b51401ffb6cbd019
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=97f467fc027a3b3fd48435107f33128f&txTime=6a420852
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=78c92b6f0d9c024c19325d488a3325a1&txTime=6a420852
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=97f467fc027a3b3fd48435107f33128f&txTime=6a420852
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=78c92b6f0d9c024c19325d488a3325a1&txTime=6a420852
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/04c6d90fb5effedd921be8ed7cefd973.png",06h00 ngày 29/06 Golden State Valkyries W vs New York Liberty W [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782694402-0-0-9fb5c535c5a6dee084ae243bea800c07
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/04c6d90fb5effedd921be8ed7cefd973.png",06h00 ngày 29/06 Golden State Valkyries W vs New York Liberty W [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782694402-0-0-7b2d345bb1649cb0370cfa6e84ed23de
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/04c6d90fb5effedd921be8ed7cefd973.png",06h00 ngày 29/06 Golden State Valkyries W vs New York Liberty W [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782694402-0-0-6bc84bd9d92fcecf29231d3832197f15
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/04c6d90fb5effedd921be8ed7cefd973.png",06h00 ngày 29/06 Golden State Valkyries W vs New York Liberty W [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782694402-0-0-210b701bdb8a386389b121a82b9b4b50
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [BLV VOI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782694402-0-0-e0f87bbc87d046704ab95ae2be31f95b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [BLV VOI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782694402-0-0-aace7a7955f2bb0f9534b6d7cbf455e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [BLV VOI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782694402-0-0-9312dd9e15a4aac349a9728a972021c5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/745a6caced4d4adb935da32cf64c7832.png",07h00 ngày 29/06 Puerto Montt vs D. Concepcion [BLV VOI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782694402-0-0-f18304a3d417096a7c951f1dc27b813c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/244b1bdf758624bb13d498410b8ea403.png",07h00 ngày 29/06 Mets de Guaynabo vs Gigantes de Carolina [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782694402-0-0-95083a975155964e15507d633950463d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/244b1bdf758624bb13d498410b8ea403.png",07h00 ngày 29/06 Mets de Guaynabo vs Gigantes de Carolina [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782694402-0-0-5090007f12829c36d4f4cd3a1ef36e77
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/244b1bdf758624bb13d498410b8ea403.png",07h00 ngày 29/06 Mets de Guaynabo vs Gigantes de Carolina [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782694402-0-0-2cbc53e0a71ecebe6e7c657909cd1a5f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/244b1bdf758624bb13d498410b8ea403.png",07h00 ngày 29/06 Mets de Guaynabo vs Gigantes de Carolina [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782694402-0-0-5182e2fdbe62996813c4bc4bd38f30ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=575f864b08d6235fd8b6bf17d240418a&txTime=6a420852
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=886277cef652ef619fd2ea13fe62e64e&txTime=6a420852
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=575f864b08d6235fd8b6bf17d240418a&txTime=6a420852
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/3f001d9e614d0e33a9ea6c3655fcd996.png",07h00 ngày 29/06 MINNESOTA United B vs Tacoma Defiance [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=886277cef652ef619fd2ea13fe62e64e&txTime=6a420852
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782694402-0-0-f285c7b12ab5d8c15fde7c49c6595968
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782694402-0-0-f734cc41e40ed5c2940bc557e5e91b69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782694402-0-0-5245bd8d39d6c89d3394f46343ecaa98
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782694402-0-0-f8b9e89c3408b09314321f5b53b0b9ea
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/755.png",04h30 29/06 Nautico Recife vs Goias (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -650,12 +646,6 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/84f85d4178e4287ed8ad5f76ad4c5e46.png!w80",04h30 29/06 Fortaleza vs Sport Club Recife PE
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/59444581.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/731ea9512aeffe6fd2896bc1a7a60662.png!w80",04h30 29/06 U. De Chile vs Union San Felipe
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/99121525.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/f2665aff464119cecd0043bebc6b7327.png!w80",05h00 29/06 Carolina Core vs Huntsville
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.paznhl.app/live/75748097.m3u8
@@ -665,6 +655,12 @@ https://live05.paznhl.app/live/14707124.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",06h00 29/06 Golden State Valkyries vs New York Liberty
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.paznhl.app/live/19919577.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/3667bc15da8d0df12ea9f51d73627b07.png!w80",07h00 29/06 Puerto Montt vs D. Concepcion
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.paznhl.app/live/16226575.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/0dea9d20b78bf22e53d6f5cdb94d2e5b.png!w80",07h00 29/06 MINNESOTA United B vs Tacoma Defiance
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.paznhl.app/live/82054853.m3u8
 # --- Bongda 2 Playlist Start ---
 #EXTM3U
 #EXTINF:-1 group-title="Bún chả",[Australia A-League] Wellington Phoenix vs Melbourne Victory lúc 14:12 WIB ngày 06/02/2026 [MAIN]
